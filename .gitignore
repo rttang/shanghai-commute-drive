@@ -32,6 +32,7 @@
 !/docs/evidence/tourism/
 /docs/evidence/tourism/*
 !/docs/evidence/tourism/vehicle-dynamics-verification.json
+!/docs/evidence/tourism/street-master-orientation.json
 **/__pycache__/
 **/._*
 **/.DS_Store

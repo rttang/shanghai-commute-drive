@@ -23,6 +23,8 @@
 
 当前 `vehicle-garage.ts` 读取 `docs/evidence/tourism/vehicle-dynamics-verification.json` 的游戏测量值。该文件作为必要运行输入保留在 Git 中。本次私有备份不改变这一既有实现；此前公开候选目录的数据移动不应用于当前版本。
 
+`docs/evidence/tourism/street-master-orientation.json` 是照片立面朝向回归的固定输入，随源码保存；构建生成的检查报告仍排除在 Git 外。发布资源脚本会自行创建报告目录，避免新克隆目录依赖旧开发日志。
+
 ## 驾驶、动力学与碰撞
 
 - `Path` 对道路折线与高程采样，自动观光沿路线行驶；手动驾驶维护车辆位置、朝向、速度和转向。右侧车道偏移、路口和环线接缝分别有回归检查。

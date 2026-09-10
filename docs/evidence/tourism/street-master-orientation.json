@@ -1,0 +1,25 @@
+{
+  "corrections": [
+    {
+      "id": "bea-tower",
+      "oldHeading": -0.9575062654608978,
+      "newHeading": 2.1840863881288954,
+      "center": [
+        343.4,
+        339.495
+      ],
+      "assetSHA256": "490edd6afd0c567aaa0455c82e226fd2d6d0dd4c5001e7987aa4750792ee5ffc"
+    },
+    {
+      "id": "hang-seng",
+      "oldHeading": -1.001792035637166,
+      "newHeading": 2.139800617952627,
+      "center": [
+        839.975,
+        -326.2
+      ],
+      "assetSHA256": "94a73e20e2849ac7b3a8604c36f96abcb6aeabd92f4c03b507b423f7a1c8b41b"
+    }
+  ],
+  "reason": "Whole-route visual inspection found a facade blocking the road; both photo models were extruded toward the road because front edge ordering was reversed."
+}

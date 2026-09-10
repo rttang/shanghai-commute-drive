@@ -13,6 +13,7 @@ const report={version:1,generatedAt:new Date().toISOString(),method:'Lossless me
 const master=await read('streets/master/manifest.json');
 const selected=usePerformanceStreets(master,(await read('streets/performance/manifest.json')).variants);
 await fs.mkdir(out,{recursive:true});
+await fs.mkdir(path.join(root,'docs/evidence/deployment-optimization'),{recursive:true});
 async function store(bytes,name){
   const hash=sha(bytes),url=`/runtime/${hash.slice(0,20)}/${name}`,file=path.join(out,url);
   await fs.mkdir(path.dirname(file),{recursive:true});
