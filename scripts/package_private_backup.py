@@ -22,6 +22,15 @@ def digest(p):
     return h.hexdigest()
 
 
+def verify_zip(p, hashes):
+    with zipfile.ZipFile(p) as z:
+        for sha in hashes:
+            h = hashlib.sha256()
+            with z.open('objects/'+sha) as source:
+                for block in iter(lambda: source.read(4 * 1024 * 1024), b''): h.update(block)
+            if h.hexdigest() != sha: raise RuntimeError('Archive member mismatch: '+sha)
+
+
 def excluded(rel):
     name = rel.name
     if name.startswith('._') or name == '.DS_Store': return 'filesystem metadata'
@@ -45,8 +54,51 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--tag', required=True)
     parser.add_argument('--scan-only', action='store_true')
+    parser.add_argument('--repair', action='store_true', help='Verify existing manifest parts and create new copies of damaged parts')
     args = parser.parse_args()
     if not re.fullmatch(r'[a-z0-9][a-z0-9.-]+', args.tag): raise SystemExit('Unsafe release tag')
+    if args.repair:
+        report = json.loads(MANIFEST.read_text(encoding='utf-8'))
+        if report['releaseTag'] != args.tag: raise SystemExit('Release tag mismatch')
+        objects = {e['sha256']: e for e in report['files']}
+        changes = []
+        for part in report['parts']:
+            original = DEST / part['file']
+            try:
+                if original.stat().st_size != part['bytes'] or digest(original) != part['sha256']: raise ValueError('Part checksum mismatch')
+                verify_zip(original, part['objects'])
+                continue
+            except Exception as e:
+                changes.append({'oldPart': part['file'], 'failure': str(e)})
+            old_name = part['file']
+            for attempt in range(2, 5):
+                output = original.with_name(original.stem+'-r'+str(attempt)+'.zip')
+                if output.exists(): continue
+                with zipfile.ZipFile(output, 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=1, allowZip64=True) as z:
+                    for sha in part['objects']:
+                        entry = objects[sha]; h = hashlib.sha256(); count = 0
+                        info = zipfile.ZipInfo('objects/'+sha, (2026, 1, 1, 0, 0, 0)); info.compress_type = zipfile.ZIP_DEFLATED
+                        info._compresslevel = 1; info.external_attr = 0o100644 << 16
+                        with (ROOT/entry['file']).open('rb') as source, z.open(info, 'w', force_zip64=True) as dest:
+                            for block in iter(lambda: source.read(4*1024*1024), b''):
+                                h.update(block); count += len(block); dest.write(block)
+                        if h.hexdigest() != sha or count != entry['bytes']: raise SystemExit('Source changed: '+entry['file'])
+                with output.open('rb') as f: os.fsync(f.fileno())
+                try: verify_zip(output, part['objects'])
+                except Exception: continue
+                if output.stat().st_size >= 2*1024**3: raise SystemExit('Part exceeds attachment limit')
+                part.update(file=output.name, bytes=output.stat().st_size, sha256=digest(output))
+                for entry in report['files']:
+                    if entry['part'] == old_name: entry['part'] = output.name
+                changes[-1]['replacement'] = output.name
+                print(json.dumps(changes[-1]), flush=True)
+                break
+            else: raise SystemExit('Could not produce a verified replacement; originals retained')
+        MANIFEST.write_text(json.dumps(report, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
+        (DEST/'SHA256SUMS.txt').write_text(''.join(p['sha256']+'  '+p['file']+'\n' for p in report['parts']), encoding='utf-8')
+        (MANIFEST.parent/'archive-repair.json').write_text(json.dumps(changes, indent=2)+'\n', encoding='utf-8')
+        print(json.dumps({'verifiedParts': len(report['parts']), 'repaired': len(changes), 'compressedBytes': sum(p['bytes'] for p in report['parts'])}), flush=True)
+        return
     files, omissions, objects = [], [], {}
     for prefix in ('public', 'assets', '.dream-loop'):
         for p in sorted((ROOT / prefix).rglob('*')):
@@ -97,6 +149,8 @@ def main():
                         target.write(block); h.update(block); count += len(block)
                 if h.hexdigest() != sha or count != record['bytes']: raise SystemExit('Source changed while packing: '+record['file'])
                 object_parts[sha] = name
+        with output.open('rb') as f: os.fsync(f.fileno())
+        verify_zip(output, shas)
         if output.stat().st_size >= 2 * 1024**3: raise SystemExit('Part exceeds GitHub attachment limit')
         part = {'file': name, 'group': family, 'bytes': output.stat().st_size, 'sha256': digest(output), 'objects': shas}
         report['parts'].append(part)

@@ -24,7 +24,7 @@
       "bytes": 191652,
       "sha256": "ac159c91f6db5014d389e0b14944607a8267c9145d896e9681a0d4f94aab3fb9",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/cars/su7.png",
@@ -45,7 +45,7 @@
       "bytes": 13898,
       "sha256": "d3709b0fb4b8a94bbb1d02b8a2e484f258b0d9c5c5a01f940391f3fe662cd1a4",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/decoders/draco/draco_decoder.js",
@@ -59,7 +59,7 @@
       "bytes": 192420,
       "sha256": "a680d927bed9cb864ddbd63521868891af2bfbe755092761b4837487618df8ac",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/decoders/draco/draco_wasm_wrapper.js",
@@ -101,7 +101,7 @@
       "bytes": 218,
       "sha256": "bfba451c7c85e37cd134d82ffedaf70939eea0bb43b408b824d488c3b524d25a",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/home-preview.jpg",
@@ -143,7 +143,7 @@
       "bytes": 8622616,
       "sha256": "ab809bcab20b5dd1deee527fe6a27ad08147d126f855d726df75b3b255212f94",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/asia-building.glb",
@@ -171,14 +171,14 @@
       "bytes": 7665024,
       "sha256": "ad8227cfd15b2bcff41e05dcfa7d0a94c3570ca4ab0d08d04cb5cff65e29b416",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/bank-taiwan.glb",
       "bytes": 7291236,
       "sha256": "cbd2dbe33b788620509cedbd60b88db1a709f533aa4bf7552a9a7f0ccc82ca2b",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/banque-indochine.glb",
@@ -206,7 +206,7 @@
       "bytes": 5180840,
       "sha256": "cd11a0e8253b96aa22d96241a9bef71dfd705cc2f1ec986eb4c1cdf4eb19929e",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/bund-frontage-1156865544.glb",
@@ -227,7 +227,7 @@
       "bytes": 398704,
       "sha256": "c8220b7ca44309ca82efef2f657f514ab5b46fc5f96187caf407f82f3c986432",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/bund-frontage-1198568466.glb",
@@ -255,7 +255,7 @@
       "bytes": 586388,
       "sha256": "d6f1946ccb38a892839948aaaae3bd1d3aae7a9e692ff41adcc957b9b34c1c43",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/bund-frontage-1287050298.glb",
@@ -304,21 +304,21 @@
       "bytes": 761072,
       "sha256": "b0ee2d0f89129530136b6aa122482f32051c7f47ac6216dc2eaf967b15862e49",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/bund-frontage-177930863.glb",
       "bytes": 1169252,
       "sha256": "c33e30b9d74dbbc8869f2037de91497d3ab802981e1a01eacd86ac04c96b1afe",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/bund-frontage-178405874.glb",
       "bytes": 186632,
       "sha256": "a42c4e8e4892a95ccfe2ff542e4e6995d66509b1cd57f601d5cbe618aa3e6259",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/bund-frontage-178406075.glb",
@@ -346,7 +346,7 @@
       "bytes": 355616,
       "sha256": "a57a71ec2b80aac8fc060797c6f90848da410a953f7e6344b0b18e8a5405c116",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/bund-frontage-380339914.glb",
@@ -360,7 +360,7 @@
       "bytes": 214424,
       "sha256": "cc3633961d299ba2ffc3152335e5b43f4b12273c9487d74f8051f50744bccc8d",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/bund-frontage-439877626.glb",
@@ -374,7 +374,7 @@
       "bytes": 284160,
       "sha256": "c8318ce6833f3dc5366e65df61924f3a9b9b261482640cecc98fa636aef3b576",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/bund-frontage-446933508.glb",
@@ -479,7 +479,7 @@
       "bytes": 4101700,
       "sha256": "a1f18443e8a951b416c06f9e6f6438614aa07937184cacd7bd69039d2e859fa9",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/palace-hotel.glb",
@@ -556,14 +556,14 @@
       "bytes": 969247,
       "sha256": "b602eaf98653c6fd329789c163f7f92e2bdeef377104b5224da221e642db7599",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/review/bund-frontage-1198569402-observed-side.png",
       "bytes": 983759,
       "sha256": "b44aa69c66a6f5b20e18ac8fb825c124be343b72fd011c0b0dec39dd96857df8",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/review/bund-frontage-160033736-observed-front.png",
@@ -598,28 +598,28 @@
       "bytes": 1105248,
       "sha256": "b94512ec2a6496d8234cbe553ec17d4e21cc7f0aa1a4f4236f6dcf4ad30c5021",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/review/bund-frontage-177929846-observed-side.png",
       "bytes": 1189730,
       "sha256": "bc1f2fa9b4b8c373b1a9ea113bf20aa4664352828c858c9551a2145aba8f18a7",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/review/bund-frontage-177929849-observed-front.png",
       "bytes": 1097873,
       "sha256": "bf7ce5b32121c8c88928b0b248ec93125a1f7d5e9b28069afe043f582309aa0d",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/review/bund-frontage-177929849-observed-side.png",
       "bytes": 1154827,
       "sha256": "cac9dc05157baee649ce9e399550866d444d9bcd08c6bf6d1e34fe719dcf3af1",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/review/bund-frontage-177929888-observed-front.png",
@@ -640,7 +640,7 @@
       "bytes": 875012,
       "sha256": "d306ea04a291ba0faf58a791269c4383d7aaa9e94a1cb83c23adea271cc16db4",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/review/bund-frontage-178405874-observed-side.png",
@@ -710,7 +710,7 @@
       "bytes": 940661,
       "sha256": "bc11df12acd245f36d8a7fa7b1502d44db36e7a31f890fb0ec2cd4b8ab541f1e",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/review/bund-frontage-446933508-observed-side.png",
@@ -787,7 +787,7 @@
       "bytes": 1195875,
       "sha256": "a5c75a70d68a3d258c2abdfb1ad073eedd7e84c20b0727e820da212a80ab8f4b",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/review/bund-loop-readback-review.json",
@@ -836,7 +836,7 @@
       "bytes": 4201080,
       "sha256": "cc4a1401e2aaabf8debfc941fd76d42aeaed791d2dc1b49e6a498c1ff4fce24b",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/bund/yokohama.glb",
@@ -850,7 +850,7 @@
       "bytes": 34320,
       "sha256": "c2c2ccb2608b446128446d16202bb4958a7b5bc15ce55ca1ef8f14ecc237c6ca",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/furniture/bollard.glb",
@@ -899,7 +899,7 @@
       "bytes": 13444,
       "sha256": "b8466b794702a735a494227f68e7a449e70ddf372d31c4797fefb9fb57e11062",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/furniture/streetlamp.glb",
@@ -941,7 +941,7 @@
       "bytes": 4500168,
       "sha256": "bf1eb99fe78c70f3ff0f294cb7d21d3a45b2e5146ca015eed568b2d468ef3360",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/loop-frontages/loop-frontage-369238001.glb",
@@ -1060,7 +1060,7 @@
       "bytes": 22555584,
       "sha256": "c7b5895d00d8fbc0b5d82662313ced9e8b637a4785d241370469173dee353d11",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/north-bund/magnolia-podium.glb",
@@ -1109,7 +1109,7 @@
       "bytes": 2648464,
       "sha256": "ab2813de7e7d4c4d8b2a87c149c2721ed2fc4e9214cd29fee5f0fddc49a0f04c",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/north-bund/north-bund-frontage-1323408463.glb",
@@ -1123,7 +1123,7 @@
       "bytes": 13903748,
       "sha256": "ba9d9d2dfdbd61bba3313876fb530f417c62820a4a0f73060af7eae280dce03c",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/north-bund/north-bund-frontage-1330539161.glb",
@@ -1151,7 +1151,7 @@
       "bytes": 16781288,
       "sha256": "c834f6ddcf72051f0d59374a1b11cb992f2123c8e4242b130acae14c0bc43acf",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/north-bund/north-bund-frontage-177714739.glb",
@@ -1179,7 +1179,7 @@
       "bytes": 8526964,
       "sha256": "a5ab2d281de66ed8d667f0dee7ebe69389375652d4be5bc501984384b4a14694",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/north-bund/north-bund-frontage-446937832.glb",
@@ -1200,7 +1200,7 @@
       "bytes": 2280264,
       "sha256": "cc65c6dbc61c4307692843fac45a39eee0a91cfd0eb17397e2582e3bd72b193a",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/north-bund/north-bund-frontage-446939506.glb",
@@ -1214,14 +1214,14 @@
       "bytes": 6132736,
       "sha256": "bd8a74096e52ded6fcdeb3606f21ac0dbceb811cbf7238fec15b4c610b3d48ca",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/north-bund/north-bund-frontage-446939526.glb",
       "bytes": 5642056,
       "sha256": "a215631ffa7375a11fa7c212220e780a1ce2f6da09ec6f81db92d27ceac9a482",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/north-bund/north-bund-frontage-446939569.glb",
@@ -1256,7 +1256,7 @@
       "bytes": 25840756,
       "sha256": "c8364ec9f9b83a336f80d0aebdcfeb43879a18b5a3ac54c256ea3b680cdebe7f",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/north-bund/north-bund-frontage-611335628.glb",
@@ -1298,7 +1298,7 @@
       "bytes": 3126500,
       "sha256": "b8136ddcc04c2765a4cbd518b6b54b64d495a5b7416ef3db4686f7701c8be14e",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/north-bund/yesong-shipyard.glb",
@@ -1354,7 +1354,7 @@
       "bytes": 20504996,
       "sha256": "c2dd822591c37ec6f7050523ad21fba5e6d3aab74d2f8a0ac5089c0fb258ba93",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/manifest.json",
@@ -1382,7 +1382,7 @@
       "bytes": 1402340,
       "sha256": "ce4970c3e1f362f1ee5c7533891c6a3fa7b8003f9468c951344a50c492af9408",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-1211163026.glb",
@@ -1417,21 +1417,21 @@
       "bytes": 13320872,
       "sha256": "a51a9997ad31929c3a0fd7685e4b58430fe4fabc765e79a6b49ee6637e9ecc6f",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-164905211.glb",
       "bytes": 961356,
       "sha256": "d14f844f8b07945d97743dd033d6c6605bf135da624f3591250f184b8aad2fcb",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-164957811.glb",
       "bytes": 25036596,
       "sha256": "c437e7e742d055bd213a6eb4c09f787b0c94f75a1b41963d3dcd017e73c4c919",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-164971470.glb",
@@ -1459,7 +1459,7 @@
       "bytes": 3254572,
       "sha256": "a8608b5dd4e8159538721d2a189317fa321ce959bdf4c2796c1d9c075c6cc48f",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-165168178.glb",
@@ -1473,7 +1473,7 @@
       "bytes": 1017224,
       "sha256": "abcde9bfeedfa05b7ca2b6a5362c25cd4d215c7a70990d7da3cfe2091277e5bc",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-165168180.glb",
@@ -1487,7 +1487,7 @@
       "bytes": 1181596,
       "sha256": "a362471ce927cf7053badc6fec9a25df4fd7d37fcaaf67d492fe06e561bbc5f5",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-165591946.glb",
@@ -1522,7 +1522,7 @@
       "bytes": 377824,
       "sha256": "b8385fc0d6c1ae9f8e96676bf48ab8aa2dd62e260da5a455b8ef91f039b51d4b",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-166544770.glb",
@@ -1536,14 +1536,14 @@
       "bytes": 303444,
       "sha256": "af20159bd14f5cfd07b15e82149dfe39e7e4af08f7bdba44ffe66d12c14a477a",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-167061959.glb",
       "bytes": 3450240,
       "sha256": "c0b518dbbf7d6b4ca4fedcb02ac2e2315e81d37bb25407fc0e5f3619fdf2cf4c",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-281583582.glb",
@@ -1557,7 +1557,7 @@
       "bytes": 1342128,
       "sha256": "a7ffa0641adfa864c1f796a815f4680401671f59ec3a9363e444be4ed89a0009",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-415667808.glb",
@@ -1599,21 +1599,21 @@
       "bytes": 1905472,
       "sha256": "c44db0f7718fe11bc4a10a20e7380d3903c47cb85040311c7fd0406eb4c99c27",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-526005642.glb",
       "bytes": 1054976,
       "sha256": "a469154b0eeb9520b8fb70736f0804ae7b0c72df4aed69446afbe743e1b80e1e",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-948045836.glb",
       "bytes": 842312,
       "sha256": "bc86e9c1ccfd00d7327ef3a657e1bdd9851f168fc45733eed73b95f7d2da4346",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-956369929.glb",
@@ -1697,7 +1697,7 @@
       "bytes": 1200504,
       "sha256": "a394092409ab36e11a12627f3437c0530aa98eb4f93093dab1f40fcf648d3b6b",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-957451695.glb",
@@ -1753,7 +1753,7 @@
       "bytes": 1445648,
       "sha256": "c580540eda750b2dfd39ed35faa1d3a7c647a58065a5daba84e3fe14251de2b4",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-961634158.glb",
@@ -1795,7 +1795,7 @@
       "bytes": 541068,
       "sha256": "d01df927510fd52b806c469c04bddbcb4f5ec19c014811857069b3ab10db5ee7",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-964405398.glb",
@@ -1809,7 +1809,7 @@
       "bytes": 1741228,
       "sha256": "a7fd3b1df5ebc73a29e96c9972e6f0ae2518c2b6786edb880806ba05a12086b8",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-964446742.glb",
@@ -1823,14 +1823,14 @@
       "bytes": 1370796,
       "sha256": "c98f982f5ce859f314a56fafac273db257361e7a59c29c7ebc6f8d0d82e4da97",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-964446762.glb",
       "bytes": 4586104,
       "sha256": "b881a232d500cbd5e87a40c5b45fc6c129ba38586d8b35a33cff5e75a6d93b17",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-965004744.glb",
@@ -1914,21 +1914,21 @@
       "bytes": 187404,
       "sha256": "a98acdce2841b48dd433a86012c94b11f584c9ee3aa816abdabc71524071458b",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-r128821601.glb",
       "bytes": 10812208,
       "sha256": "cbbb1c416da8b7f7999ca795f22699d44ce63b6bdf35b50db4e53eefd9833f74",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-r129181910.glb",
       "bytes": 1226060,
       "sha256": "c1f1369d1fb735421c409f89bde5f55a940fbff25ec714d59a85e960359a3e80",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-r129181911.glb",
@@ -1942,14 +1942,14 @@
       "bytes": 1226052,
       "sha256": "b2a9608784f053ee073f6720f069dcb41fad5b417df5af4d6863d1c697de64b4",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-r129181921.glb",
       "bytes": 1226796,
       "sha256": "c0956d7da39b1110a06b3030a3f6c57485a75ed2efee593a8ef0c7f6464c99a4",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-r129181922.glb",
@@ -1977,14 +1977,14 @@
       "bytes": 1091584,
       "sha256": "a570b1e1ef6587e271c935c7caff86f8c37ae6373d005c617977c1c4da0f0faf",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-r129672740.glb",
       "bytes": 989224,
       "sha256": "d5f7cd3e20c5136e41acb27721cb39bfcb5c6b7fab1aaa118bfb67ef6b4375ae",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-r129672741.glb",
@@ -2040,14 +2040,14 @@
       "bytes": 13935724,
       "sha256": "aeefa3bd9438c12ff2dd42e01cb05bea63bbc20145daecf1d5cad772371fe5a7",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-r129813030.glb",
       "bytes": 14450084,
       "sha256": "afe6ee9419fb486c740d4047568c72ad786db38fe01ae2839f005e73a8e9c77d",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/pudong-way-r129813031.glb",
@@ -2152,14 +2152,14 @@
       "bytes": 326916,
       "sha256": "ceb5c24bf17dc81badf23d42e2fcd93d369c077e69953272d1c29ab9d8a7ceb4",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/review/detail-pudong-way-948045836-2026-09-09T130606399Z.png",
       "bytes": 369353,
       "sha256": "a594c287ed8ad8ea2844042cf6f23c5d518490e081d4d9b1224a1639338dc108",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/review/detail-pudong-way-948045836-2026-09-09T132124719Z.png",
@@ -2180,14 +2180,14 @@
       "bytes": 310356,
       "sha256": "b844aa1c4f5e49eff6cc2e9ef2ae0debddfdce8f14772a7e072f80790a649bdc",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/review/detail-pudong-way-956369946-2026-09-09T130606399Z.png",
       "bytes": 347852,
       "sha256": "ae733458e16fe2912b8621fa77cb483f252d59012b823af6810881af1dfa1ce3",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/review/detail-pudong-way-956369946-2026-09-09T132124719Z.png",
@@ -2215,7 +2215,7 @@
       "bytes": 342822,
       "sha256": "bf48d7a350ea44b9940b813820ad725ad6fa2bdff13182c2d070cdd0774ea834",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/review/detail-pudong-way-956369948-2026-09-09T132124719Z.png",
@@ -2243,14 +2243,14 @@
       "bytes": 346511,
       "sha256": "c18acaaec25aaf54625099b9535b08d4bec799dcb52e5bbec2bc733c264b7cb0",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/review/detail-pudong-way-956369950-2026-09-09T132124719Z.png",
       "bytes": 310702,
       "sha256": "c1707a62c1de2bcafeff63b65e5bd192dbe28d746991e486450687c1c6242857",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/review/detail-pudong-way-956369951-2026-09-09T130606399Z.png",
@@ -2285,14 +2285,14 @@
       "bytes": 321167,
       "sha256": "c132d3ee2a35b13686742a11f2024e4c3685dff5d67fc48a78bb51d9f3841420",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/review/detail-pudong-way-957451686-2026-09-09T132124719Z.png",
       "bytes": 227646,
       "sha256": "b1fe88dce9ac4e367d83751c9fc3b2971e3c534850ccfa938bf1e17d414f9fb8",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/review/detail-pudong-way-957451695-2026-09-09T130606399Z.png",
@@ -2320,7 +2320,7 @@
       "bytes": 373359,
       "sha256": "afc9b021ba323eccdc21f8a6cd4ccb5741a18791cec5a6ea8343b0fa61f23d05",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/review/detail-pudong-way-961656405-2026-09-09T130606399Z.png",
@@ -2369,7 +2369,7 @@
       "bytes": 570623,
       "sha256": "d13fa5be5c1465af6671fbeee025a566228233c88554bafeb19ac7a2f1a9071b",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/review/detail-pudong-way-r129809231-2026-09-09T132124719Z.png",
@@ -2411,7 +2411,7 @@
       "bytes": 315438,
       "sha256": "c2127fb2a1ce975486452228b6d43c1c5d129ebe20139c2510c145cb3b224ec5",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/review/financial-center.png",
@@ -2467,7 +2467,7 @@
       "bytes": 1262203,
       "sha256": "bd0d96e038574d86da334a0d6ac207725f2679dd3a71234790d7503f2b62f7a5",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/review/loop-pudong-way-135840678-2026-09-09T095834058Z.png",
@@ -2523,7 +2523,7 @@
       "bytes": 156129,
       "sha256": "b9a8f1f1b43267a20be243f2d2e8e9d61649a8e431c5a8a248e7e6471d317282",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/review/loop-pudong-way-448242492-2026-09-09T095834058Z.png",
@@ -2572,14 +2572,14 @@
       "bytes": 1272310,
       "sha256": "c5a777587d22a839801515863898a22345a4cc4ac6cfa8bd2543d972cff864b1",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/review/loop-pudong-way-r129813020-2026-09-09T095834058Z.png",
       "bytes": 1268981,
       "sha256": "d4a25ea3b418e217d06647f262cfa3cccf615f84c3239e58b8e18aa480df4dc6",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/review/loop-pudong-way-r129813030-2026-09-09T095834058Z.png",
@@ -2614,7 +2614,7 @@
       "bytes": 1411,
       "sha256": "b7adc64bb6dd1b50138863a28be5c208dc75e6f721482639ecc44d5c5478d13f",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/review/ocean-aquarium.png",
@@ -2649,14 +2649,14 @@
       "bytes": 483678,
       "sha256": "aec7dfbfd20b16d68ae6a01126e4d7d1371b249c621802aa356a8389ff638c50",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/review/shanghai-tower.png",
       "bytes": 80996,
       "sha256": "d52d416b56052e9c1af81c8ccc5fe1d6def3e13aeb2df942308bd18304205b8b",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/districts/pudong/review/super-brand-mall-revised.png",
@@ -2761,7 +2761,7 @@
       "bytes": 26905820,
       "sha256": "ac200ce25a592e05e086816db34145bbae25419bc3422e69f506f504c54921d3",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/master/chunks/-1_0.glb",
@@ -2810,14 +2810,14 @@
       "bytes": 7367464,
       "sha256": "b86fa98f596cef9e00ca27a555c3ac77f0422e340a50c25c14244e2bfcfdf590",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/master/chunks/-2_0.glb",
       "bytes": 31828,
       "sha256": "d1bf7f1d4d03fc27e44af08aed8a4ff44e46f6483f7651c690cee6de5e4d2888",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/master/chunks/-2_1.glb",
@@ -2831,7 +2831,7 @@
       "bytes": 21144400,
       "sha256": "c6fb00039e44df9f09c4a9c8dc56312a8ee367b31ab3d56ca425bb19667de112",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/master/chunks/-3_-1.glb",
@@ -2859,14 +2859,14 @@
       "bytes": 40091784,
       "sha256": "b3393766de967a2bb204d9f43afdf0151c719e91a2f32664035ea89a0d273782",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/master/chunks/-3_1.glb",
       "bytes": 19118016,
       "sha256": "abe6f00f31fb7aedc07994ba6bb83b37f8cfccfc878334ef266434a778370237",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/master/chunks/-3_2.glb",
@@ -2887,7 +2887,7 @@
       "bytes": 4500580,
       "sha256": "aa606a146bb3a119ebd57ee69e9e0e42747ce496cae456aa835c5db9125a9c83",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/master/chunks/0_-1.glb",
@@ -2915,7 +2915,7 @@
       "bytes": 26613720,
       "sha256": "a59922a558bfd7d9237a11b3d15fe4bdc52cd329886b58b403bc26202cfb801a",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/master/chunks/0_-6.glb",
@@ -3013,14 +3013,14 @@
       "bytes": 10346772,
       "sha256": "b292d24f3dd0f095280387b471e6b32ec7cd5254a6a6ac4a4b74d66d38c2cd79",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/master/chunks/2_-3.glb",
       "bytes": 32464,
       "sha256": "becb214d0a579e840c065d3adcb51aa2fd1b24de1053af8e04f6cb56a3de9054",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/master/chunks/2_0.glb",
@@ -3055,7 +3055,7 @@
       "bytes": 7825860,
       "sha256": "a168484bf1607bb85e8aebcc111b43fa52873de6d405db8caff2b2275e8e1764",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/master/chunks/context.glb",
@@ -3111,14 +3111,14 @@
       "bytes": 78670,
       "sha256": "a468fa6936db048f290e2b0c3aae46fc84316ec9e820a85f4592d5f28ec3d118",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/master/shanghai-streets.glb",
       "bytes": 993563804,
       "sha256": "a1607206352eefe7508cbf757075f98ad18adda47849a510fef864d990a2cd52",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/model-budget.json",
@@ -3174,14 +3174,14 @@
       "bytes": 4409,
       "sha256": "c41c5f9513463a3f4591727ec95210bdb0d67f1052f98acf7a82e363ef94f7b5",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/models/palace-hotel.glb",
       "bytes": 125940,
       "sha256": "c4d3fe0db09f0b90acbb5c3733b02342409b11f863ba10f351018d3dad347347",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/models/peace-hotel.glb",
@@ -3216,7 +3216,7 @@
       "bytes": 1242124,
       "sha256": "b571b78b526a10388ef7202721da0fd1a4c01802b7b6f334eec6d6b21c1cba6e",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/models/streetlamp.glb",
@@ -3230,7 +3230,7 @@
       "bytes": 67972,
       "sha256": "b54e542801e98d52f4123b1cef31e5d847f16de309d2cf1250fd0bbf87928432",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/performance/context-portal-fixed.glb",
@@ -3265,7 +3265,7 @@
       "bytes": 1251,
       "sha256": "a2497235b6a875497e437cc07d5b840d6767bff2cb1936fdef360777f00762dd",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/photo-models/aia-building.glb",
@@ -3300,7 +3300,7 @@
       "bytes": 820252,
       "sha256": "a49827d98c37c02a331567ae7d73e116ac12512c419953487edb6efb9446671b",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/photo-models/bea-tower.glb",
@@ -3370,7 +3370,7 @@
       "bytes": 1549512,
       "sha256": "d20e47ea3bf3ab9bfc0ed1f34a0f8385ec320dbce16fc5affbb34b625702a497",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/photo-models/pearl.glb",
@@ -3489,7 +3489,7 @@
       "bytes": 681190,
       "sha256": "a8c93f867e4b8428d7543c4c1146667619311983c60dd9fe524e53c1a365bc49",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/streets/textures/stone-rough.jpg",
@@ -3510,7 +3510,7 @@
       "bytes": 806880,
       "sha256": "c2cc3057b6fdf4065bd037aa63b1f11c46dd14b9d66963e8a6b9b0da76e7f45d",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/tour-models/bund-heritage.glb",
@@ -3566,7 +3566,7 @@
       "bytes": 754692,
       "sha256": "bb9a76aba9d31da5829cc145aa66bbd5366f1210789b9a86f06f30287b3d1a76",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/tour-models/model-y.glb",
@@ -3580,7 +3580,7 @@
       "bytes": 483388,
       "sha256": "b2881a7b4b542b23b4a7f0b4ecfc07d7adfc485337448fa6d500799f054ec613",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/tour-models/peace-hotel.glb",
@@ -3601,7 +3601,7 @@
       "bytes": 765700,
       "sha256": "c845e8bdd4eb085210ae70a32e96974e14d93ca24d86d0f1a6368f562d7f410b",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/tour-models/river-railing.glb",
@@ -3643,7 +3643,7 @@
       "bytes": 751024,
       "sha256": "d5d117de9d798064a44dac3e9efdd8077be14a7da1d1364b4f3bc861aea8dd30",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/vehicles/alphard-front.png",
@@ -3692,14 +3692,14 @@
       "bytes": 710268,
       "sha256": "a96f1396b747ff78059f201b7b5c39ed792519a92414d2f14bf973d603e1ccc2",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/vehicles/g63-front.png",
       "bytes": 789758,
       "sha256": "d12eb7dcbe8eac1988a86d32290b81aa12bfd2db22a6e1350202fc99f963823c",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/vehicles/model-3-front.png",
@@ -3727,7 +3727,7 @@
       "bytes": 444226,
       "sha256": "a17966067acd4399022deddcd9c904e9d4754c5f4241b061674f73d925e0c0e9",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/vehicles/model-3.glb",
@@ -3748,14 +3748,14 @@
       "bytes": 697171,
       "sha256": "a6444121aaba056a9ceb1fee59c4a41e03ef82c7de148b137e615d3d190d49b9",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/vehicles/rigged/alphard-quality.json",
       "bytes": 14414,
       "sha256": "d3c7a94f6054171e54570e8813c32886e4237d3c7f99de83bd00fe6357dd52f2",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/vehicles/rigged/alphard.glb",
@@ -3797,7 +3797,7 @@
       "bytes": 13881,
       "sha256": "d2e5e7a237721b55469ff20f50a63fbe79468bb0e438855a602d14d0223c4a36",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/vehicles/rigged/g63.glb",
@@ -3811,14 +3811,14 @@
       "bytes": 289416,
       "sha256": "a2ba4239d7298f23e468f66bfa091067908440ad817965d5a82eafb4133f087e",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/vehicles/rigged/luxury-traffic/ferrari-488.glb",
       "bytes": 733376,
       "sha256": "bb0bd39046417a0d693a58d8792af19d16666ad1495d73e2d5465c56908e3052",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/vehicles/rigged/luxury-traffic/g63.glb",
@@ -3923,7 +3923,7 @@
       "bytes": 180452,
       "sha256": "ba9258d71c752af74e2205aa02683615ee5e652ffac63669f222a39a2ad0d8a4",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/vehicles/rigged/prototypes/yuan-up.glb",
@@ -3979,7 +3979,7 @@
       "bytes": 799029,
       "sha256": "ce252af9c8256917ca2c19e3fbe6246e357f67a7d531bde70ad34e9702c52a8f",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/vehicles/rigged/review/su7-front.png",
@@ -4007,14 +4007,14 @@
       "bytes": 1954,
       "sha256": "d6fd85b1d93fdd4ba9dfc201e0ba1e0f9d5136217782f3e700300a6c491d94f5",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/vehicles/rigged/su7.glb",
       "bytes": 1254108,
       "sha256": "bc8813442e0d685f2fbc056fea8b38a9eec13df4436693772994b7f6514069b9",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/vehicles/rigged/urus-quality.json",
@@ -4028,7 +4028,7 @@
       "bytes": 2144536,
       "sha256": "c400101aef3f6ca43d7dfa069e49c8ebde3ba4a13be0d23f6e16dcae65ed8e0c",
       "group": "runtime",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "public/vehicles/rigged/yuan-up-quality.json",
@@ -5036,7 +5036,7 @@
       "bytes": 4500168,
       "sha256": "bf1eb99fe78c70f3ff0f294cb7d21d3a45b2e5146ca015eed568b2d468ef3360",
       "group": "source-assets",
-      "part": "backup-2026-09-10-runtime-03.zip"
+      "part": "backup-2026-09-10-runtime-03-r2.zip"
     },
     {
       "file": "assets/streets/loop-frontages/preserved/20260909-152750/loop-frontage-369238001.glb",
@@ -17576,10 +17576,10 @@
       ]
     },
     {
-      "file": "backup-2026-09-10-runtime-03.zip",
+      "file": "backup-2026-09-10-runtime-03-r2.zip",
       "group": "runtime",
-      "bytes": 401378346,
-      "sha256": "66eab258fc332787d042077df84732dbac7cd8b2ad9b1e73a25b0419a46d47e1",
+      "bytes": 427317002,
+      "sha256": "55b43751141072fa6694e65792efe1fd97be25581f8cd272df7e7b7af8a9d3eb",
       "objects": [
         "a1607206352eefe7508cbf757075f98ad18adda47849a510fef864d990a2cd52",
         "a168484bf1607bb85e8aebcc111b43fa52873de6d405db8caff2b2275e8e1764",
