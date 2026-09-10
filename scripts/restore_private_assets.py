@@ -72,7 +72,11 @@ def main():
                     if count != entry['bytes'] or h.hexdigest() != entry['sha256']: raise SystemExit('Object checksum mismatch')
                     if output:
                         output.flush(); os.fsync(output.fileno()); output.close(); output = None
+                        if temp.stat().st_size != entry['bytes'] or digest(temp) != entry['sha256']:
+                            raise SystemExit('Restored disk copy failed verification; partial file retained: '+entry['file'])
                         temp.replace(target)
+                        if digest(target) != entry['sha256']:
+                            raise SystemExit('Restored file changed after publication: '+entry['file'])
                     restored += 1
                 finally:
                     if output: output.close()
