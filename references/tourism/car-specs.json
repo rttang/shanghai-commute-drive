@@ -1,0 +1,72 @@
+[
+  {
+    "source": "https://www.dongchedi.com/auto/params-carIds-x-20154",
+    "dimensions": "4135x1805x1570",
+    "model": "星愿 2026款 310km 向往版",
+    "tire": "205/60 R16",
+    "wheelbase": "2650"
+  },
+  {
+    "source": "https://www.dongchedi.com/auto/params-carIds-x-9267",
+    "dimensions": "4270x1810x1635",
+    "model": "零跑A10 2026款 403舒享版",
+    "tire": "215/50 R18",
+    "wheelbase": "2605"
+  },
+  {
+    "source": "https://www.dongchedi.com/auto/params-carIds-x-4363",
+    "dimensions": "4797x1920x1624",
+    "model": "Model Y 2026款 后轮驱动版",
+    "tire": "255/45 R19",
+    "wheelbase": "2890"
+  },
+  {
+    "source": "https://www.dongchedi.com/auto/params-carIds-x-9689",
+    "dimensions": "4310x1830x1675",
+    "model": "元UP 2025款 301KM领航型",
+    "tire": "215/65 R16",
+    "wheelbase": "2620"
+  },
+  {
+    "source": "https://www.dongchedi.com/auto/params-carIds-x-3762",
+    "dimensions": "4720x1848x1442",
+    "model": "Model 3 2025款 改款 后轮驱动版",
+    "tire": "235/45 R18",
+    "wheelbase": "2875"
+  },
+  {
+    "source": "https://www.dongchedi.com/auto/params-carIds-x-25634",
+    "dimensions": "4435x1855x1600",
+    "model": "长安启源Q05 2026款 405 Air",
+    "tire": "225/60 R17",
+    "wheelbase": "2735"
+  },
+  {
+    "source": "https://www.dongchedi.com/auto/params-carIds-x-25557",
+    "dimensions": "4950x1935x1670",
+    "model": "理想i6 2025款 两驱 标准版",
+    "tire": "255/50 R20",
+    "wheelbase": "3000"
+  },
+  {
+    "source": "https://www.dongchedi.com/auto/params-carIds-x-5008",
+    "dimensions": "4280x1770x1570",
+    "model": "海豚 2025款 智驾版 420KM自由版",
+    "tire": "195/60 R16",
+    "wheelbase": "2700"
+  },
+  {
+    "source": "https://www.dongchedi.com/auto/params-carIds-x-6187",
+    "dimensions": "4997x1963x1460",
+    "model": "小米SU7 2026款 后驱标准版",
+    "tire": "245/45 R19",
+    "wheelbase": "3000"
+  },
+  {
+    "source": "https://www.dongchedi.com/auto/params-carIds-x-26039",
+    "dimensions": "4050x1758x1580",
+    "model": "缤果Pro 2026款 330km 尊享款",
+    "tire": "195/60 R16",
+    "wheelbase": "2560"
+  }
+]

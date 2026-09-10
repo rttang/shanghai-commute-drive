@@ -1,0 +1,98 @@
+[
+  {
+    "wayIds": [
+      165985305
+    ],
+    "height": 95,
+    "floors": 21,
+    "sourceUrl": "https://josef-gartner.permasteelisagroup.com/project/shanghai-foxconn-plaza/",
+    "authority": "Facade designer and installer",
+    "status": "published dimension",
+    "observedGeometry": [
+      "Exterior skin folds with 300–600mm double-skin cavity",
+      "Two-storey high ground-floor facade"
+    ]
+  },
+  {
+    "wayIds": [
+      164903482
+    ],
+    "height": 206,
+    "floors": 41,
+    "sourceUrl": "https://global.ctbuh.org/resources/papers/38-TBIN_2008.pdf",
+    "authority": "CTBUH Tall Buildings in Numbers 2008",
+    "status": "published architectural height"
+  },
+  {
+    "wayIds": [
+      967281056
+    ],
+    "height": 104,
+    "floors": 27,
+    "sourceUrl": "https://www.skyscrapercenter.com/building/grand-kempinski-hotel-shanghai/21637",
+    "authority": "CVU/CTBUH database",
+    "status": "estimated by database from 27 floors, not measured"
+  },
+  {
+    "wayIds": [
+      164972436
+    ],
+    "height": 186,
+    "floors": 38,
+    "sourceUrl": "https://www.skyscrapercenter.com/building/id/2108",
+    "authority": "CVU / CTBUH architectural top including spire",
+    "status": "published architectural height; old OSM 168 m retained in source map"
+  },
+  {
+    "wayIds": [
+      520990201
+    ],
+    "height": 203,
+    "bodyHeight": 170,
+    "floors": 38,
+    "sourceUrl": "https://www.shobserver.com/sgh/detail?id=1756967",
+    "corroborationUrl": "https://www.sohu.com/a/364510837_120246731",
+    "authority": "Ping An Bank Shanghai Branch supplied article / Anxing Construction contractor supplied article",
+    "status": "Published dome height; single footprint includes lower wings and podium"
+  },
+  {
+    "wayIds": [
+      -129809231
+    ],
+    "height": 230,
+    "tipHeight": 252,
+    "sourceUrl": "https://www.tangeweb.com/works/works_no-137/",
+    "authority": "Tange Architects",
+    "status": "published building height"
+  },
+  {
+    "wayIds": [
+      164957811
+    ],
+    "height": 226.1,
+    "tipHeight": 258,
+    "sourceUrl": "https://www.nikken.co.jp/en/projects/office/bank_of_china_tower_shanghai.html",
+    "authority": "Nikken Sekkei; tip from CTBUH 1164",
+    "status": "published building height"
+  },
+  {
+    "wayIds": [
+      164971470
+    ],
+    "height": 230.4,
+    "tipHeight": 265,
+    "sourceUrl": "https://www.skyscrapercenter.com/building/bocom-financial-towers/718",
+    "authority": "CTBUH; south 198m contractor https://sc1gc.scg.com.cn/scg_yj_lb/2021-06-05/Detail_165456.htm",
+    "status": "published building height"
+  },
+  {
+    "wayIds": [
+      165168180
+    ],
+    "height": 8.8,
+    "tipHeight": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chen%27s_Mansion_Lujiazui.JPG",
+    "authority": "Photo proportions; estimate only, not surveyed",
+    "status": "explicit photo estimate replacing wrong map default"
+  }
+]

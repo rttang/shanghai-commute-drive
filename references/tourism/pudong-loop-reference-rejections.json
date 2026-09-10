@@ -1,0 +1,208 @@
+{
+  "updatedAt": "2026-09-09T12:44:13.582036+00:00",
+  "rule": "Sources are preserved but never counted as matched-building photos.",
+  "items": [
+    {
+      "file": "assets/streets/pudong-loop-references/dongyuan-2.jpg",
+      "sourceUrl": "https://www.sinyi.com.cn/news/detail?id=430",
+      "sha256": "8d81ad9452dbef2a87d45deb68fe4a9a415bb92929410792bce48ae7ea2514a5",
+      "bytes": 105295,
+      "viewed": true,
+      "geometryReference": false,
+      "textureUse": false,
+      "rejectionReason": "Geographic mismatch: Dongyuan estate is south of Dongchang Road; not direct evidence for Dongchang Xincun ways north of road."
+    },
+    {
+      "file": "assets/streets/pudong-loop-references/dongyuan-0.jpg",
+      "sourceUrl": "https://www.sinyi.com.cn/news/detail?id=430",
+      "sha256": "8c7bc5e70a12cb4f1b1010a761b9d7432872ddd733d5c5f57de381b3566f1965",
+      "bytes": 97130,
+      "viewed": true,
+      "geometryReference": false,
+      "textureUse": false,
+      "rejectionReason": "Geographic mismatch: Dongyuan estate is south of Dongchang Road; not direct evidence for Dongchang Xincun ways north of road."
+    },
+    {
+      "file": "assets/streets/pudong-loop-references/dongyuan-3.jpg",
+      "sourceUrl": "https://www.sinyi.com.cn/news/detail?id=430",
+      "sha256": "4cf87a8779f260b5619529851c85772592adcddf5573050e4fbcdcdaa7c31ecb",
+      "bytes": 165556,
+      "viewed": true,
+      "geometryReference": false,
+      "textureUse": false,
+      "rejectionReason": "Geographic mismatch: Dongyuan estate is south of Dongchang Road; not direct evidence for Dongchang Xincun ways north of road."
+    },
+    {
+      "file": "assets/streets/pudong-loop-references/dongyuan-4.jpg",
+      "sourceUrl": "https://www.sinyi.com.cn/news/detail?id=430",
+      "sha256": "f3d7ccb6316af97fafab679a524e711d158dfd79de6cee340a27e7ff94d91201",
+      "bytes": 61774,
+      "viewed": true,
+      "geometryReference": false,
+      "textureUse": false,
+      "rejectionReason": "Non-building material or repeated site advertisement; excluded."
+    },
+    {
+      "file": "assets/streets/pudong-loop-references/dongyuan-1.jpg",
+      "sourceUrl": "https://www.sinyi.com.cn/news/detail?id=430",
+      "sha256": "b8eed66b238647ac6908b88305a2eb222895d3448396e79a1250ac66ef92bc17",
+      "bytes": 144649,
+      "viewed": true,
+      "geometryReference": false,
+      "textureUse": false,
+      "rejectionReason": "Geographic mismatch: Dongyuan estate is south of Dongchang Road; not direct evidence for Dongchang Xincun ways north of road."
+    },
+    {
+      "file": "assets/streets/pudong-loop-references/dongyuan-6.jpg",
+      "sourceUrl": "https://www.sinyi.com.cn/news/detail?id=430",
+      "sha256": "a9c8d4bab2d7b8f381f68acbd8c56f281bed6b31382c49e053dcc76504bbffd6",
+      "bytes": 44231,
+      "viewed": true,
+      "geometryReference": false,
+      "textureUse": false,
+      "rejectionReason": "Non-building material or repeated site advertisement; excluded."
+    },
+    {
+      "file": "assets/streets/pudong-loop-references/dongyuan-5.jpg",
+      "sourceUrl": "https://www.sinyi.com.cn/news/detail?id=430",
+      "sha256": "c35ad1204b7ca34511ce790386e13a3b96b6ac32146a1e0b6e174655f816208b",
+      "bytes": 78738,
+      "viewed": true,
+      "geometryReference": false,
+      "textureUse": false,
+      "rejectionReason": "Non-building material or repeated site advertisement; excluded."
+    },
+    {
+      "file": "assets/streets/pudong-loop-references/dongyuan-7.jpg",
+      "sourceUrl": "https://www.sinyi.com.cn/news/detail?id=430",
+      "sha256": "d252256c87c5594628c9142aae9016b8c74efe32825f3a6c13dbf7bc6bb5cc7a",
+      "bytes": 43029,
+      "viewed": true,
+      "geometryReference": false,
+      "textureUse": false,
+      "rejectionReason": "Non-building material or repeated site advertisement; excluded."
+    },
+    {
+      "file": "assets/streets/pudong-loop-references/dongyuan-8.jpg",
+      "sourceUrl": "https://www.sinyi.com.cn/news/detail?id=430",
+      "sha256": "c23a65b46bb1e13f0dc443c7f71497eee8605566c4b2014b570a8e9265e085ad",
+      "bytes": 22151,
+      "viewed": true,
+      "geometryReference": false,
+      "textureUse": false,
+      "rejectionReason": "Non-building material or repeated site advertisement; excluded."
+    },
+    {
+      "file": "assets/streets/pudong-loop-references/dongyuan-9.jpg",
+      "sourceUrl": "https://www.sinyi.com.cn/news/detail?id=430",
+      "sha256": "564d05e4d37737de10fb6d12bba2a03a60d36876f38bcbd912323c8ac1aa06f6",
+      "bytes": 108742,
+      "viewed": true,
+      "geometryReference": false,
+      "textureUse": false,
+      "rejectionReason": "Non-building material or repeated site advertisement; excluded."
+    },
+    {
+      "file": "assets/streets/pudong-loop-references/dongyuan-10.jpg",
+      "sourceUrl": "https://www.sinyi.com.cn/news/detail?id=430",
+      "sha256": "564d05e4d37737de10fb6d12bba2a03a60d36876f38bcbd912323c8ac1aa06f6",
+      "bytes": 108742,
+      "viewed": false,
+      "geometryReference": false,
+      "textureUse": false,
+      "rejectionReason": "Non-building material or repeated site advertisement; excluded."
+    },
+    {
+      "file": "assets/streets/pudong-loop-references/dongyuan-11.jpg",
+      "sourceUrl": "https://www.sinyi.com.cn/news/detail?id=430",
+      "sha256": "564d05e4d37737de10fb6d12bba2a03a60d36876f38bcbd912323c8ac1aa06f6",
+      "bytes": 108742,
+      "viewed": false,
+      "geometryReference": false,
+      "textureUse": false,
+      "rejectionReason": "Non-building material or repeated site advertisement; excluded."
+    },
+    {
+      "file": "assets/streets/pudong-loop-references/dongyuan-12.jpg",
+      "sourceUrl": "https://www.sinyi.com.cn/news/detail?id=430",
+      "sha256": "564d05e4d37737de10fb6d12bba2a03a60d36876f38bcbd912323c8ac1aa06f6",
+      "bytes": 108742,
+      "viewed": false,
+      "geometryReference": false,
+      "textureUse": false,
+      "rejectionReason": "Non-building material or repeated site advertisement; excluded."
+    },
+    {
+      "file": "assets/streets/pudong-loop-references/dongyuan-14.jpg",
+      "sourceUrl": "https://www.sinyi.com.cn/news/detail?id=430",
+      "sha256": "564d05e4d37737de10fb6d12bba2a03a60d36876f38bcbd912323c8ac1aa06f6",
+      "bytes": 108742,
+      "viewed": false,
+      "geometryReference": false,
+      "textureUse": false,
+      "rejectionReason": "Non-building material or repeated site advertisement; excluded."
+    },
+    {
+      "file": "assets/streets/pudong-loop-references/dongyuan-13.jpg",
+      "sourceUrl": "https://www.sinyi.com.cn/news/detail?id=430",
+      "sha256": "564d05e4d37737de10fb6d12bba2a03a60d36876f38bcbd912323c8ac1aa06f6",
+      "bytes": 108742,
+      "viewed": false,
+      "geometryReference": false,
+      "textureUse": false,
+      "rejectionReason": "Non-building material or repeated site advertisement; excluded."
+    },
+    {
+      "file": "assets/streets/pudong-loop-references/dongchang-news-1.jpg",
+      "sourceUrl": "https://www.shobserver.cn/wx/detail.do?id=646218",
+      "sha256": "5a606482e4005c62b441d69ed36545a40c78b4c3564fae7aca284d312ae0a8e0",
+      "bytes": 188315,
+      "viewed": true,
+      "geometryReference": false,
+      "textureUse": false,
+      "rejectionReason": "Community scenes do not resolve a specific mapped building-way exterior or complete footprint."
+    },
+    {
+      "file": "assets/streets/pudong-loop-references/dongchang-news-3.jpg",
+      "sourceUrl": "https://www.shobserver.cn/wx/detail.do?id=646218",
+      "sha256": "807a6719a41ade8fb7dd2b8361a788629b139d8e9696d9af5db763581fb6ed1d",
+      "bytes": 137441,
+      "viewed": true,
+      "geometryReference": false,
+      "textureUse": false,
+      "rejectionReason": "Community scenes do not resolve a specific mapped building-way exterior or complete footprint."
+    },
+    {
+      "file": "assets/streets/pudong-loop-references/dongchang-news-0.jpg",
+      "sourceUrl": "https://www.shobserver.cn/wx/detail.do?id=646218",
+      "sha256": "99169729263e7649ea54eb9b9039fea7e47dff55887d9cd9004ef9ef657125f2",
+      "bytes": 131761,
+      "viewed": true,
+      "geometryReference": false,
+      "textureUse": false,
+      "rejectionReason": "Community scenes do not resolve a specific mapped building-way exterior or complete footprint."
+    },
+    {
+      "file": "assets/streets/pudong-loop-references/dongchang-news-2.jpg",
+      "sourceUrl": "https://www.shobserver.cn/wx/detail.do?id=646218",
+      "sha256": "fcfab43b5d452c919b14a68f7435b2f3ab21a8dd737d293bfe2f2806aa542fe2",
+      "bytes": 142490,
+      "viewed": true,
+      "geometryReference": false,
+      "textureUse": false,
+      "rejectionReason": "Community scenes do not resolve a specific mapped building-way exterior or complete footprint."
+    }
+  ],
+  "sourcePageRejections": [
+    {
+      "sourceUrl": "https://www.yicai.com/news/102183523.html",
+      "archivedFile": "references/tourism/pudong-greenland-2024-source.html",
+      "reason": "The search snippet combines Lujiazui Central Greenland and Mouthfeel; full article explicitly places the glass cafe in Meiyuan Park, outside these Pudong loop ways. No building association made."
+    },
+    {
+      "sourceUrl": "https://www.workplace.sh.cn/product-detail/ShanghaiBankTower",
+      "archivedFile": "references/tourism/pudong-bank-shanghai-leasing-source.html",
+      "reason": "Six exterior image URLs returned CDN HTTP 403; no images viewed and no podium verification claimed."
+    }
+  ]
+}

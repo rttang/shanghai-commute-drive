@@ -1,0 +1,617 @@
+{
+  "updatedAt": "2026-09-09T13:23:44.810474+00:00",
+  "models": [
+    {
+      "id": "pudong-way-164957811",
+      "sha256": "c437e7e742d055bd213a6eb4c09f787b0c94f75a1b41963d3dcd017e73c4c919",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-164957811-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Planar lower cut corrected; curved tower and arrival fascia retain image-supported form. Roof radii and placement remain inferred.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-164971470",
+      "sha256": "de5740ef0320fd3c2246e6e8fae4fc5bc4a09433dd696df2caf3d54bb417e914",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-164971470-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Unequal separated slabs, diagonal roof planes and mast visible; exact annex and entry details remain partial.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-165168180",
+      "sha256": "46458cfe58a610d499267a365d5603f6fbc17dd8626ae6b839f87c65e8af2743",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-165168180-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Oversized blue windows removed; solid grey brick sides, gable, separate timber face and plastered rear now visible. Fine carvings and courtyard dimensions remain approximate.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-165591946",
+      "sha256": "46dbcd2708a87b7fb6a0f7202353a69d9c2d5d8e7def637553aa33ac6859bb44",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-165591946-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Actual final GLB shows transparent revolving-door cylinders, black portal, physical letter signs and slender frames. No interiors modeled.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-166544770",
+      "sha256": "e13e26fcfacdb8aa7d3a789c35f95e281d87487ca85811f0b2f5d0f39516119f",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-166544770-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Three final views inspected: mapped shape and modeled relief intact. Repeated facade, height and entry remain explicit map-based inference without matched building photograph.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-427786590",
+      "sha256": "6361b435d2d9da3f706b90e9340b81736c5b71020300c31babfa17b7c9e7dcf2",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-427786590-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Clock now located within concave shop plaza; arched base, open upper columns, glazing hood and dial faces visible. Figurines and mechanical animation omitted.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-948045836",
+      "sha256": "bc86e9c1ccfd00d7327ef3a657e1bdd9851f168fc45733eed73b95f7d2da4346",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-948045836-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Three final views inspected: mapped shape and modeled relief intact. Repeated facade, height and entry remain explicit map-based inference without matched building photograph.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-956369945",
+      "sha256": "79d9cf81a749428eedd8524bfa780b893d0bcd641fdd903f9696cdbc90ef1a9e",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-956369945-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Three final views inspected: mapped shape and modeled relief intact. Repeated facade, height and entry remain explicit map-based inference without matched building photograph.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-956369946",
+      "sha256": "80efa84950452950ae110a1a0a21d63713fba5448e30cf8c5662aafbdde9167d",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-956369946-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Three final views inspected: mapped shape and modeled relief intact. Repeated facade, height and entry remain explicit map-based inference without matched building photograph.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-956369947",
+      "sha256": "d9f3de54faf739cf71c0f29927b3a322d5fe54b397a2c3299a4df0c80ca47246",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-956369947-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Three final views inspected: mapped shape and modeled relief intact. Repeated facade, height and entry remain explicit map-based inference without matched building photograph.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-956369948",
+      "sha256": "732c0f481f61ce283d8916048e7c1715f2113efed33690b9e34d62c314957d15",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-956369948-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Three final views inspected: mapped shape and modeled relief intact. Repeated facade, height and entry remain explicit map-based inference without matched building photograph.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-956369949",
+      "sha256": "5158a03eefd8ec230f45e772999a67042126272d7899dee2e417e8747d6e2a36",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-956369949-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Three final views inspected: mapped shape and modeled relief intact. Repeated facade, height and entry remain explicit map-based inference without matched building photograph.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-956369950",
+      "sha256": "1931dfd2e6174a5968ebd3f40c32cfba96cc65bc8030beef45eda693495ee087",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-956369950-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Three final views inspected: mapped shape and modeled relief intact. Repeated facade, height and entry remain explicit map-based inference without matched building photograph.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-956369951",
+      "sha256": "e0695c715f3ca04492df743f4c09aab4cb2eebcc279d5eaff8c0b8d5ad48a3cc",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-956369951-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Three final views inspected: mapped shape and modeled relief intact. Repeated facade, height and entry remain explicit map-based inference without matched building photograph.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-957451684",
+      "sha256": "4db63b7242a862d48e2d20e6fa3cab372b8a759d3c5715ac05c5880ffe8698ed",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-957451684-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Three final views inspected: mapped shape and modeled relief intact. Repeated facade, height and entry remain explicit map-based inference without matched building photograph.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-957451686",
+      "sha256": "5befaa0891912d8b3aecaa63e18f47755216cf0783f100909ded525a00afc6e5",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-957451686-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Three final views inspected: mapped shape and modeled relief intact. Repeated facade, height and entry remain explicit map-based inference without matched building photograph.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-957451695",
+      "sha256": "7ed7450a013224c869becfb474ad7042654ee77ba933c950b9c734ce364f7683",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-957451695-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Three final views inspected: mapped shape and modeled relief intact. Repeated facade, height and entry remain explicit map-based inference without matched building photograph.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-957456630",
+      "sha256": "e253d71ddff06145ed5fc64cfe110c8cd8e39482766a61c485edf231dd948e9d",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-957456630-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Three final views inspected: mapped shape and modeled relief intact. Repeated facade, height and entry remain explicit map-based inference without matched building photograph.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-961656405",
+      "sha256": "2ae202e29cd3488fcd4b5c3cc6fb6c86c634f6f93bf717c1975e9499484413dc",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-961656405-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Three final views inspected: mapped shape and modeled relief intact. Repeated facade, height and entry remain explicit map-based inference without matched building photograph.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-965047353",
+      "sha256": "4574ade8ced1567d62924eab880fbf3369426beffe7ffc2e3476e72ba04ebeae",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-965047353-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Three final views inspected: mapped shape and modeled relief intact. Repeated facade, height and entry remain explicit map-based inference without matched building photograph.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-r128762951",
+      "sha256": "6facaeba75b6b21e5d52f15e24555854d61669a7a223008a52f5022f595ba386",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-r128762951-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Three final views inspected: mapped shape and modeled relief intact. Repeated facade, height and entry remain explicit map-based inference without matched building photograph.",
+      "fullPhotoAcceptance": false
+    },
+    {
+      "id": "pudong-way-r129809231",
+      "sha256": "93d5f53c14764fd721fb6174ecf8f9fe11ecc1826fb7f5d729264e43ddb131ce",
+      "image": "public/streets/districts/pudong/review/detail-pudong-way-r129809231-2026-09-09T132124719Z.png",
+      "viewed": true,
+      "viewsViewed": [
+        "corner-a",
+        "corner-b",
+        "street-detail"
+      ],
+      "result": "geometry-readback-reviewed; no full photo acceptance",
+      "observations": "Two shoulders, recess, dark high louvres and concave crown visible. Low north-west podium remains photo-unverified.",
+      "fullPhotoAcceptance": false
+    }
+  ],
+  "previousRounds": [
+    {
+      "updatedAt": "2026-09-09T13:11:13.543917+00:00",
+      "models": [
+        {
+          "id": "pudong-way-164957811",
+          "sha256": "92e99ea45e4e578ef2c6f81179fe3f9cd7cb54d928754fe1eaa3f721778311f8",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-164957811-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "correction-required",
+          "observations": "Non-planar lower sleeve roof: geometry correction queued",
+          "fullPhotoAcceptance": false
+        },
+        {
+          "id": "pudong-way-164971470",
+          "sha256": "de5740ef0320fd3c2246e6e8fae4fc5bc4a09433dd696df2caf3d54bb417e914",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-164971470-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "geometry-present; photo fidelity remains bounded",
+          "observations": "GLB imports successfully; exterior, roof and facade relief visible in three views; reference-free facade arrangement remains inferred.",
+          "fullPhotoAcceptance": false
+        },
+        {
+          "id": "pudong-way-165168180",
+          "sha256": "9960e92044ac3056f498132d8bb0b7b050f76192cd93397c5fb723b3abb1c765",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-165168180-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "correction-required",
+          "observations": "Oversized generic glass openings: solid masonry correction queued",
+          "fullPhotoAcceptance": false
+        },
+        {
+          "id": "pudong-way-166544770",
+          "sha256": "e13e26fcfacdb8aa7d3a789c35f95e281d87487ca85811f0b2f5d0f39516119f",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-166544770-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "geometry-present; photo fidelity remains bounded",
+          "observations": "GLB imports successfully; exterior, roof and facade relief visible in three views; reference-free facade arrangement remains inferred.",
+          "fullPhotoAcceptance": false
+        },
+        {
+          "id": "pudong-way-427786590",
+          "sha256": "6361b435d2d9da3f706b90e9340b81736c5b71020300c31babfa17b7c9e7dcf2",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-427786590-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "geometry-present; photo fidelity remains bounded",
+          "observations": "GLB imports successfully; exterior, roof and facade relief visible in three views; reference-free facade arrangement remains inferred.",
+          "fullPhotoAcceptance": false
+        },
+        {
+          "id": "pudong-way-948045836",
+          "sha256": "bc86e9c1ccfd00d7327ef3a657e1bdd9851f168fc45733eed73b95f7d2da4346",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-948045836-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "geometry-present; photo fidelity remains bounded",
+          "observations": "GLB imports successfully; exterior, roof and facade relief visible in three views; reference-free facade arrangement remains inferred.",
+          "fullPhotoAcceptance": false
+        },
+        {
+          "id": "pudong-way-956369945",
+          "sha256": "79d9cf81a749428eedd8524bfa780b893d0bcd641fdd903f9696cdbc90ef1a9e",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-956369945-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "geometry-present; photo fidelity remains bounded",
+          "observations": "GLB imports successfully; exterior, roof and facade relief visible in three views; reference-free facade arrangement remains inferred.",
+          "fullPhotoAcceptance": false
+        },
+        {
+          "id": "pudong-way-956369946",
+          "sha256": "80efa84950452950ae110a1a0a21d63713fba5448e30cf8c5662aafbdde9167d",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-956369946-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "geometry-present; photo fidelity remains bounded",
+          "observations": "GLB imports successfully; exterior, roof and facade relief visible in three views; reference-free facade arrangement remains inferred.",
+          "fullPhotoAcceptance": false
+        },
+        {
+          "id": "pudong-way-956369947",
+          "sha256": "d9f3de54faf739cf71c0f29927b3a322d5fe54b397a2c3299a4df0c80ca47246",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-956369947-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "geometry-present; photo fidelity remains bounded",
+          "observations": "GLB imports successfully; exterior, roof and facade relief visible in three views; reference-free facade arrangement remains inferred.",
+          "fullPhotoAcceptance": false
+        },
+        {
+          "id": "pudong-way-956369948",
+          "sha256": "732c0f481f61ce283d8916048e7c1715f2113efed33690b9e34d62c314957d15",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-956369948-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "geometry-present; photo fidelity remains bounded",
+          "observations": "GLB imports successfully; exterior, roof and facade relief visible in three views; reference-free facade arrangement remains inferred.",
+          "fullPhotoAcceptance": false
+        },
+        {
+          "id": "pudong-way-956369949",
+          "sha256": "5158a03eefd8ec230f45e772999a67042126272d7899dee2e417e8747d6e2a36",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-956369949-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "geometry-present; photo fidelity remains bounded",
+          "observations": "GLB imports successfully; exterior, roof and facade relief visible in three views; reference-free facade arrangement remains inferred.",
+          "fullPhotoAcceptance": false
+        },
+        {
+          "id": "pudong-way-956369950",
+          "sha256": "1931dfd2e6174a5968ebd3f40c32cfba96cc65bc8030beef45eda693495ee087",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-956369950-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "geometry-present; photo fidelity remains bounded",
+          "observations": "GLB imports successfully; exterior, roof and facade relief visible in three views; reference-free facade arrangement remains inferred.",
+          "fullPhotoAcceptance": false
+        },
+        {
+          "id": "pudong-way-956369951",
+          "sha256": "e0695c715f3ca04492df743f4c09aab4cb2eebcc279d5eaff8c0b8d5ad48a3cc",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-956369951-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "geometry-present; photo fidelity remains bounded",
+          "observations": "GLB imports successfully; exterior, roof and facade relief visible in three views; reference-free facade arrangement remains inferred.",
+          "fullPhotoAcceptance": false
+        },
+        {
+          "id": "pudong-way-957451684",
+          "sha256": "4db63b7242a862d48e2d20e6fa3cab372b8a759d3c5715ac05c5880ffe8698ed",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-957451684-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "geometry-present; photo fidelity remains bounded",
+          "observations": "GLB imports successfully; exterior, roof and facade relief visible in three views; reference-free facade arrangement remains inferred.",
+          "fullPhotoAcceptance": false
+        },
+        {
+          "id": "pudong-way-957451686",
+          "sha256": "5befaa0891912d8b3aecaa63e18f47755216cf0783f100909ded525a00afc6e5",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-957451686-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "geometry-present; photo fidelity remains bounded",
+          "observations": "GLB imports successfully; exterior, roof and facade relief visible in three views; reference-free facade arrangement remains inferred.",
+          "fullPhotoAcceptance": false
+        },
+        {
+          "id": "pudong-way-957451695",
+          "sha256": "7ed7450a013224c869becfb474ad7042654ee77ba933c950b9c734ce364f7683",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-957451695-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "geometry-present; photo fidelity remains bounded",
+          "observations": "GLB imports successfully; exterior, roof and facade relief visible in three views; reference-free facade arrangement remains inferred.",
+          "fullPhotoAcceptance": false
+        },
+        {
+          "id": "pudong-way-957456630",
+          "sha256": "e253d71ddff06145ed5fc64cfe110c8cd8e39482766a61c485edf231dd948e9d",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-957456630-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "geometry-present; photo fidelity remains bounded",
+          "observations": "GLB imports successfully; exterior, roof and facade relief visible in three views; reference-free facade arrangement remains inferred.",
+          "fullPhotoAcceptance": false
+        },
+        {
+          "id": "pudong-way-961656405",
+          "sha256": "2ae202e29cd3488fcd4b5c3cc6fb6c86c634f6f93bf717c1975e9499484413dc",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-961656405-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "geometry-present; photo fidelity remains bounded",
+          "observations": "GLB imports successfully; exterior, roof and facade relief visible in three views; reference-free facade arrangement remains inferred.",
+          "fullPhotoAcceptance": false
+        },
+        {
+          "id": "pudong-way-965047353",
+          "sha256": "4574ade8ced1567d62924eab880fbf3369426beffe7ffc2e3476e72ba04ebeae",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-965047353-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "geometry-present; photo fidelity remains bounded",
+          "observations": "GLB imports successfully; exterior, roof and facade relief visible in three views; reference-free facade arrangement remains inferred.",
+          "fullPhotoAcceptance": false
+        },
+        {
+          "id": "pudong-way-r128762951",
+          "sha256": "6facaeba75b6b21e5d52f15e24555854d61669a7a223008a52f5022f595ba386",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-r128762951-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "geometry-present; photo fidelity remains bounded",
+          "observations": "GLB imports successfully; exterior, roof and facade relief visible in three views; reference-free facade arrangement remains inferred.",
+          "fullPhotoAcceptance": false
+        },
+        {
+          "id": "pudong-way-r129809231",
+          "sha256": "93d5f53c14764fd721fb6174ecf8f9fe11ecc1826fb7f5d729264e43ddb131ce",
+          "image": "public/streets/districts/pudong/review/detail-pudong-way-r129809231-2026-09-09T130606399Z.png",
+          "viewed": true,
+          "viewsViewed": [
+            "corner-a",
+            "corner-b",
+            "street-detail"
+          ],
+          "result": "geometry-present; photo fidelity remains bounded",
+          "observations": "GLB imports successfully; exterior, roof and facade relief visible in three views; reference-free facade arrangement remains inferred.",
+          "fullPhotoAcceptance": false
+        }
+      ],
+      "rule": "Manual source comparison does not make unphotographed mapped parts verified."
+    }
+  ],
+  "manualInspectionMethod": "view_image of every individual final PNG, each containing three genuine GLB-rendered views",
+  "rule": "Photo-unverified mapped ways remain false."
+}

@@ -1,0 +1,264 @@
+{
+  "source": "https://sketchfab.com/3d-models/2024-byd-atto-2-2e04b67017ed49e982a1f0737eb7f0ae",
+  "author": "Ddiaz Design",
+  "license": "CC-BY-NC-SA-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "format": "original FBX ZIP",
+  "bytes": 21068668,
+  "sha256": "67e74aae0e03c6d7298e6179de56affc9a4447cb26539ee8cae133584be1034c",
+  "archiveEntries": [
+    "source/Final_Model_Atto2.zip",
+    "textures/but.png",
+    "textures/speaker.png",
+    "textures/perf.png",
+    "textures/perf_N.png",
+    "textures/carpet_N.png",
+    "textures/exterior.png",
+    "textures/but_M.png",
+    "textures/buttons.png",
+    "textures/dots_N.png",
+    "textures/seatB.png",
+    "textures/atlas.png",
+    "textures/LeatherDF.png",
+    "textures/Exterior_N.png",
+    "textures/Leather_N.png",
+    "textures/cap.png",
+    "textures/plastic_N.png",
+    "textures/emissive.png",
+    "textures/tire_N.png",
+    "textures/SeatB_N.png",
+    "textures/emissive.png",
+    "textures/tire.png",
+    "textures/butN.png",
+    "textures/dots_df.png",
+    "textures/CarPaint_AO.png"
+  ],
+  "note": "Downloaded through authenticated Chrome UI; temporary Downloads copy removed only after SHA-256 and ZIP validation.",
+  "id": "yuan-up",
+  "displayedYear": 2025,
+  "downloadTitleYear": 2024,
+  "versionExplanation": "2025 ATTO 2 overseas appearance sharing Yuan UP body; source title uses 2024, while official Europe launch is 2025-02-07.",
+  "officialVehicleReference": "https://www.byd.com/eu/electric-cars/atto-2",
+  "officialYearEvidence": "https://media.byd.com/byd-introduces-atto-2-compact-suv-in-europe/?lang=eng",
+  "officialPhotos": [
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/l/byd-atto2-exterior-01-l.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-01-l.jpg",
+      "bytes": 143277,
+      "sha256": "4791ca4cec19933f72e56754dcb8ad18b94c42c1b71b0389019ed15f4cdfc280"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/l/byd-atto2-exterior-02-l.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-02-l.jpg",
+      "bytes": 69862,
+      "sha256": "bb6e43aaceb5d39ab3beb32cb0bb4269a639e8722ca16db6094af44ffb7a43f3"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/l/byd-atto2-exterior-03-l.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-03-l.jpg",
+      "bytes": 98547,
+      "sha256": "fe58648cadb9ed46b92d7579095b11bdfbdfed3c6d7c073fb776de07e846623a"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/l/byd-atto2-exterior-04-black-l.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-04-black-l.jpg",
+      "bytes": 164948,
+      "sha256": "4aa57bb93f04eb17f6693a7e215f76a8125bcdd802cae9064702592df13a347e"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/l/byd-atto2-exterior-04-green-l.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-04-green-l.jpg",
+      "bytes": 164766,
+      "sha256": "a9068898e0b22e6fade61ee1737751b212a165c8b3ed769ad41555bf78b67bdd"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/l/byd-atto2-exterior-04-grey-l.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-04-grey-l.jpg",
+      "bytes": 166815,
+      "sha256": "558f8d484d23c37762cba816b5d0d647f71d5462a741390375e238e899e1fc49"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/l/byd-atto2-exterior-04-white-l.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-04-white-l.jpg",
+      "bytes": 174283,
+      "sha256": "a0c967e9310436b5a34a691dfc437f77c9087ac32ac5bd419574697d82b32552"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/m/byd-atto2-exterior-01-m.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-01-m.jpg",
+      "bytes": 98922,
+      "sha256": "092c4725e669ae4714b61d16b3386d0f566240f74249b2106a5d31ebaa4f6404"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/m/byd-atto2-exterior-02-m.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-02-m.jpg",
+      "bytes": 36792,
+      "sha256": "e34105b67368def9b0eee89e68cc85f1001d51a9a0a083677fa55799d2bc6103"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/m/byd-atto2-exterior-03-m.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-03-m.jpg",
+      "bytes": 52092,
+      "sha256": "5f6906431f4aa20094c30231b6cdf27e56bf2c66c740cc1b6f879178a2e41da1"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/m/byd-atto2-exterior-04-black-m.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-04-black-m.jpg",
+      "bytes": 91684,
+      "sha256": "97ccd7ca37a5545418a744b23f30972bdc286b5b4f0407bd98ff22a865c6e156"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/m/byd-atto2-exterior-04-green-m.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-04-green-m.jpg",
+      "bytes": 94486,
+      "sha256": "65e9311993b4df8366d626465dc9edd49f6f8d3e84943b66f627dd54079234ec"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/m/byd-atto2-exterior-04-grey-m.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-04-grey-m.jpg",
+      "bytes": 91684,
+      "sha256": "97ccd7ca37a5545418a744b23f30972bdc286b5b4f0407bd98ff22a865c6e156"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/m/byd-atto2-exterior-04-white-m.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-04-white-m.jpg",
+      "bytes": 97790,
+      "sha256": "1b85f3a52464a8ff9464862552625bc3380cbeef633ec808f5e03feb6146ea65"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/s/byd-atto2-exterior-01-s.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-01-s.jpg",
+      "bytes": 80731,
+      "sha256": "be6d7de9301f01e78b1a088fff6edc768a4ff49184416635932a9aca5a1a3511"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/s/byd-atto2-exterior-02-s.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-02-s.jpg",
+      "bytes": 52092,
+      "sha256": "5f6906431f4aa20094c30231b6cdf27e56bf2c66c740cc1b6f879178a2e41da1"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/s/byd-atto2-exterior-03-s.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-03-s.jpg",
+      "bytes": 36792,
+      "sha256": "e34105b67368def9b0eee89e68cc85f1001d51a9a0a083677fa55799d2bc6103"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/s/byd-atto2-exterior-04-black-s.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-04-black-s.jpg",
+      "bytes": 79737,
+      "sha256": "1ef3762b7052f3f4354b30b2e862587e1587a167585b4e9b4151cc60e70eda7d"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/s/byd-atto2-exterior-04-green-s.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-04-green-s.jpg",
+      "bytes": 81877,
+      "sha256": "71be563b0d8871aa1cf2008c34221508e83d542815ffdbb174594b5eb89decbb"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/s/byd-atto2-exterior-04-grey-s.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-04-grey-s.jpg",
+      "bytes": 78563,
+      "sha256": "92844ebb0b5289723f54572bb64ef3e7ea9cc6ea9dc416802846e602ad60b7e1"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/s/byd-atto2-exterior-04-white-s.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-04-white-s.jpg",
+      "bytes": 84398,
+      "sha256": "2d8146f50c2c802ef4c80bf995f4d3a280235137c80be720ef968ae0d2d8691c"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/xl/byd-atto2-exterior-01-xl.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-01-xl.jpg",
+      "bytes": 143277,
+      "sha256": "4791ca4cec19933f72e56754dcb8ad18b94c42c1b71b0389019ed15f4cdfc280"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/xl/byd-atto2-exterior-02-xl.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-02-xl.jpg",
+      "bytes": 69862,
+      "sha256": "bb6e43aaceb5d39ab3beb32cb0bb4269a639e8722ca16db6094af44ffb7a43f3"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/xl/byd-atto2-exterior-03-xl.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-03-xl.jpg",
+      "bytes": 98547,
+      "sha256": "fe58648cadb9ed46b92d7579095b11bdfbdfed3c6d7c073fb776de07e846623a"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/xl/byd-atto2-exterior-04-black-xl.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-04-black-xl.jpg",
+      "bytes": 165152,
+      "sha256": "16a874bce02d8b42992e8fe9cce8b7efff945b9cde513d858f47f08609f27055"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/xl/byd-atto2-exterior-04-green-xl.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-04-green-xl.jpg",
+      "bytes": 164970,
+      "sha256": "b21b90bdbd1b42b27c443f7fd9a53e6664a6e3cc6bb86f76ad552b299a05768f"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/xl/byd-atto2-exterior-04-grey-xl.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-04-grey-xl.jpg",
+      "bytes": 167019,
+      "sha256": "7a72463544efae323e3ac3b5ef23c609f5bf17dc240d26a03571d3dd74181cc0"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/xl/byd-atto2-exterior-04-white-xl.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-04-white-xl.jpg",
+      "bytes": 174487,
+      "sha256": "aa63fcf2f014105928d0813eabe20042cb9a9e7ea220c7da1780aa8ad372e2c7"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/xs/byd-atto2-exterior-01-xs.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-01-xs.jpg",
+      "bytes": 38380,
+      "sha256": "fe11c30aab39067b54ef4d0b92f159fb2ff065f2c305884a6533128cacdb1f10"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/xs/byd-atto2-exterior-02-xs.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-02-xs.jpg",
+      "bytes": 31756,
+      "sha256": "36a05482a4c93c27ccda4dbd1d3b2aa9006bda903f20bb96d11325842b4bfe8e"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/xs/byd-atto2-exterior-03-xs.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-03-xs.jpg",
+      "bytes": 49528,
+      "sha256": "2eb5447295aa53cfa5088bd217952f50f1a92d1a24b09a6716222b8f909f9f4d"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/xs/byd-atto2-exterior-04-black-xs.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-04-black-xs.jpg",
+      "bytes": 24488,
+      "sha256": "e3d06239059a67415a882c4a29567512ded5ca3b434d9e94901c814117407f86"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/xs/byd-atto2-exterior-04-green-xs.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-04-green-xs.jpg",
+      "bytes": 30525,
+      "sha256": "0e2dd8276926246c3503470f5e0fbbd4a35b7d88d602be5dc522d297179e4198"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/xs/byd-atto2-exterior-04-grey-xs.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-04-grey-xs.jpg",
+      "bytes": 24925,
+      "sha256": "89cfea30e65dca460224275438ce52676b62649939d18916d70553894ec8b17d"
+    },
+    {
+      "url": "https://www.byd.com/material/byd-site/eu/electric-cars/atto-2/xs/byd-atto2-exterior-04-white-xs.jpg",
+      "file": "assets/vehicles/suv-exteriors/yuan-up/references/byd-atto2-exterior-04-white-xs.jpg",
+      "bytes": 30967,
+      "sha256": "f76e81ae76b87ace58006c39b97081aa7b399e50c45c5c874e5617b8c8511100"
+    }
+  ],
+  "extractionReport": "assets/vehicles/suv-exteriors/yuan-up/source/extraction-report.json",
+  "referencePhotoUse": "Visual comparison only; excluded from runtime GLB",
+  "adaptationLicense": "CC-BY-NC-SA-4.0; author credit, non-commercial and share-alike requirements retained",
+  "reviewedPhotoFiles": [
+    "byd-atto2-exterior-01-xl.jpg",
+    "byd-atto2-exterior-02-xl.jpg",
+    "byd-atto2-exterior-03-xl.jpg",
+    "byd-atto2-exterior-04-green-xl.jpg"
+  ]
+}

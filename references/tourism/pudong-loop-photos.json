@@ -1,0 +1,2037 @@
+[
+  {
+    "id": "one-lujiazui-front",
+    "file": "assets/streets/pudong-loop-references/one-lujiazui-front.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:C108_One_Lujiazui.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/C108_One_Lujiazui.jpg",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/User:Ferox_Seneca\" title=\"User:Ferox Seneca\">Ferox Seneca</a>",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "This is a closeup of One Lujiazui, formerly the Development Tower, in downtown Shanghai.",
+    "date": "2012-08-31 18:01:36",
+    "width": 1604,
+    "height": 3283,
+    "bytes": 5029317,
+    "sha256": "a64cc31d6160228b3150e68dce1201d9434dd1a52b5dc0ca98d7135096d378a0",
+    "candidateWayIds": [
+      -129810530
+    ],
+    "viewed": true,
+    "usage": "Pending visual inspection; not yet geometry authority",
+    "wayIds": [
+      -129810530
+    ],
+    "observations": [
+      "Two outward glass wings rise above recessed central facade; one side sloped crown.",
+      "Fine silver mullions, dark recessed horizontal shelf bands."
+    ],
+    "limitations": [
+      "Street entrances outside image crop."
+    ],
+    "viewedAt": "2026-09-09T09:02:39.002758+00:00",
+    "geometryReference": true,
+    "photograph": true
+  },
+  {
+    "id": "one-lujiazui-back",
+    "file": "assets/streets/pudong-loop-references/one-lujiazui-back.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:20191114_One_Lujiazui_from_Shanghai_Tower-9.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/20191114_One_Lujiazui_from_Shanghai_Tower-9.jpg",
+    "author": "<div class=\"fn value\">\n<a href=\"//commons.wikimedia.org/wiki/User:Balon_Greyjoy\" title=\"User:Balon Greyjoy\">Balon Greyjoy</a></div>",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "description": "<div class=\"description\">\nThe Lujiazui district viewed from the Shanghai Tower.</div>",
+    "date": "14 November 2019, 14:11",
+    "width": 653,
+    "height": 1379,
+    "bytes": 847233,
+    "sha256": "421dec465132921733f8de46dd2031fe69abed0bcc8d29fec825714db9c181ba",
+    "candidateWayIds": [
+      -129810530
+    ],
+    "viewed": true,
+    "usage": "Pending visual inspection; not yet geometry authority",
+    "wayIds": [
+      -129810530,
+      -129810531,
+      -129810532
+    ],
+    "observations": [
+      "Open curved/sloped rooftop structural crown, curved entrance pavilion and repeated white projecting ribs on both podium sides."
+    ],
+    "limitations": [
+      "Exact measurements and concealed east podium roof not resolved."
+    ],
+    "viewedAt": "2026-09-09T09:02:39.002859+00:00",
+    "geometryReference": true,
+    "photograph": true
+  },
+  {
+    "id": "lujiazui-insurance-merchants",
+    "file": "assets/streets/pudong-loop-references/lujiazui-insurance-merchants.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Minor_skyscrapers_in_Lujiazui,_Shanghai_as_seen_from_Lujiazui_Pedestrian_Bridge_20120602_1.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Minor_skyscrapers_in_Lujiazui%2C_Shanghai_as_seen_from_Lujiazui_Pedestrian_Bridge_20120602_1.jpg/1920px-Minor_skyscrapers_in_Lujiazui%2C_Shanghai_as_seen_from_Lujiazui_Pedestrian_Bridge_20120602_1.jpg",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/User:DXR\" title=\"User:DXR\">DXR</a>",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Several minor skyscrapers in the Lujiazui area of Pudong, Shanghai. From left to right: World Financial Mansion, China Merchants Tower, China Development Bank Tower, China Development Bank Tower, Shanghai Stock Exchange Building, China Insurance Building, Standard Chartered Building, Pudong International Information Port",
+    "date": "2012-06-02",
+    "bytes": 746723,
+    "sha256": "99e4a726f55fb02c0ca3e11c00d7476994fc665cd4151e1205610072b9b2cd57",
+    "candidateWayIds": [
+      135840678,
+      164972436
+    ],
+    "viewed": true,
+    "wayIds": [
+      135840678,
+      164972436,
+      -128821601
+    ],
+    "geometryReference": true,
+    "photograph": true,
+    "observations": [
+      "Chinese Insurance narrow pale stone tower with vertical fluted piers and short horizontal crown bands.",
+      "China Merchants left center has cyan windows and silver bands, round upper tower and lattice pyramid.",
+      "Standard Chartered warm stone vertical stripes on right."
+    ],
+    "limitations": [
+      "Ground entrances hidden by pedestrian bridge and trees.",
+      "2012 photograph; signs may have changed."
+    ]
+  },
+  {
+    "id": "golden-bank-shanghai",
+    "file": "assets/streets/pudong-loop-references/golden-bank-shanghai.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bank_of_Shanghai_building_and_Golden_Landmark_buildning,_Lujiazui,_Shanghai_(Oct._2025).jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Bank_of_Shanghai_building_and_Golden_Landmark_buildning%2C_Lujiazui%2C_Shanghai_%28Oct._2025%29.jpg",
+    "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Bechology&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Bechology (page does not exist)\">Bechology</a>",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "description": "​位于上海陆家嘴的上海银行大厦和黄金置地大厦。",
+    "date": "2025-10-31 12:13:40",
+    "width": 3213,
+    "height": 5712,
+    "bytes": 3976507,
+    "sha256": "2c103566214d1a1738e5b23d947f458919505beb4b3e70bbad9f2e63446d1ef0",
+    "candidateWayIds": [
+      164903482
+    ],
+    "viewed": true,
+    "usage": "Pending visual inspection; not yet geometry authority",
+    "wayIds": [
+      164903482,
+      967281056
+    ],
+    "observations": [
+      "Golden Landmark is pale stone with vertically grouped dark windows, stepped arched upper windows, pyramid roof and lantern.",
+      "Kempinski right background has curved green glass facade and dark vertical recess."
+    ],
+    "limitations": [
+      "Ground entries obscured by tunnel and trees; Kempinski visible distant elevation only."
+    ],
+    "viewedAt": "2026-09-09T09:02:39.002862+00:00",
+    "geometryReference": true,
+    "photograph": true
+  },
+  {
+    "id": "merchants-full",
+    "file": "assets/streets/pudong-loop-references/merchants-full.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shanghai_Merchants_Tower.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Shanghai_Merchants_Tower.jpg/1920px-Shanghai_Merchants_Tower.jpg",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/User:Ferox_Seneca\" title=\"User:Ferox Seneca\">Ferox Seneca</a>",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "This is the Shanghai Merchants Tower, located in downtown Shanghai. It doesn't have an article yet, but perhaps someone will create one?",
+    "date": "2012-08-31 17:38:14",
+    "bytes": 1826926,
+    "sha256": "2a299378f3439daa1a0a50f852d70f9fe441dc936b7328ab92806a0616277bd7",
+    "candidateWayIds": [
+      164972436
+    ],
+    "viewed": true,
+    "wayIds": [
+      164972436,
+      135840678
+    ],
+    "geometryReference": true,
+    "photograph": true,
+    "observations": [
+      "Merchants close front corner shows wide silver floor bands, inset center glazing and round top with white pyramid frame.",
+      "Insurance on right has vertically carved pale stone piers."
+    ],
+    "limitations": [
+      "Entrances obscured by trees; exact backside layout unseen."
+    ]
+  },
+  {
+    "id": "shangrila-front",
+    "file": "assets/streets/pudong-loop-references/shangrila-front.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shangri-La_Pudong.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Shangri-La_Pudong.JPG/1920px-Shangri-La_Pudong.JPG",
+    "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Livelikerw&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Livelikerw (page does not exist)\">Livelikerw</a>",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "​浦东香格里拉大酒店",
+    "date": "2014-01-14 15:18:11",
+    "bytes": 1131674,
+    "sha256": "3e2da5a55f1389c911218421ca50555e43ea1c17eaa9747d500d3322cc1eec71",
+    "candidateWayIds": [
+      281583582
+    ],
+    "viewed": true,
+    "wayIds": [],
+    "geometryReference": false,
+    "photograph": true,
+    "observations": [
+      "Photo includes brown River Wing in front and green folded glass Grand Tower behind."
+    ],
+    "limitations": [
+      "OSM way 281583582 identity between hotel wings not yet verified; do not match brown wing to all hotel parts."
+    ]
+  },
+  {
+    "id": "foxconn-01",
+    "file": "assets/streets/pudong-loop-references/foxconn-01.jpg",
+    "sourceUrl": "https://www.studioszphoto.com/commissions-architectural-photography-china/foxconn-shanghai-hq",
+    "downloadUrl": "https://images.squarespace-cdn.com/content/v1/65deeb1cd6982d25a348d2a0/1720316915822-T337XSRBXG603IZJ4AY5/Foxconn+HQ+Shanghai+Kris+Yao+Artech+39.jpg",
+    "author": "StudioSZ Photo / Justin Szeremeta",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "description": "foxconn hq shanghai office tower kris yao artech",
+    "candidateWayIds": [
+      165985305
+    ],
+    "viewed": true,
+    "bytes": 355892,
+    "sha256": "e1d2277deaa395b22dab343dc145c746ce5afb46b59556972806e3617c003146",
+    "wayIds": [
+      165985305,
+      164905211,
+      967281056
+    ],
+    "observations": [
+      "Foxconn has recessed central joints, four glass volumes and V folded glazing.",
+      "DBS neighbouring black bronze horizontal shelf bands and two rooftop DBS nameplates.",
+      "Kempinski background narrow curving green glass crown."
+    ],
+    "limitations": [
+      "DBS entrance hidden by trees; never use as front entrance verification."
+    ],
+    "viewedAt": "2026-09-09T09:02:39.002864+00:00",
+    "geometryReference": true,
+    "photograph": true
+  },
+  {
+    "id": "foxconn-02",
+    "file": "assets/streets/pudong-loop-references/foxconn-02.jpg",
+    "sourceUrl": "https://www.studioszphoto.com/commissions-architectural-photography-china/foxconn-shanghai-hq",
+    "downloadUrl": "https://images.squarespace-cdn.com/content/v1/65deeb1cd6982d25a348d2a0/aff4df3c-c3a0-470d-9dd5-a6823fdbf2bf/Foxconn+HQ+Shanghai+Kris+Yao+Artech+02.jpg",
+    "author": "StudioSZ Photo / Justin Szeremeta",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "description": "foxconn headquarters shanghai drone kris yao artech",
+    "candidateWayIds": [
+      165985305
+    ],
+    "viewed": true,
+    "bytes": 419987,
+    "sha256": "e19c9ed081c769589401bec0e8f1fe1f8b8813aa09bd046340a65549d73ea0da",
+    "wayIds": [
+      165985305
+    ],
+    "observations": [
+      "Aerial confirms square tower with central deep recess, lower podium terrace garden on river side."
+    ],
+    "limitations": [
+      "No street door details."
+    ],
+    "viewedAt": "2026-09-09T09:02:39.002866+00:00",
+    "geometryReference": true,
+    "photograph": true
+  },
+  {
+    "id": "foxconn-04",
+    "file": "assets/streets/pudong-loop-references/foxconn-04.jpg",
+    "sourceUrl": "https://www.studioszphoto.com/commissions-architectural-photography-china/foxconn-shanghai-hq",
+    "downloadUrl": "https://images.squarespace-cdn.com/content/v1/65deeb1cd6982d25a348d2a0/68de6e18-b35c-4dc3-a3d0-735120f256a4/Foxconn+HQ+Shanghai+Kris+Yao+Artech+04.jpg",
+    "author": "StudioSZ Photo / Justin Szeremeta",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "description": "foxconn headquarters shanghai drone green roof garden",
+    "candidateWayIds": [
+      165985305
+    ],
+    "viewed": true,
+    "bytes": 497432,
+    "sha256": "f770a9f4230128f3676aee47c476770c1bf48e2ecee17810e832cfdc4c3faa8c",
+    "wayIds": [
+      165985305
+    ],
+    "observations": [
+      "Terrace garden with paired rectangular planters, cross shaped paving, glass balustrade and recessed tower slot."
+    ],
+    "limitations": [],
+    "viewedAt": "2026-09-09T09:02:39.002868+00:00",
+    "geometryReference": true,
+    "photograph": true
+  },
+  {
+    "id": "foxconn-06",
+    "file": "assets/streets/pudong-loop-references/foxconn-06.jpg",
+    "sourceUrl": "https://www.studioszphoto.com/commissions-architectural-photography-china/foxconn-shanghai-hq",
+    "downloadUrl": "https://images.squarespace-cdn.com/content/v1/65deeb1cd6982d25a348d2a0/f381b0c6-5283-422b-9701-ab275681d290/Foxconn+HQ+Shanghai+Kris+Yao+Artech+36.jpg",
+    "author": "StudioSZ Photo / Justin Szeremeta",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "description": "foxconn shanghai hq lujiazui street view kris yao artech",
+    "candidateWayIds": [
+      165985305
+    ],
+    "viewed": true,
+    "bytes": 423044,
+    "sha256": "f27725cc0645e7067d4e155dd72df007aeec9bb0b127fe8c31c6e14f24dc40a0",
+    "wayIds": [
+      165985305,
+      164905211
+    ],
+    "observations": [
+      "South street front and setback entrance plaza visible; symmetric inclined curtain wall folds either side of deep center recess.",
+      "DBS side has strong dark horizontal floor bands and fine vertical silver mullions."
+    ],
+    "limitations": [
+      "Trees obscure lower Foxconn entrance width."
+    ],
+    "viewedAt": "2026-09-09T09:02:39.002869+00:00",
+    "geometryReference": true,
+    "photograph": true
+  },
+  {
+    "id": "foxconn-07",
+    "file": "assets/streets/pudong-loop-references/foxconn-07.jpg",
+    "sourceUrl": "https://www.studioszphoto.com/commissions-architectural-photography-china/foxconn-shanghai-hq",
+    "downloadUrl": "https://images.squarespace-cdn.com/content/v1/65deeb1cd6982d25a348d2a0/cfc6bf14-b95c-4228-b4e1-04ab76a31d1c/Foxconn+HQ+Shanghai+Kris+Yao+Artech+16.jpg",
+    "author": "StudioSZ Photo / Justin Szeremeta",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "description": "foxconn shanghai hq glass facade detail",
+    "candidateWayIds": [
+      165985305
+    ],
+    "viewed": true,
+    "bytes": 260917,
+    "sha256": "b8700ee71927fbca5adae63d2c528ac6805fda0f46f9a78e295e878681552be8",
+    "wayIds": [
+      165985305
+    ],
+    "observations": [
+      "Close detail shows tilted outer panes with folded depth, thin silver edge extrusions, thin dark floor joints, setback terrace glass railing."
+    ],
+    "limitations": [
+      "Reflection is not a second building part."
+    ],
+    "viewedAt": "2026-09-09T09:02:39.002871+00:00",
+    "geometryReference": true,
+    "photograph": true
+  },
+  {
+    "id": "foxconn-08",
+    "file": "assets/streets/pudong-loop-references/foxconn-08.jpg",
+    "sourceUrl": "https://www.studioszphoto.com/commissions-architectural-photography-china/foxconn-shanghai-hq",
+    "downloadUrl": "https://images.squarespace-cdn.com/content/v1/65deeb1cd6982d25a348d2a0/6b4e5af5-9e5b-4ab3-9db6-1d31dbc8d70c/Foxconn+HQ+Shanghai+Kris+Yao+Artech+15.jpg",
+    "author": "StudioSZ Photo / Justin Szeremeta",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "description": "foxconn shanghai hq glass facade detail",
+    "candidateWayIds": [
+      165985305
+    ],
+    "viewed": true,
+    "bytes": 406778,
+    "sha256": "cc2236a7c2c9ecb738f51f4864f62e4f72cedeed5e2b9b1f7f25a6596e4d2eea",
+    "wayIds": [
+      165985305
+    ],
+    "observations": [
+      "Faceted glass reflection broken at physical double skin folds; silver slanted joints."
+    ],
+    "limitations": [
+      "Oriental Pearl is reflection only; not footprint evidence."
+    ],
+    "viewedAt": "2026-09-09T09:02:39.002873+00:00",
+    "geometryReference": true,
+    "photograph": true
+  },
+  {
+    "id": "foxconn-10",
+    "file": "assets/streets/pudong-loop-references/foxconn-10.jpg",
+    "sourceUrl": "https://www.studioszphoto.com/commissions-architectural-photography-china/foxconn-shanghai-hq",
+    "downloadUrl": "https://images.squarespace-cdn.com/content/v1/65deeb1cd6982d25a348d2a0/c3e62b33-e0e8-41ca-a579-64393180510b/Foxconn+HQ+Shanghai+Kris+Yao+Artech+37.jpg",
+    "author": "StudioSZ Photo / Justin Szeremeta",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "description": "foxconn shanghai hq lujiazui street view kris yao artech",
+    "candidateWayIds": [
+      165985305
+    ],
+    "viewed": true,
+    "bytes": 313993,
+    "sha256": "8b88c5a325b24e1b1c5466c83567f122dbffed33f15cdedb5fede053067aae9c",
+    "wayIds": [
+      165985305,
+      164905211,
+      967281056
+    ],
+    "observations": [
+      "Different corner confirms tower four volumes and lower faceted podium.",
+      "DBS upper dark shelf cornices; Kempinski circular glass cap and recessed vertical division."
+    ],
+    "limitations": [
+      "Background buildings provide massing evidence only."
+    ],
+    "viewedAt": "2026-09-09T09:02:39.002874+00:00",
+    "geometryReference": true,
+    "photograph": true
+  },
+  {
+    "id": "foxconn-12",
+    "file": "assets/streets/pudong-loop-references/foxconn-12.jpg",
+    "sourceUrl": "https://www.studioszphoto.com/commissions-architectural-photography-china/foxconn-shanghai-hq",
+    "downloadUrl": "https://images.squarespace-cdn.com/content/v1/65deeb1cd6982d25a348d2a0/58fad3a1-dea9-4c3f-8111-1abf61292263/Foxconn+HQ+Shanghai+Kris+Yao+Artech+14.jpg",
+    "author": "StudioSZ Photo / Justin Szeremeta",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "description": "foxconn shanghai headquarters glass facade kris yao artech",
+    "candidateWayIds": [
+      165985305
+    ],
+    "viewed": true,
+    "bytes": 386482,
+    "sha256": "90fa17afa85de9de7f533e7b981a64f88b66865663c16ee3a66b88e1e227403c",
+    "wayIds": [
+      165985305
+    ],
+    "observations": [
+      "Side elevation close view: pairs of slender volumes separated by wide opaque metal vertical recess."
+    ],
+    "limitations": [
+      "Trees hide podium."
+    ],
+    "viewedAt": "2026-09-09T09:02:39.002876+00:00",
+    "geometryReference": true,
+    "photograph": true
+  },
+  {
+    "id": "mirae-044",
+    "file": "assets/streets/pudong-loop-references/mirae-044.jpg",
+    "sourceUrl": "https://www.zerafaarchitecture.com/mirae.html",
+    "downloadUrl": "https://www.zerafaarchitecture.com/img/MIRAE/MIRAE%20044.jpg",
+    "author": "Zerafa Architecture Studio / KPF; photography credit not supplied",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "description": "Mirae Asset Tower design architect project image",
+    "candidateWayIds": [
+      448242492
+    ],
+    "viewed": true,
+    "bytes": 957089,
+    "sha256": "3d35fd6a06382fe2dc91be9d023a97b86b479250945b0e85729f85003890fe6e",
+    "wayIds": [
+      448242492
+    ],
+    "observations": [
+      "Older river panorama confirms rounded glass tower proportion and pale cap."
+    ],
+    "limitations": [
+      "Old IFC construction; exclude other buildings from current-state evidence."
+    ],
+    "viewedAt": "2026-09-09T09:02:39.002878+00:00",
+    "geometryReference": true,
+    "photograph": true
+  },
+  {
+    "id": "mirae-001",
+    "file": "assets/streets/pudong-loop-references/mirae-001.jpg",
+    "sourceUrl": "https://www.zerafaarchitecture.com/mirae.html",
+    "downloadUrl": "https://www.zerafaarchitecture.com/img/MIRAE/MIRAE%20001.jpg",
+    "author": "Zerafa Architecture Studio / KPF; photography credit not supplied",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "description": "Mirae Asset Tower design architect project image",
+    "candidateWayIds": [
+      448242492
+    ],
+    "viewed": true,
+    "bytes": 264981,
+    "sha256": "3d408170916664bbe016caede4a7160f73ddbc838b9e37f51848f3b92352a801",
+    "wayIds": [],
+    "observations": [
+      "Architect concept rendering shows pillow cross section and crown."
+    ],
+    "limitations": [
+      "This is a design diagram, not an as-built photograph; exclude photo coverage."
+    ],
+    "viewedAt": "2026-09-09T09:02:39.002879+00:00",
+    "geometryReference": false,
+    "photograph": false
+  },
+  {
+    "id": "mirae-008",
+    "file": "assets/streets/pudong-loop-references/mirae-008.jpg",
+    "sourceUrl": "https://www.zerafaarchitecture.com/mirae.html",
+    "downloadUrl": "https://www.zerafaarchitecture.com/img/MIRAE/MIRAE%20008.jpg",
+    "author": "Zerafa Architecture Studio / KPF; photography credit not supplied",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "description": "Mirae Asset Tower design architect project image",
+    "candidateWayIds": [
+      448242492
+    ],
+    "viewed": true,
+    "bytes": 570835,
+    "sha256": "61fe710f42c2bd0283bd9b0bb0c149dc3c2d2dd4c3ae58565c1330c3e49e1e80",
+    "wayIds": [
+      448242492
+    ],
+    "observations": [
+      "Street exterior: rounded-square green glass shell, tight paired horizontal bands and pale rounded parapet."
+    ],
+    "limitations": [
+      "Trees conceal lower entrance."
+    ],
+    "viewedAt": "2026-09-09T09:02:39.002881+00:00",
+    "geometryReference": true,
+    "photograph": true
+  },
+  {
+    "id": "mirae-003",
+    "file": "assets/streets/pudong-loop-references/mirae-003.jpg",
+    "sourceUrl": "https://www.zerafaarchitecture.com/mirae.html",
+    "downloadUrl": "https://www.zerafaarchitecture.com/img/MIRAE/MIRAE%20003.jpg",
+    "author": "Zerafa Architecture Studio / KPF; photography credit not supplied",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "description": "Mirae Asset Tower design architect project image",
+    "candidateWayIds": [
+      448242492
+    ],
+    "viewed": true,
+    "bytes": 495814,
+    "sha256": "e04869ec29fcd673f940d0dbf9bac9583561307816158a570d9585acc0fe4a4d",
+    "wayIds": [
+      448242492
+    ],
+    "observations": [
+      "River-facing exterior, rounded plan and horizontal technical belts, white upper name sign."
+    ],
+    "limitations": [
+      "Old IFC construction in background; rooftop restaurant details not visible."
+    ],
+    "viewedAt": "2026-09-09T09:02:39.002882+00:00",
+    "geometryReference": true,
+    "photograph": true
+  },
+  {
+    "id": "regent-official",
+    "file": "assets/streets/pudong-loop-references/regent-official.jpg",
+    "sourceUrl": "https://www.ihgplc.com/en/news-and-media/news-releases/2020/ihg-to-open-first-regent-hotel-since-brand-acquisition",
+    "downloadUrl": "https://www.ihgplc.com/~/media/Images/I/Ihg-Plc/newsrelease_placeholder/regent-shanghai-pudong.jpg",
+    "author": "IHG",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "candidateWayIds": [
+      113520430,
+      956369929
+    ],
+    "viewed": true,
+    "bytes": 67107,
+    "sha256": "afc8eba9c0dd28a14e388a00ce8d30ba1202f1dfaf162ac0b2c3875d9f12f0e7",
+    "geometryReference": false,
+    "wayIds": [],
+    "photograph": true,
+    "observations": [
+      "Interior or decorative graphic; excludes exterior coverage."
+    ]
+  },
+  {
+    "id": "disney-clock",
+    "file": "assets/streets/pudong-loop-references/disney-clock.jpg",
+    "sourceUrl": "https://thewaltdisneycompany.com/news/new-clock-tower-debuts-at-shanghai-disney-store-plaza/",
+    "downloadUrl": "https://thewaltdisneycompany.com/app/uploads/Clock-Tower-Night-6-1.jpg",
+    "author": "The Walt Disney Company",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "candidateWayIds": [
+      427786590
+    ],
+    "viewed": true,
+    "bytes": 868947,
+    "sha256": "44be9cc7608d655804a0a6a9a3b27b72f129dce83a1d27ff144dfb4f1daeef23",
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      427786590
+    ],
+    "observations": [
+      "Curved concave bronze vertically ribbed shop front, broad display opening, transparent curved canopy on round steel columns.",
+      "18 m clock tower with lit faces, cornices, glazed shaft, sloped hat and metal orbital crown visible beside store."
+    ],
+    "limitations": [
+      "Clock center must be independently located before road-side placement.",
+      "Night lighting does not establish daylight paint exactly."
+    ]
+  },
+  {
+    "id": "disney-clock-detail",
+    "file": "assets/streets/pudong-loop-references/disney-clock-detail.jpg",
+    "sourceUrl": "https://thewaltdisneycompany.com/news/new-clock-tower-debuts-at-shanghai-disney-store-plaza/",
+    "downloadUrl": "https://thewaltdisneycompany.com/app/uploads/Clock-Tower-Night-4-1024x711.jpg",
+    "author": "The Walt Disney Company",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "candidateWayIds": [
+      427786590
+    ],
+    "viewed": true,
+    "bytes": 222544,
+    "sha256": "1d9424dee8b74cbf6bce007159bb4f5a7cfab167471621fa77741e09f6fe0053",
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      427786590
+    ],
+    "observations": [
+      "Curved concave bronze vertically ribbed shop front, broad display opening, transparent curved canopy on round steel columns.",
+      "18 m clock tower with lit faces, cornices, glazed shaft, sloped hat and metal orbital crown visible beside store."
+    ],
+    "limitations": [
+      "Clock center must be independently located before road-side placement.",
+      "Night lighting does not establish daylight paint exactly."
+    ]
+  },
+  {
+    "id": "azia-02",
+    "file": "assets/streets/pudong-loop-references/azia-02.jpg",
+    "sourceUrl": "https://cvedesign.com/portfolio_page/azia-center/",
+    "downloadUrl": "https://cvedesign.com/wp-content/uploads/2015/10/Azia_Center_02.jpg",
+    "author": "CVE / Entro; image credit not stated",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "candidateWayIds": [
+      -129809240,
+      -129809241
+    ],
+    "viewed": true,
+    "bytes": 355060,
+    "sha256": "c37d8349da6e476e334396d2eda95dd10b2fe352f013c2d57ebcf2a861120568",
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      -129809240
+    ],
+    "observations": [
+      "Real AZIA entrance: giant freestanding metal letters on low granite wall, angled stone jamb, deep A-shaped glazing recess, steel and glass canopy."
+    ],
+    "limitations": [
+      "Upper tower not in image; other elevations unknown.",
+      "Exact entrance bearing inferred from route-facing OSM edge."
+    ]
+  },
+  {
+    "id": "azia-03",
+    "file": "assets/streets/pudong-loop-references/azia-03.jpg",
+    "sourceUrl": "https://cvedesign.com/portfolio_page/azia-center/",
+    "downloadUrl": "https://cvedesign.com/wp-content/uploads/2015/10/Azia_Center_03.jpg",
+    "author": "CVE / Entro; image credit not stated",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "candidateWayIds": [
+      -129809240,
+      -129809241
+    ],
+    "viewed": true,
+    "bytes": 338387,
+    "sha256": "9aca3153b64969f211ffbe2cfb8ee043c56b3515b011e2be66d14c1ff260e6f7",
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      -129809240
+    ],
+    "observations": [
+      "Glass freestanding direction sign with stainless base beside low service enclosure."
+    ],
+    "limitations": [
+      "Service enclosure way not verified; do not assign to podium automatically."
+    ]
+  },
+  {
+    "id": "azia-04",
+    "file": "assets/streets/pudong-loop-references/azia-04.jpg",
+    "sourceUrl": "https://cvedesign.com/portfolio_page/azia-center/",
+    "downloadUrl": "https://cvedesign.com/wp-content/uploads/2015/10/Azia_Center_04.jpg",
+    "author": "CVE / Entro; image credit not stated",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "candidateWayIds": [
+      -129809240,
+      -129809241
+    ],
+    "viewed": true,
+    "bytes": 404245,
+    "sha256": "d21df750196c1842223d32718f9b0775ea6666d463e4d717221b8705fb222857",
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      -129809240
+    ],
+    "observations": [
+      "Real AZIA entrance: giant freestanding metal letters on low granite wall, angled stone jamb, deep A-shaped glazing recess, steel and glass canopy."
+    ],
+    "limitations": [
+      "Upper tower not in image; other elevations unknown.",
+      "Exact entrance bearing inferred from route-facing OSM edge."
+    ]
+  },
+  {
+    "id": "azia-05",
+    "file": "assets/streets/pudong-loop-references/azia-05.jpg",
+    "sourceUrl": "https://cvedesign.com/portfolio_page/azia-center/",
+    "downloadUrl": "https://cvedesign.com/wp-content/uploads/2015/10/Azia_Center_05.jpg",
+    "author": "CVE / Entro; image credit not stated",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "candidateWayIds": [
+      -129809240,
+      -129809241
+    ],
+    "viewed": true,
+    "bytes": 149949,
+    "sha256": "a0a0304196175e28307bc2e0054f0fa3a87cbf563ef4f2e13b0149e8cf8a16ec",
+    "geometryReference": false,
+    "wayIds": [],
+    "photograph": true,
+    "observations": [
+      "Interior or decorative graphic; excludes exterior coverage."
+    ]
+  },
+  {
+    "id": "disney-store-01",
+    "file": "assets/streets/pudong-loop-references/disney-store-01.jpg",
+    "sourceUrl": "https://www.targetti.com/en/Projects/Disney-flagship-store-Shanghai",
+    "downloadUrl": "https://www.targetti.com/media/2026/progetti/gallery/01_DISNEY.jpg",
+    "author": "Targetti; image credit not stated",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "candidateWayIds": [
+      427786590
+    ],
+    "viewed": true,
+    "bytes": 504600,
+    "sha256": "e4a73cb1305bb68eae6998ca230a0cd9a5e4b87cf9e61858e54a53b214795389",
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      427786590
+    ],
+    "observations": [
+      "Curved concave bronze vertically ribbed shop front, broad display opening, transparent curved canopy on round steel columns.",
+      "18 m clock tower with lit faces, cornices, glazed shaft, sloped hat and metal orbital crown visible beside store."
+    ],
+    "limitations": [
+      "Clock center must be independently located before road-side placement.",
+      "Night lighting does not establish daylight paint exactly."
+    ]
+  },
+  {
+    "id": "disney-store-02",
+    "file": "assets/streets/pudong-loop-references/disney-store-02.jpg",
+    "sourceUrl": "https://www.targetti.com/en/Projects/Disney-flagship-store-Shanghai",
+    "downloadUrl": "https://www.targetti.com/media/2026/progetti/gallery/02_DISNEY.jpg",
+    "author": "Targetti; image credit not stated",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "candidateWayIds": [
+      427786590
+    ],
+    "viewed": true,
+    "bytes": 359187,
+    "sha256": "af1c0166e679e99d6699c96324fd781e796993af74e9addc64483e07c632ddc7",
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      427786590
+    ],
+    "observations": [
+      "Curved concave bronze vertically ribbed shop front, broad display opening, transparent curved canopy on round steel columns.",
+      "18 m clock tower with lit faces, cornices, glazed shaft, sloped hat and metal orbital crown visible beside store."
+    ],
+    "limitations": [
+      "Clock center must be independently located before road-side placement.",
+      "Night lighting does not establish daylight paint exactly."
+    ]
+  },
+  {
+    "id": "disney-store-04",
+    "file": "assets/streets/pudong-loop-references/disney-store-04.jpg",
+    "sourceUrl": "https://www.targetti.com/en/Projects/Disney-flagship-store-Shanghai",
+    "downloadUrl": "https://www.targetti.com/media/2026/progetti/gallery/04_DISNEY.jpg",
+    "author": "Targetti; image credit not stated",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Private local geometry reference only; must not be embedded as distributed texture",
+    "candidateWayIds": [
+      427786590
+    ],
+    "viewed": true,
+    "bytes": 420770,
+    "sha256": "6a11dd1c0e7507cecd9d45924ed875c3d24007078ad57be97b44ce65b8dd2005",
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      427786590
+    ],
+    "observations": [
+      "Curved concave bronze vertically ribbed shop front, broad display opening, transparent curved canopy on round steel columns.",
+      "18 m clock tower with lit faces, cornices, glazed shaft, sloped hat and metal orbital crown visible beside store."
+    ],
+    "limitations": [
+      "Clock center must be independently located before road-side placement.",
+      "Night lighting does not establish daylight paint exactly."
+    ]
+  },
+  {
+    "id": "huaneng-full",
+    "file": "assets/streets/pudong-loop-references/huaneng-full.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huaneng_Union_Tower.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Huaneng_Union_Tower.jpg",
+    "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://flickr.com/people/37803129@N00\">Jakob Montrasio</a>",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "usage": "Local geometry reference, no photo texture embedding",
+    "candidateWayIds": [
+      -129813020
+    ],
+    "viewed": true,
+    "bytes": 3942649,
+    "sha256": "8b645c5482841435170f52b1dd492eeab4399b20bf1db4e0509f28e55c1e31d9",
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      -129813020,
+      -129813021
+    ],
+    "observations": [
+      "Reddish stone side piers framing curved central blue glass, suspended center slab, two upper wing fins.",
+      "Arched glazed entry portal, low broad podium with open stone roof beam grid and supported metal canopy."
+    ],
+    "limitations": [
+      "2007 tone-mapped photo; colors approximate and old tenant signage not current."
+    ]
+  },
+  {
+    "id": "world-finance-full",
+    "file": "assets/streets/pudong-loop-references/world-finance-full.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:World_Finance_Tower.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/World_Finance_Tower.jpg",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/User:Baycrest\" title=\"User:Baycrest\">Baycrest</a>",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "usage": "Local geometry reference, no photo texture embedding",
+    "candidateWayIds": [
+      -129813030,
+      -129813031
+    ],
+    "viewed": true,
+    "bytes": 558101,
+    "sha256": "eeb1ce4049cc960ea06b54a3bde35d0e420caab66b7330296450b91b58c230e6",
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      -129813030,
+      -129813031
+    ],
+    "observations": [
+      "Curved green-glass front with continuous warm stone horizontal bands, taller curved fan-shaped crown and thin mast.",
+      "Stone podium with recessed angular glazed entry and clear ground doors."
+    ],
+    "limitations": [
+      "Back of two cadastral parts not observed.",
+      "2008 photo; logos and vehicles are not current-state authority."
+    ]
+  },
+  {
+    "id": "pingan-bank-0",
+    "file": "assets/streets/pudong-loop-references/pingan-bank-0.jpg",
+    "sourceUrl": "https://www.shobserver.com/sgh/detail?id=1756967",
+    "downloadUrl": "https://sghimages.shobserver.cn/img/catch/2026/05/28/927503dd-90e8-4e72-baab-881ba08424be.jpg",
+    "author": "Ping An Bank Shanghai Branch via Shanghai Banking Association",
+    "license": "All rights reserved / no open license stated",
+    "licenseUrl": null,
+    "usage": "Local geometry reference, no photo texture embedding",
+    "candidateWayIds": [
+      520990201
+    ],
+    "viewed": true,
+    "bytes": 93270,
+    "sha256": "cd07d8923267c423c1b4ebf0cd7edbb18f6e6bffe43656fb3b082be768ada54f",
+    "geometryReference": false,
+    "wayIds": [],
+    "photograph": false,
+    "observations": [
+      "Interior or decorative graphic; excludes exterior coverage."
+    ]
+  },
+  {
+    "id": "pingan-bank-1",
+    "file": "assets/streets/pudong-loop-references/pingan-bank-1.jpg",
+    "sourceUrl": "https://www.shobserver.com/sgh/detail?id=1756967",
+    "downloadUrl": "https://sghimages.shobserver.cn/img/catch/2026/05/28/131bff3b-f968-4516-8236-348eb97661b5.jpg",
+    "author": "Ping An Bank Shanghai Branch via Shanghai Banking Association",
+    "license": "All rights reserved / no open license stated",
+    "licenseUrl": null,
+    "usage": "Local geometry reference, no photo texture embedding",
+    "candidateWayIds": [
+      520990201
+    ],
+    "viewed": true,
+    "bytes": 32640,
+    "sha256": "25fb9e3e90f7b96ac83c86d37daf0a0cedb02060ccbcbcfa8e2d1ac6a650f0b9",
+    "geometryReference": false,
+    "wayIds": [],
+    "photograph": false,
+    "observations": [
+      "Interior or decorative graphic; excludes exterior coverage."
+    ]
+  },
+  {
+    "id": "pingan-bank-2",
+    "file": "assets/streets/pudong-loop-references/pingan-bank-2.jpg",
+    "sourceUrl": "https://www.shobserver.com/sgh/detail?id=1756967",
+    "downloadUrl": "https://sghimages.shobserver.cn/img/catch/2026/05/28/f6751872-d124-4bff-a658-8099f0219058.jpg",
+    "author": "Ping An Bank Shanghai Branch via Shanghai Banking Association",
+    "license": "All rights reserved / no open license stated",
+    "licenseUrl": null,
+    "usage": "Local geometry reference, no photo texture embedding",
+    "candidateWayIds": [
+      520990201
+    ],
+    "viewed": true,
+    "bytes": 3531,
+    "sha256": "2af61bc070f4198d91a05c53b4524512b3cb688b992af26ff11bd5fd3b4299f2",
+    "geometryReference": false,
+    "wayIds": [],
+    "photograph": false,
+    "observations": [
+      "Decorative article graphic; not a building exterior photograph"
+    ],
+    "limitations": [
+      "Excluded from geometry reference"
+    ]
+  },
+  {
+    "id": "pingan-bank-3",
+    "file": "assets/streets/pudong-loop-references/pingan-bank-3.jpg",
+    "sourceUrl": "https://www.shobserver.com/sgh/detail?id=1756967",
+    "downloadUrl": "https://sghimages.shobserver.cn/img/catch/2026/05/28/856040c9-4148-4dec-b636-7f7c43fe692a.jpg",
+    "author": "Ping An Bank Shanghai Branch via Shanghai Banking Association",
+    "license": "All rights reserved / no open license stated",
+    "licenseUrl": null,
+    "usage": "Local geometry reference, no photo texture embedding",
+    "candidateWayIds": [
+      520990201
+    ],
+    "viewed": true,
+    "bytes": 341258,
+    "sha256": "5b4f260f64ee406c1b41acc994a1510081ec5f524bc6f93d85bd73fb60ab8a51",
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      520990201
+    ],
+    "observations": [
+      "Bank-supplied exterior: pale neoclassical tower with deep paired vertical piers, strong projecting cornices, central dark slot, stepped upper base and ribbed glass dome."
+    ],
+    "limitations": [
+      "Ground entrance partly hidden by aquarium and trees.",
+      "One OSM polygon contains podium plus main tower; tower placement requires photo inference."
+    ]
+  },
+  {
+    "id": "pingan-bank-4",
+    "file": "assets/streets/pudong-loop-references/pingan-bank-4.jpg",
+    "sourceUrl": "https://www.shobserver.com/sgh/detail?id=1756967",
+    "downloadUrl": "https://sghimages.shobserver.cn/img/catch/2026/05/28/7b319ea6-c560-4530-bb25-466f2e141fee.jpg",
+    "author": "Ping An Bank Shanghai Branch via Shanghai Banking Association",
+    "license": "All rights reserved / no open license stated",
+    "licenseUrl": null,
+    "usage": "Local geometry reference, no photo texture embedding",
+    "candidateWayIds": [
+      520990201
+    ],
+    "viewed": true,
+    "bytes": 96221,
+    "sha256": "60c1d985b4d7cb3598cdea56a4dcb9dc873b18b158389f9dd0d11431b50b22dd",
+    "geometryReference": false,
+    "wayIds": [],
+    "photograph": false,
+    "observations": [
+      "Interior or decorative graphic; excludes exterior coverage."
+    ]
+  },
+  {
+    "id": "century-hines-corner",
+    "file": "assets/streets/pudong-loop-references/century-hines-corner.jpg",
+    "downloadUrl": "https://s3.amazonaws.com/hines-images/21st-century-tower/21st-Century-Tower---Corner-View_hres_web.jpg",
+    "sourceUrl": "https://www.hines.com/properties/21st-century-tower-shanghai",
+    "author": "Hines / photographer not stated",
+    "license": "All rights reserved / no open license stated",
+    "usage": "Local geometry reference only; no embedding as texture",
+    "candidateWayIds": [
+      113520430,
+      956369929
+    ],
+    "viewed": true,
+    "bytes": 193599,
+    "sha256": "73e00a5e8580057bfcf450aeec2e2aa85760388c2fd4579ad422aae8c4062ba1",
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      113520430,
+      956369929
+    ],
+    "observations": [
+      "Ground corner real exterior: three-storey clear storefront, broad silver slab band above, narrow black vertical frames, upper facade with dark projecting horizontal shelves.",
+      "Right-side entrance has broad horizontal metal-blade canopy on round gray columns."
+    ],
+    "limitations": [
+      "Tower crown is entirely outside this photograph; no crown claim.",
+      "Hotel podium far side unobserved; owner50 vs CVU49 floors retained separately."
+    ]
+  },
+  {
+    "id": "lanhai-street",
+    "file": "assets/streets/pudong-loop-references/lanhai-street.jpg",
+    "sourceUrl": "https://www.gttuku.com/11053.html",
+    "downloadUrl": "https://tuku-cos-1256054528.picbj.myqcloud.com/2021/11/116fb795d671445.jpg?imageMogr2/thumbnail/1600x/quality/85|watermark/1/image/aHR0cHM6Ly90dWt1LWNvcy0xMjU2MDU0NTI4LnBpY2JqLm15cWNsb3VkLmNvbS8yMDI2LzA5L3dhdGVybWFya19ndHR1a3UucG5n/scatype/2/spcent/38/gravity/SouthEast/dx/9/dy/9/dissolve/85",
+    "author": "xiaomaju (photographer / contributor)",
+    "license": "Public preview; no redistribution license established; geometry reference only; source watermark preserved",
+    "licenseUrl": "https://www.gttuku.com/11053.html",
+    "date": "2021-11-07 published",
+    "bytes": 257370,
+    "sha256": "7dd355bd65d15a0871ce8b539ef47d34e8f2fc1221910d6e3601dabb6a556b32",
+    "viewed": true,
+    "geometryReference": true,
+    "wayIds": [
+      957451688,
+      165591946
+    ],
+    "photograph": true,
+    "observations": [
+      "Street corner with curved cylindrical glass mall front; raised oval projecting roof fascia and open dark slots below roof rim",
+      "LANHAI INTERNATIONAL PLAZA metal letters mounted on pale fascia; rectangular gray-glass link volume beside SWFC tower",
+      "Dark granite base and glass doors; visible stair at left climbs to raised terrace"
+    ],
+    "limitations": [
+      "Single 2021 corner photograph; precise wraparound footprint position and depth inferred from OSM",
+      "Advertising screen content and rear facade not reconstructed",
+      "Background apartment tower is separate and not assigned to this mall"
+    ]
+  },
+  {
+    "id": "chen-mansion",
+    "file": "assets/streets/pudong-loop-references/chen-mansion.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AChen%27s_Mansion_Lujiazui.JPG",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Chen%27s_Mansion_Lujiazui.JPG",
+    "author": "Livelikerw",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "​陆家嘴陈桂春住宅",
+    "date": "2013-12-31 22:44:06",
+    "bytes": 6291456,
+    "sha256": "53a6e8e5a02cf96d3c5f2ceff88dbe1138e8048ec07eac8370fe8ebdf87fd1bf",
+    "viewed": true,
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      165168180
+    ],
+    "observations": [
+      "Grey and red banded brick",
+      "stepped triangular pediment",
+      "paired arched attic windows",
+      "timber lattice screen and Chinese tiled eaves"
+    ],
+    "limitations": [
+      "Single facade photograph; side and court layout require separate authority",
+      "17 m OSM default conflicts with photographed single-storey form"
+    ],
+    "viewedAt": "2026-09-09T12:36:21.038182+00:00"
+  },
+  {
+    "id": "park-2022-1",
+    "file": "assets/streets/pudong-loop-references/park-2022-1.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALujiazui_Central_Green_Space_1.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Lujiazui_Central_Green_Space_1.jpg",
+    "author": "钉钉",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Lujiazui Central Green Space",
+    "date": "26 June 2022 (according to Exif data)",
+    "bytes": 3899234,
+    "sha256": "62ce88c96b810995c647d37922b6344600daf2d5e7e60f0ea9cde3601939bc2b",
+    "viewed": true,
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      164972436,
+      135840678
+    ],
+    "observations": [
+      "Clear daylight Merchants cyan facade, actual central inset large glass field and projecting silver surrounds, round upper pavilion and white lattice pyramid",
+      "Insurance tower behind has ivory piers and narrow vertical glazing"
+    ],
+    "limitations": [
+      "Ground entrances hidden by trees; neighboring ChinaLandmark not assigned"
+    ]
+  },
+  {
+    "id": "park-2022-2",
+    "file": "assets/streets/pudong-loop-references/park-2022-2.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALujiazui_Central_Green_Space_2.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Lujiazui_Central_Green_Space_2.jpg",
+    "author": "钉钉",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Lujiazui Central Green Space",
+    "date": "26 June 2022 (according to Exif data)",
+    "bytes": 3150119,
+    "sha256": "4e262351bf3c170414279576ab3230e3eda25ad75da1f29be0aab1e260a573e4",
+    "viewed": true,
+    "geometryReference": false,
+    "photograph": true,
+    "wayIds": [],
+    "observations": [
+      "White tensile park pavilion in foreground, Bank of Communications in center, Bank of Shanghai right, BOC left"
+    ],
+    "limitations": [
+      "Cannot locate foreground pavilion to the three unknown park way footprints; no guessed assignment"
+    ]
+  },
+  {
+    "id": "park-2024-39",
+    "file": "assets/streets/pudong-loop-references/park-2024-39.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AShanghai%2C_29_June_2024_%2839%29.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Shanghai%2C_29_June_2024_%2839%29.jpg",
+    "author": "メイド理世",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Shanghai, 29 June 2024",
+    "date": "2024-06-29",
+    "bytes": 3572126,
+    "sha256": "d5c61a80e934e004ca15aac71a17a64f34b5088cf598e5da6f6838ca41723f0c",
+    "viewed": true,
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      164972436,
+      135840678,
+      -129813030,
+      -129813031
+    ],
+    "observations": [
+      "Current2024 night city facade confirms WorldFinance curved crown/mast and Merchants pyramid; broad floor-strip rhythm"
+    ],
+    "limitations": [
+      "Ground level hidden by park canopy; night illumination not evidence for daytime material color"
+    ]
+  },
+  {
+    "id": "jinmao-owner-0",
+    "file": "assets/streets/pudong-loop-references/jinmao-owner-0.jpg",
+    "sourceUrl": "https://www.chinajinmao.cn/jinmao/dyyw/swzp/2024/12/I1314613670000459776.html",
+    "downloadUrl": "https://www.chinajinmao.cn/Portals/165/BatchImagesThumb/2022/0709/637929237720418491.jpg",
+    "author": "China Jinmao developer official",
+    "license": "Copyright retained by source; local geometry reference only; no image redistribution license established",
+    "bytes": 300107,
+    "sha256": "3f3937c1f27f3a35e9aa2ae38135be131f6b3f8448e5f77a576ee7102eb9ddeb",
+    "viewed": true,
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      376075961
+    ],
+    "observations": [
+      "Historical river silhouette; main tower visible; surrounding skyline is old construction stage"
+    ],
+    "limitations": [
+      "Developer retains photo copyright; used as reference only",
+      "These images do not resolve the exact six-storey podium elevation or unknown nearby ancillary buildings",
+      "Historical or processed illumination is not a daytime material color measurement"
+    ]
+  },
+  {
+    "id": "jinmao-owner-1",
+    "file": "assets/streets/pudong-loop-references/jinmao-owner-1.jpg",
+    "sourceUrl": "https://www.chinajinmao.cn/jinmao/dyyw/swzp/2024/12/I1314613670000459776.html",
+    "downloadUrl": "https://www.chinajinmao.cn/Portals/165/BatchImagesThumb/2022/0709/637929237725018491.jpg",
+    "author": "China Jinmao developer official",
+    "license": "Copyright retained by source; local geometry reference only; no image redistribution license established",
+    "bytes": 377188,
+    "sha256": "1b8e0af8b398ad7d2c332a36db8d1012a7ae268db7ccc216fc35484ed40a744e",
+    "viewed": true,
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      376075961
+    ],
+    "observations": [
+      "Aerial upper tower with stepped corners, terraces, pointed crown, railings and apparatus"
+    ],
+    "limitations": [
+      "Developer retains photo copyright; used as reference only",
+      "These images do not resolve the exact six-storey podium elevation or unknown nearby ancillary buildings",
+      "Historical or processed illumination is not a daytime material color measurement"
+    ]
+  },
+  {
+    "id": "jinmao-owner-2",
+    "file": "assets/streets/pudong-loop-references/jinmao-owner-2.jpg",
+    "sourceUrl": "https://www.chinajinmao.cn/jinmao/dyyw/swzp/2024/12/I1314613670000459776.html",
+    "downloadUrl": "https://www.chinajinmao.cn/Portals/165/BatchImagesThumb/2022/0709/637929237735118506.jpg",
+    "author": "China Jinmao developer official",
+    "license": "Copyright retained by source; local geometry reference only; no image redistribution license established",
+    "bytes": 500825,
+    "sha256": "aa9de2364f4827e00ef7d7a4e39f7a7c17cfe343ba38d58b4f6b45c7a6506b85",
+    "viewed": true,
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      376075961
+    ],
+    "observations": [
+      "Actual close projecting metal horizontal shelves, zigzag stepping and vertical frames"
+    ],
+    "limitations": [
+      "Developer retains photo copyright; used as reference only",
+      "These images do not resolve the exact six-storey podium elevation or unknown nearby ancillary buildings",
+      "Historical or processed illumination is not a daytime material color measurement"
+    ]
+  },
+  {
+    "id": "jinmao-owner-3",
+    "file": "assets/streets/pudong-loop-references/jinmao-owner-3.jpg",
+    "sourceUrl": "https://www.chinajinmao.cn/jinmao/dyyw/swzp/2024/12/I1314613670000459776.html",
+    "downloadUrl": "https://www.chinajinmao.cn/Portals/165/BatchImagesThumb/2022/0709/637929237745818534.jpg",
+    "author": "China Jinmao developer official",
+    "license": "Copyright retained by source; local geometry reference only; no image redistribution license established",
+    "bytes": 327381,
+    "sha256": "d2a2078ace5bfb214b6b8b79764e722a1ae13f39dc9b0a2b315fa34cbc3a3bc0",
+    "viewed": true,
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      376075961
+    ],
+    "observations": [
+      "Actual close metal double-rail facade and exterior steel brackets"
+    ],
+    "limitations": [
+      "Developer retains photo copyright; used as reference only",
+      "These images do not resolve the exact six-storey podium elevation or unknown nearby ancillary buildings",
+      "Historical or processed illumination is not a daytime material color measurement"
+    ]
+  },
+  {
+    "id": "jinmao-owner-4",
+    "file": "assets/streets/pudong-loop-references/jinmao-owner-4.jpg",
+    "sourceUrl": "https://www.chinajinmao.cn/jinmao/dyyw/swzp/2024/12/I1314613670000459776.html",
+    "downloadUrl": "https://www.chinajinmao.cn/Portals/165/BatchImagesThumb/2022/0709/637929237749018528.jpg",
+    "author": "China Jinmao developer official",
+    "license": "Copyright retained by source; local geometry reference only; no image redistribution license established",
+    "bytes": 296804,
+    "sha256": "a8ca575d9de1008ecc3aeafcb11d65b8af9cc68e419c6e24ae711f3a46128e39",
+    "viewed": true,
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      376075961
+    ],
+    "observations": [
+      "Actual close pane frames, projecting metal fins and perforated bracket depth"
+    ],
+    "limitations": [
+      "Developer retains photo copyright; used as reference only",
+      "These images do not resolve the exact six-storey podium elevation or unknown nearby ancillary buildings",
+      "Historical or processed illumination is not a daytime material color measurement"
+    ]
+  },
+  {
+    "id": "jinmao-owner-5",
+    "file": "assets/streets/pudong-loop-references/jinmao-owner-5.jpg",
+    "sourceUrl": "https://www.chinajinmao.cn/jinmao/dyyw/swzp/2024/12/I1314613670000459776.html",
+    "downloadUrl": "https://www.chinajinmao.cn/Portals/165/BatchImagesThumb/2022/0709/637929237752518529.jpg",
+    "author": "China Jinmao developer official",
+    "license": "Copyright retained by source; local geometry reference only; no image redistribution license established",
+    "bytes": 325051,
+    "sha256": "5aff1fa69ab869e68371a6ed4da886d94d308c42cf1d4a67edd63606e8cae532",
+    "viewed": true,
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      376075961
+    ],
+    "observations": [
+      "Historical river skyline; main tower identifiable but podium partly obscured"
+    ],
+    "limitations": [
+      "Developer retains photo copyright; used as reference only",
+      "These images do not resolve the exact six-storey podium elevation or unknown nearby ancillary buildings",
+      "Historical or processed illumination is not a daytime material color measurement"
+    ]
+  },
+  {
+    "id": "jinmao-owner-6",
+    "file": "assets/streets/pudong-loop-references/jinmao-owner-6.jpg",
+    "sourceUrl": "https://www.chinajinmao.cn/jinmao/dyyw/swzp/2024/12/I1314613670000459776.html",
+    "downloadUrl": "https://www.chinajinmao.cn/Portals/165/BatchImagesThumb/2022/0709/637929237754518544.jpg",
+    "author": "China Jinmao developer official",
+    "license": "Copyright retained by source; local geometry reference only; no image redistribution license established",
+    "bytes": 184462,
+    "sha256": "fe9c199763ea66dd68f516943bbf999cc73d2ecc4260effb94c5d615dbb2f974",
+    "viewed": true,
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      376075961
+    ],
+    "observations": [
+      "Aerial tower crown partly obscured by clouds"
+    ],
+    "limitations": [
+      "Developer retains photo copyright; used as reference only",
+      "These images do not resolve the exact six-storey podium elevation or unknown nearby ancillary buildings",
+      "Historical or processed illumination is not a daytime material color measurement"
+    ]
+  },
+  {
+    "id": "jinmao-owner-7",
+    "file": "assets/streets/pudong-loop-references/jinmao-owner-7.jpg",
+    "sourceUrl": "https://www.chinajinmao.cn/jinmao/dyyw/swzp/2024/12/I1314613670000459776.html",
+    "downloadUrl": "https://www.chinajinmao.cn/Portals/165/BatchImagesThumb/2022/0709/637929237758118592.jpg",
+    "author": "China Jinmao developer official",
+    "license": "Copyright retained by source; local geometry reference only; no image redistribution license established",
+    "bytes": 506920,
+    "sha256": "a7d84c603ce760c8062841691d55a33be02ab50166880c7eaa31eb9cdfe9bc81",
+    "viewed": true,
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      376075961
+    ],
+    "observations": [
+      "Night aerial main tower terraces and city context"
+    ],
+    "limitations": [
+      "Developer retains photo copyright; used as reference only",
+      "These images do not resolve the exact six-storey podium elevation or unknown nearby ancillary buildings",
+      "Historical or processed illumination is not a daytime material color measurement"
+    ]
+  },
+  {
+    "id": "jinmao-owner-8",
+    "file": "assets/streets/pudong-loop-references/jinmao-owner-8.jpg",
+    "sourceUrl": "https://www.chinajinmao.cn/jinmao/dyyw/swzp/2024/12/I1314613670000459776.html",
+    "downloadUrl": "https://www.chinajinmao.cn/Portals/165/BatchImagesThumb/2022/0709/637929237761318558.jpg",
+    "author": "China Jinmao developer official",
+    "license": "Copyright retained by source; local geometry reference only; no image redistribution license established",
+    "bytes": 265859,
+    "sha256": "5fb41989d28526e1d9b99668221ec586f09e2b1280be52ba6e04c7444ced51c5",
+    "viewed": true,
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      376075961
+    ],
+    "observations": [
+      "Night tower crown layering and spire"
+    ],
+    "limitations": [
+      "Developer retains photo copyright; used as reference only",
+      "These images do not resolve the exact six-storey podium elevation or unknown nearby ancillary buildings",
+      "Historical or processed illumination is not a daytime material color measurement"
+    ]
+  },
+  {
+    "id": "jinmao-owner-9",
+    "file": "assets/streets/pudong-loop-references/jinmao-owner-9.jpg",
+    "sourceUrl": "https://www.chinajinmao.cn/jinmao/dyyw/swzp/2024/12/I1314613670000459776.html",
+    "downloadUrl": "https://www.chinajinmao.cn/Portals/165/BatchImagesThumb/2022/0709/637929237763518564.jpg",
+    "author": "China Jinmao developer official",
+    "license": "Copyright retained by source; local geometry reference only; no image redistribution license established",
+    "bytes": 205433,
+    "sha256": "a7588d539ded782058c8a4dd8e669410f9eafc906cbb30cf8e0b4c2ee21b36f8",
+    "viewed": true,
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      376075961
+    ],
+    "observations": [
+      "Processed photograph of the stepped upper crown and separate metallic lightning spire"
+    ],
+    "limitations": [
+      "Developer retains photo copyright; used as reference only",
+      "These images do not resolve the exact six-storey podium elevation or unknown nearby ancillary buildings",
+      "Historical or processed illumination is not a daytime material color measurement"
+    ]
+  },
+  {
+    "id": "aquarium-owner",
+    "file": "assets/streets/pudong-loop-references/aquarium-owner.jpg",
+    "sourceUrl": "https://www.sh-aquarium.com/About/index.aspx",
+    "downloadUrl": "https://www.sh-aquarium.com/uploadfiles/2026/06/20260605160202552.jpg?5aSW6KeCNC5qcGc=",
+    "author": "Shanghai Ocean Aquarium official",
+    "license": "Copyright retained by source; local geometry reference only; no image redistribution license established",
+    "bytes": 271865,
+    "sha256": "d02c7629b46dbe52244ad70ca038e15f060dcc97cf2c068b20a74d2db625fc26",
+    "viewed": true,
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      404676268
+    ],
+    "observations": [
+      "Actual opposite white triangular aquarium wall with individual rectangular stone seams",
+      "Extruded blue and green fish logo reliefs; slim intake grilles; individual raised building-name letters"
+    ],
+    "limitations": [
+      "Opposite facade from the original street photograph; image alone does not locate management building1533181378",
+      "Facade bearing needs placement verification before adding relief to the opposite face"
+    ]
+  },
+  {
+    "id": "jinmao-entrance-traveler",
+    "file": "assets/streets/pudong-loop-references/jinmao-entrance-traveler.jpg",
+    "sourceUrl": "https://backpackerlee.wordpress.com/2014/02/09/looking-down-on-shanghai/",
+    "downloadUrl": "https://backpackerlee.wordpress.com/wp-content/uploads/2014/02/p1040686.jpg?h=576&w=768",
+    "author": "backpackerlee",
+    "license": "Photographer blog; no reuse license established; local geometry reference only",
+    "bytes": 136100,
+    "sha256": "5b9a22f27cd5f3b20d1c3b5212df35c1dfbbb9bcb41fb28aaa1d23c6c9b3ffc2",
+    "viewed": true,
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      376075961
+    ],
+    "observations": [
+      "Main tower ground entrance with wide curved metal-and-glass arched canopy",
+      "Two tall stone piers support deep ribbed soffit; large circular glazing motif over central door",
+      "Adjacent stepped curtain wall and low side covered passage"
+    ],
+    "limitations": [
+      "Photo is2014 and shows main tower entrance; it does not establish full six-storey podium exterior",
+      "Precise canopy bearing must be aligned with map before export"
+    ]
+  },
+  {
+    "id": "swfc-entrance-traveler",
+    "file": "assets/streets/pudong-loop-references/swfc-entrance-traveler.png",
+    "sourceUrl": "https://www.jxtxzzw.com/archives/7439",
+    "downloadUrl": "https://img.jxtxzzw.com/i/2024/01/22/ceppar.png",
+    "author": "jxtxzzw",
+    "license": "Photographer blog; no reuse license established; local geometry reference only",
+    "bytes": 2496640,
+    "sha256": "b014aa59b57329b2767bfb5214667c2700c87c8997efe17df81846a824d92e40",
+    "viewed": true,
+    "geometryReference": true,
+    "photograph": true,
+    "wayIds": [
+      165591946
+    ],
+    "observations": [
+      "2024 low podium entrance with rectangular black projecting portal",
+      "Thin deep silver pane frames, tall stone side wall, extruded SWFC lettering",
+      "Ground revolving doors and narrow vertical fins under black overhead beam"
+    ],
+    "limitations": [
+      "Only photographed doorway and surrounding upper low glass facade are verified",
+      "Rear sides and exact portal position along mapped eastern edge inferred",
+      "Source photographer watermark preserved"
+    ]
+  },
+  {
+    "id": "bank-shanghai-architect-1",
+    "wayIds": [
+      -129809231
+    ],
+    "file": "assets/streets/pudong-loop-references/bank-shanghai-architect-1.jpg",
+    "sourceUrl": "https://www.tangeweb.com/works/works_no-137/",
+    "downloadUrl": "https://www.tangeweb.com/tange_wp_manage/wp-content/uploads/2005/01/0137_01.jpg",
+    "license": "All rights reserved; geometry reference only; not embedded in runtime",
+    "photograph": true,
+    "viewed": true,
+    "viewedAt": "2026-09-09T12:36:20.961371+00:00",
+    "geometryReference": true,
+    "textureUse": false,
+    "observations": [
+      "Paired pale stone shoulder piers",
+      "recessed blue central glass",
+      "concave glazed crown",
+      "two slim roof aerials"
+    ],
+    "limitations": [
+      "Ground entrance hidden by trees",
+      "north-west podium does not have a fully resolved photograph"
+    ],
+    "bytes": 365483,
+    "sha256": "8679d04123473013bbc7654cfc2939a094283516f833290356fcd1daa3e8b30b",
+    "sourceHeightTipUrl": "https://www.skyscrapercenter.com/building/bank-of-shanghai-headquarters-building/836"
+  },
+  {
+    "id": "bank-shanghai-architect-2",
+    "wayIds": [
+      -129809231
+    ],
+    "file": "assets/streets/pudong-loop-references/bank-shanghai-architect-2.jpg",
+    "sourceUrl": "https://www.tangeweb.com/works/works_no-137/",
+    "downloadUrl": "https://www.tangeweb.com/tange_wp_manage/wp-content/uploads/2005/01/0137_02.jpg",
+    "license": "All rights reserved; geometry reference only; not embedded in runtime",
+    "photograph": true,
+    "viewed": true,
+    "viewedAt": "2026-09-09T12:36:20.966208+00:00",
+    "geometryReference": true,
+    "textureUse": false,
+    "observations": [
+      "Paired pale stone shoulder piers",
+      "recessed blue central glass",
+      "concave glazed crown",
+      "two slim roof aerials"
+    ],
+    "limitations": [
+      "Ground entrance hidden by trees",
+      "north-west podium does not have a fully resolved photograph"
+    ],
+    "bytes": 414012,
+    "sha256": "0ffea1f96b217a960a0ac65f104700b4582dfc787c5c482fc1bf4d36a75e0dbe",
+    "sourceHeightTipUrl": "https://www.skyscrapercenter.com/building/bank-of-shanghai-headquarters-building/836"
+  },
+  {
+    "id": "bank-shanghai-architect-3",
+    "wayIds": [],
+    "file": "assets/streets/pudong-loop-references/bank-shanghai-architect-3.jpg",
+    "sourceUrl": "https://www.tangeweb.com/works/works_no-137/",
+    "downloadUrl": "https://www.tangeweb.com/tange_wp_manage/wp-content/uploads/2005/01/0137_03.jpg",
+    "license": "All rights reserved; geometry reference only; not embedded in runtime",
+    "photograph": false,
+    "viewed": true,
+    "viewedAt": "2026-09-09T12:36:20.971421+00:00",
+    "geometryReference": false,
+    "textureUse": false,
+    "observations": [
+      "Architectural rendering; excluded from exterior photograph verification"
+    ],
+    "limitations": [
+      "Ground entrance hidden by trees",
+      "north-west podium does not have a fully resolved photograph"
+    ],
+    "bytes": 546105,
+    "sha256": "947e9990074db63bf134960c4e638fcfb0b36eb65e33559382eb4bb1c2cee922",
+    "sourceHeightTipUrl": "https://www.skyscrapercenter.com/building/bank-of-shanghai-headquarters-building/836"
+  },
+  {
+    "id": "bank-shanghai-architect-4",
+    "wayIds": [],
+    "file": "assets/streets/pudong-loop-references/bank-shanghai-architect-4.jpg",
+    "sourceUrl": "https://www.tangeweb.com/works/works_no-137/",
+    "downloadUrl": "https://www.tangeweb.com/tange_wp_manage/wp-content/uploads/2005/01/0137_04.jpg",
+    "license": "All rights reserved; geometry reference only; not embedded in runtime",
+    "photograph": false,
+    "viewed": true,
+    "viewedAt": "2026-09-09T12:36:20.975550+00:00",
+    "geometryReference": false,
+    "textureUse": false,
+    "observations": [
+      "Architectural rendering; excluded from exterior photograph verification"
+    ],
+    "limitations": [
+      "Ground entrance hidden by trees",
+      "north-west podium does not have a fully resolved photograph"
+    ],
+    "bytes": 256983,
+    "sha256": "54cc0d6814dd5888939ea41ff3cb964d0730e7ea5400cc160dfa2d095a33096a",
+    "sourceHeightTipUrl": "https://www.skyscrapercenter.com/building/bank-of-shanghai-headquarters-building/836"
+  },
+  {
+    "id": "boc-architect-2",
+    "wayIds": [
+      164957811
+    ],
+    "file": "assets/streets/pudong-loop-references/boc-architect-2.jpg",
+    "sourceUrl": "https://www.nikken.co.jp/en/projects/office/bank_of_china_tower_shanghai.html",
+    "downloadUrl": "https://www.nikken.co.jp/ja/projects/p4iusj0000000n19-img/pj0040_02.jpg",
+    "license": "All rights reserved; geometry reference only; not embedded in runtime",
+    "photograph": true,
+    "viewed": true,
+    "viewedAt": "2026-09-09T12:36:20.978615+00:00",
+    "geometryReference": true,
+    "textureUse": false,
+    "observations": [
+      "Rounded glass tower and open top rib collar",
+      "lower diagonally cut silver sleeve",
+      "side mast"
+    ],
+    "limitations": [
+      "Dimensions and exact position within single OSM base polygon inferred",
+      "Rear lobby unphotographed"
+    ],
+    "bytes": 330742,
+    "sha256": "f0a733232174537905af377865a11b263e4a5fbdb37dee8cf8239777d372c2f6",
+    "creator": "SS Co., Ltd. / Nikken Sekkei project gallery"
+  },
+  {
+    "id": "boc-architect-3",
+    "wayIds": [
+      164957811
+    ],
+    "file": "assets/streets/pudong-loop-references/boc-architect-3.jpg",
+    "sourceUrl": "https://www.nikken.co.jp/en/projects/office/bank_of_china_tower_shanghai.html",
+    "downloadUrl": "https://www.nikken.co.jp/ja/projects/p4iusj0000000n19-img/pj0040_03.jpg",
+    "license": "All rights reserved; geometry reference only; not embedded in runtime",
+    "photograph": true,
+    "viewed": true,
+    "viewedAt": "2026-09-09T12:36:20.981638+00:00",
+    "geometryReference": true,
+    "textureUse": false,
+    "observations": [
+      "Rounded glass tower and open top rib collar",
+      "lower diagonally cut silver sleeve",
+      "side mast"
+    ],
+    "limitations": [
+      "Dimensions and exact position within single OSM base polygon inferred",
+      "Rear lobby unphotographed"
+    ],
+    "bytes": 307794,
+    "sha256": "736bbeac2b23a887f5c47076d5af46ffa075035e6963dbbf81bc4b04e7c68b57",
+    "creator": "SS Co., Ltd. / Nikken Sekkei project gallery"
+  },
+  {
+    "id": "boc-architect-4",
+    "wayIds": [
+      164957811
+    ],
+    "file": "assets/streets/pudong-loop-references/boc-architect-4.jpg",
+    "sourceUrl": "https://www.nikken.co.jp/en/projects/office/bank_of_china_tower_shanghai.html",
+    "downloadUrl": "https://www.nikken.co.jp/ja/projects/p4iusj0000000n19-img/pj0040_04.jpg",
+    "license": "All rights reserved; geometry reference only; not embedded in runtime",
+    "photograph": true,
+    "viewed": true,
+    "viewedAt": "2026-09-09T12:36:20.984529+00:00",
+    "geometryReference": true,
+    "textureUse": false,
+    "observations": [
+      "Rounded glass tower and open top rib collar",
+      "lower diagonally cut silver sleeve",
+      "side mast"
+    ],
+    "limitations": [
+      "Dimensions and exact position within single OSM base polygon inferred",
+      "Rear lobby unphotographed"
+    ],
+    "bytes": 498686,
+    "sha256": "b11eb93f838d71becd98c9eadc4001544a8af8b9f3c113e3231791cadbae81d4",
+    "creator": "SS Co., Ltd. / Nikken Sekkei project gallery"
+  },
+  {
+    "id": "boc-architect-5",
+    "wayIds": [
+      164957811
+    ],
+    "file": "assets/streets/pudong-loop-references/boc-architect-5.jpg",
+    "sourceUrl": "https://www.nikken.co.jp/en/projects/office/bank_of_china_tower_shanghai.html",
+    "downloadUrl": "https://www.nikken.co.jp/ja/projects/p4iusj0000000n19-img/pj0040_05.jpg",
+    "license": "All rights reserved; geometry reference only; not embedded in runtime",
+    "photograph": true,
+    "viewed": true,
+    "viewedAt": "2026-09-09T12:36:20.989858+00:00",
+    "geometryReference": true,
+    "textureUse": false,
+    "observations": [
+      "Rounded glass tower and open top rib collar",
+      "lower diagonally cut silver sleeve",
+      "side mast"
+    ],
+    "limitations": [
+      "Dimensions and exact position within single OSM base polygon inferred",
+      "Rear lobby unphotographed"
+    ],
+    "bytes": 211204,
+    "sha256": "e7413dbdf752adea5ba044afdf93defd87cfa4bff8de0f3ca2d626a7b877fe52",
+    "creator": "SS Co., Ltd. / Nikken Sekkei project gallery"
+  },
+  {
+    "id": "boc-architect-6",
+    "wayIds": [
+      164957811
+    ],
+    "file": "assets/streets/pudong-loop-references/boc-architect-6.jpg",
+    "sourceUrl": "https://www.nikken.co.jp/en/projects/office/bank_of_china_tower_shanghai.html",
+    "downloadUrl": "https://www.nikken.co.jp/ja/projects/p4iusj0000000n19-img/pj0040_06.jpg",
+    "license": "All rights reserved; geometry reference only; not embedded in runtime",
+    "photograph": true,
+    "viewed": true,
+    "viewedAt": "2026-09-09T12:36:20.994517+00:00",
+    "geometryReference": true,
+    "textureUse": false,
+    "observations": [
+      "Curved multi-level glass arrival facade",
+      "black ground columns",
+      "revolving doors",
+      "closely spaced metal fascia louvres"
+    ],
+    "limitations": [
+      "Dimensions and exact position within single OSM base polygon inferred",
+      "Rear lobby unphotographed"
+    ],
+    "bytes": 618790,
+    "sha256": "6c2e6383473fc86b8b80c225d9253b09a39f760ae2ee5a937bc67afa7b7d423f",
+    "creator": "SS Co., Ltd. / Nikken Sekkei project gallery"
+  },
+  {
+    "id": "boc-architect-7",
+    "wayIds": [
+      164957811
+    ],
+    "file": "assets/streets/pudong-loop-references/boc-architect-7.jpg",
+    "sourceUrl": "https://www.nikken.co.jp/en/projects/office/bank_of_china_tower_shanghai.html",
+    "downloadUrl": "https://www.nikken.co.jp/ja/projects/p4iusj0000000n19-img/pj0040_07.jpg",
+    "license": "All rights reserved; geometry reference only; not embedded in runtime",
+    "photograph": true,
+    "viewed": true,
+    "viewedAt": "2026-09-09T12:36:21.002653+00:00",
+    "geometryReference": true,
+    "textureUse": false,
+    "observations": [
+      "Rounded glass tower and open top rib collar",
+      "lower diagonally cut silver sleeve",
+      "side mast"
+    ],
+    "limitations": [
+      "Dimensions and exact position within single OSM base polygon inferred",
+      "Rear lobby unphotographed"
+    ],
+    "bytes": 482232,
+    "sha256": "cf6084b9926b853103a7764e094abd9e0d2f1f60d8348a46ba961cb5f45e0395",
+    "creator": "SS Co., Ltd. / Nikken Sekkei project gallery"
+  },
+  {
+    "id": "bocom-close",
+    "wayIds": [
+      164971470
+    ],
+    "file": "assets/streets/pudong-loop-references/bocom-close.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bocom_Financial_Towers_closeup.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bocom_Financial_Towers_closeup.jpg",
+    "license": "CC BY-SA 3.0; see source page for creator and license version; geometry only",
+    "photograph": true,
+    "viewed": true,
+    "viewedAt": "2026-09-09T12:36:21.007132+00:00",
+    "geometryReference": true,
+    "textureUse": false,
+    "observations": [
+      "Two unequal thin slabs",
+      "diagonal glazed roofs",
+      "horizontal projecting slab lips",
+      "stone end walls",
+      "glass link and low circular annex visible in aerial"
+    ],
+    "limitations": [
+      "Exact ground entrance hidden",
+      "Building wing placement inferred from undivided mapped outline"
+    ],
+    "bytes": 2469374,
+    "sha256": "1b0b9bd9dd514364038c2f7c86f81e77ab3662fa02550626f2f0d71b29025820",
+    "creator": "Ferox Seneca",
+    "originalFileName": "Bocom_Financial_Towers_closeup.jpg"
+  },
+  {
+    "id": "bocom-full",
+    "wayIds": [
+      164971470
+    ],
+    "file": "assets/streets/pudong-loop-references/bocom-full.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bocom_Financial_Towers.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bocom_Financial_Towers.jpg",
+    "license": "CC BY-SA 2.5; geometry reference only",
+    "photograph": true,
+    "viewed": true,
+    "viewedAt": "2026-09-09T12:36:21.024880+00:00",
+    "geometryReference": true,
+    "textureUse": false,
+    "observations": [
+      "Two unequal thin slabs",
+      "diagonal glazed roofs",
+      "horizontal projecting slab lips",
+      "stone end walls",
+      "glass link and low circular annex visible in aerial"
+    ],
+    "limitations": [
+      "Exact ground entrance hidden",
+      "Building wing placement inferred from undivided mapped outline"
+    ],
+    "bytes": 553017,
+    "sha256": "1a5e016237edbe204408f879daa474b66b642a53dc4bf77e195c3c9a308fe0af",
+    "creator": "Baycrest",
+    "originalFileName": "Bocom_Financial_Towers.jpg"
+  },
+  {
+    "id": "bocom-aerial",
+    "wayIds": [
+      164971470
+    ],
+    "file": "assets/streets/pudong-loop-references/bocom-aerial.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bocom_Financial_Tower_from_Jin_Mao-28-Aussicht-2012-gje.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bocom_Financial_Tower_from_Jin_Mao-28-Aussicht-2012-gje.jpg",
+    "license": "CC BY-SA 4.0; geometry reference only",
+    "photograph": true,
+    "viewed": true,
+    "viewedAt": "2026-09-09T12:36:21.029447+00:00",
+    "geometryReference": true,
+    "textureUse": false,
+    "observations": [
+      "Two unequal thin slabs",
+      "diagonal glazed roofs",
+      "horizontal projecting slab lips",
+      "stone end walls",
+      "glass link and low circular annex visible in aerial"
+    ],
+    "limitations": [
+      "Exact ground entrance hidden",
+      "Building wing placement inferred from undivided mapped outline"
+    ],
+    "bytes": 1180198,
+    "sha256": "1de16fb7fbc69d0aa05bf7e0df08b2101987765e99760d35abf581261acd661b",
+    "creator": "Gerd Eichmann",
+    "originalFileName": "Bocom_Financial_Tower_from_Jin_Mao-28-Aussicht-2012-gje.jpg"
+  },
+  {
+    "id": "chen-traveler-0",
+    "file": "assets/streets/pudong-loop-references/chen-traveler-0.jpg",
+    "wayIds": [
+      165168180
+    ],
+    "sourceUrl": "https://blog.sina.com.cn/s/blog_53a591a50102vw1e.html",
+    "downloadUrl": "https://s9.sinaimg.cn/mw690/001wYlX7ty6Uhaceq3678&690",
+    "viewed": true,
+    "photograph": true,
+    "geometryReference": true,
+    "textureUse": false,
+    "license": "Photographer watermark jhon502; not licensed for runtime texture embedding",
+    "bytes": 125760,
+    "sha256": "b9864905e8174b034479543441d2332b14a96f98574d60548009ff8dc3ed4eb5",
+    "observations": [
+      "Rear white plaster elevation, red brick borders, tall timber shutters and small arched heads"
+    ],
+    "limitations": [
+      "2015 photograph, not a current measured survey",
+      "Courtyard dimensions not resolved"
+    ]
+  },
+  {
+    "id": "chen-traveler-1",
+    "file": "assets/streets/pudong-loop-references/chen-traveler-1.jpg",
+    "wayIds": [],
+    "sourceUrl": "https://blog.sina.com.cn/s/blog_53a591a50102vw1e.html",
+    "downloadUrl": "https://s3.sinaimg.cn/mw690/001wYlX7ty6Uhdpmmxce2&690",
+    "viewed": true,
+    "photograph": true,
+    "geometryReference": false,
+    "textureUse": false,
+    "license": "Photographer watermark jhon502; not licensed for runtime texture embedding",
+    "bytes": 339202,
+    "sha256": "44de3fa20688eca8ec08f38a22d7ab8f33c7c3603694d21379869d0934abb89c",
+    "observations": [
+      "Location sign or heritage plaque; does not establish facade geometry"
+    ],
+    "limitations": [
+      "2015 photograph, not a current measured survey",
+      "Courtyard dimensions not resolved"
+    ]
+  },
+  {
+    "id": "chen-traveler-5",
+    "file": "assets/streets/pudong-loop-references/chen-traveler-5.jpg",
+    "wayIds": [
+      165168180
+    ],
+    "sourceUrl": "https://blog.sina.com.cn/s/blog_53a591a50102vw1e.html",
+    "downloadUrl": "https://s12.sinaimg.cn/mw690/001wYlX7ty6UhamQ4Rlbb&690",
+    "viewed": true,
+    "photograph": true,
+    "geometryReference": true,
+    "textureUse": false,
+    "license": "Photographer watermark jhon502; not licensed for runtime texture embedding",
+    "bytes": 64131,
+    "sha256": "848163c92382db7463a801b7b31daedbdde431e4441b17de919d561c6e1ae29e",
+    "observations": [
+      "Actual courtyard, tiled eaves and timber columns visible behind scaffolding"
+    ],
+    "limitations": [
+      "2015 photograph, not a current measured survey",
+      "Courtyard dimensions not resolved"
+    ]
+  },
+  {
+    "id": "chen-traveler-6",
+    "file": "assets/streets/pudong-loop-references/chen-traveler-6.jpg",
+    "wayIds": [
+      165168180
+    ],
+    "sourceUrl": "https://blog.sina.com.cn/s/blog_53a591a50102vw1e.html",
+    "downloadUrl": "https://s13.sinaimg.cn/mw690/001wYlX7ty6UhamSGv2dc&690",
+    "viewed": true,
+    "photograph": true,
+    "geometryReference": true,
+    "textureUse": false,
+    "license": "Photographer watermark jhon502; not licensed for runtime texture embedding",
+    "bytes": 77978,
+    "sha256": "6fdd61ec88ea45646f3f3266b4e4251c477f612a63af14f4347b360539ad632f",
+    "observations": [
+      "Actual courtyard, tiled eaves and timber columns visible behind scaffolding"
+    ],
+    "limitations": [
+      "2015 photograph, not a current measured survey",
+      "Courtyard dimensions not resolved"
+    ]
+  },
+  {
+    "id": "chen-traveler-2",
+    "file": "assets/streets/pudong-loop-references/chen-traveler-2.jpg",
+    "wayIds": [],
+    "sourceUrl": "https://blog.sina.com.cn/s/blog_53a591a50102vw1e.html",
+    "downloadUrl": "https://s2.sinaimg.cn/bmiddle/001wYlX7ty6Uhag0ibL21&690",
+    "viewed": true,
+    "photograph": true,
+    "geometryReference": false,
+    "textureUse": false,
+    "license": "Photographer watermark jhon502; not licensed for runtime texture embedding",
+    "bytes": 126250,
+    "sha256": "6af5eedcd052b9b95b6607290eaa945db7495d411fb2cc9f910c8599fb4e5bae",
+    "observations": [
+      "Location sign or heritage plaque; does not establish facade geometry"
+    ],
+    "limitations": [
+      "2015 photograph, not a current measured survey",
+      "Courtyard dimensions not resolved"
+    ]
+  },
+  {
+    "id": "chen-traveler-4",
+    "file": "assets/streets/pudong-loop-references/chen-traveler-4.jpg",
+    "wayIds": [],
+    "sourceUrl": "https://blog.sina.com.cn/s/blog_53a591a50102vw1e.html",
+    "downloadUrl": "https://s4.sinaimg.cn/mw690/001wYlX7ty6Uhagpnd9c3&690",
+    "viewed": true,
+    "photograph": true,
+    "geometryReference": false,
+    "textureUse": false,
+    "license": "Photographer watermark jhon502; not licensed for runtime texture embedding",
+    "bytes": 133474,
+    "sha256": "82aa68a3e3a24e39c656570f2496d76140092549f77677dba3f0db7346e9637d",
+    "observations": [
+      "Location sign or heritage plaque; does not establish facade geometry"
+    ],
+    "limitations": [
+      "2015 photograph, not a current measured survey",
+      "Courtyard dimensions not resolved"
+    ]
+  },
+  {
+    "id": "chen-traveler-3",
+    "file": "assets/streets/pudong-loop-references/chen-traveler-3.jpg",
+    "wayIds": [],
+    "sourceUrl": "https://blog.sina.com.cn/s/blog_53a591a50102vw1e.html",
+    "downloadUrl": "https://s14.sinaimg.cn/mw690/001wYlX7ty6Uhalx6vbed&690",
+    "viewed": true,
+    "photograph": true,
+    "geometryReference": false,
+    "textureUse": false,
+    "license": "Photographer watermark jhon502; not licensed for runtime texture embedding",
+    "bytes": 193652,
+    "sha256": "b36ef4781a0424839a99250ab739e069b63d066f49a602f6ca85ac953431bffe",
+    "observations": [
+      "Location sign or heritage plaque; does not establish facade geometry"
+    ],
+    "limitations": [
+      "2015 photograph, not a current measured survey",
+      "Courtyard dimensions not resolved"
+    ]
+  },
+  {
+    "id": "super-brand-original-rechecked",
+    "title": "正大广场白天外景.jpg",
+    "file": "assets/streets/references/super-brand-exterior.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%E6%AD%A3%E5%A4%A7%E5%B9%BF%E5%9C%BA%E7%99%BD%E5%A4%A9%E5%A4%96%E6%99%AF.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/%E6%AD%A3%E5%A4%A7%E5%B9%BF%E5%9C%BA%E7%99%BD%E5%A4%A9%E5%A4%96%E6%99%AF.jpg/1920px-%E6%AD%A3%E5%A4%A7%E5%B9%BF%E5%9C%BA%E7%99%BD%E5%A4%A9%E5%A4%96%E6%99%AF.jpg",
+    "author": "Hanahu55",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2009-07-13 18:25:34",
+    "bytes": 588220,
+    "sha256": "f2e88f1a039d318ed3a6c168dd5c5ef2b5005dd6dfb3bd6cdbeb911dd44abe35",
+    "usage": "exterior-reference",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%AD%A3%E5%A4%A7%E5%B9%BF%E5%9C%BA%E7%99%BD%E5%A4%A9%E5%A4%96%E6%99%AF.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/%E6%AD%A3%E5%A4%A7%E5%B9%BF%E5%9C%BA%E7%99%BD%E5%A4%A9%E5%A4%96%E6%99%AF.jpg/1920px-%E6%AD%A3%E5%A4%A7%E5%B9%BF%E5%9C%BA%E7%99%BD%E5%A4%A9%E5%A4%96%E6%99%AF.jpg",
+    "wayIds": [
+      40779113
+    ],
+    "viewed": true,
+    "viewedAt": "2026-09-09T13:10:31.032202+00:00",
+    "photograph": true,
+    "geometryReference": true,
+    "textureUse": false,
+    "observations": [
+      "Wide curved main mall front",
+      "gold upper fascia and three stepped projecting balconies",
+      "rounded red-brick west volume",
+      "blue glazed east wing and pale round entry columns"
+    ],
+    "limitations": [
+      "Single river-facing photograph; rear and roof inferred"
+    ]
+  },
+  {
+    "id": "hang-seng-original-rechecked",
+    "title": "Hang Seng Bank Tower.jpg",
+    "file": "assets/streets/references/hang-seng.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hang_Seng_Bank_Tower.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Hang_Seng_Bank_Tower.jpg",
+    "author": "Baycrest",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "date": "2008-02",
+    "bytes": 522390,
+    "sha256": "c647685fd0acf3dedfad3135ad91a9e926cf9f6bcff62124d525c081b53271d4",
+    "usage": "exterior-reference",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hang_Seng_Bank_Tower.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Hang_Seng_Bank_Tower.jpg",
+    "wayIds": [
+      -129813071,
+      -129813072
+    ],
+    "viewed": true,
+    "viewedAt": "2026-09-09T13:10:31.039157+00:00",
+    "photograph": true,
+    "geometryReference": true,
+    "textureUse": false,
+    "observations": [
+      "Tall pale stone facade with regular punched windows and central vertical glazing",
+      "broad lower front podium with arched glazed entry head and gridded side screens"
+    ],
+    "limitations": [
+      "Rear narrow mapped part -129813070 not separately resolved",
+      "2008 photograph predates later rooftop branding; no new brand reconstruction",
+      "Photograph-to-part correspondence uses approved mapped front polygon; no survey"
+    ]
+  }
+]

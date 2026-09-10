@@ -1,0 +1,84 @@
+[
+  {
+    "path": "public/streets/textures/stone-diff.jpg",
+    "source": "https://polyhaven.com/a/stone_tile_wall",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_tile_wall/stone_tile_wall_diff_1k.jpg",
+    "license": "CC0",
+    "bytes": 640274,
+    "sha256": "3e93afc3a1fe84acba1184d816474166c26e04a3e0cc7d7b6e1097be48b1b90c"
+  },
+  {
+    "path": "public/streets/textures/stone-nor_gl.jpg",
+    "source": "https://polyhaven.com/a/stone_tile_wall",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_tile_wall/stone_tile_wall_nor_gl_1k.jpg",
+    "license": "CC0",
+    "bytes": 681190,
+    "sha256": "a8c93f867e4b8428d7543c4c1146667619311983c60dd9fe524e53c1a365bc49"
+  },
+  {
+    "path": "public/streets/textures/stone-rough.jpg",
+    "source": "https://polyhaven.com/a/stone_tile_wall",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_tile_wall/stone_tile_wall_rough_1k.jpg",
+    "license": "CC0",
+    "bytes": 135280,
+    "sha256": "416cb51752adbe662034197b6853a4d72c8d5d78e769f038dd32dc763bc87b0e"
+  },
+  {
+    "path": "public/streets/textures/paving-diff.jpg",
+    "source": "https://polyhaven.com/a/large_grey_tiles",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/large_grey_tiles/large_grey_tiles_diff_1k.jpg",
+    "license": "CC0",
+    "bytes": 445476,
+    "sha256": "2cd00e2ddd516fdc165169252c194bf67b3ee483f2925442dc428cbae5fd04c8"
+  },
+  {
+    "path": "public/streets/textures/paving-nor_gl.jpg",
+    "source": "https://polyhaven.com/a/large_grey_tiles",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/large_grey_tiles/large_grey_tiles_nor_gl_1k.jpg",
+    "license": "CC0",
+    "bytes": 388446,
+    "sha256": "9185560cc045b0c90434c1bfe64922759a5bebfdad18a1b6af860ed0e332cfc8"
+  },
+  {
+    "path": "public/streets/textures/paving-rough.jpg",
+    "source": "https://polyhaven.com/a/large_grey_tiles",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/large_grey_tiles/large_grey_tiles_rough_1k.jpg",
+    "license": "CC0",
+    "bytes": 377009,
+    "sha256": "2042fd8d9775e4e91ca6474549e504ec08ded4664cb6b59890142d6fe97709c8"
+  },
+  {
+    "path": "assets/streets/textures/bark-diff.jpg",
+    "source": "https://polyhaven.com/a/bark_brown_01",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bark_brown_01/bark_brown_01_diff_1k.jpg",
+    "license": "CC0",
+    "bytes": 729893,
+    "sha256": "4213441aebcb72b9911f5a860e9ce74a61a8f6ce3b9c23d1f204173e7e7f6066",
+    "runtime": false
+  },
+  {
+    "path": "assets/streets/textures/bark-nor_gl.jpg",
+    "source": "https://polyhaven.com/a/bark_brown_01",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bark_brown_01/bark_brown_01_nor_gl_1k.jpg",
+    "license": "CC0",
+    "bytes": 1226534,
+    "sha256": "9d1537b3429579436a62890bb7c5050a0172a15ce768787eacde81c5ccefc9cc",
+    "runtime": false
+  },
+  {
+    "path": "public/streets/textures/ground-grass-diff.jpg",
+    "source": "https://polyhaven.com/a/aerial_grass_rock",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_grass_rock/aerial_grass_rock_diff_1k.jpg",
+    "license": "CC0",
+    "bytes": 666655,
+    "sha256": "57b8041bfe0d0f01430e4dbaad45e7ddddf0a9fc97317f90dbc51f7b0d9e1b5d"
+  },
+  {
+    "path": "public/streets/textures/ground-grass-nor_gl.jpg",
+    "source": "https://polyhaven.com/a/aerial_grass_rock",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_grass_rock/aerial_grass_rock_nor_gl_1k.jpg",
+    "license": "CC0",
+    "bytes": 904956,
+    "sha256": "1aa3e23bff453f152e089b9f83aa36b4901651e019f7e2ca01d5331a9bbbda78"
+  }
+]

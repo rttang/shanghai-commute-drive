@@ -1,0 +1,1559 @@
+[
+  {
+    "id": "bund-frontage-178564468",
+    "way": 178564468,
+    "center": [
+      31.244563975,
+      121.4861928
+    ],
+    "osmTags": {
+      "building": "yes"
+    },
+    "reverse": {
+      "place_id": 226159424,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 71462587,
+      "lat": "31.2444138",
+      "lon": "121.4858245",
+      "category": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.05341244602121001,
+      "addresstype": "road",
+      "name": "外滩隧道",
+      "display_name": "外滩隧道, 外滩源, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "road": "外滩隧道",
+        "quarter": "外滩源",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2350333",
+        "31.2472007",
+        "121.4857259",
+        "121.4878951"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-160152535",
+    "way": 160152535,
+    "center": [
+      31.24430701111111,
+      121.48431674444444
+    ],
+    "osmTags": {
+      "building": "yes"
+    },
+    "reverse": {
+      "place_id": 224672451,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 11618012,
+      "lat": "31.2442926",
+      "lon": "121.4844479",
+      "category": "tourism",
+      "type": "attraction",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "tourism",
+      "name": "原英国驻上海总领事馆",
+      "display_name": "原英国驻上海总领事馆, 33, 中山东一路, 外滩源, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "tourism": "原英国驻上海总领事馆",
+        "house_number": "33",
+        "road": "中山东一路",
+        "quarter": "外滩源",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2436263",
+        "31.2450945",
+        "121.4836819",
+        "121.4854888"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-177929846",
+    "way": 177929846,
+    "center": [
+      31.24344997857143,
+      121.48422245357142
+    ],
+    "osmTags": {
+      "building": "yes"
+    },
+    "reverse": {
+      "place_id": 225055034,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 177929887,
+      "lat": "31.2432569",
+      "lon": "121.4847583",
+      "category": "tourism",
+      "type": "hotel",
+      "place_rank": 30,
+      "importance": 0.27236747457604304,
+      "addresstype": "tourism",
+      "name": "半岛饭店",
+      "display_name": "半岛饭店, 32, 中山东一路, 外滩源, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "tourism": "半岛饭店",
+        "house_number": "32",
+        "road": "中山东一路",
+        "quarter": "外滩源",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2427733",
+        "31.2437749",
+        "121.4838357",
+        "121.4856362"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-177929849",
+    "way": 177929849,
+    "center": [
+      31.243541249999996,
+      121.485034725
+    ],
+    "osmTags": {
+      "building": "yes",
+      "building:levels": "13"
+    },
+    "reverse": {
+      "place_id": 225055034,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 177929887,
+      "lat": "31.2432569",
+      "lon": "121.4847583",
+      "category": "tourism",
+      "type": "hotel",
+      "place_rank": 30,
+      "importance": 0.27236747457604304,
+      "addresstype": "tourism",
+      "name": "半岛饭店",
+      "display_name": "半岛饭店, 32, 中山东一路, 外滩源, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "tourism": "半岛饭店",
+        "house_number": "32",
+        "road": "中山东一路",
+        "quarter": "外滩源",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2427733",
+        "31.2437749",
+        "121.4838357",
+        "121.4856362"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-177929888",
+    "way": 177929888,
+    "center": [
+      31.243459079999997,
+      121.48539056500002
+    ],
+    "osmTags": {
+      "building": "yes",
+      "building:levels": "10"
+    },
+    "reverse": {
+      "place_id": 225055034,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 177929887,
+      "lat": "31.2432569",
+      "lon": "121.4847583",
+      "category": "tourism",
+      "type": "hotel",
+      "place_rank": 30,
+      "importance": 0.27236747457604304,
+      "addresstype": "tourism",
+      "name": "半岛饭店",
+      "display_name": "半岛饭店, 32, 中山东一路, 外滩源, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "tourism": "半岛饭店",
+        "house_number": "32",
+        "road": "中山东一路",
+        "quarter": "外滩源",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2427733",
+        "31.2437749",
+        "121.4838357",
+        "121.4856362"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-177930863",
+    "way": 177930863,
+    "center": [
+      31.24230111333333,
+      121.48442475333334
+    ],
+    "osmTags": {
+      "building": "yes",
+      "building:levels": "6"
+    },
+    "reverse": {
+      "place_id": 224913371,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 177930861,
+      "lat": "31.2425668",
+      "lon": "121.4844508",
+      "category": "shop",
+      "type": "mall",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "shop",
+      "name": "益丰·外滩源",
+      "display_name": "益丰·外滩源, 31-91, 北京东路, 洛克·外滩源, 外滩源, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "shop": "益丰·外滩源",
+        "house_number": "31-91",
+        "road": "北京东路",
+        "commercial": "洛克·外滩源",
+        "quarter": "外滩源",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2424788",
+        "31.2426311",
+        "121.4837948",
+        "121.4850939"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-160033736",
+    "way": 160033736,
+    "center": [
+      31.242012879999997,
+      121.48617845999999
+    ],
+    "osmTags": {
+      "building": "yes"
+    },
+    "reverse": {
+      "place_id": 222898750,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4451279459,
+      "lat": "31.2420535",
+      "lon": "121.4861363",
+      "category": "amenity",
+      "type": "fast_food",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "amenity",
+      "name": "赛百味",
+      "display_name": "赛百味, 365, 中山东一路, 外滩源, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "amenity": "赛百味",
+        "house_number": "365",
+        "road": "中山东一路",
+        "quarter": "外滩源",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2420035",
+        "31.2421035",
+        "121.4860863",
+        "121.4861863"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-493784117",
+    "way": 493784117,
+    "center": [
+      31.239890525,
+      121.48470019999999
+    ],
+    "osmTags": {
+      "addr:housenumber": "36",
+      "addr:street": "九江路",
+      "building": "yes",
+      "building:levels": "6",
+      "heritage": "4",
+      "heritage:operator": "上海市优秀历史建筑",
+      "heritage:ref": "A-Ⅲ-044",
+      "name": "中国邮政储蓄银行上海分行",
+      "name:zh": "中国邮政储蓄银行上海分行",
+      "name:zh-Hans": "中国邮政储蓄银行上海分行",
+      "name:zh-Hant": "中國郵政儲蓄銀行上海分行",
+      "old_name": "中华邮政储金汇业局",
+      "source": "Bing",
+      "start_date": "1934"
+    },
+    "reverse": {
+      "place_id": 224142491,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 493784117,
+      "lat": "31.2398906",
+      "lon": "121.4846998",
+      "category": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "building",
+      "name": "中国邮政储蓄银行上海分行",
+      "display_name": "中国邮政储蓄银行上海分行, 36, 九江路, 外滩源, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "building": "中国邮政储蓄银行上海分行",
+        "house_number": "36",
+        "road": "九江路",
+        "quarter": "外滩源",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2397106",
+        "31.2400704",
+        "121.4845019",
+        "121.4848960"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-178405874",
+    "way": 178405874,
+    "center": [
+      31.2393404625,
+      121.4851739125
+    ],
+    "osmTags": {
+      "addr:housenumber": "15甲",
+      "addr:housenumber:en": "15A",
+      "addr:street": "中山东一路",
+      "addr:street:en": "East Zhongshan No. 1 Road",
+      "building": "yes",
+      "building:levels": "5",
+      "heritage": "yes",
+      "heritage:operator": "上海市优秀历史建筑",
+      "heritage:ref": "fixme",
+      "name": "外滩公共服务中心",
+      "name:en": "The Public Service Center of the Bund",
+      "name:zh": "外滩公共服务中心",
+      "name:zh-Hans": "外滩公共服务中心",
+      "name:zh-Hant": "外灘公共服務中心",
+      "start_date": "2010"
+    },
+    "reverse": {
+      "place_id": 222903747,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 178405874,
+      "lat": "31.2393680",
+      "lon": "121.4853786",
+      "category": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "building",
+      "name": "外滩公共服务中心",
+      "display_name": "外滩公共服务中心, 15甲, 中山东一路, 外滩源, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "building": "外滩公共服务中心",
+        "house_number": "15甲",
+        "road": "中山东一路",
+        "quarter": "外滩源",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2391312",
+        "31.2396518",
+        "121.4848059",
+        "121.4855186"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-178406075",
+    "way": 178406075,
+    "center": [
+      31.239022449999997,
+      121.4850598125
+    ],
+    "osmTags": {
+      "building": "yes",
+      "building:levels": "6"
+    },
+    "reverse": {
+      "place_id": 224594384,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 178405872,
+      "lat": "31.2390198",
+      "lon": "121.4853391",
+      "category": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "building",
+      "name": "上海市总工会",
+      "display_name": "上海市总工会, 14, 中山东一路, 外滩源, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "building": "上海市总工会",
+        "house_number": "14",
+        "road": "中山东一路",
+        "quarter": "外滩源",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2388431",
+        "31.2391879",
+        "121.4849364",
+        "121.4855667"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-380339914",
+    "way": 380339914,
+    "center": [
+      31.238469249999998,
+      121.48516857499999
+    ],
+    "osmTags": {
+      "building": "yes",
+      "building:levels": "7",
+      "source": "Bing"
+    },
+    "reverse": {
+      "place_id": 224517309,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 2380996,
+      "lat": "31.2379800",
+      "lon": "121.4851468",
+      "category": "amenity",
+      "type": "bank",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "amenity",
+      "name": "上海浦东发展银行",
+      "display_name": "上海浦东发展银行, 10-12, 中山东一路, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "amenity": "上海浦东发展银行",
+        "house_number": "10-12",
+        "road": "中山东一路",
+        "quarter": "新北门",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2375433",
+        "31.2383822",
+        "121.4849574",
+        "121.4857325"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-1197725294",
+    "way": 1197725294,
+    "center": [
+      31.23839398,
+      121.48476786
+    ],
+    "osmTags": {
+      "building": "yes",
+      "building:levels": "7",
+      "source": "Bing"
+    },
+    "reverse": {
+      "place_id": 224005701,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 2380996,
+      "lat": "31.2379800",
+      "lon": "121.4851468",
+      "category": "amenity",
+      "type": "bank",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "amenity",
+      "name": "上海浦东发展银行",
+      "display_name": "上海浦东发展银行, 10-12, 中山东一路, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "amenity": "上海浦东发展银行",
+        "house_number": "10-12",
+        "road": "中山东一路",
+        "quarter": "新北门",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2375433",
+        "31.2383822",
+        "121.4849574",
+        "121.4857325"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-380340030",
+    "way": 380340030,
+    "center": [
+      31.237276599999994,
+      121.48551925384615
+    ],
+    "osmTags": {
+      "addr:housenumber": "17-19",
+      "addr:street": "福州路",
+      "building": "yes",
+      "building:levels": "2",
+      "heritage": "4",
+      "heritage:operator": "上海市优秀历史建筑",
+      "heritage:ref": "4A021",
+      "name:zh-Hans": "上海市生产服务合作联社等",
+      "name:zh-Hant": "上海市生產服務合作聯社等",
+      "old_name": "旗昌洋行",
+      "source": "Bing",
+      "start_date": "1850"
+    },
+    "reverse": {
+      "place_id": 224675188,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 380340030,
+      "lat": "31.2372622",
+      "lon": "121.4854869",
+      "category": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "building",
+      "name": "旗昌洋行",
+      "display_name": "旗昌洋行, 17-19, 福州路, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "building": "旗昌洋行",
+        "house_number": "17-19",
+        "road": "福州路",
+        "quarter": "新北门",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2370939",
+        "31.2374445",
+        "121.4852251",
+        "121.4857172"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-380339857",
+    "way": 380339857,
+    "center": [
+      31.237061325,
+      121.4855859
+    ],
+    "osmTags": {
+      "building": "yes",
+      "building:levels": "7",
+      "source": "Bing"
+    },
+    "reverse": {
+      "place_id": 224889117,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 380339871,
+      "lat": "31.2369491",
+      "lon": "121.4851290",
+      "category": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "building",
+      "name": "元芳弄",
+      "display_name": "元芳弄, 5~21, 外滩8弄, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "building": "元芳弄",
+        "house_number": "5~21",
+        "road": "外滩8弄",
+        "quarter": "新北门",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2368754",
+        "31.2370228",
+        "121.4850271",
+        "121.4852309"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-1197674361",
+    "way": 1197674361,
+    "center": [
+      31.236610225,
+      121.485535075
+    ],
+    "osmTags": {
+      "building": "yes"
+    },
+    "reverse": {
+      "place_id": 224530729,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 380339832,
+      "lat": "31.2367796",
+      "lon": "121.4851799",
+      "category": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "building",
+      "name": "元芳弄",
+      "display_name": "元芳弄, 5~21, 元芳弄, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "building": "元芳弄",
+        "house_number": "5~21",
+        "road": "元芳弄",
+        "quarter": "新北门",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2366577",
+        "31.2369014",
+        "121.4850546",
+        "121.4853051"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-178408827",
+    "way": 178408827,
+    "center": [
+      31.23662509090909,
+      121.48605607272727
+    ],
+    "osmTags": {
+      "addr:housenumber": "6",
+      "addr:street": "中山东一路",
+      "addr:street:en": "East Zhongshan No. 1 Road",
+      "building": "commercial",
+      "building:levels": "6",
+      "heritage": "yes",
+      "heritage:operator": "上海市优秀历史建筑",
+      "heritage:ref": "A-Ⅲ-003",
+      "name": "外滩六号",
+      "name:en": "Bund6",
+      "name:zh": "外滩六号",
+      "name:zh-Hans": "外滩六号",
+      "name:zh-Hant": "外灘六號",
+      "start_date": "1886"
+    },
+    "reverse": {
+      "place_id": 225000345,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 178408827,
+      "lat": "31.2367138",
+      "lon": "121.4860271",
+      "category": "building",
+      "type": "commercial",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "building",
+      "name": "外滩六号",
+      "display_name": "外滩六号, 6, 中山东一路, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "building": "外滩六号",
+        "house_number": "6",
+        "road": "中山东一路",
+        "quarter": "新北门",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2364674",
+        "31.2368848",
+        "121.4858116",
+        "121.4863130"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-439877627",
+    "way": 439877627,
+    "center": [
+      31.234690125,
+      121.487000125
+    ],
+    "osmTags": {
+      "building": "yes",
+      "building:levels": "6"
+    },
+    "reverse": {
+      "place_id": 221871144,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 484295025,
+      "lat": "31.2346139",
+      "lon": "121.4870382",
+      "category": "highway",
+      "type": "trunk",
+      "place_rank": 26,
+      "importance": 0.05341244602121001,
+      "addresstype": "road",
+      "name": "延安东路隧道",
+      "display_name": "延安东路隧道, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "road": "延安东路隧道",
+        "quarter": "新北门",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2345272",
+        "31.2348553",
+        "121.4868646",
+        "121.4874156"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-439877626",
+    "way": 439877626,
+    "center": [
+      31.2347535,
+      121.48730705999999
+    ],
+    "osmTags": {
+      "building": "commercial",
+      "building:levels": "10",
+      "name": "凯石大厦"
+    },
+    "reverse": {
+      "place_id": 224080186,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 484295025,
+      "lat": "31.2347683",
+      "lon": "121.4872963",
+      "category": "highway",
+      "type": "trunk",
+      "place_rank": 26,
+      "importance": 0.05341244602121001,
+      "addresstype": "road",
+      "name": "延安东路隧道",
+      "display_name": "延安东路隧道, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "road": "延安东路隧道",
+        "quarter": "新北门",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2345272",
+        "31.2348553",
+        "121.4868646",
+        "121.4874156"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-1156865542",
+    "way": 1156865542,
+    "center": [
+      31.23450383333333,
+      121.4874606
+    ],
+    "osmTags": {
+      "building": "commercial",
+      "layer": "0",
+      "name": "金延大楼"
+    },
+    "reverse": {
+      "place_id": 224935410,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 484295019,
+      "lat": "31.2345753",
+      "lon": "121.4874086",
+      "category": "highway",
+      "type": "trunk",
+      "place_rank": 26,
+      "importance": 0.05341244602121001,
+      "addresstype": "road",
+      "name": "延安东路隧道",
+      "display_name": "延安东路隧道, 陆家嘴, 外滩街道, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "road": "延安东路隧道",
+        "quarter": "陆家嘴",
+        "suburb": "外滩街道",
+        "city": "黄浦区",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2342405",
+        "31.2399819",
+        "121.4869321",
+        "121.4950159"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-446933537",
+    "way": 446933537,
+    "center": [
+      31.234075875000002,
+      121.487153
+    ],
+    "osmTags": {
+      "building": "yes",
+      "building:levels": "6"
+    },
+    "reverse": {
+      "place_id": 224987083,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1198532834,
+      "lat": "31.2339784",
+      "lon": "121.4872583",
+      "category": "amenity",
+      "type": "school",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "amenity",
+      "name": "金陵中学",
+      "display_name": "金陵中学, 延安东路隧道, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "amenity": "金陵中学",
+        "road": "延安东路隧道",
+        "quarter": "新北门",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2336390",
+        "31.2343102",
+        "121.4868705",
+        "121.4876407"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-1156865544",
+    "way": 1156865544,
+    "center": [
+      31.23427326,
+      121.48776764000002
+    ],
+    "osmTags": {
+      "building": "yes"
+    },
+    "reverse": {
+      "place_id": 224193296,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 11118532595,
+      "lat": "31.2344116",
+      "lon": "121.4879334",
+      "category": "tourism",
+      "type": "attraction",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "tourism",
+      "name": "法国邮船公司大楼",
+      "display_name": "法国邮船公司大楼, 中山东二路, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "tourism": "法国邮船公司大楼",
+        "road": "中山东二路",
+        "quarter": "新北门",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2343616",
+        "31.2344616",
+        "121.4878834",
+        "121.4879834"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-1156865543",
+    "way": 1156865543,
+    "center": [
+      31.233965220000005,
+      121.48782354
+    ],
+    "osmTags": {
+      "building": "commercial",
+      "name": "光明金融大厦"
+    },
+    "reverse": {
+      "place_id": 224563498,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1198532834,
+      "lat": "31.2339784",
+      "lon": "121.4872583",
+      "category": "amenity",
+      "type": "school",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "amenity",
+      "name": "金陵中学",
+      "display_name": "金陵中学, 延安东路隧道, 陆家嘴, 外滩街道, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "amenity": "金陵中学",
+        "road": "延安东路隧道",
+        "quarter": "陆家嘴",
+        "suburb": "外滩街道",
+        "city": "黄浦区",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2336390",
+        "31.2343102",
+        "121.4868705",
+        "121.4876407"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-446933508",
+    "way": 446933508,
+    "center": [
+      31.233513833333333,
+      121.48748275000003
+    ],
+    "osmTags": {
+      "building": "yes",
+      "building:levels": "8"
+    },
+    "reverse": {
+      "place_id": 222913803,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6790935786,
+      "lat": "31.2335147",
+      "lon": "121.4874839",
+      "category": "shop",
+      "type": "convenience",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "shop",
+      "name": "全家",
+      "display_name": "全家, 金陵东路, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "shop": "全家",
+        "road": "金陵东路",
+        "quarter": "新北门",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2334647",
+        "31.2335647",
+        "121.4874339",
+        "121.4875339"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-446933528",
+    "way": 446933528,
+    "center": [
+      31.233646874999998,
+      121.48790205
+    ],
+    "osmTags": {
+      "building": "yes",
+      "building:levels": "6"
+    },
+    "reverse": {
+      "place_id": 224573088,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 10739790,
+      "lat": "31.2337407",
+      "lon": "121.4878766",
+      "category": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05341244602121001,
+      "addresstype": "road",
+      "name": "金陵东路",
+      "display_name": "金陵东路, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "road": "金陵东路",
+        "quarter": "新北门",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2335085",
+        "31.2339868",
+        "121.4870197",
+        "121.4885460"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-1198568466",
+    "way": 1198568466,
+    "center": [
+      31.2336481,
+      121.48803011666666
+    ],
+    "osmTags": {
+      "building": "yes"
+    },
+    "reverse": {
+      "place_id": 224386467,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 10739790,
+      "lat": "31.2337731",
+      "lon": "121.4879962",
+      "category": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05341244602121001,
+      "addresstype": "road",
+      "name": "金陵东路",
+      "display_name": "金陵东路, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "road": "金陵东路",
+        "quarter": "新北门",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2335085",
+        "31.2339868",
+        "121.4870197",
+        "121.4885460"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-446933545",
+    "way": 446933545,
+    "center": [
+      31.233646083333337,
+      121.48840587500001
+    ],
+    "osmTags": {
+      "building": "commercial",
+      "building:levels": "28",
+      "name": "东方饭店",
+      "name:fr": "Les suites orient"
+    },
+    "reverse": {
+      "place_id": 222626250,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 446933520,
+      "lat": "31.2333630",
+      "lon": "121.4887473",
+      "category": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "building",
+      "name": "Bund 15",
+      "display_name": "Bund 15, 15, 外滩, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "building": "Bund 15",
+        "house_number": "15",
+        "road": "外滩",
+        "quarter": "新北门",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2329195",
+        "31.2336331",
+        "121.4883567",
+        "121.4893038"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-1198569401",
+    "way": 1198569401,
+    "center": [
+      31.232958599999996,
+      121.48917807999999
+    ],
+    "osmTags": {
+      "building": "yes"
+    },
+    "reverse": {
+      "place_id": 222626250,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 446933520,
+      "lat": "31.2333630",
+      "lon": "121.4887473",
+      "category": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "building",
+      "name": "Bund 15",
+      "display_name": "Bund 15, 15, 外滩, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "building": "Bund 15",
+        "house_number": "15",
+        "road": "外滩",
+        "quarter": "新北门",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2329195",
+        "31.2336331",
+        "121.4883567",
+        "121.4893038"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-446933520",
+    "way": 446933520,
+    "center": [
+      31.2331863,
+      121.48887545000001
+    ],
+    "osmTags": {
+      "addr:housenumber": "15",
+      "addr:street": "Zhongshan East 2nd Road",
+      "building": "yes",
+      "building:levels": "11",
+      "name": "Bund 15"
+    },
+    "reverse": {
+      "place_id": 222626250,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 446933520,
+      "lat": "31.2333630",
+      "lon": "121.4887473",
+      "category": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "building",
+      "name": "Bund 15",
+      "display_name": "Bund 15, 15, 外滩, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200002, 中国",
+      "address": {
+        "building": "Bund 15",
+        "house_number": "15",
+        "road": "外滩",
+        "quarter": "新北门",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200002",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2329195",
+        "31.2336331",
+        "121.4883567",
+        "121.4893038"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-1198569402",
+    "way": 1198569402,
+    "center": [
+      31.232929266666662,
+      121.4893140541667
+    ],
+    "osmTags": {
+      "building": "yes"
+    },
+    "reverse": {
+      "place_id": 224573068,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 39705535,
+      "lat": "31.2328426",
+      "lon": "121.4893423",
+      "category": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05341244602121001,
+      "addresstype": "road",
+      "name": "新永安路",
+      "display_name": "新永安路, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200010, 中国",
+      "address": {
+        "road": "新永安路",
+        "quarter": "新北门",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200010",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2322411",
+        "31.2330434",
+        "121.4874993",
+        "121.4897652"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-1287050300",
+    "way": 1287050300,
+    "center": [
+      31.2322714,
+      121.48868035
+    ],
+    "osmTags": {
+      "building": "yes"
+    },
+    "reverse": {
+      "place_id": 224573068,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 39705535,
+      "lat": "31.2325923",
+      "lon": "121.4885756",
+      "category": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05341244602121001,
+      "addresstype": "road",
+      "name": "新永安路",
+      "display_name": "新永安路, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200010, 中国",
+      "address": {
+        "road": "新永安路",
+        "quarter": "新北门",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200010",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2322411",
+        "31.2330434",
+        "121.4874993",
+        "121.4897652"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-495105937",
+    "way": 495105937,
+    "center": [
+      31.232677575,
+      121.4894884
+    ],
+    "osmTags": {
+      "addr:housenumber": "22",
+      "addr:street": "中山东二路",
+      "alt_name": "上海工业发展基金会",
+      "building": "yes",
+      "building:levels": "5",
+      "heritage": "4",
+      "heritage:operator": "上海市优秀历史建筑",
+      "heritage:ref": "4A025",
+      "name": "丰华大楼",
+      "name:en": "Butterfield & Swire",
+      "name:zh": "丰华大楼",
+      "name:zh-Hans": "丰华大楼",
+      "name:zh-Hant": "豐華大樓",
+      "old_name": "太古洋行",
+      "source": "Bing",
+      "start_date": "1906"
+    },
+    "reverse": {
+      "place_id": 225011734,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4896271437,
+      "lat": "31.2326792",
+      "lon": "121.4895923",
+      "category": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 0.04539457909600718,
+      "addresstype": "amenity",
+      "name": "El Willy",
+      "display_name": "El Willy, 22, 中山东二路, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200010, 中国",
+      "address": {
+        "amenity": "El Willy",
+        "house_number": "22",
+        "road": "中山东二路",
+        "quarter": "新北门",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200010",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2326292",
+        "31.2327292",
+        "121.4895423",
+        "121.4896423"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-1287050298",
+    "way": 1287050298,
+    "center": [
+      31.232323324999996,
+      121.4895723
+    ],
+    "osmTags": {
+      "building": "yes"
+    },
+    "reverse": {
+      "place_id": 224471803,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6652872585,
+      "lat": "31.2323887",
+      "lon": "121.4897311",
+      "category": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "amenity",
+      "name": "大蔬无界",
+      "display_name": "大蔬无界, 22, 中山东二路, 新北门, 外滩街道, 上海市, 黄浦区, 上海市, 200010, 中国",
+      "address": {
+        "amenity": "大蔬无界",
+        "house_number": "22",
+        "road": "中山东二路",
+        "quarter": "新北门",
+        "suburb": "外滩街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200010",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2323387",
+        "31.2324387",
+        "121.4896811",
+        "121.4897811"
+      ]
+    }
+  },
+  {
+    "id": "bund-frontage-1287050297",
+    "way": 1287050297,
+    "center": [
+      31.232022475,
+      121.48989845
+    ],
+    "osmTags": {
+      "building": "yes"
+    },
+    "reverse": {
+      "place_id": 222905550,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9807878207,
+      "lat": "31.2316398",
+      "lon": "121.4900069",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 7.91126878766616e-05,
+      "addresstype": "highway",
+      "name": "新开河路中山东二路",
+      "display_name": "新开河路中山东二路, 新开河路, 新开河, 小东门街道, 上海市, 黄浦区, 上海市, 200010, 中国",
+      "address": {
+        "highway": "新开河路中山东二路",
+        "road": "新开河路",
+        "quarter": "新开河",
+        "suburb": "小东门街道",
+        "city": "上海市",
+        "state": "上海市",
+        "ISO3166-2-lvl4": "CN-SH",
+        "postcode": "200010",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "31.2315898",
+        "31.2316898",
+        "121.4899569",
+        "121.4900569"
+      ]
+    }
+  }
+]

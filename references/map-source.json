@@ -1,0 +1,8 @@
+{
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "query": "[out:json][timeout:40];way[\"highway\"][\"name\"~\"^(南京西路|常德路|延安中路|延安高架路|南北高架路|中山东一路|中山东二路|延安东路隧道|世纪大道|陆家嘴环路|银城中路)$\"](31.19,121.43,31.26,121.515);out geom;",
+  "retrievedAt": "2026-09-08T09:57:38.907968+00:00",
+  "license": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors",
+  "ways": 283
+}

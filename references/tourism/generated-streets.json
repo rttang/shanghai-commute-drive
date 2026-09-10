@@ -1,0 +1,34 @@
+{
+  "mode": "built-in image_gen",
+  "type": "generated art and generic material references; not measured Shanghai photography",
+  "files": [
+    {
+      "source": "/Users/maiziheng/.codex/generated_images/01a0806f-f664-74d1-97a7-11b3fcbd1dc7/exec-8efee53d-6f40-4e52-ac02-0f66decd556b.png",
+      "destination": ".dream-loop/concept-bund.png",
+      "sha256": "b68ca8cff395c4340663d9a92d7fb26c17d292524d63290b659276033a4d8b96",
+      "bytes": 2611344,
+      "mainDiskCopyRemoved": true
+    },
+    {
+      "source": "/Users/maiziheng/.codex/generated_images/01a0806f-f664-74d1-97a7-11b3fcbd1dc7/exec-a6161ca6-beda-49b9-af60-941d558e4d4c.png",
+      "destination": "assets/streets/textures/plane-leaf-original.png",
+      "sha256": "41091d2188ad03ec712ab2ebe03f1d39e2e99b5e2c336e365cb63629426d3b9e",
+      "bytes": 1645256,
+      "mainDiskCopyRemoved": true
+    },
+    {
+      "source": "/Users/maiziheng/.codex/generated_images/01a0806f-f664-74d1-97a7-11b3fcbd1dc7/exec-2a0a0e86-cda1-490e-beb0-06775e1af355.png",
+      "destination": "assets/streets/textures/heritage-facade-original.png",
+      "sha256": "2f2bc50e9a2bd659f4375392cd42bc68243cd3bee48bc40183bc9a1caa4f6be6",
+      "bytes": 2558880,
+      "mainDiskCopyRemoved": true
+    },
+    {
+      "source": "/Users/maiziheng/.codex/generated_images/01a0806f-f664-74d1-97a7-11b3fcbd1dc7/exec-0311241a-dbcd-4c1a-8005-a22bcf133ea0.png",
+      "destination": "assets/streets/textures/plane-bark-original.png",
+      "sha256": "60e127cc176a6ed0eb7de8d5223e389117f3cbdd46dccf47979493b20d9e325b",
+      "bytes": 3333578,
+      "mainDiskCopyRemoved": true
+    }
+  ]
+}

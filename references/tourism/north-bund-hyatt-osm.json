@@ -1,0 +1,77 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-09-09T12:38:10Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 446933497,
+  "bounds": {
+    "minlat": 31.2465923,
+    "minlon": 121.4874019,
+    "maxlat": 31.2470617,
+    "maxlon": 121.4879031
+  },
+  "geometry": [
+    { "lat": 31.2470617, "lon": 121.4876187 },
+    { "lat": 31.2467269, "lon": 121.4879031 },
+    { "lat": 31.2465923, "lon": 121.4876862 },
+    { "lat": 31.2469271, "lon": 121.4874019 },
+    { "lat": 31.2470617, "lon": 121.4876187 }
+  ],
+  "tags": {
+    "building:levels": "30",
+    "building:part": "tower"
+  }
+},
+{
+  "type": "way",
+  "id": 446937834,
+  "bounds": {
+    "minlat": 31.2468038,
+    "minlon": 121.4880476,
+    "maxlat": 31.2472716,
+    "maxlon": 121.4884258
+  },
+  "geometry": [
+    { "lat": 31.2472096, "lon": 121.4880476 },
+    { "lat": 31.2468038, "lon": 121.4883399 },
+    { "lat": 31.2468061, "lon": 121.4884097 },
+    { "lat": 31.2470904, "lon": 121.4884258 },
+    { "lat": 31.2472716, "lon": 121.4883480 },
+    { "lat": 31.2472096, "lon": 121.4880476 }
+  ],
+  "tags": {
+    "building:levels": "32",
+    "building:part": "tower"
+  }
+},
+{
+  "type": "way",
+  "id": 446937836,
+  "bounds": {
+    "minlat": 31.2472624,
+    "minlon": 121.4887691,
+    "maxlat": 31.2476476,
+    "maxlon": 121.4892385
+  },
+  "geometry": [
+    { "lat": 31.2474229, "lon": 121.4887691 },
+    { "lat": 31.2476476, "lon": 121.4889944 },
+    { "lat": 31.2472945, "lon": 121.4892385 },
+    { "lat": 31.2472624, "lon": 121.4892358 },
+    { "lat": 31.2472761, "lon": 121.4889756 },
+    { "lat": 31.2474229, "lon": 121.4887691 }
+  ],
+  "tags": {
+    "building:levels": "32",
+    "building:part": "tower"
+  }
+}
+
+  ]
+}

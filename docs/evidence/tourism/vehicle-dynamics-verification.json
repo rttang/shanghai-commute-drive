@@ -1,0 +1,1107 @@
+{
+  "generatedAt": "2026-09-09T15:58:45.725Z",
+  "passed": true,
+  "inputs": {
+    "src/tour/vehicle-dynamics.ts": "adbbfcdc56ad43a870e3b474b1b812c4623ac296decb45ac9da9dc7f6bc77b3c",
+    "src/tour/vehicle-dynamics.json": "eb8b73c1dc41019edabcfcaf520b212ed16373694c10abd1b9accf5fbc6047d2",
+    "references/vehicle-dynamics-sources.json": "48fa2453327d8b59037b621db0b3cdd318a65cebdd94e41a041198e6a6369fa9",
+    "scripts/verify_vehicle_dynamics.ts": "0381c886f9a71ca16f9a7b4a6e769cb0e39221150d3311f6827bd4deb686b157"
+  },
+  "boundary": "Pure manual longitudinal dynamics. Flat road, full pedal from rest; no tyre/gearbox/battery simulation. This is game calibration, not official acceleration. Drive pose/collision and browser integration belong to separate acceptance.",
+  "measurement": {
+    "primaryHz": 120,
+    "zeroTo80ReportedThresholdKmh": 79.5,
+    "thresholdTiming": "Linear interpolation of sampled speed; lower render frequency can change threshold observation timing. Equal-time traces are the frame-invariance check.",
+    "brakeTiming": "First zero-speed sample at 120 Hz; time resolution 1/120 second.",
+    "framePatternsSeconds": {
+      "hz120": [
+        0.008333
+      ],
+      "hz60": [
+        0.016667
+      ],
+      "hz20": [
+        0.05
+      ],
+      "hz10": [
+        0.1
+      ],
+      "dropped": [
+        0.016667,
+        0.016667,
+        0.1,
+        0.016667,
+        0.2,
+        0.05,
+        0.25,
+        0.016667
+      ]
+    },
+    "frameComparison": "Same control transitions and half-second checkpoints; includes full throttle, release, partial throttle, braking, forward and reverse.",
+    "acceptedFrameLimitSeconds": 0.25,
+    "longerStalls": "Excess over 0.25 seconds is discarded, preserving existing Drive stall behavior.",
+    "maximumFrameDifferenceMps": 0.000016
+  },
+  "vehicles": [
+    {
+      "id": "su7",
+      "name": "小米 SU7",
+      "referenceId": "xiaomi-su7-standard-2024",
+      "pedalResponseSeconds": 0.12,
+      "zeroTo50Seconds": 2.396817,
+      "zeroTo79Point5Seconds": 4.149659,
+      "fiftyTo79Point5Seconds": 1.752842,
+      "maximumForwardSpeedKmh": 80,
+      "reverseZeroTo14Point5Seconds": 2.134533,
+      "maximumReverseSpeedKmh": 15,
+      "brake80ToZero": {
+        "seconds": 2.966667,
+        "distanceMetres": 32.921875,
+        "finalSpeedMps": 0
+      },
+      "handbrake80ToZero": {
+        "seconds": 2.475,
+        "distanceMetres": 27.434907,
+        "finalSpeedMps": 0
+      },
+      "reverseBrake15ToZero": {
+        "seconds": 0.558333,
+        "distanceMetres": 1.157465,
+        "finalSpeedMps": 0
+      },
+      "frames": {
+        "hz120": {
+          "zeroTo50Seconds": 2.396817,
+          "zeroTo79Point5Seconds": 4.149659,
+          "maximumSpeedKmh": 80
+        },
+        "hz60": {
+          "zeroTo50Seconds": 2.396819,
+          "zeroTo79Point5Seconds": 4.149659,
+          "maximumSpeedKmh": 80
+        },
+        "hz20": {
+          "zeroTo50Seconds": 2.396826,
+          "zeroTo79Point5Seconds": 4.14966,
+          "maximumSpeedKmh": 80
+        },
+        "hz10": {
+          "zeroTo50Seconds": 2.396837,
+          "zeroTo79Point5Seconds": 4.158597,
+          "maximumSpeedKmh": 80
+        },
+        "dropped": {
+          "zeroTo50Seconds": 2.396826,
+          "zeroTo79Point5Seconds": 4.149659,
+          "maximumSpeedKmh": 80
+        }
+      },
+      "traces": [
+        {
+          "direction": "forward",
+          "comparisons": [
+            {
+              "pattern": "hz60",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz20",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz10",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "dropped",
+              "maximumSpeedDifferenceMps": 0.000014,
+              "maximumPedalDifference": 0
+            }
+          ]
+        },
+        {
+          "direction": "reverse",
+          "comparisons": [
+            {
+              "pattern": "hz60",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz20",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz10",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "dropped",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model-3",
+      "name": "Tesla Model 3",
+      "referenceId": "tesla-model-3-rwd",
+      "pedalResponseSeconds": 0.13,
+      "zeroTo50Seconds": 2.728179,
+      "zeroTo79Point5Seconds": 4.760229,
+      "fiftyTo79Point5Seconds": 2.03205,
+      "maximumForwardSpeedKmh": 80,
+      "reverseZeroTo14Point5Seconds": 2.176375,
+      "maximumReverseSpeedKmh": 15,
+      "brake80ToZero": {
+        "seconds": 2.966667,
+        "distanceMetres": 32.921875,
+        "finalSpeedMps": 0
+      },
+      "handbrake80ToZero": {
+        "seconds": 2.475,
+        "distanceMetres": 27.434907,
+        "finalSpeedMps": 0
+      },
+      "reverseBrake15ToZero": {
+        "seconds": 0.558333,
+        "distanceMetres": 1.157465,
+        "finalSpeedMps": 0
+      },
+      "frames": {
+        "hz120": {
+          "zeroTo50Seconds": 2.728179,
+          "zeroTo79Point5Seconds": 4.760229,
+          "maximumSpeedKmh": 80
+        },
+        "hz60": {
+          "zeroTo50Seconds": 2.728182,
+          "zeroTo79Point5Seconds": 4.760233,
+          "maximumSpeedKmh": 80
+        },
+        "hz20": {
+          "zeroTo50Seconds": 2.728221,
+          "zeroTo79Point5Seconds": 4.760261,
+          "maximumSpeedKmh": 80
+        },
+        "hz10": {
+          "zeroTo50Seconds": 2.728317,
+          "zeroTo79Point5Seconds": 4.760424,
+          "maximumSpeedKmh": 80
+        },
+        "dropped": {
+          "zeroTo50Seconds": 2.728317,
+          "zeroTo79Point5Seconds": 4.760424,
+          "maximumSpeedKmh": 80
+        }
+      },
+      "traces": [
+        {
+          "direction": "forward",
+          "comparisons": [
+            {
+              "pattern": "hz60",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz20",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz10",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "dropped",
+              "maximumSpeedDifferenceMps": 0.000011,
+              "maximumPedalDifference": 0
+            }
+          ]
+        },
+        {
+          "direction": "reverse",
+          "comparisons": [
+            {
+              "pattern": "hz60",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz20",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz10",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "dropped",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model-y",
+      "name": "Tesla Model Y",
+      "referenceId": "tesla-model-y-rwd",
+      "pedalResponseSeconds": 0.18,
+      "zeroTo50Seconds": 2.758613,
+      "zeroTo79Point5Seconds": 4.517082,
+      "fiftyTo79Point5Seconds": 1.758469,
+      "maximumForwardSpeedKmh": 80,
+      "reverseZeroTo14Point5Seconds": 2.220087,
+      "maximumReverseSpeedKmh": 15,
+      "brake80ToZero": {
+        "seconds": 2.966667,
+        "distanceMetres": 32.921875,
+        "finalSpeedMps": 0
+      },
+      "handbrake80ToZero": {
+        "seconds": 2.475,
+        "distanceMetres": 27.434907,
+        "finalSpeedMps": 0
+      },
+      "reverseBrake15ToZero": {
+        "seconds": 0.558333,
+        "distanceMetres": 1.157465,
+        "finalSpeedMps": 0
+      },
+      "frames": {
+        "hz120": {
+          "zeroTo50Seconds": 2.758613,
+          "zeroTo79Point5Seconds": 4.517082,
+          "maximumSpeedKmh": 80
+        },
+        "hz60": {
+          "zeroTo50Seconds": 2.758616,
+          "zeroTo79Point5Seconds": 4.517083,
+          "maximumSpeedKmh": 80
+        },
+        "hz20": {
+          "zeroTo50Seconds": 2.758635,
+          "zeroTo79Point5Seconds": 4.51713,
+          "maximumSpeedKmh": 80
+        },
+        "hz10": {
+          "zeroTo50Seconds": 2.758714,
+          "zeroTo79Point5Seconds": 4.533197,
+          "maximumSpeedKmh": 80
+        },
+        "dropped": {
+          "zeroTo50Seconds": 2.758714,
+          "zeroTo79Point5Seconds": 4.593631,
+          "maximumSpeedKmh": 80
+        }
+      },
+      "traces": [
+        {
+          "direction": "forward",
+          "comparisons": [
+            {
+              "pattern": "hz60",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz20",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz10",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "dropped",
+              "maximumSpeedDifferenceMps": 0.000012,
+              "maximumPedalDifference": 0
+            }
+          ]
+        },
+        {
+          "direction": "reverse",
+          "comparisons": [
+            {
+              "pattern": "hz60",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz20",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz10",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "dropped",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dolphin",
+      "name": "比亚迪 海豚",
+      "referenceId": "byd-dolphin-dynamic-70kw",
+      "pedalResponseSeconds": 0.28,
+      "zeroTo50Seconds": 4.960377,
+      "zeroTo79Point5Seconds": 9.646449,
+      "fiftyTo79Point5Seconds": 4.686072,
+      "maximumForwardSpeedKmh": 80,
+      "reverseZeroTo14Point5Seconds": 2.423773,
+      "maximumReverseSpeedKmh": 15,
+      "brake80ToZero": {
+        "seconds": 2.966667,
+        "distanceMetres": 32.921875,
+        "finalSpeedMps": 0
+      },
+      "handbrake80ToZero": {
+        "seconds": 2.475,
+        "distanceMetres": 27.434907,
+        "finalSpeedMps": 0
+      },
+      "reverseBrake15ToZero": {
+        "seconds": 0.558333,
+        "distanceMetres": 1.157465,
+        "finalSpeedMps": 0
+      },
+      "frames": {
+        "hz120": {
+          "zeroTo50Seconds": 4.960377,
+          "zeroTo79Point5Seconds": 9.646449,
+          "maximumSpeedKmh": 80
+        },
+        "hz60": {
+          "zeroTo50Seconds": 4.960381,
+          "zeroTo79Point5Seconds": 9.646451,
+          "maximumSpeedKmh": 80
+        },
+        "hz20": {
+          "zeroTo50Seconds": 4.960398,
+          "zeroTo79Point5Seconds": 9.646458,
+          "maximumSpeedKmh": 80
+        },
+        "hz10": {
+          "zeroTo50Seconds": 4.96053,
+          "zeroTo79Point5Seconds": 9.646599,
+          "maximumSpeedKmh": 80
+        },
+        "dropped": {
+          "zeroTo50Seconds": 4.960921,
+          "zeroTo79Point5Seconds": 9.646812,
+          "maximumSpeedKmh": 80
+        }
+      },
+      "traces": [
+        {
+          "direction": "forward",
+          "comparisons": [
+            {
+              "pattern": "hz60",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz20",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz10",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "dropped",
+              "maximumSpeedDifferenceMps": 0.000003,
+              "maximumPedalDifference": 0
+            }
+          ]
+        },
+        {
+          "direction": "reverse",
+          "comparisons": [
+            {
+              "pattern": "hz60",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz20",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz10",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "dropped",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yuan-up",
+      "name": "比亚迪 元UP",
+      "referenceId": "byd-atto-2-130kw",
+      "pedalResponseSeconds": 0.23,
+      "zeroTo50Seconds": 3.475685,
+      "zeroTo79Point5Seconds": 6.113772,
+      "fiftyTo79Point5Seconds": 2.638087,
+      "maximumForwardSpeedKmh": 80,
+      "reverseZeroTo14Point5Seconds": 2.275797,
+      "maximumReverseSpeedKmh": 15,
+      "brake80ToZero": {
+        "seconds": 2.966667,
+        "distanceMetres": 32.921875,
+        "finalSpeedMps": 0
+      },
+      "handbrake80ToZero": {
+        "seconds": 2.475,
+        "distanceMetres": 27.434907,
+        "finalSpeedMps": 0
+      },
+      "reverseBrake15ToZero": {
+        "seconds": 0.558333,
+        "distanceMetres": 1.157465,
+        "finalSpeedMps": 0
+      },
+      "frames": {
+        "hz120": {
+          "zeroTo50Seconds": 3.475685,
+          "zeroTo79Point5Seconds": 6.113772,
+          "maximumSpeedKmh": 80
+        },
+        "hz60": {
+          "zeroTo50Seconds": 3.475689,
+          "zeroTo79Point5Seconds": 6.113774,
+          "maximumSpeedKmh": 80
+        },
+        "hz20": {
+          "zeroTo50Seconds": 3.475723,
+          "zeroTo79Point5Seconds": 6.113807,
+          "maximumSpeedKmh": 80
+        },
+        "hz10": {
+          "zeroTo50Seconds": 3.475799,
+          "zeroTo79Point5Seconds": 6.120395,
+          "maximumSpeedKmh": 80
+        },
+        "dropped": {
+          "zeroTo50Seconds": 3.475689,
+          "zeroTo79Point5Seconds": 6.113885,
+          "maximumSpeedKmh": 80
+        }
+      },
+      "traces": [
+        {
+          "direction": "forward",
+          "comparisons": [
+            {
+              "pattern": "hz60",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz20",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz10",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "dropped",
+              "maximumSpeedDifferenceMps": 0.000008,
+              "maximumPedalDifference": 0
+            }
+          ]
+        },
+        {
+          "direction": "reverse",
+          "comparisons": [
+            {
+              "pattern": "hz60",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz20",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz10",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "dropped",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g63",
+      "name": "Mercedes-AMG G 63",
+      "referenceId": "mercedes-amg-g63",
+      "pedalResponseSeconds": 0.2,
+      "zeroTo50Seconds": 2.158539,
+      "zeroTo79Point5Seconds": 3.664709,
+      "fiftyTo79Point5Seconds": 1.50617,
+      "maximumForwardSpeedKmh": 80,
+      "reverseZeroTo14Point5Seconds": 2.176375,
+      "maximumReverseSpeedKmh": 15,
+      "brake80ToZero": {
+        "seconds": 2.966667,
+        "distanceMetres": 32.921875,
+        "finalSpeedMps": 0
+      },
+      "handbrake80ToZero": {
+        "seconds": 2.475,
+        "distanceMetres": 27.434907,
+        "finalSpeedMps": 0
+      },
+      "reverseBrake15ToZero": {
+        "seconds": 0.558333,
+        "distanceMetres": 1.157465,
+        "finalSpeedMps": 0
+      },
+      "frames": {
+        "hz120": {
+          "zeroTo50Seconds": 2.158539,
+          "zeroTo79Point5Seconds": 3.664709,
+          "maximumSpeedKmh": 80
+        },
+        "hz60": {
+          "zeroTo50Seconds": 2.158545,
+          "zeroTo79Point5Seconds": 3.66471,
+          "maximumSpeedKmh": 80
+        },
+        "hz20": {
+          "zeroTo50Seconds": 2.158565,
+          "zeroTo79Point5Seconds": 3.666942,
+          "maximumSpeedKmh": 80
+        },
+        "hz10": {
+          "zeroTo50Seconds": 2.158761,
+          "zeroTo79Point5Seconds": 3.669363,
+          "maximumSpeedKmh": 80
+        },
+        "dropped": {
+          "zeroTo50Seconds": 2.158653,
+          "zeroTo79Point5Seconds": 3.664981,
+          "maximumSpeedKmh": 80
+        }
+      },
+      "traces": [
+        {
+          "direction": "forward",
+          "comparisons": [
+            {
+              "pattern": "hz60",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz20",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz10",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "dropped",
+              "maximumSpeedDifferenceMps": 0.000016,
+              "maximumPedalDifference": 0
+            }
+          ]
+        },
+        {
+          "direction": "reverse",
+          "comparisons": [
+            {
+              "pattern": "hz60",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz20",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz10",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "dropped",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urus",
+      "name": "Lamborghini Urus",
+      "referenceId": "lamborghini-urus-2018",
+      "pedalResponseSeconds": 0.15,
+      "zeroTo50Seconds": 1.887147,
+      "zeroTo79Point5Seconds": 3.190858,
+      "fiftyTo79Point5Seconds": 1.303712,
+      "maximumForwardSpeedKmh": 80,
+      "reverseZeroTo14Point5Seconds": 2.055997,
+      "maximumReverseSpeedKmh": 15,
+      "brake80ToZero": {
+        "seconds": 2.966667,
+        "distanceMetres": 32.921875,
+        "finalSpeedMps": 0
+      },
+      "handbrake80ToZero": {
+        "seconds": 2.475,
+        "distanceMetres": 27.434907,
+        "finalSpeedMps": 0
+      },
+      "reverseBrake15ToZero": {
+        "seconds": 0.558333,
+        "distanceMetres": 1.157465,
+        "finalSpeedMps": 0
+      },
+      "frames": {
+        "hz120": {
+          "zeroTo50Seconds": 1.887147,
+          "zeroTo79Point5Seconds": 3.190858,
+          "maximumSpeedKmh": 80
+        },
+        "hz60": {
+          "zeroTo50Seconds": 1.887149,
+          "zeroTo79Point5Seconds": 3.190865,
+          "maximumSpeedKmh": 80
+        },
+        "hz20": {
+          "zeroTo50Seconds": 1.887189,
+          "zeroTo79Point5Seconds": 3.190895,
+          "maximumSpeedKmh": 80
+        },
+        "hz10": {
+          "zeroTo50Seconds": 1.887248,
+          "zeroTo79Point5Seconds": 3.19094,
+          "maximumSpeedKmh": 80
+        },
+        "dropped": {
+          "zeroTo50Seconds": 1.888478,
+          "zeroTo79Point5Seconds": 3.275099,
+          "maximumSpeedKmh": 80
+        }
+      },
+      "traces": [
+        {
+          "direction": "forward",
+          "comparisons": [
+            {
+              "pattern": "hz60",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz20",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz10",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "dropped",
+              "maximumSpeedDifferenceMps": 0.000016,
+              "maximumPedalDifference": 0
+            }
+          ]
+        },
+        {
+          "direction": "reverse",
+          "comparisons": [
+            {
+              "pattern": "hz60",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz20",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz10",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "dropped",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "porsche-911",
+      "name": "Porsche 911 Turbo S",
+      "referenceId": "porsche-911-turbo-s-992",
+      "pedalResponseSeconds": 0.08,
+      "zeroTo50Seconds": 1.441668,
+      "zeroTo79Point5Seconds": 2.419172,
+      "fiftyTo79Point5Seconds": 0.977504,
+      "maximumForwardSpeedKmh": 80,
+      "reverseZeroTo14Point5Seconds": 2.094443,
+      "maximumReverseSpeedKmh": 15,
+      "brake80ToZero": {
+        "seconds": 2.966667,
+        "distanceMetres": 32.921875,
+        "finalSpeedMps": 0
+      },
+      "handbrake80ToZero": {
+        "seconds": 2.475,
+        "distanceMetres": 27.434907,
+        "finalSpeedMps": 0
+      },
+      "reverseBrake15ToZero": {
+        "seconds": 0.558333,
+        "distanceMetres": 1.157465,
+        "finalSpeedMps": 0
+      },
+      "frames": {
+        "hz120": {
+          "zeroTo50Seconds": 1.441668,
+          "zeroTo79Point5Seconds": 2.419172,
+          "maximumSpeedKmh": 80
+        },
+        "hz60": {
+          "zeroTo50Seconds": 1.441675,
+          "zeroTo79Point5Seconds": 2.419174,
+          "maximumSpeedKmh": 80
+        },
+        "hz20": {
+          "zeroTo50Seconds": 1.4417,
+          "zeroTo79Point5Seconds": 2.425371,
+          "maximumSpeedKmh": 80
+        },
+        "hz10": {
+          "zeroTo50Seconds": 1.441915,
+          "zeroTo79Point5Seconds": 2.450741,
+          "maximumSpeedKmh": 80
+        },
+        "dropped": {
+          "zeroTo50Seconds": 1.441846,
+          "zeroTo79Point5Seconds": 2.526853,
+          "maximumSpeedKmh": 80
+        }
+      },
+      "traces": [
+        {
+          "direction": "forward",
+          "comparisons": [
+            {
+              "pattern": "hz60",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz20",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz10",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "dropped",
+              "maximumSpeedDifferenceMps": 0.000016,
+              "maximumPedalDifference": 0
+            }
+          ]
+        },
+        {
+          "direction": "reverse",
+          "comparisons": [
+            {
+              "pattern": "hz60",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz20",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz10",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "dropped",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ferrari-488",
+      "name": "Ferrari 488",
+      "referenceId": "ferrari-488-gtb",
+      "pedalResponseSeconds": 0.085,
+      "zeroTo50Seconds": 1.554625,
+      "zeroTo79Point5Seconds": 2.621649,
+      "fiftyTo79Point5Seconds": 1.067024,
+      "maximumForwardSpeedKmh": 80,
+      "reverseZeroTo14Point5Seconds": 2.019095,
+      "maximumReverseSpeedKmh": 15,
+      "brake80ToZero": {
+        "seconds": 2.966667,
+        "distanceMetres": 32.921875,
+        "finalSpeedMps": 0
+      },
+      "handbrake80ToZero": {
+        "seconds": 2.475,
+        "distanceMetres": 27.434907,
+        "finalSpeedMps": 0
+      },
+      "reverseBrake15ToZero": {
+        "seconds": 0.558333,
+        "distanceMetres": 1.157465,
+        "finalSpeedMps": 0
+      },
+      "frames": {
+        "hz120": {
+          "zeroTo50Seconds": 1.554625,
+          "zeroTo79Point5Seconds": 2.621649,
+          "maximumSpeedKmh": 80
+        },
+        "hz60": {
+          "zeroTo50Seconds": 1.554629,
+          "zeroTo79Point5Seconds": 2.621654,
+          "maximumSpeedKmh": 80
+        },
+        "hz20": {
+          "zeroTo50Seconds": 1.554645,
+          "zeroTo79Point5Seconds": 2.625659,
+          "maximumSpeedKmh": 80
+        },
+        "hz10": {
+          "zeroTo50Seconds": 1.55486,
+          "zeroTo79Point5Seconds": 2.651318,
+          "maximumSpeedKmh": 80
+        },
+        "dropped": {
+          "zeroTo50Seconds": 1.555549,
+          "zeroTo79Point5Seconds": 2.629276,
+          "maximumSpeedKmh": 80
+        }
+      },
+      "traces": [
+        {
+          "direction": "forward",
+          "comparisons": [
+            {
+              "pattern": "hz60",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz20",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz10",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "dropped",
+              "maximumSpeedDifferenceMps": 0.000016,
+              "maximumPedalDifference": 0
+            }
+          ]
+        },
+        {
+          "direction": "reverse",
+          "comparisons": [
+            {
+              "pattern": "hz60",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz20",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz10",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "dropped",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alphard",
+      "name": "Toyota Alphard",
+      "referenceId": "toyota-alphard-hev",
+      "pedalResponseSeconds": 0.45,
+      "zeroTo50Seconds": 4.039106,
+      "zeroTo79Point5Seconds": 7.337236,
+      "fiftyTo79Point5Seconds": 3.29813,
+      "maximumForwardSpeedKmh": 80,
+      "reverseZeroTo14Point5Seconds": 2.820249,
+      "maximumReverseSpeedKmh": 15,
+      "brake80ToZero": {
+        "seconds": 2.966667,
+        "distanceMetres": 32.921875,
+        "finalSpeedMps": 0
+      },
+      "handbrake80ToZero": {
+        "seconds": 2.475,
+        "distanceMetres": 27.434907,
+        "finalSpeedMps": 0
+      },
+      "reverseBrake15ToZero": {
+        "seconds": 0.558333,
+        "distanceMetres": 1.157465,
+        "finalSpeedMps": 0
+      },
+      "frames": {
+        "hz120": {
+          "zeroTo50Seconds": 4.039106,
+          "zeroTo79Point5Seconds": 7.337236,
+          "maximumSpeedKmh": 80
+        },
+        "hz60": {
+          "zeroTo50Seconds": 4.03911,
+          "zeroTo79Point5Seconds": 7.337238,
+          "maximumSpeedKmh": 80
+        },
+        "hz20": {
+          "zeroTo50Seconds": 4.039137,
+          "zeroTo79Point5Seconds": 7.337274,
+          "maximumSpeedKmh": 80
+        },
+        "hz10": {
+          "zeroTo50Seconds": 4.039277,
+          "zeroTo79Point5Seconds": 7.337433,
+          "maximumSpeedKmh": 80
+        },
+        "dropped": {
+          "zeroTo50Seconds": 4.039143,
+          "zeroTo79Point5Seconds": 7.337238,
+          "maximumSpeedKmh": 80
+        }
+      },
+      "traces": [
+        {
+          "direction": "forward",
+          "comparisons": [
+            {
+              "pattern": "hz60",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz20",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz10",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "dropped",
+              "maximumSpeedDifferenceMps": 0.000005,
+              "maximumPedalDifference": 0
+            }
+          ]
+        },
+        {
+          "direction": "reverse",
+          "comparisons": [
+            {
+              "pattern": "hz60",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz20",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "hz10",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            },
+            {
+              "pattern": "dropped",
+              "maximumSpeedDifferenceMps": 0,
+              "maximumPedalDifference": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

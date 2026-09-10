@@ -1,0 +1,2853 @@
+{
+  "version": 1,
+  "buildings": [
+    {
+      "id": "loop-frontage-447021392",
+      "name": "OSM building 447021392",
+      "ways": [
+        447021392
+      ],
+      "center": [
+        -580.175,
+        700.73
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -644.67,
+          660.15
+        ],
+        [
+          -632.19,
+          655.62
+        ],
+        [
+          -608.88,
+          727.49
+        ],
+        [
+          -521.41,
+          694.8
+        ],
+        [
+          -515.68,
+          709.89
+        ],
+        [
+          -613.19,
+          745.84
+        ],
+        [
+          -618.57,
+          743.76
+        ],
+        [
+          -644.67,
+          660.15
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -515.68,
+          709.89
+        ],
+        [
+          -613.19,
+          745.84
+        ]
+      ],
+      "roadName": "中山东二路",
+      "routeDistanceM": 1506.962,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-515758765",
+      "name": "RIVIERA松鹤楼（中山东二路505号）",
+      "ways": [
+        515758765
+      ],
+      "center": [
+        -100.48500000000001,
+        938.48
+      ],
+      "heading": 0,
+      "height": 12.4,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -75.9,
+          947.67
+        ],
+        [
+          -72.7,
+          950.96
+        ],
+        [
+          -76.71,
+          954.86
+        ],
+        [
+          -82.64,
+          960.61
+        ],
+        [
+          -88.44,
+          966.37
+        ],
+        [
+          -128.27,
+          926.12
+        ],
+        [
+          -126.69,
+          924.55
+        ],
+        [
+          -112.59,
+          910.59
+        ],
+        [
+          -75.9,
+          947.67
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -88.44,
+          966.37
+        ],
+        [
+          -128.27,
+          926.12
+        ]
+      ],
+      "roadName": "中山东二路",
+      "routeDistanceM": 1940.14,
+      "builder": "riviera",
+      "referenceIds": [
+        "riviera-smart",
+        "riviera-qunar",
+        "bfc-adbb-00b7"
+      ],
+      "photoReferenceFiles": [
+        "assets/streets/loop-frontages/reference/riviera-smart.png",
+        "assets/streets/loop-frontages/reference/riviera-qunar.jpg",
+        "assets/streets/loop-frontages/reference/bfc-adbb-00b7.jpg"
+      ],
+      "observedDetails": "Building matched by river-side location, elongated two-storey stone-clad outline, rooftop terrace and photographed RIVIERA 松鹤楼 sign. Square stone panels, dark continuous frame, asymmetric entry stairs/ramp, glass terrace rail and pergola.",
+      "inferredDetails": "Back elevation openings and hidden rooftop dimensions inferred; photos are dated and current tenant graphics not independently surveyed.",
+      "confidence": "building-location-matched-and-photo-specific-reconstruction",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-447024815",
+      "name": "BFC北区临江商业办公长楼（OSM标注N3）",
+      "ways": [
+        447024815
+      ],
+      "center": [
+        -101.345,
+        1063.79
+      ],
+      "heading": 0,
+      "height": 52.2,
+      "heightSource": "levels",
+      "originalOsmHeight": 51.0,
+      "footprint": [
+        [
+          -136.93,
+          1042.47
+        ],
+        [
+          -124.49,
+          1030.09
+        ],
+        [
+          -65.76,
+          1085.69
+        ],
+        [
+          -77.54,
+          1097.49
+        ],
+        [
+          -136.93,
+          1042.47
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -124.49,
+          1030.09
+        ],
+        [
+          -65.76,
+          1085.69
+        ]
+      ],
+      "roadName": "龙谭路",
+      "routeDistanceM": 1968.863,
+      "builder": "bfc_river_row",
+      "referenceIds": [
+        "bfc-adbb-00b7",
+        "bfc-aeee-00c3",
+        "bfc-aefa-019c",
+        "stregis-ctrip-current"
+      ],
+      "photoReferenceFiles": [
+        "assets/streets/loop-frontages/reference/bfc-adbb-00b7.jpg",
+        "assets/streets/loop-frontages/reference/bfc-aeee-00c3.jpg",
+        "assets/streets/loop-frontages/reference/bfc-aefa-019c.jpg",
+        "assets/streets/loop-frontages/reference/stregis-ctrip-current.jpg"
+      ],
+      "observedDetails": "Exact long four-part footprint matches architect north plot plan river row between hotel and arts centre. Four distinct roof levels and deep granite perimeter frames with bronze two-storey storefronts visible in aerial.",
+      "inferredDetails": "Building number N3 in OSM conflicts with architect N3 hotel usage. No hotel/tenant identity is asserted on this model. Roof height subdivisions inferred from OSM51m and photograph proportions; rear details inferred.",
+      "confidence": "building-location-matched-and-photo-specific-reconstruction",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-520214802",
+      "name": "上海外滩瑞吉酒店（原万达瑞华酒店）",
+      "ways": [
+        520214802
+      ],
+      "center": [
+        -164.23,
+        1025.625
+      ],
+      "heading": 0,
+      "height": 85,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -168.19,
+          987.94
+        ],
+        [
+          -161.93,
+          994.08
+        ],
+        [
+          -157.1,
+          989.16
+        ],
+        [
+          -124.67,
+          1020.95
+        ],
+        [
+          -166.17,
+          1063.31
+        ],
+        [
+          -203.79,
+          1026.44
+        ],
+        [
+          -197.36,
+          1019.88
+        ],
+        [
+          -202.49,
+          1014.85
+        ],
+        [
+          -185.95,
+          997.98
+        ],
+        [
+          -181.91,
+          1001.95
+        ],
+        [
+          -168.19,
+          987.94
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -202.49,
+          1014.85
+        ],
+        [
+          -185.95,
+          997.98
+        ]
+      ],
+      "roadName": "龙谭路",
+      "routeDistanceM": 2006.854,
+      "builder": "stregis",
+      "referenceIds": [
+        "bfc-adbb-00b7",
+        "bfc-ae9d-0199",
+        "bfc-aea9-019a",
+        "stregis-ctrip-current"
+      ],
+      "photoReferenceFiles": [
+        "assets/streets/loop-frontages/reference/bfc-adbb-00b7.jpg",
+        "assets/streets/loop-frontages/reference/bfc-ae9d-0199.jpg",
+        "assets/streets/loop-frontages/reference/bfc-aea9-019a.jpg",
+        "assets/streets/loop-frontages/reference/stregis-ctrip-current.jpg"
+      ],
+      "observedDetails": "Architect north elevation and floor plan cross-match OSM hotel footprint. A tall rear block rises above lower river volume, granite picture frames, bronze mullions and deep triple-height entrance. Current photo confirms ST REGIS lettering.",
+      "inferredDetails": "Height scaled from architect 10m drawing scale; unseen rear wall joints and roof plant inferred. Designer N3 designation is hotel; nearby OSM N3 way not silently conflated.",
+      "confidence": "building-location-matched-and-photo-specific-reconstruction",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-858807442",
+      "name": "OSM building 858807442",
+      "ways": [
+        858807442
+      ],
+      "center": [
+        -212.305,
+        1073.915
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -210.42,
+          1063.61
+        ],
+        [
+          -202.76,
+          1072.74
+        ],
+        [
+          -212.59,
+          1084.22
+        ],
+        [
+          -221.85,
+          1074.46
+        ],
+        [
+          -210.42,
+          1063.61
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -210.42,
+          1063.61
+        ],
+        [
+          -202.76,
+          1072.74
+        ]
+      ],
+      "roadName": "龙谭路",
+      "routeDistanceM": 2060.686,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-858807444",
+      "name": "OSM building 858807444",
+      "ways": [
+        858807444
+      ],
+      "center": [
+        -229.38,
+        1056.65
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -239.53,
+          1059.08
+        ],
+        [
+          -233.52,
+          1046.44
+        ],
+        [
+          -225.1,
+          1051.8
+        ],
+        [
+          -219.23,
+          1057.03
+        ],
+        [
+          -228.93,
+          1066.86
+        ],
+        [
+          -231.87,
+          1063.54
+        ],
+        [
+          -239.53,
+          1059.08
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -233.52,
+          1046.44
+        ],
+        [
+          -225.1,
+          1051.8
+        ]
+      ],
+      "roadName": "龙谭路",
+      "routeDistanceM": 2072.214,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-250067019",
+      "name": "中国人保大厦",
+      "ways": [
+        250067019
+      ],
+      "center": [
+        -285.205,
+        1056.7
+      ],
+      "heading": 0,
+      "height": 68,
+      "heightSource": "levels",
+      "originalOsmHeight": 68.0,
+      "footprint": [
+        [
+          -325.65,
+          1049.29
+        ],
+        [
+          -320.17,
+          1067.97
+        ],
+        [
+          -248.71,
+          1065.52
+        ],
+        [
+          -244.76,
+          1053.51
+        ],
+        [
+          -260.65,
+          1045.43
+        ],
+        [
+          -279.99,
+          1045.81
+        ],
+        [
+          -325.65,
+          1049.29
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -279.99,
+          1045.81
+        ],
+        [
+          -325.65,
+          1049.29
+        ]
+      ],
+      "roadName": "龙谭路",
+      "routeDistanceM": 2072.425,
+      "builder": "picc",
+      "referenceIds": [
+        "picc-smart-1",
+        "picc-smart-2",
+        "picc-smart-3"
+      ],
+      "photoReferenceFiles": [
+        "assets/streets/loop-frontages/reference/picc-smart-1.jpg",
+        "assets/streets/loop-frontages/reference/picc-smart-2.jpg",
+        "assets/streets/loop-frontages/reference/picc-smart-3.jpg"
+      ],
+      "observedDetails": "Angular blue glazing with narrow grey vertical metal strips; center glass slot slopes inward at upper edge; suspended flat canopy, red PICC Chinese lettering and broad stair entry.",
+      "inferredDetails": "Photograph dimensions and height unmeasured; roof plant and unseen return facade inferred; no interior or pixel-exact glazing reflection reproduction.",
+      "confidence": "building-identity-matched-and-photo-specific-reconstruction",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-694630326",
+      "name": "OSM building 694630326",
+      "ways": [
+        694630326
+      ],
+      "center": [
+        -322.03499999999997,
+        1014.615
+      ],
+      "heading": 0,
+      "height": 3,
+      "heightSource": "height",
+      "originalOsmHeight": 3,
+      "footprint": [
+        [
+          -327.24,
+          1011.39
+        ],
+        [
+          -327.24,
+          1017.84
+        ],
+        [
+          -316.83,
+          1017.84
+        ],
+        [
+          -316.83,
+          1011.4
+        ],
+        [
+          -327.24,
+          1011.39
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -316.83,
+          1011.4
+        ],
+        [
+          -327.24,
+          1011.39
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2125.662,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-408450698",
+      "name": "OSM building 408450698",
+      "ways": [
+        408450698
+      ],
+      "center": [
+        -343.06,
+        1076.065
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -356.52,
+          1038.47
+        ],
+        [
+          -348.82,
+          1036.56
+        ],
+        [
+          -329.6,
+          1113.66
+        ],
+        [
+          -337.29,
+          1115.57
+        ],
+        [
+          -356.52,
+          1038.47
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -348.82,
+          1036.56
+        ],
+        [
+          -329.6,
+          1113.66
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2125.988,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-702173485",
+      "name": "OSM building 702173485",
+      "ways": [
+        702173485
+      ],
+      "center": [
+        -371.68499999999995,
+        1053.1
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -360.74,
+          1033.26
+        ],
+        [
+          -353.53,
+          1066.23
+        ],
+        [
+          -381.88,
+          1072.94
+        ],
+        [
+          -389.84,
+          1035.87
+        ],
+        [
+          -370.84,
+          1033.82
+        ],
+        [
+          -360.74,
+          1033.26
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -360.74,
+          1033.26
+        ],
+        [
+          -353.53,
+          1066.23
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2136.009,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-694630313",
+      "name": "古城公园丹凤楼一尺花园（OSM旧称高博金融家俱乐部）",
+      "ways": [
+        694630313
+      ],
+      "center": [
+        -359.205,
+        952.535
+      ],
+      "heading": 0,
+      "height": 7.2,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -355.95,
+          939.26
+        ],
+        [
+          -361.31,
+          943.62
+        ],
+        [
+          -357.61,
+          948.87
+        ],
+        [
+          -364.31,
+          954.2
+        ],
+        [
+          -369.45,
+          958.18
+        ],
+        [
+          -371.46,
+          959.76
+        ],
+        [
+          -366.69,
+          965.81
+        ],
+        [
+          -358.24,
+          959.17
+        ],
+        [
+          -352.31,
+          954.51
+        ],
+        [
+          -346.95,
+          950.31
+        ],
+        [
+          -350.02,
+          946.54
+        ],
+        [
+          -355.95,
+          939.26
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -346.95,
+          950.31
+        ],
+        [
+          -355.95,
+          939.26
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2180.011,
+      "builder": "one_step",
+      "referenceIds": [
+        "one-step-2",
+        "one-step-3",
+        "one-step-4",
+        "one-step-5"
+      ],
+      "photoReferenceFiles": [
+        "assets/streets/loop-frontages/reference/one-step-2.jpg",
+        "assets/streets/loop-frontages/reference/one-step-3.jpg",
+        "assets/streets/loop-frontages/reference/one-step-4.jpg",
+        "assets/streets/loop-frontages/reference/one-step-5.jpg"
+      ],
+      "observedDetails": "Matched by exact bent raised outline, park eastern watercourse, PICC and BFC backdrop. Official2023 photo and independent2024 building report agree: red steel raised glazed gallery, open lower structure, round grey masonry room with circular porthole, grey marker wall, exterior roof stair and thin roof railing.",
+      "inferredDetails": "OSM club name is stale or spatially broad; official current source calls cafe One Step Garden at Gucheng Park Danfeng building. No measured dimensions; hidden foundations, inaccessible rear and plinth-curvature scale inferred. Model does not assert club still operates.",
+      "confidence": "building-location-matched-and-photo-specific-reconstruction",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-694630324",
+      "name": "OSM building 694630324",
+      "ways": [
+        694630324
+      ],
+      "center": [
+        -362.435,
+        898.52
+      ],
+      "heading": 0,
+      "height": 3,
+      "heightSource": "height",
+      "originalOsmHeight": 3,
+      "footprint": [
+        [
+          -368.37,
+          889.76
+        ],
+        [
+          -373.07,
+          895.26
+        ],
+        [
+          -359.87,
+          907.28
+        ],
+        [
+          -357.23,
+          905.08
+        ],
+        [
+          -354.59,
+          907.06
+        ],
+        [
+          -351.8,
+          903.91
+        ],
+        [
+          -355.84,
+          900.61
+        ],
+        [
+          -368.37,
+          889.76
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -351.8,
+          903.91
+        ],
+        [
+          -368.37,
+          889.76
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2266.545,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-1287050296",
+      "name": "OSM building 1287050296",
+      "ways": [
+        1287050296
+      ],
+      "center": [
+        -461.97,
+        806.315
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -473.62,
+          827.6
+        ],
+        [
+          -437.82,
+          808.66
+        ],
+        [
+          -450.32,
+          785.03
+        ],
+        [
+          -486.12,
+          803.98
+        ],
+        [
+          -473.62,
+          827.6
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -473.62,
+          827.6
+        ],
+        [
+          -437.82,
+          808.66
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2384.295,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-389702055",
+      "name": "沪南钱业公所（胡问遂艺术馆）",
+      "ways": [
+        389702055
+      ],
+      "center": [
+        -535.465,
+        944.2049999999999
+      ],
+      "heading": 0,
+      "height": 9.1,
+      "heightSource": "Photo-proportional roof and gate estimate; OSM3.4m corresponds eave/wall only",
+      "originalOsmHeight": 3.4,
+      "footprint": [
+        [
+          -545.85,
+          929.13
+        ],
+        [
+          -526.75,
+          928.11
+        ],
+        [
+          -525.08,
+          959.28
+        ],
+        [
+          -544.17,
+          960.3
+        ],
+        [
+          -545.85,
+          929.13
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -545.85,
+          929.13
+        ],
+        [
+          -526.75,
+          928.11
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2431.256,
+      "builder": "qianye",
+      "referenceIds": [
+        "loop-qianye-1",
+        "loop-qianye-2"
+      ],
+      "photoReferenceFiles": [
+        "assets/streets/loop-reference-catalog/loop-qianye-1.jpg",
+        "assets/streets/loop-reference-catalog/loop-qianye-2.jpg"
+      ],
+      "observedDetails": "Three arched black doors, taller central arch, green-grey stone jambs, carved plaque, layered grey stone cornices, three swallow-tail tiled roof crests, sequential grey tiled halls and white gable walls visible in aerial.",
+      "inferredDetails": "Exact gate orientation, court dimensions, obscured lower side elevations, carved stone relief and lion sculpture details unmeasured. Model has simplified architectural relief only, lions not guessed. Two tree-obscured side elevations remain inferred.",
+      "confidence": "matched-front-gate-and-aerial-photographs; courtyard-and-orientation-inferred",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-1287050299",
+      "name": "OSM building 1287050299",
+      "ways": [
+        1287050299
+      ],
+      "center": [
+        -524.89,
+        795.895
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -552.81,
+          791.14
+        ],
+        [
+          -514.57,
+          769.52
+        ],
+        [
+          -496.97,
+          800.62
+        ],
+        [
+          -535.22,
+          822.27
+        ],
+        [
+          -552.81,
+          791.14
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -496.97,
+          800.62
+        ],
+        [
+          -535.22,
+          822.27
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2447.081,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-694630319",
+      "name": "古城公园8号门公共厕所（人民路333号）",
+      "ways": [
+        694630319
+      ],
+      "center": [
+        -547.395,
+        898.73
+      ],
+      "heading": 0,
+      "height": 3.7,
+      "heightSource": "height",
+      "originalOsmHeight": 3,
+      "footprint": [
+        [
+          -551.91,
+          901.74
+        ],
+        [
+          -551.5,
+          910.8
+        ],
+        [
+          -542.21,
+          910.37
+        ],
+        [
+          -542.93,
+          894.8
+        ],
+        [
+          -543.3,
+          886.66
+        ],
+        [
+          -552.58,
+          887.09
+        ],
+        [
+          -551.91,
+          901.74
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -543.3,
+          886.66
+        ],
+        [
+          -552.58,
+          887.09
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2451.778,
+      "builder": "park_toilet",
+      "referenceIds": [
+        "gucheng-gov-911",
+        "gucheng-gov-917"
+      ],
+      "photoReferenceFiles": [
+        "assets/streets/loop-frontages/reference/gucheng-gov-911.jpg",
+        "assets/streets/loop-frontages/reference/gucheng-gov-917.jpg"
+      ],
+      "observedDetails": "2024 government photograph shows north entrance facing the road with grey tile brick, dark straight lintels, shallow tiled roof with raised coping, steel double doors, grille transom, two upper open casements, blue WC sign and333 number plate. Official park diagram places this toilet by northwest gate8, matching OSM694630319.",
+      "inferredDetails": "Rear/south wall windows inferred.2025 reports service refurbishment but do not show a contradictory exterior; present-day minor fittings unverified. Photo not reused for southeast toilet. Full shallow gable roof spans the six-vertex outline; exact hidden south gable details remain inferred.",
+      "confidence": "building-location-matched-and-photo-specific-reconstruction",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-389701990",
+      "name": "OSM building 389701990",
+      "ways": [
+        389701990
+      ],
+      "center": [
+        -574.6700000000001,
+        910.8050000000001
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -578.34,
+          906.62
+        ],
+        [
+          -571.29,
+          906.38
+        ],
+        [
+          -571.0,
+          914.99
+        ],
+        [
+          -578.05,
+          915.23
+        ],
+        [
+          -578.34,
+          906.62
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -571.29,
+          906.38
+        ],
+        [
+          -571.0,
+          914.99
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2478.697,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-389701816",
+      "name": "OSM building 389701816",
+      "ways": [
+        389701816
+      ],
+      "center": [
+        -586.64,
+        911.14
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -592.5,
+          907.34
+        ],
+        [
+          -581.2,
+          906.76
+        ],
+        [
+          -580.78,
+          914.94
+        ],
+        [
+          -592.09,
+          915.52
+        ],
+        [
+          -592.5,
+          907.34
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -592.5,
+          907.34
+        ],
+        [
+          -581.2,
+          906.76
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2488.135,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-389701999",
+      "name": "人民路古城公园西侧圆顶旧楼",
+      "ways": [
+        389701999
+      ],
+      "center": [
+        -599.1700000000001,
+        867.7750000000001
+      ],
+      "heading": 0,
+      "height": 19,
+      "heightSource": "Photo/architect section proportion using OSM ground plan; metre height inferred, not surveyed",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -610.95,
+          857.34
+        ],
+        [
+          -586.83,
+          858.02
+        ],
+        [
+          -587.39,
+          878.21
+        ],
+        [
+          -611.51,
+          877.55
+        ],
+        [
+          -610.95,
+          857.34
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -610.95,
+          857.34
+        ],
+        [
+          -586.83,
+          858.02
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2496.633,
+      "builder": "park_corner",
+      "referenceIds": [
+        "neo-c7d4-2500",
+        "neo-c87d-2500",
+        "neo-c7e8-2500"
+      ],
+      "photoReferenceFiles": [
+        "assets/streets/loop-frontages/reference/neo-c7d4-2500.jpg",
+        "assets/streets/loop-frontages/reference/neo-c87d-2500.jpg",
+        "assets/streets/loop-frontages/reference/neo-c7e8-2500.jpg"
+      ],
+      "observedDetails": "NEO东邻、古城公园西缘的同一位置白色旧楼；三层墙面、深色双坡屋顶、白色转角圆顶、竖向古典壁柱与层间檐口。",
+      "inferredDetails": "照片被树木遮挡的门窗、未完整展示的后立面、精确墙板缝/构件截面、机组具体型号与隐蔽屋面位置按可见尺度推定；无现场测量。模型不使用原图作游戏纹理。",
+      "confidence": "building-matched-photos-with-explicit-inferred-details",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-1287050301",
+      "name": "OSM building 1287050301",
+      "ways": [
+        1287050301
+      ],
+      "center": [
+        -577.0799999999999,
+        778.425
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -598.76,
+          760.74
+        ],
+        [
+          -553.77,
+          740.69
+        ],
+        [
+          -559.29,
+          807.57
+        ],
+        [
+          -585.67,
+          816.16
+        ],
+        [
+          -600.39,
+          773.62
+        ],
+        [
+          -598.76,
+          760.74
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -559.29,
+          807.57
+        ],
+        [
+          -585.67,
+          816.16
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2497.961,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-389702034",
+      "name": "福佑商厦",
+      "ways": [
+        389702034
+      ],
+      "center": [
+        -643.075,
+        969.9549999999999
+      ],
+      "heading": 0,
+      "height": 30.6,
+      "heightSource": "levels",
+      "originalOsmHeight": 30.6,
+      "footprint": [
+        [
+          -661.93,
+          928.38
+        ],
+        [
+          -624.03,
+          928.46
+        ],
+        [
+          -624.22,
+          1011.53
+        ],
+        [
+          -662.12,
+          1011.44
+        ],
+        [
+          -661.93,
+          928.38
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -661.93,
+          928.38
+        ],
+        [
+          -624.03,
+          928.46
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2531.053,
+      "builder": "fuyou_market",
+      "referenceIds": [
+        "fuyou-2016-street",
+        "neo-c7d4-2500",
+        "neo-c87d-2500"
+      ],
+      "photoReferenceFiles": [
+        "assets/streets/loop-frontages/reference/fuyou-2016-street.jpg",
+        "assets/streets/loop-frontages/reference/neo-c7d4-2500.jpg",
+        "assets/streets/loop-frontages/reference/neo-c87d-2500.jpg"
+      ],
+      "observedDetails": "2016正侧近景可读福佑小商品市场竖牌；白色方板、下部两层通长横窗/广告位、厚檐双层竖向托架、上部成排小方窗，角部高竖牌上有金属半圆冠。2021邻街鸟瞰核建筑位置。",
+      "inferredDetails": "2016照片早于当前，2025报道只确认市场继续经营，未确认今日招牌/摊位；未见北背立面、准确楼高与隐蔽设备按OSM推定。广告位用无图纯色板，原图不作游戏纹理。",
+      "confidence": "building-matched-photos-with-explicit-inferred-details",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-292818816",
+      "name": "上海滩商厦",
+      "ways": [
+        292818816
+      ],
+      "center": [
+        -659.995,
+        795.6
+      ],
+      "heading": 0,
+      "height": 34.7,
+      "heightSource": "Photo/architect section proportion using OSM ground plan; metre height inferred, not surveyed",
+      "originalOsmHeight": 34.0,
+      "footprint": [
+        [
+          -713.16,
+          805.56
+        ],
+        [
+          -710.74,
+          797.9
+        ],
+        [
+          -705.38,
+          792.15
+        ],
+        [
+          -698.61,
+          789.21
+        ],
+        [
+          -636.32,
+          765.86
+        ],
+        [
+          -630.82,
+          766.24
+        ],
+        [
+          -626.74,
+          769.3
+        ],
+        [
+          -606.83,
+          817.56
+        ],
+        [
+          -607.6,
+          822.41
+        ],
+        [
+          -611.55,
+          825.34
+        ],
+        [
+          -690.95,
+          822.53
+        ],
+        [
+          -699.12,
+          821.9
+        ],
+        [
+          -706.14,
+          819.22
+        ],
+        [
+          -711.5,
+          812.84
+        ],
+        [
+          -713.16,
+          805.56
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -611.55,
+          825.34
+        ],
+        [
+          -699.12,
+          821.9
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2546.596,
+      "builder": "shanghaitan",
+      "referenceIds": [
+        "neo-c7d4-2500",
+        "neo-c87d-2500",
+        "neo-c80a-2500"
+      ],
+      "photoReferenceFiles": [
+        "assets/streets/loop-frontages/reference/neo-c7d4-2500.jpg",
+        "assets/streets/loop-frontages/reference/neo-c87d-2500.jpg",
+        "assets/streets/loop-frontages/reference/neo-c80a-2500.jpg"
+      ],
+      "observedDetails": "设计师稿明确为NEO北面上海滩商厦；OSM长条圆转角轮廓与鸟瞰一致；白灰石材墙、层间檐口、六层主体上两级退台、实体柱带与顶层屋面设备。",
+      "inferredDetails": "照片被树木遮挡的门窗、未完整展示的后立面、精确墙板缝/构件截面、机组具体型号与隐蔽屋面位置按可见尺度推定；无现场测量。模型不使用原图作游戏纹理。",
+      "confidence": "building-matched-photos-with-explicit-inferred-details",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-389701925",
+      "name": "外滩NEO",
+      "ways": [
+        389701925
+      ],
+      "center": [
+        -649.725,
+        888.225
+      ],
+      "heading": 0,
+      "height": 25.6,
+      "heightSource": "Photo/architect section proportion using OSM ground plan; metre height inferred, not surveyed",
+      "originalOsmHeight": 30.6,
+      "footprint": [
+        [
+          -674.54,
+          862.07
+        ],
+        [
+          -623.5,
+          863.49
+        ],
+        [
+          -624.91,
+          914.38
+        ],
+        [
+          -675.95,
+          912.97
+        ],
+        [
+          -674.54,
+          862.07
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -674.54,
+          862.07
+        ],
+        [
+          -623.5,
+          863.49
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2585.086,
+      "builder": "neo",
+      "referenceIds": [
+        "neo-c7d5-2500",
+        "neo-c7e8-2500",
+        "neo-c7fb-2500",
+        "neo-c80a-2500",
+        "neo-c7d4-2500",
+        "neo-c7af-2500"
+      ],
+      "photoReferenceFiles": [
+        "assets/streets/loop-frontages/reference/neo-c7d5-2500.jpg",
+        "assets/streets/loop-frontages/reference/neo-c7e8-2500.jpg",
+        "assets/streets/loop-frontages/reference/neo-c7fb-2500.jpg",
+        "assets/streets/loop-frontages/reference/neo-c80a-2500.jpg",
+        "assets/streets/loop-frontages/reference/neo-c7d4-2500.jpg",
+        "assets/streets/loop-frontages/reference/neo-c7af-2500.jpg"
+      ],
+      "observedDetails": "六层外部体量；人民路十三个不等距开间；两层退台、浅香槟墙板、深窗洞、落地商铺门窗、连续3.4m净高雨棚、弧形金属屋檐和顶层竖向翼片；鸟瞰可见中庭和两侧屋面机组。",
+      "inferredDetails": "照片被树木遮挡的门窗、未完整展示的后立面、精确墙板缝/构件截面、机组具体型号与隐蔽屋面位置按可见尺度推定；无现场测量。模型不使用原图作游戏纹理。",
+      "confidence": "building-matched-photos-with-explicit-inferred-details",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-83133885",
+      "name": "悦园商厦",
+      "ways": [
+        83133885
+      ],
+      "center": [
+        -710.94,
+        889.0999999999999
+      ],
+      "heading": 0,
+      "height": 30.8,
+      "heightSource": "Photo/architect section proportion using OSM ground plan; metre height inferred, not surveyed",
+      "originalOsmHeight": 30.6,
+      "footprint": [
+        [
+          -732.89,
+          914.13
+        ],
+        [
+          -730.86,
+          874.3
+        ],
+        [
+          -717.58,
+          863.06
+        ],
+        [
+          -688.99,
+          863.06
+        ],
+        [
+          -691.02,
+          915.14
+        ],
+        [
+          -732.89,
+          914.13
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -717.58,
+          863.06
+        ],
+        [
+          -688.99,
+          863.06
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2599.594,
+      "builder": "yueyuan",
+      "referenceIds": [
+        "neo-c7d5-2500",
+        "neo-c7e8-2500",
+        "neo-c819-2500",
+        "neo-c7d4-2500"
+      ],
+      "photoReferenceFiles": [
+        "assets/streets/loop-frontages/reference/neo-c7d5-2500.jpg",
+        "assets/streets/loop-frontages/reference/neo-c7e8-2500.jpg",
+        "assets/streets/loop-frontages/reference/neo-c819-2500.jpg",
+        "assets/streets/loop-frontages/reference/neo-c7d4-2500.jpg"
+      ],
+      "observedDetails": "照片可读悦园商厦字样；白色墙面、深红窗框和水平红梁、层间灰绿瓦檐、底层商铺、转角竖排圆形商场标牌、屋面退层和机房。",
+      "inferredDetails": "照片被树木遮挡的门窗、未完整展示的后立面、精确墙板缝/构件截面、机组具体型号与隐蔽屋面位置按可见尺度推定；无现场测量。模型不使用原图作游戏纹理。",
+      "confidence": "building-matched-photos-with-explicit-inferred-details",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-389701905",
+      "name": "紫锦城百货",
+      "ways": [
+        389701905
+      ],
+      "center": [
+        -702.6600000000001,
+        948.465
+      ],
+      "heading": 0,
+      "height": 30.6,
+      "heightSource": "OSM9-level estimate plus older facade photographs; not surveyed",
+      "originalOsmHeight": 30.6,
+      "footprint": [
+        [
+          -723.9,
+          925.33
+        ],
+        [
+          -680.71,
+          925.99
+        ],
+        [
+          -681.42,
+          971.6
+        ],
+        [
+          -724.61,
+          970.93
+        ],
+        [
+          -723.9,
+          925.33
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -723.9,
+          925.33
+        ],
+        [
+          -680.71,
+          925.99
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2633.898,
+      "builder": "zijin",
+      "referenceIds": [
+        "zijin-2012",
+        "neo-c819-2500"
+      ],
+      "photoReferenceFiles": [
+        "assets/streets/loop-frontages/reference/zijin-2012.png",
+        "assets/streets/loop-frontages/reference/neo-c819-2500.jpg"
+      ],
+      "observedDetails": "紫锦城红褐框架白墙，正门红金竖匾与两侧外凸金框多边形玻璃电梯，层叠墨绿色歇山式小檐；NEO同期窄街实照核东侧三层木格栅窗/圆花窗/底层店铺。",
+      "inferredDetails": "主入口照片展示2012促销，2021侧街照片仅独立支持侧立面；2026经营标识未核实。入口按福佑路侧朝南推定，准确电梯截面、后侧高低组合和背屋面设备未现场测量。圆花窗与木格纹样用简化几何而非逐刀复制。",
+      "confidence": "building-matched-photos-with-explicit-inferred-details",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-389701946",
+      "name": "OSM building 389701946",
+      "ways": [
+        389701946
+      ],
+      "center": [
+        -734.73,
+        736.61
+      ],
+      "heading": 0,
+      "height": 20.4,
+      "heightSource": "levels",
+      "originalOsmHeight": 20.4,
+      "footprint": [
+        [
+          -746.75,
+          713.04
+        ],
+        [
+          -735.06,
+          710.15
+        ],
+        [
+          -722.71,
+          760.17
+        ],
+        [
+          -734.41,
+          763.07
+        ],
+        [
+          -746.75,
+          713.04
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -722.71,
+          760.17
+        ],
+        [
+          -734.41,
+          763.07
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2655.401,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-389701974",
+      "name": "OSM building 389701974",
+      "ways": [
+        389701974
+      ],
+      "center": [
+        -748.8299999999999,
+        742.605
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -759.63,
+          721.43
+        ],
+        [
+          -748.91,
+          718.84
+        ],
+        [
+          -738.03,
+          763.78
+        ],
+        [
+          -748.75,
+          766.37
+        ],
+        [
+          -759.63,
+          721.43
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -748.75,
+          766.37
+        ],
+        [
+          -759.63,
+          721.43
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2669.169,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-297827879",
+      "name": "OSM building 297827879",
+      "ways": [
+        297827879
+      ],
+      "center": [
+        -783.385,
+        756.4749999999999
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -805.62,
+          755.43
+        ],
+        [
+          -761.88,
+          745.43
+        ],
+        [
+          -759.25,
+          756.93
+        ],
+        [
+          -805.59,
+          767.52
+        ],
+        [
+          -807.52,
+          759.12
+        ],
+        [
+          -804.92,
+          758.53
+        ],
+        [
+          -805.62,
+          755.43
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -759.25,
+          756.93
+        ],
+        [
+          -805.59,
+          767.52
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2709.805,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-1198559399",
+      "name": "OSM building 1198559399",
+      "ways": [
+        1198559399
+      ],
+      "center": [
+        -867.145,
+        758.3399999999999
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -859.43,
+          763.2
+        ],
+        [
+          -871.15,
+          766.53
+        ],
+        [
+          -874.86,
+          753.48
+        ],
+        [
+          -868.9,
+          751.79
+        ],
+        [
+          -863.13,
+          750.15
+        ],
+        [
+          -859.43,
+          763.2
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -859.43,
+          763.2
+        ],
+        [
+          -871.15,
+          766.53
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2767.97,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-389701893",
+      "name": "乐飞百货",
+      "ways": [
+        389701893
+      ],
+      "center": [
+        -828.685,
+        971.43
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -837.67,
+          941.33
+        ],
+        [
+          -820.7,
+          941.05
+        ],
+        [
+          -819.7,
+          1001.53
+        ],
+        [
+          -836.66,
+          1001.81
+        ],
+        [
+          -837.67,
+          941.33
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -837.67,
+          941.33
+        ],
+        [
+          -820.7,
+          941.05
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2768.668,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-446934325",
+      "name": "OSM building 446934325",
+      "ways": [
+        446934325
+      ],
+      "center": [
+        -876.9300000000001,
+        779.835
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -888.44,
+          776.87
+        ],
+        [
+          -868.65,
+          771.3
+        ],
+        [
+          -865.42,
+          782.8
+        ],
+        [
+          -885.2,
+          788.37
+        ],
+        [
+          -888.44,
+          776.87
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -865.42,
+          782.8
+        ],
+        [
+          -885.2,
+          788.37
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2785.951,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-389702014",
+      "name": "OSM building 389702014",
+      "ways": [
+        389702014
+      ],
+      "center": [
+        -893.27,
+        745.29
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -903.58,
+          742.66
+        ],
+        [
+          -886.44,
+          737.04
+        ],
+        [
+          -883.97,
+          744.64
+        ],
+        [
+          -882.96,
+          747.87
+        ],
+        [
+          -900.01,
+          753.54
+        ],
+        [
+          -903.58,
+          742.66
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -882.96,
+          747.87
+        ],
+        [
+          -900.01,
+          753.54
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2793.8,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-446934334",
+      "name": "OSM building 446934334",
+      "ways": [
+        446934334
+      ],
+      "center": [
+        -894.265,
+        782.525
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -901.22,
+          777.02
+        ],
+        [
+          -891.4,
+          774.14
+        ],
+        [
+          -887.31,
+          788.01
+        ],
+        [
+          -897.16,
+          790.91
+        ],
+        [
+          -901.22,
+          777.02
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -887.31,
+          788.01
+        ],
+        [
+          -897.16,
+          790.91
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2798.177,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-389701879",
+      "name": "OSM building 389701879",
+      "ways": [
+        389701879
+      ],
+      "center": [
+        -908.91,
+        741.085
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -910.34,
+          721.75
+        ],
+        [
+          -909.88,
+          723.12
+        ],
+        [
+          -907.21,
+          731.21
+        ],
+        [
+          -903.58,
+          742.66
+        ],
+        [
+          -900.01,
+          753.54
+        ],
+        [
+          -898.53,
+          757.47
+        ],
+        [
+          -907.47,
+          760.42
+        ],
+        [
+          -919.29,
+          724.72
+        ],
+        [
+          -910.34,
+          721.75
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -907.47,
+          760.42
+        ],
+        [
+          -919.29,
+          724.72
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2802.46,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-389702099",
+      "name": "豫园鄂尔多斯广场",
+      "ways": [
+        389702099
+      ],
+      "center": [
+        -880.5699999999999,
+        970.625
+      ],
+      "heading": 0,
+      "height": 20.4,
+      "heightSource": "levels",
+      "originalOsmHeight": 20.4,
+      "footprint": [
+        [
+          -907.53,
+          939.76
+        ],
+        [
+          -852.29,
+          940.41
+        ],
+        [
+          -853.0,
+          1001.49
+        ],
+        [
+          -885.01,
+          1001.12
+        ],
+        [
+          -884.5,
+          956.48
+        ],
+        [
+          -908.85,
+          956.19
+        ],
+        [
+          -907.53,
+          939.76
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -907.53,
+          939.76
+        ],
+        [
+          -852.29,
+          940.41
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2836.928,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-378107226",
+      "name": "OSM building 378107226",
+      "ways": [
+        378107226
+      ],
+      "center": [
+        -943.5699999999999,
+        766.3
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -959.38,
+          763.9
+        ],
+        [
+          -932.52,
+          754.74
+        ],
+        [
+          -927.76,
+          768.7
+        ],
+        [
+          -954.62,
+          777.86
+        ],
+        [
+          -959.38,
+          763.9
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -927.76,
+          768.7
+        ],
+        [
+          -954.62,
+          777.86
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2850.186,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-1198554861",
+      "name": "OSM building 1198554861",
+      "ways": [
+        1198554861
+      ],
+      "center": [
+        -968.03,
+        791.41
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -980.29,
+          785.13
+        ],
+        [
+          -960.12,
+          779.67
+        ],
+        [
+          -955.77,
+          796.53
+        ],
+        [
+          -976.07,
+          803.15
+        ],
+        [
+          -980.29,
+          785.13
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -955.77,
+          796.53
+        ],
+        [
+          -976.07,
+          803.15
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2876.54,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-1198554862",
+      "name": "OSM building 1198554862",
+      "ways": [
+        1198554862
+      ],
+      "center": [
+        -972.3050000000001,
+        772.9649999999999
+      ],
+      "heading": 0,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -984.78,
+          768.14
+        ],
+        [
+          -963.54,
+          762.89
+        ],
+        [
+          -959.83,
+          777.88
+        ],
+        [
+          -980.68,
+          783.04
+        ],
+        [
+          -981.47,
+          779.84
+        ],
+        [
+          -970.93,
+          777.24
+        ],
+        [
+          -972.41,
+          771.24
+        ],
+        [
+          -983.34,
+          773.94
+        ],
+        [
+          -984.78,
+          768.14
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -972.41,
+          771.24
+        ],
+        [
+          -983.34,
+          773.94
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2876.752,
+      "builder": "provisional",
+      "referenceIds": [],
+      "photoReferenceFiles": [],
+      "observedDetails": "OSM geographic footprint only. No building-matched facade photograph inspected.",
+      "inferredDetails": "Entire elevation, material, openings and roof identity unverified; no ornamental details invented. Simple provisional massing cannot pass photo-fidelity acceptance.",
+      "confidence": "mapped-massing-provisional-unmatched-photo",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-369238001",
+      "name": "人民路河南南路口全季酒店所在大楼",
+      "ways": [
+        369238001,
+        447021394
+      ],
+      "center": [
+        -1056.46,
+        814.175
+      ],
+      "heading": 0,
+      "height": 119,
+      "heightSource": "levels",
+      "originalOsmHeight": 17.0,
+      "footprint": [
+        [
+          -1050.88,
+          767.65
+        ],
+        [
+          -1031.71,
+          852.71
+        ],
+        [
+          -1032.42,
+          855.49
+        ],
+        [
+          -1037.19,
+          858.56
+        ],
+        [
+          -1054.17,
+          864.19
+        ],
+        [
+          -1058.53,
+          864.08
+        ],
+        [
+          -1061.05,
+          862.8
+        ],
+        [
+          -1063.42,
+          860.39
+        ],
+        [
+          -1066.15,
+          856.21
+        ],
+        [
+          -1081.21,
+          783.29
+        ],
+        [
+          -1080.05,
+          779.71
+        ],
+        [
+          -1078.73,
+          777.21
+        ],
+        [
+          -1077.08,
+          774.99
+        ],
+        [
+          -1075.28,
+          773.23
+        ],
+        [
+          -1073.13,
+          771.94
+        ],
+        [
+          -1056.13,
+          764.16
+        ],
+        [
+          -1054.45,
+          764.46
+        ],
+        [
+          -1052.85,
+          765.33
+        ],
+        [
+          -1051.72,
+          766.44
+        ],
+        [
+          -1050.88,
+          767.65
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -1037.19,
+          858.56
+        ],
+        [
+          -1054.17,
+          864.19
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 2965.868,
+      "builder": "ji_hotel",
+      "referenceIds": [
+        "renmin-2024-142",
+        "renmin-sichuan-2013",
+        "neo-c87d-2500"
+      ],
+      "photoReferenceFiles": [
+        "assets/streets/loop-frontages/reference/renmin-2024-142.jpg",
+        "assets/streets/loop-frontages/reference/renmin-sichuan-2013.jpg",
+        "assets/streets/loop-frontages/reference/neo-c87d-2500.jpg"
+      ],
+      "observedDetails": "2024 dated photo identifies curved stone podium with black JI HOTEL Chinese and English sign, white/green rounded upper tower; full tower seen in2013 and2021.",
+      "inferredDetails": "Upper storey subdivision and roof equipment dimensions inferred; overall upper height119m is OSM levels estimate, not measured photograph. Side doors and unobserved interiors unmodeled.",
+      "confidence": "photo-correlated-building-massing-with-explicit-age-and-detail-uncertainty",
+      "photoFidelityAccepted": false,
+      "componentWays": [
+        369238001,
+        447021394
+      ],
+      "upperFootprint": [
+        [
+          -1048.05,
+          799.31
+        ],
+        [
+          -1038.58,
+          839.1
+        ],
+        [
+          -1041.62,
+          842.66
+        ],
+        [
+          -1045.06,
+          845.76
+        ],
+        [
+          -1050.25,
+          847.76
+        ],
+        [
+          -1055.6,
+          848.23
+        ],
+        [
+          -1060.75,
+          846.72
+        ],
+        [
+          -1064.33,
+          843.15
+        ],
+        [
+          -1065.74,
+          838.99
+        ],
+        [
+          -1073.0,
+          813.28
+        ],
+        [
+          -1073.48,
+          807.97
+        ],
+        [
+          -1072.59,
+          803.75
+        ],
+        [
+          -1070.61,
+          800.51
+        ],
+        [
+          -1067.68,
+          798.16
+        ],
+        [
+          -1064.75,
+          796.29
+        ],
+        [
+          -1061.0,
+          795.38
+        ],
+        [
+          -1057.49,
+          795.31
+        ],
+        [
+          -1053.98,
+          795.92
+        ],
+        [
+          -1050.81,
+          797.21
+        ],
+        [
+          -1048.05,
+          799.31
+        ]
+      ],
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-378107242",
+      "name": "河南南路人民路口西北侧沿街历史楼",
+      "ways": [
+        378107242
+      ],
+      "center": [
+        -1111.74,
+        835.26
+      ],
+      "heading": 0,
+      "height": 15.6,
+      "heightSource": "levels",
+      "originalOsmHeight": 13.6,
+      "footprint": [
+        [
+          -1127.71,
+          790.66
+        ],
+        [
+          -1103.35,
+          884.38
+        ],
+        [
+          -1098.96,
+          885.45
+        ],
+        [
+          -1095.77,
+          880.66
+        ],
+        [
+          -1110.01,
+          787.6
+        ],
+        [
+          -1113.47,
+          785.07
+        ],
+        [
+          -1127.71,
+          790.66
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -1095.77,
+          880.66
+        ],
+        [
+          -1110.01,
+          787.6
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 3000.766,
+      "builder": "henan_heritage",
+      "referenceIds": [
+        "renmin-henan-2012",
+        "renmin-2024-141",
+        "renmin-2024-142"
+      ],
+      "photoReferenceFiles": [
+        "assets/streets/loop-frontages/reference/renmin-henan-2012.jpg",
+        "assets/streets/loop-frontages/reference/renmin-2024-141.jpg",
+        "assets/streets/loop-frontages/reference/renmin-2024-142.jpg"
+      ],
+      "observedDetails": "Three-storey long narrow pale building, continuous balustraded balconies, terracotta attic roof with repeated gabled dormers, tall central arched portal. 2024 confirms roofline but facade is hidden by restoration scaffold.",
+      "inferredDetails": "Facade details observed in2012 may have changed during2024 restoration; 2026 actual facade and scaffold status unverified. Model is explicitly historic-form reconstruction, not current photo-fidelity acceptance.",
+      "confidence": "photo-correlated-building-massing-with-explicit-age-and-detail-uncertainty",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    },
+    {
+      "id": "loop-frontage-300480894",
+      "name": "福佑门小商品市场",
+      "ways": [
+        300480894
+      ],
+      "center": [
+        -985.24,
+        993.275
+      ],
+      "heading": 0,
+      "height": 29.0,
+      "heightSource": "levels",
+      "originalOsmHeight": 27.2,
+      "footprint": [
+        [
+          -1041.14,
+          978.38
+        ],
+        [
+          -1035.1,
+          1022.63
+        ],
+        [
+          -929.34,
+          1008.18
+        ],
+        [
+          -935.38,
+          963.92
+        ],
+        [
+          -1041.14,
+          978.38
+        ]
+      ],
+      "frontageEdge": [
+        [
+          -935.38,
+          963.92
+        ],
+        [
+          -1041.14,
+          978.38
+        ]
+      ],
+      "roadName": "人民路",
+      "routeDistanceM": 3039.018,
+      "builder": "fuyoumen",
+      "referenceIds": [
+        "fuyoumen-broker"
+      ],
+      "photoReferenceFiles": [
+        "assets/streets/loop-frontages/reference/fuyoumen-broker.jpg"
+      ],
+      "observedDetails": "White six-storey market block, corner pavilions rise one level above roof, oversized horizontal cornices, square paired windows, sandstone entrance portal and vertical Chinese market identity.",
+      "inferredDetails": "Photograph dimensions and height unmeasured; roof plant and unseen return facade inferred; no interior or pixel-exact glazing reflection reproduction.",
+      "confidence": "building-identity-matched-and-photo-specific-reconstruction",
+      "photoFidelityAccepted": false,
+      "replacesWays": []
+    }
+  ]
+}

@@ -1,0 +1,701 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-09T14:02:43.956239+00:00",
+  "state": "stopped-on-user-steering-to-bugs-performance-gameplay",
+  "scope": "Read-only public continuous-street-source feasibility research for 16 new Pudong first-row ways among remaining35; at most5 precise matches requested. No model, manifest or original evidence edits authorized in this continuation.",
+  "stopReason": "Root relayed explicit user instruction to stop further model-quality and photo work. Research/download/browser inspection stopped immediately.",
+  "preciselyMatchedWayCount": 0,
+  "acceptedWayIds": [],
+  "modelChanges": false,
+  "existingEvidenceChanges": false,
+  "photoVerificationUpgrades": 0,
+  "candidateWays": [
+    {
+      "wayId": 965047353,
+      "nearestRoadName": "陆家嘴环路",
+      "routeDistanceM": 5809.521,
+      "centerApproxWgs84": [
+        121.505404,
+        31.238852
+      ],
+      "preciseSourceMatched": false,
+      "visibleFloorCount": null,
+      "visibleWindowBayCount": null,
+      "status": "unmatched-research-stopped"
+    },
+    {
+      "wayId": -128762951,
+      "nearestRoadName": "浦城路",
+      "routeDistanceM": 6321.231,
+      "centerApproxWgs84": [
+        121.504391,
+        31.234349
+      ],
+      "preciseSourceMatched": false,
+      "visibleFloorCount": null,
+      "visibleWindowBayCount": null,
+      "status": "unmatched-research-stopped"
+    },
+    {
+      "wayId": 957456630,
+      "nearestRoadName": "浦城路",
+      "routeDistanceM": 6370.654,
+      "centerApproxWgs84": [
+        121.504915,
+        31.234152
+      ],
+      "preciseSourceMatched": false,
+      "visibleFloorCount": null,
+      "visibleWindowBayCount": null,
+      "status": "unmatched-research-stopped"
+    },
+    {
+      "wayId": 948045836,
+      "nearestRoadName": "东昌路",
+      "routeDistanceM": 6443.298,
+      "centerApproxWgs84": [
+        121.506242,
+        31.233647
+      ],
+      "preciseSourceMatched": false,
+      "visibleFloorCount": null,
+      "visibleWindowBayCount": null,
+      "status": "unmatched-research-stopped"
+    },
+    {
+      "wayId": 957451695,
+      "nearestRoadName": "东昌路",
+      "routeDistanceM": 6455.13,
+      "centerApproxWgs84": [
+        121.50659,
+        31.234038
+      ],
+      "preciseSourceMatched": false,
+      "visibleFloorCount": null,
+      "visibleWindowBayCount": null,
+      "status": "unmatched-research-stopped"
+    },
+    {
+      "wayId": 956369950,
+      "nearestRoadName": "浦城路",
+      "routeDistanceM": 6465.631,
+      "centerApproxWgs84": [
+        121.506435,
+        31.234404
+      ],
+      "preciseSourceMatched": false,
+      "visibleFloorCount": null,
+      "visibleWindowBayCount": null,
+      "status": "unmatched-research-stopped"
+    },
+    {
+      "wayId": 956369947,
+      "nearestRoadName": "浦城路",
+      "routeDistanceM": 6467.842,
+      "centerApproxWgs84": [
+        121.506094,
+        31.234287
+      ],
+      "preciseSourceMatched": false,
+      "visibleFloorCount": null,
+      "visibleWindowBayCount": null,
+      "status": "unmatched-research-stopped"
+    },
+    {
+      "wayId": 956369949,
+      "nearestRoadName": "浦城路",
+      "routeDistanceM": 6491.316,
+      "centerApproxWgs84": [
+        121.506339,
+        31.234617
+      ],
+      "preciseSourceMatched": false,
+      "visibleFloorCount": null,
+      "visibleWindowBayCount": null,
+      "status": "unmatched-research-stopped"
+    },
+    {
+      "wayId": 956369946,
+      "nearestRoadName": "浦城路",
+      "routeDistanceM": 6493.524,
+      "centerApproxWgs84": [
+        121.505919,
+        31.23447
+      ],
+      "preciseSourceMatched": false,
+      "visibleFloorCount": null,
+      "visibleWindowBayCount": null,
+      "status": "unmatched-research-stopped"
+    },
+    {
+      "wayId": 956369945,
+      "nearestRoadName": "浦城路",
+      "routeDistanceM": 6517.545,
+      "centerApproxWgs84": [
+        121.505833,
+        31.234675
+      ],
+      "preciseSourceMatched": false,
+      "visibleFloorCount": null,
+      "visibleWindowBayCount": null,
+      "status": "unmatched-research-stopped"
+    },
+    {
+      "wayId": 956369948,
+      "nearestRoadName": "浦城路",
+      "routeDistanceM": 6521.409,
+      "centerApproxWgs84": [
+        121.506141,
+        31.234843
+      ],
+      "preciseSourceMatched": false,
+      "visibleFloorCount": null,
+      "visibleWindowBayCount": null,
+      "status": "unmatched-research-stopped"
+    },
+    {
+      "wayId": 956369951,
+      "nearestRoadName": "浦城路",
+      "routeDistanceM": 6546.31,
+      "centerApproxWgs84": [
+        121.506142,
+        31.235071
+      ],
+      "preciseSourceMatched": false,
+      "visibleFloorCount": null,
+      "visibleWindowBayCount": null,
+      "status": "unmatched-research-stopped"
+    },
+    {
+      "wayId": 957451684,
+      "nearestRoadName": "浦城路",
+      "routeDistanceM": 6564.262,
+      "centerApproxWgs84": [
+        121.505607,
+        31.235059
+      ],
+      "preciseSourceMatched": false,
+      "visibleFloorCount": null,
+      "visibleWindowBayCount": null,
+      "status": "unmatched-research-stopped"
+    },
+    {
+      "wayId": 957451686,
+      "nearestRoadName": "浦城路",
+      "routeDistanceM": 6578.417,
+      "centerApproxWgs84": [
+        121.506135,
+        31.235424
+      ],
+      "preciseSourceMatched": false,
+      "visibleFloorCount": null,
+      "visibleWindowBayCount": null,
+      "status": "unmatched-research-stopped"
+    },
+    {
+      "wayId": 166544770,
+      "nearestRoadName": "银城中路",
+      "routeDistanceM": 7685.843,
+      "centerApproxWgs84": [
+        121.501079,
+        31.24052
+      ],
+      "preciseSourceMatched": false,
+      "visibleFloorCount": null,
+      "visibleWindowBayCount": null,
+      "status": "unmatched-research-stopped"
+    },
+    {
+      "wayId": 961656405,
+      "nearestRoadName": "世纪大道",
+      "routeDistanceM": 8822.228,
+      "centerApproxWgs84": [
+        121.499812,
+        31.23789
+      ],
+      "preciseSourceMatched": false,
+      "visibleFloorCount": null,
+      "visibleWindowBayCount": null,
+      "status": "unmatched-research-stopped"
+    }
+  ],
+  "sources": [
+    {
+      "id": "youtube-pucheng",
+      "sourcePage": "https://www.youtube.com/watch?v=0X4s3OxJQpc",
+      "title": "Shanghai  City  Lujiazui  Street   Walking Tour ｜Zhangyang Road｜Pucheng Road｜Dongchang Road",
+      "author": "Tour Walking",
+      "channelId": "UCgRfTfQpKGgoUaufaMpNi5A",
+      "publicationDate": "2021-08-18T15:30:00-07:00",
+      "lengthSeconds": "1295",
+      "pagePlayabilityStatus": "OK",
+      "actualMediaInspected": "160x90 public storyboard frames only",
+      "inspectedStoryboardFiles": [
+        "youtube-pucheng-story-2.jpg",
+        "youtube-pucheng-story-3.jpg",
+        "youtube-pucheng-story-4.jpg",
+        "youtube-pucheng-story-5.jpg"
+      ],
+      "acceptedWayIds": [],
+      "limitations": [
+        "No full-resolution video frame was inspected.",
+        "Storyboard samples do not establish uninterrupted camera traversal or exact street-sign text.",
+        "No floor or window-bay count assigned to an OSM way."
+      ],
+      "candidateIntervalSeconds": [
+        1000,
+        1295
+      ],
+      "intervalStatus": "rough localization lead, not verified building correspondence"
+    },
+    {
+      "id": "youtube-dongchang",
+      "sourcePage": "https://www.youtube.com/watch?v=SxktTQTgONY",
+      "title": "Shanghai City Lujiazui Tour 4K｜Dongchang Road｜Pudong South Road｜Pudong Avenue",
+      "author": "Tour Walking",
+      "channelId": "UCgRfTfQpKGgoUaufaMpNi5A",
+      "publicationDate": "2022-03-04T14:30:02-08:00",
+      "lengthSeconds": "2577",
+      "pagePlayabilityStatus": "OK",
+      "actualMediaInspected": "160x90 public storyboard frames only",
+      "inspectedStoryboardFiles": [
+        "youtube-dongchang-story-1.jpg",
+        "youtube-dongchang-story-2.jpg",
+        "youtube-dongchang-story-3.jpg",
+        "youtube-dongchang-story-4.jpg"
+      ],
+      "acceptedWayIds": [],
+      "limitations": [
+        "No full-resolution video frame was inspected.",
+        "Storyboard samples do not establish uninterrupted camera traversal or exact street-sign text.",
+        "No floor or window-bay count assigned to an OSM way."
+      ],
+      "candidateIntervalSeconds": [
+        250,
+        550
+      ],
+      "intervalStatus": "rough localization lead, not verified building correspondence"
+    },
+    {
+      "id": "youtube-financial",
+      "sourcePage": "https://www.youtube.com/watch?v=IIazLC_c_Qs",
+      "title": "Lujiazui Financial City｜Shanghai   Tour   Walking   4K｜Dongchang Road  Huayuanshiqiao Road  Fucheng",
+      "author": "Tour Walking",
+      "channelId": "UCgRfTfQpKGgoUaufaMpNi5A",
+      "publicationDate": "2023-05-31T21:47:12-07:00",
+      "lengthSeconds": "2254",
+      "pagePlayabilityStatus": "OK",
+      "actualMediaInspected": "none; stopped before viewing downloaded public preview sheets",
+      "inspectedStoryboardFiles": [],
+      "acceptedWayIds": [],
+      "limitations": [
+        "No full-resolution video frame was inspected.",
+        "Storyboard samples do not establish uninterrupted camera traversal or exact street-sign text.",
+        "No floor or window-bay count assigned to an OSM way."
+      ],
+      "candidateIntervalSeconds": null,
+      "intervalStatus": "rough localization lead, not verified building correspondence"
+    },
+    {
+      "id": "wordpress-daily-walk",
+      "sourcePage": "https://doctorbullshit.wordpress.com/2010/04/23/my-daily-walk/",
+      "archivePage": "https://doctorbullshit.wordpress.com/tag/the-daily-doctor/",
+      "author": "WordPress blog That Look Crayzy! / doctorbullshit; no real-name attribution verified",
+      "publicationDate": "2010-04-23",
+      "inspectedImages": [
+        "wordpress-img-3880.jpg",
+        "wordpress-img-3882.jpg"
+      ],
+      "acceptedWayIds": [],
+      "observations": [
+        "Author describes walking from Shangcheng Road north into Pucheng Road, then entering a residential shortcut toward Pudong.",
+        "img_3880 actually shows SWFC, Jin Mao, Pucheng carriageway and road signs; it does not show a sufficiently complete target building facade.",
+        "img_3882 shows the residential shortcut and a stepped beige end wall; the author route context places the shortcut south of the target Dongchang intersection."
+      ],
+      "disposition": "exclude from precise target-way evidence; old broader Pucheng context only"
+    },
+    {
+      "id": "fang-dongchang-gallery",
+      "sourcePage": "https://sh.esf.fang.com/loupan/1210283698/photo/",
+      "discoveryPage": "https://www.fang.com/xiaoqu/sh-1210283698/",
+      "author": "Fang/Soufun listing; individual photographer not supplied in inspected page",
+      "inspectedIndividualImages": [
+        "fang-photo-0.jpg",
+        "fang-photo-3.jpg",
+        "fang-photo-5.jpg"
+      ],
+      "contactSheetInspectedImages": [
+        "fang-photo-0.jpg",
+        "fang-photo-1.jpg",
+        "fang-photo-2.jpg",
+        "fang-photo-3.jpg",
+        "fang-photo-4.jpg",
+        "fang-photo-5.jpg",
+        "fang-photo-6.jpg",
+        "fang-photo-7.jpg"
+      ],
+      "acceptedWayIds": [],
+      "observations": [
+        "Actual images show pale residential facades, ground-floor shops and irregularly enclosed balconies; some images have a red eave or tiled-roof band.",
+        "Image URL dates are in 2009; these are upload-path dates, not a verified capture date.",
+        "The collection title identifies the estate but does not identify exact block numbers or compass direction for each image.",
+        "No precise target-way, floor count or complete facade window-bay count established."
+      ],
+      "disposition": "retain as unlocated background references; do not promote to photoVerified"
+    }
+  ],
+  "accessAndExclusions": [
+    {
+      "source": "Bilibili indexed results",
+      "pages": [
+        "https://search.bilibili.com/all?keyword=%E8%AE%B0%E5%BD%95%E5%9F%8E%E5%B8%82",
+        "https://search.bilibili.com/all?keyword=%E4%B8%9C%E6%98%8C%E8%B7%AF"
+      ],
+      "result": "Search snippets listed 19:39 Pucheng/Dongchang walking record and 3:15 Pucheng-Dongchang-Renmin tunnel driving record, but opening search pages returned CAPTCHA. No CAPTCHA solved, no actual Bilibili video viewed, no exact video ID accepted."
+    },
+    {
+      "source": "YouTube direct public media",
+      "result": "One ordinary anonymous HTTP Range request for bytes0-1048575 to the page-provided 360p MP4 URL returned HTTP403. Stopped this media path; no alternate token/account/cookie or restriction bypass attempted. Public preview storyboards alone remained available."
+    },
+    {
+      "source": "CUA independent Chrome research tab",
+      "result": "createBrowserTab(chrome, YouTube URL, sessionName=浦东连续实景) timed out and reset kernel. Following getState returned Sky Computer Use service startup request failed. No tabID or usable tab handle returned; no existing IAB tab or viewport touched."
+    },
+    {
+      "source": "Generic search results",
+      "result": "Zhoupu/Pucheng Fujian/Yuyuan Road and Dongchangzhi Road-North Bund false-location results excluded from target evidence."
+    }
+  ],
+  "runtimeTextureUse": false,
+  "fullVideoDownloaded": false,
+  "bytesOfPlayableVideoDownloaded": 0,
+  "assetBytes": 7317289,
+  "assetFiles": [
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/additional-downloads.json",
+      "bytes": 1559,
+      "sha256": "b24a0ce8255ff305d482c77c574cab4b7e7a05b2b9f3df72d752154004935325",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/fang-contact-sheet.jpg",
+      "bytes": 115256,
+      "sha256": "5bcf70751425f230cc4efd2207e01ae872c88e362db4d3f15e0c19196a5d964f",
+      "individuallyViewed": true,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/fang-dongchang.html",
+      "bytes": 89957,
+      "sha256": "26bfc7a8bf34c394b33b9f601576f57b34f95e8dc7c73315ab624a3310285139",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/fang-gallery-decoded-utf8.html",
+      "bytes": 78171,
+      "sha256": "14f8ce4d8e5228902e2e53445652e301a494927e69eb647baef44656a6349c02",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/fang-gallery-decoded.html",
+      "bytes": 81930,
+      "sha256": "585e22a5e45bf86c673d5c6d94e334fb1eaee2ccb7da3ef7fc7d9724c173ac40",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/fang-gallery.html",
+      "bytes": 15359,
+      "sha256": "a37c0d41184480d495f4bd4d34960083a8482e455cbca6b9f31d94e753113a45",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/fang-photo-0.jpg",
+      "bytes": 46916,
+      "sha256": "ff367b718f4b90fac101c759fa427a4526b8e218af0d2ef2fad1bae169d15028",
+      "individuallyViewed": true,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/fang-photo-1.jpg",
+      "bytes": 39146,
+      "sha256": "fa4b8266bfbd4c118742032b879dcbc61d9e71c5a8fa232b0aa8a7f256ce5ab5",
+      "individuallyViewed": false,
+      "contactSheetOnly": true
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/fang-photo-2.jpg",
+      "bytes": 52596,
+      "sha256": "957fae20578d94452f85c5280dc2a860238565cc57a84be5f8e82b7f249e947d",
+      "individuallyViewed": false,
+      "contactSheetOnly": true
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/fang-photo-3.jpg",
+      "bytes": 50310,
+      "sha256": "026ea194ad2980de8a483ad428204511c0e3f8ba87794cb58300a01c8168e979",
+      "individuallyViewed": true,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/fang-photo-4.jpg",
+      "bytes": 47886,
+      "sha256": "58f391b67c2099bffce803a60834ace61a12ed6f7bc5139de397526a25d29d49",
+      "individuallyViewed": false,
+      "contactSheetOnly": true
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/fang-photo-5.jpg",
+      "bytes": 48779,
+      "sha256": "0d41e55c345d09c9dbe93d34e272d7482a300c796a7d76a6250a5e1f9420c064",
+      "individuallyViewed": true,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/fang-photo-6.jpg",
+      "bytes": 42320,
+      "sha256": "f50d5acd94032d7105c2bb01357115c9096a2a7eb5782f7ada4a1c571e3a42a9",
+      "individuallyViewed": false,
+      "contactSheetOnly": true
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/fang-photo-7.jpg",
+      "bytes": 44352,
+      "sha256": "60ee3d99e1ca161add1772583bd450cafefc4766d6c87c1ea97acc9c22b08e5c",
+      "individuallyViewed": false,
+      "contactSheetOnly": true
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/fang-photo-downloads.json",
+      "bytes": 1410,
+      "sha256": "9b07f2172824900d497520b57332f718c28483b25f747e35fbfed64714651131",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/financial-storyboard-downloads.json",
+      "bytes": 1371,
+      "sha256": "6bdd6a0e54f095ab8e2204136af9e262769126cb005f62770600cdb3906a1b71",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/media-range-probe.json",
+      "bytes": 42,
+      "sha256": "75676ccdd9340cd638b4cf3c4a0c4c39709d14519d9860ac503aab38390628f9",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/storyboard-downloads.json",
+      "bytes": 4267,
+      "sha256": "18ae0d898f7b9fdf559bb3874529ffd6cd7617f9c4519921d4acfd1f38583490",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/third-candidate-downloads.json",
+      "bytes": 404,
+      "sha256": "349edbf0cf94ed42cbf7fa189563475025f1f95670798b9fa7cb914ec80c7f63",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/wordpress-img-3880.jpg",
+      "bytes": 93324,
+      "sha256": "c6902530b498511dd9bd0e58e618d4d0e6c6c69494fcbab52136c804c6a01cb4",
+      "individuallyViewed": true,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/wordpress-img-3882.jpg",
+      "bytes": 95278,
+      "sha256": "0c17d9ca88c748975a52e597cfbab80215bd0c2a91728f619b0ef88c423f91b1",
+      "individuallyViewed": true,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/wordpress-pucheng.html",
+      "bytes": 924534,
+      "sha256": "278bfc5cdfa970d1d200be7624a9a6bebde288bdb9f8289c108f876120b86940",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/wordpress-walk.html",
+      "bytes": 135956,
+      "sha256": "f1a13ac2c75819cae2a71adc19ec796fc9241af9a7ffa921076e26bcac06ead8",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/youtube-dongchang-cover.jpg",
+      "bytes": 187524,
+      "sha256": "92782c9f6d74cd068c5d86ecd4a39000cf8a99426205b6a4786b36482b26d514",
+      "individuallyViewed": true,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/youtube-dongchang-player.json",
+      "bytes": 59356,
+      "sha256": "805cd898cd72525982aa5c81b33d62264282ab570baa86ff0c07182dc3818e8b",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/youtube-dongchang-story-0.jpg",
+      "bytes": 59097,
+      "sha256": "fcbe70ec4ed473e7b34996702df9c0f5f1c0d5d6038c8e93992c8c225db52437",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/youtube-dongchang-story-1.jpg",
+      "bytes": 77450,
+      "sha256": "1654a6b389ab7129d485ea099c966c6f1d9c07db7cc0b82df0126817146b9536",
+      "individuallyViewed": true,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/youtube-dongchang-story-2.jpg",
+      "bytes": 78604,
+      "sha256": "8096a1ed4f5e1004e7306817adce5a0520198e65483c292ed4b5118610e05397",
+      "individuallyViewed": true,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/youtube-dongchang-story-3.jpg",
+      "bytes": 73256,
+      "sha256": "a2f5761c7d1f3377934b3ae60d63744798d75d6470229e0aec4184a8f499ac5c",
+      "individuallyViewed": true,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/youtube-dongchang-story-4.jpg",
+      "bytes": 79034,
+      "sha256": "aea306794d13e3eb315df24fe9c408e0b1c067cf7081cfa17abc6b9b2a64a2ca",
+      "individuallyViewed": true,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/youtube-dongchang.html",
+      "bytes": 1265647,
+      "sha256": "f4f83ecd1843959f2f0e27371713fe5e8c46c99e9fe681c54ee1ca4b1ea9dd70",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/youtube-financial-player.json",
+      "bytes": 62854,
+      "sha256": "efcb9d27555396e40c00b8d76a8496f3cac637c442613332626660dd02087eb9",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/youtube-financial-story-0.jpg",
+      "bytes": 75019,
+      "sha256": "c89ce45baefbb2ec375caa5dc882a9947e1885092611583dbddb652928b4dc08",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/youtube-financial-story-1.jpg",
+      "bytes": 81455,
+      "sha256": "d5e449ac0cbe41ffb2fc31f25735e22ae4ac90e3bd729a6873ce262841a0606f",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/youtube-financial-story-2.jpg",
+      "bytes": 68956,
+      "sha256": "ca0790646115864ebf6a530430fe5556b8218ba89d69ede6b93681074351f355",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/youtube-financial.html",
+      "bytes": 1268391,
+      "sha256": "344da32cb83cfb58975ebfe2cd3576ba9200539167fb6c262f811f2c64ff4a3a",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/youtube-pucheng-cover.jpg",
+      "bytes": 241999,
+      "sha256": "a57b6a7abf09c03b2f542befcdc007aa42cb8e7d30aa88d30f96219fdd6734cf",
+      "individuallyViewed": true,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/youtube-pucheng-player.json",
+      "bytes": 62097,
+      "sha256": "4950bbb45cd0eef632d1786d589b9e19a5bb2c1f7d34acb41b03a64eaf73ad01",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/youtube-pucheng-story-2.jpg",
+      "bytes": 76555,
+      "sha256": "94a6b114b47847ade26defe0a6e1572b95dc399fa144a17d134632baabf9fea0",
+      "individuallyViewed": true,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/youtube-pucheng-story-3.jpg",
+      "bytes": 73590,
+      "sha256": "ee29170a41a49c26bfc0171027e912582aeda29cb9a1065734849b88aa2b066c",
+      "individuallyViewed": true,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/youtube-pucheng-story-4.jpg",
+      "bytes": 77401,
+      "sha256": "406d98017d22c1bb72ccfed6bb79bdf3c2beadb0a6a33df3dce92d7781040786",
+      "individuallyViewed": true,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/youtube-pucheng-story-5.jpg",
+      "bytes": 18288,
+      "sha256": "334721ff8327b001abcec49deedabc1c28f13ea4f88f446a33343d1de89fed2f",
+      "individuallyViewed": true,
+      "contactSheetOnly": false
+    },
+    {
+      "path": "assets/streets/pudong-loop-continuous-views/youtube-pucheng.html",
+      "bytes": 1319593,
+      "sha256": "dd9e07eba88573d1d4d622f5b09adf87451185a9a2ebbc81fa3ca9464e08d22c",
+      "individuallyViewed": false,
+      "contactSheetOnly": false
+    }
+  ],
+  "protectedManifestCheck": {
+    "path": "public/streets/districts/pudong/manifest.json",
+    "sha256": "216b07d6f0ecd8a4b192df2d0aa14f819417573df7f83b18f6ebdb5d82351565",
+    "matchesPreResearchHandoffSha256": true
+  },
+  "processStopEvidence": {
+    "ownedExecSessions": [
+      76358,
+      38636,
+      59126,
+      18749,
+      34184,
+      25580,
+      83243,
+      70753
+    ],
+    "allOwnedExecSessionsReturnedExitCode0": true,
+    "otherBriefReadCommandsCompleted": true,
+    "blenderLaunched": false,
+    "subagentsCreated": 0,
+    "browserSuccessfullyAcquired": false,
+    "browserCloseAction": "No owned tab identifier was returned, so no safe close target was available. No browser close success is claimed.",
+    "noBackgroundResearchWaitRetained": true,
+    "note": "One completed read command had a UnicodeDecodeError when viewing gzip HTML; preserved original, then decoded copy correctly with UTF-8. No download or subprocess remained waiting at stop."
+  }
+}

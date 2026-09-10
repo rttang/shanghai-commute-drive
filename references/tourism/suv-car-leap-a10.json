@@ -1,0 +1,104 @@
+{
+  "id": "leap-a10",
+  "vehicle": "Leapmotor A10 / B03X, 2026, 505 LiDAR exterior",
+  "authoritativeLaunch": "https://www.media.stellantis.com/em-en/leapmotor/press/leapmotor-a10-launch-in-china",
+  "launchDate": "2026-03-26",
+  "dimensionsM": [
+    4.27,
+    1.81,
+    1.635
+  ],
+  "wheelbaseM": 2.605,
+  "gallery": "https://www.leapmotor.uz/en/models/a10",
+  "photos": [
+    {
+      "file": "assets/vehicles/suv-exteriors/leap-a10/references/official-00.webp",
+      "url": "https://www.leapmotor.uz/storage/catalog/models/bf72d5db-fbd5-4289-8dd7-1ae899ef2de8.webp",
+      "bytes": 80944,
+      "sha256": "c2dad1f82b27f818d0f340b839122add67e167454f6fb05149f7d48705289fb3"
+    },
+    {
+      "file": "assets/vehicles/suv-exteriors/leap-a10/references/official-01.webp",
+      "url": "https://www.leapmotor.uz/storage/catalog/models/603ba676-b248-42ab-837f-579b00eeadee.webp",
+      "bytes": 79444,
+      "sha256": "5cb2df4428c479b921726cdb73b629aa998f4ef9a74b5d469941bd6107dc32a4"
+    },
+    {
+      "file": "assets/vehicles/suv-exteriors/leap-a10/references/official-02.webp",
+      "url": "https://www.leapmotor.uz/storage/catalog/models/80451f10-2560-419c-9d28-471ba09f1b80.webp",
+      "bytes": 53298,
+      "sha256": "e3d14b300e7f70fb0b971d0cefc271e72ae0ce65b2ec002978d279471b5d9409"
+    },
+    {
+      "file": "assets/vehicles/suv-exteriors/leap-a10/references/official-03.webp",
+      "url": "https://www.leapmotor.uz/storage/catalog/models/128af04c-d520-4a79-a9cb-adaf3a82bde2.webp",
+      "bytes": 40336,
+      "sha256": "fbc517a52d698b04bad37f5bb64f6ccf4be5bcaf765ac629a6b8198bae811230"
+    },
+    {
+      "file": "assets/vehicles/suv-exteriors/leap-a10/references/official-04.webp",
+      "url": "https://www.leapmotor.uz/storage/catalog/models/6497313b-010d-4d18-87f8-7c83f5903671.webp",
+      "bytes": 40228,
+      "sha256": "c45c40550100b66a5ddf16e3058cb325d91d6f5a467a3d3cda6cb0576a5b3ff6"
+    },
+    {
+      "file": "assets/vehicles/suv-exteriors/leap-a10/references/official-05.webp",
+      "url": "https://www.leapmotor.uz/storage/catalog/models/09f7561b-7f3c-4e13-9740-020aa643adff.webp",
+      "bytes": 37194,
+      "sha256": "961ff95e4dc432b4fd8e1b193c62358cb915e16aa4e4624def5cbbabf03b1c0d"
+    },
+    {
+      "file": "assets/vehicles/suv-exteriors/leap-a10/references/official-06.webp",
+      "url": "https://www.leapmotor.uz/storage/catalog/models/de7c8ea4-68c1-42c4-959c-6645fec74a67.webp",
+      "bytes": 193086,
+      "sha256": "01e420974f99f46f6a0c7cef9ee021b8029541e97ae541b3c834157f87c18b2d"
+    },
+    {
+      "file": "assets/vehicles/suv-exteriors/leap-a10/references/official-07.webp",
+      "url": "https://www.leapmotor.uz/storage/catalog/models/04930c01-7126-438c-a02b-3474a85333a1.webp",
+      "bytes": 192090,
+      "sha256": "5bc5db585b967309951b6b6c37da2a0f2991727435f6cb2f78919e2c75873e6c"
+    },
+    {
+      "file": "assets/vehicles/suv-exteriors/leap-a10/references/official-08.webp",
+      "url": "https://www.leapmotor.uz/storage/catalog/models/8ffd1115-d306-4356-96cf-7f6880540df3.webp",
+      "bytes": 202996,
+      "sha256": "624b2100e6054f9cb0c3f23245546a78443a77d3dc9a0f9b8f1641b2df974ba0"
+    },
+    {
+      "file": "assets/vehicles/suv-exteriors/leap-a10/references/official-09.webp",
+      "url": "https://www.leapmotor.uz/storage/catalog/models/9f491fe8-6539-4adc-9e13-330811aaa329.webp",
+      "bytes": 197036,
+      "sha256": "44de7c4484b7311664d8a65c442a2986601b6d5fd80621b14c2c91e458524439"
+    },
+    {
+      "file": "assets/vehicles/suv-exteriors/leap-a10/references/official-10.webp",
+      "url": "https://www.leapmotor.uz/storage/catalog/models/726ef985-8179-4ab4-ac4d-9dea2993a379.webp",
+      "bytes": 164090,
+      "sha256": "04c274227664f4efefd6baee541669e45c6e98ea732b4303bf60c040c176942d"
+    },
+    {
+      "file": "assets/vehicles/suv-exteriors/leap-a10/references/official-11.webp",
+      "url": "https://www.leapmotor.uz/storage/catalog/models/d5f6e4b4-dc8a-42da-b0c4-ea425ee10339.webp",
+      "bytes": 180288,
+      "sha256": "049464bf7cbc73746f5c61be6fce4d20638216dcb007529b8bf8a0e2777f444c"
+    }
+  ],
+  "rearReference": {
+    "url": "https://paultan.org/image/2026/02/Leapmotor-A10-EV-8.jpg",
+    "path": "assets/vehicles/suv-exteriors/leap-a10/references/rear-official-republished.jpg",
+    "scope": "Manufacturer image republished by Paul Tan; modelling reference only"
+  },
+  "photoLicense": "Photographs remain copyright of their respective owners and are excluded from runtime GLB.",
+  "modelMethod": "Independent continuous exterior surface reconstruction from multiple viewed photographs; no generic base car or B10 geometry",
+  "reviewedPhotoFiles": [
+    "official-00.webp",
+    "official-01.webp",
+    "official-02.webp",
+    "official-03.webp",
+    "official-04.webp",
+    "official-05.webp",
+    "official-06.webp",
+    "rear-official-republished.jpg"
+  ]
+}

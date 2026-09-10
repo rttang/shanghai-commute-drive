@@ -1,0 +1,8 @@
+{
+  "query": "[out:json][timeout:45];(way[highway](31.220,121.475,31.262,121.518);way[building](31.246,121.475,31.262,121.518);relation[type=restriction](31.220,121.475,31.262,121.518););out geom;",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "retrievedAt": "2026-09-09T08:19:45.922551+00:00",
+  "license": "ODbL-1.0",
+  "bytes": 4104584,
+  "elements": 5515
+}

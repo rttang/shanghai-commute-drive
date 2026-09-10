@@ -1,0 +1,122 @@
+{
+  "su7": {
+    "file": "/vehicles/rigged/su7.glb",
+    "preview": "/vehicles/su7-front.png",
+    "displayModel": "2024 款外观 · 海湾蓝",
+    "sourceYear": 2024,
+    "author": "Mona x Supercars (Car2022)",
+    "license": "CC-BY-4.0",
+    "source": "https://sketchfab.com/3d-models/xiaomi-su7-ca2cda599f5341068c992c9f44551bf9",
+    "status": "exterior-review",
+    "quality": "/vehicles/rigged/su7-quality.json"
+  },
+  "model-3": {
+    "file": "/vehicles/rigged/model-3.glb",
+    "preview": "/vehicles/model-3-front.png",
+    "displayModel": "2024 焕新版外观 · 赤红",
+    "sourceYear": 2024,
+    "author": "brandonleong28",
+    "license": "CC-BY-4.0",
+    "source": "https://sketchfab.com/3d-models/tesla-model-3-2024-36c52f3f89f6439c90310f14e8ff33f2",
+    "status": "exterior-review",
+    "quality": "/vehicles/rigged/model-3-quality.json"
+  },
+  "dolphin": {
+    "file": "/vehicles/rigged/dolphin.glb",
+    "preview": "/vehicles/dolphin-front.png",
+    "displayModel": "2024 Premium 外观 · 蓝黑",
+    "sourceYear": 2024,
+    "author": "Nazh Design",
+    "license": "CC-BY-4.0",
+    "source": "https://sketchfab.com/3d-models/2024-byd-dolphin-premium-long-range-8d30880667524cf3abb9e3e66c5299b5",
+    "status": "exterior-review",
+    "quality": "/vehicles/rigged/dolphin-quality.json"
+  },
+  "model-y": {
+    "file": "/vehicles/rigged/model-y.glb",
+    "preview": "/vehicles/model-y-front.png",
+    "displayModel": "2020–2024 旧款外观 · 珍珠白",
+    "sourceYear": 2021,
+    "author": "Nieve5677",
+    "license": "CC-BY-4.0",
+    "source": "https://sketchfab.com/3d-models/tesla-model-y-bc8ac22c744b4d11b92f2f31ab0297d0",
+    "status": "exterior-reviewed",
+    "quality": "/vehicles/rigged/model-y-quality.json"
+  },
+  "yuan-up": {
+    "file": "/vehicles/rigged/yuan-up.glb",
+    "preview": "/vehicles/yuan-up-front.png",
+    "displayModel": "2025 ATTO 2 海外版同型外观 · 绿色",
+    "sourceYear": 2025,
+    "author": "Ddiaz Design",
+    "license": "CC-BY-NC-SA-4.0",
+    "source": "https://sketchfab.com/3d-models/2024-byd-atto-2-2e04b67017ed49e982a1f0737eb7f0ae",
+    "status": "exterior-reviewed",
+    "quality": "/vehicles/rigged/yuan-up-quality.json"
+  },
+  "urus": {
+    "file": "/vehicles/rigged/urus.glb",
+    "trafficFile": "/vehicles/rigged/luxury-traffic/urus.glb",
+    "preview": "/vehicles/urus-front.png",
+    "displayModel": "2018 Urus 外观",
+    "sourceYear": 2018,
+    "author": "Kai Xiang (https://sketchfab.com/kirikom9000)",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://sketchfab.com/3d-models/lamborghini-urus-2018-32964087f5d24c3e90482724ddfc2fef",
+    "status": "exterior-review",
+    "quality": "/vehicles/rigged/urus-quality.json"
+  },
+  "porsche-911": {
+    "file": "/vehicles/rigged/porsche-911.glb",
+    "trafficFile": "/vehicles/rigged/luxury-traffic/porsche-911.glb",
+    "preview": "/vehicles/porsche-911-front.png",
+    "displayModel": "2020 992.1 Turbo S 外观",
+    "sourceYear": 2020,
+    "author": "SeKali / formerly fewdd (@zh.200.c)",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://sketchfab.com/3d-models/68d8ef218d7e42adbd4425dc43629705",
+    "status": "exterior-review",
+    "quality": "/vehicles/rigged/porsche-911-quality.json"
+  },
+  "alphard": {
+    "file": "/vehicles/rigged/alphard.glb",
+    "trafficFile": "/vehicles/rigged/luxury-traffic/alphard.glb",
+    "preview": "/vehicles/alphard-front.png",
+    "displayModel": "2015 第三代 Alphard 外观",
+    "sourceYear": 2015,
+    "author": "Nieve5677 (@niev)",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://sketchfab.com/3d-models/toyota-alphard-iii-2015-c3b0c9b6363945e0b27d020404198b0f",
+    "status": "exterior-review",
+    "quality": "/vehicles/rigged/alphard-quality.json"
+  },
+  "g63": {
+    "file": "/vehicles/rigged/g63.glb",
+    "trafficFile": "/vehicles/rigged/luxury-traffic/g63.glb",
+    "preview": "/vehicles/g63-front.png",
+    "displayModel": "2020 G 63 外观",
+    "sourceYear": 2020,
+    "author": "Outlaw Games™ (https://sketchfab.com/Outlaw_Games)",
+    "license": "CC-BY-NC-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "source": "https://sketchfab.com/3d-models/2020-mercedes-benz-g-class-amg-g63-52296f1a65d54a85a2ed7cb67604e554",
+    "status": "exterior-review",
+    "quality": "/vehicles/rigged/g63-quality.json"
+  },
+  "ferrari-488": {
+    "file": "/vehicles/rigged/ferrari-488.glb",
+    "trafficFile": "/vehicles/rigged/luxury-traffic/ferrari-488.glb",
+    "preview": "/vehicles/ferrari-488-front.png",
+    "displayModel": "2015–2019 488 GTB 外观",
+    "sourceYear": null,
+    "author": "Turbostuart (@Turbostuart)",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://sketchfab.com/3d-models/ferrari-488-gtb-c2bca88f04044daaa7c0274a9c0f2cc1",
+    "status": "exterior-review",
+    "quality": "/vehicles/rigged/ferrari-488-quality.json"
+  }
+}

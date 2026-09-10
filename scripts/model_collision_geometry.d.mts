@@ -1,0 +1,21 @@
+import type { Matrix4 } from 'three';
+export type Point2 = [number, number];
+export type Point3 = [number, number, number];
+export type Policy = { cellMetres: number; minY: number; maxY: number; assemblyY: number; existingWallHalfThickness?: number; maximumHorizontalOverreachMetres?: number };
+export type ModelObstacle = { id: string; kind: string; minY: number; maxY: number; points: Point2[] };
+export type Cell = { x: number; z: number; minY: number; maxY: number; source?: string; sample?: Point3 };
+export const MODEL_COLLISION_POLICY: Readonly<Policy>;
+export function sha256(bytes: string | Uint8Array): string;
+export function convexHull(points: number[][]): Point2[];
+export function parseGlb(raw: Buffer): { doc: Record<string, unknown>; binary: Buffer };
+export function primitiveGeometry(doc: unknown, binary: Buffer, primitive: unknown, root: string): Promise<{ positions: Float32Array | Float64Array; indices: Uint32Array | Float64Array; compressed: boolean }>;
+export function clipPlane(polygon: number[][], axis: number, bound: number, above: boolean): Point3[];
+export function lowSlice(triangle: number[][], policy?: Policy): Point3[];
+export function pointInside(point: number[], polygon: number[][]): boolean;
+export function rasterizeSlice(polygon: number[][], cells: Map<string, Cell>, policy?: Policy, footprints?: number[][][], source?: string, coverage?: Map<string, boolean>): void;
+export function mergeCells(cells: Map<string, Cell>, modelId: string, policy?: Policy): ModelObstacle[];
+export function extractModelCollisions(options: {
+  root: string; model: { id: string; center?: number[]; heading?: number; scale?: number[]; kind?: string };
+  footprints?: number[][][]; raw?: Buffer; parsed?: unknown; rootNodeIds?: number[]; worldCoordinates?: boolean;
+  representation?: 'cells' | 'object-hull'; geometryCache?: Map<unknown, unknown>; policy?: Policy;
+}): Promise<{ obstacles: ModelObstacle[]; cells: Map<string, Cell>; stats: { triangles: number; lowTriangles: number; compressedPrimitives: number; maximumBeyondFootprintMetres: number; example: null | { node: string; point: Point3 } } }>;

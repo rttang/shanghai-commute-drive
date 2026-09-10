@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09T12:38:49.087381+00:00",
+  "records": [
+    {
+      "id": "shanghai-plane-canopy-2026",
+      "file": "assets/streets/plane-tree-review/references/shanghai-plane-canopy-2026.jpg",
+      "sha256": "a2dcbffced15d20efb1ad59d6facbcfb066b3260ee30cf6405a81d9d23b1a9bd",
+      "bytes": 169884,
+      "sourcePageUrl": null,
+      "sourceRecoveryPending": true,
+      "actualViewedByRoot": false,
+      "usage": "local visual reference only; no photo pixels embedded in model",
+      "originNote": "Preserved from preceding interrupted tree research; original URL has not yet been recovered."
+    },
+    {
+      "id": "shanghai-plane-detail-2026",
+      "file": "assets/streets/plane-tree-review/references/shanghai-plane-detail-2026.jpg",
+      "sha256": "e1a9822e0396c23272a0b9a8bb82009ee47e6515a8af6fa397c3d781633880c6",
+      "bytes": 3402919,
+      "sourcePageUrl": null,
+      "sourceRecoveryPending": true,
+      "actualViewedByRoot": false,
+      "usage": "local visual reference only; no photo pixels embedded in model",
+      "originNote": "Preserved from preceding interrupted tree research; original URL has not yet been recovered."
+    },
+    {
+      "id": "shanghai-plane-branches-2026",
+      "file": "assets/streets/plane-tree-review/references/shanghai-plane-branches-2026.jpg",
+      "sha256": "a81606f05e6c4acd829d1407427ee19f06bc91e10ff4d39f09648dd9e5b3bbfc",
+      "bytes": 512873,
+      "sourcePageUrl": null,
+      "sourceRecoveryPending": true,
+      "actualViewedByRoot": false,
+      "usage": "local visual reference only; no photo pixels embedded in model",
+      "originNote": "Preserved from preceding interrupted tree research; original URL has not yet been recovered."
+    },
+    {
+      "id": "bund-zhongshan-2015",
+      "file": "assets/streets/plane-tree-review/references/bund-zhongshan-2015.jpg",
+      "sha256": "e29a9be150dec4ac71c3e0f2325fb2b1df2d2c06768d65ea45d7c420b377a1e3",
+      "bytes": 2198837,
+      "sourcePageUrl": null,
+      "sourceRecoveryPending": true,
+      "actualViewedByRoot": true,
+      "usage": "local visual reference only; no photo pixels embedded in model",
+      "originNote": "Preserved from preceding interrupted tree research; original URL has not yet been recovered."
+    },
+    {
+      "id": "shanghai-maoming-canopy",
+      "file": "assets/streets/plane-tree-review/references/shanghai-maoming-canopy.jpg",
+      "sha256": "0db8d40bc33340bffdc02fa81257a647607b6d3ad04feff9c5b57c1bd2b77e29",
+      "bytes": 4802641,
+      "sourcePageUrl": null,
+      "sourceRecoveryPending": true,
+      "actualViewedByRoot": true,
+      "usage": "local visual reference only; no photo pixels embedded in model",
+      "originNote": "Preserved from preceding interrupted tree research; original URL has not yet been recovered."
+    },
+    {
+      "id": "shanghai-pruned-branches",
+      "file": "assets/streets/plane-tree-review/references/shanghai-pruned-branches.jpg",
+      "sha256": "4190152d449e12d8504388aab800220fa609aa95c8174f6bae65202961403590",
+      "bytes": 11278953,
+      "sourcePageUrl": null,
+      "sourceRecoveryPending": true,
+      "actualViewedByRoot": false,
+      "usage": "local visual reference only; no photo pixels embedded in model",
+      "originNote": "Preserved from preceding interrupted tree research; original URL has not yet been recovered."
+    },
+    {
+      "id": "shanghai-trunk-closeup",
+      "file": "assets/streets/plane-tree-review/references/shanghai-trunk-closeup.jpg",
+      "sha256": "abae9c78621493a71d578912a072d6ce10ed33cc4bf31525ee1f7d4a585b0b5b",
+      "bytes": 118995,
+      "sourcePageUrl": null,
+      "sourceRecoveryPending": true,
+      "actualViewedByRoot": true,
+      "usage": "local visual reference only; no photo pixels embedded in model",
+      "originNote": "Preserved from preceding interrupted tree research; original URL has not yet been recovered."
+    }
+  ],
+  "knownBundReference": {
+    "file": "assets/streets/reference-expansion/bund-street-wide.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Bund_20250501.jpg",
+    "author": "Suicasmo",
+    "license": "CC0",
+    "date": "2025-05-01",
+    "actualViewedByRoot": true
+  },
+  "observations": {
+    "bund-street-wide": "2025 photo shows open heritage-side pavement against Bund18/AIA/Peace facades, no continuous row of large plane trees.",
+    "shanghai-maoming-canopy": "Irregular spreading and staggered scaffold branches, dense summer foliage, broken glimpses of sky.",
+    "shanghai-trunk-closeup": "Peeling, irregular patches of grey/olive/brown bark; branches are not uniform white cylinders."
+  },
+  "technicalSources": [
+    {
+      "url": "https://www.shanghai.gov.cn/nw12344/20200813/0001-12344_63174.html",
+      "scope": "Shanghai tree maintenance guidance for scaffold branches, not the position of an individual roadside tree"
+    }
+  ],
+  "model": {
+    "file": "public/streets/districts/furniture/plane-tree.glb",
+    "review": "assets/streets/plane-tree-review/renders-20260909T122130",
+    "usesSourcePixels": false,
+    "dimensionsMeasured": false
+  },
+  "remaining": [
+    "Recover URLs and licenses of the interrupted reference set; filename alone is not source evidence."
+  ]
+}

@@ -1,0 +1,1083 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-09T10:26:51.246316+00:00",
+  "task": "上海单条闭合观光路线：人民路隧道与新建路隧道实景参考逐图审阅",
+  "status": "reference_review_complete_with_branch_specific_portal_localization",
+  "scope": {
+    "workspace": "/Volumes/mzh的固体移动硬盘/shanghai-commute-drive",
+    "downloadDirectory": "assets/streets/loop-tunnel-references",
+    "referenceOnly": true,
+    "modifiedRuntimeSources": false,
+    "launchedBrowser": false,
+    "launchedService": false,
+    "launchedBlender": false,
+    "reranPhysics": false,
+    "imagesGeneratedOrEdited": false,
+    "originalFilesPreserved": true
+  },
+  "summary": {
+    "imageCount": 11,
+    "actuallyViewedCount": 11,
+    "bytes": 23316646,
+    "tunnels": [
+      "人民路隧道",
+      "新建路隧道"
+    ],
+    "coverage": {
+      "人民路隧道": {
+        "portalImages": 4,
+        "interiorImages": 3
+      },
+      "新建路隧道": {
+        "portalImages": 3,
+        "interiorImages": 1
+      }
+    }
+  },
+  "usageBoundary": [
+    "全部图片仅保存在资产参考目录；没有写入 public、src 或运行 GLB。",
+    "面板、灯具、信号、护墙等可依据可见构造制作原创几何和程序化材质；照片未证明的设备尺寸、数量、间距不按实测宣称。",
+    "现有11张有效参考照片中，3张为CC许可，8张未确认开放许可；全部仍只作本地观察，未嵌入运行时。",
+    "可追溯照片日期跨度为2012—2025，运营方两图仍未署拍摄日期；岸侧定位不是2026现场验收。"
+  ],
+  "modelingPriorities": [
+    {
+      "tunnel": "人民路隧道",
+      "evidenceIds": [
+        "renmin-interior-repaired-20220606",
+        "renmin-fire-facilities-repair-20180704",
+        "renmin-wall-repair-20180704"
+      ],
+      "supportedChanges": [
+        "白/淡奶黄横向大面板与深色板缝，底部深灰斜面防撞侧石。",
+        "深灰拱面增加结构分段；沿拱肩采用有间隔的矩形灯具。",
+        "可增加中低位置的嵌入式消防设备箱与小型标牌；正常闭门样式、具体间距作为未核实设计参数。"
+      ],
+      "unsupportedDetails": [
+        "没有清晰风机照片，不能安排号称实测的风机阵列。",
+        "照片不能量出检修道宽度、箱体尺寸、灯距或全线统一色值。"
+      ]
+    },
+    {
+      "tunnel": "新建路隧道",
+      "evidenceIds": [
+        "xinjian-interior-dashcam-20250325",
+        "xinjian-operator-portal"
+      ],
+      "supportedChanges": [
+        "米白哑光矩形面板、深色分缝、分段暗灰拱顶。",
+        "左右重复矩形灯具、两车道白色虚线与侧边实线、绿色车道信号。",
+        "斜面防撞基座、窄侧缘和小型反光标记。",
+        "该入口有大型弧形透明格栅棚；方位未核实前不复制到所有入口。"
+      ],
+      "unsupportedDetails": [
+        "没有清楚的新建路消防箱或风机形制照片；不能拿其他隧道的设备照片冒充。",
+        "墙面红绿反光不作为固定红绿墙面装饰。"
+      ]
+    }
+  ],
+  "textEvidenceSeparateFromPhotoObservations": [
+    {
+      "sourcePageUrl": "https://news.sina.cn/2018-07-04/detail-ihevauxk1364269.d.html?vt=4",
+      "publicationDate": "2018-07-04",
+      "publisher": "新民晚报新民网",
+      "fact": "报道确认人民路隧道该事故区涉及消防箱、阀门、水带/软管、手动火灾报警和弱电控制设施。",
+      "limit": "只确认设施存在于该事故区；不提供全线间距和正常闭门立面。"
+    },
+    {
+      "sourcePageUrl": "https://m.gmw.cn/2025-03/25/content_1304000603.htm",
+      "publicationDate": "2025-03-25",
+      "publisher": "光明网转载新民晚报",
+      "fact": "记者将新建路内部描述为米白哑光墙面与暖色照明、弧形顶。",
+      "limit": "体验性描述与压缩照片不能代替实测色温或照度。"
+    }
+  ],
+  "rejectedOrUnassignedCandidates": [
+    {
+      "sourcePageUrl": "https://m.gmw.cn/2025-03/25/content_1304000603.htm",
+      "imageUrl": "https://imgm.gmw.cn/attachement/jpg/site215/20250325/5431560883560924149.jpg",
+      "reason": "同文明确标为复兴东路隧道，不属于人民路/新建路；未下载为本项目参考。"
+    },
+    {
+      "sourcePageUrl": "https://m.gmw.cn/2025-03/25/content_1304000603.htm",
+      "imageUrls": [
+        "https://imgm.gmw.cn/attachement/jpg/site215/20250325/5653620221781558158.jpg",
+        "https://imgm.gmw.cn/attachement/jpg/site215/20250325/3359491635458363095.jpg"
+      ],
+      "reason": "同文外滩隧道照片，不赋予新建路身份。"
+    },
+    {
+      "sourcePageUrl": "https://www.tunnelling.cn/PLibrary/PLibraryTechnicalDetail.aspx?Tech=195",
+      "reason": "2014 年文章有人民路北线与迎宾三路并排比较图；未把整张混合图下载后冒充人民路内部，也不把历史灯具应用当作当前全线灯型。"
+    },
+    {
+      "sourcePageUrl": "https://www.sansitech.com/news/469.html",
+      "reason": "苏州城北路相关页面中的原人民路隧道，不是上海人民路隧道。"
+    },
+    {
+      "sourcePageUrl": "https://www.suog.cn/site/service_business_load/2",
+      "reason": "同页陆家嘴环路东侧地道的澳特板/饰面材料说明不归属于人民路或新建路，未混用。"
+    },
+    {
+      "id": "xinjian-tunnelling-candidate-20170406",
+      "localPath": "assets/streets/loop-tunnel-references/xinjian-tunnelling-candidate-20170406.jpg",
+      "downloadUrl": "https://www.tunnelling.cn/UploadFolder/20170406/20170406100834_0395.jpg",
+      "sourcePageUrl": "https://tunnelling.cn/PLibrary/PLibraryArchivesDetail.aspx?Arch=152",
+      "bytes": 83519,
+      "sha256": "73572d5851d62ed0961b8d2860d8bce2a363d216065a2550410bb7ea2d448d16",
+      "reason": "实际逐图查看为盾构机后配套/施工人员内部照片，不是洞口，更不是日常运营隧道内装。",
+      "actuallyViewed": true,
+      "license": "No open licence identified; local reference only"
+    }
+  ],
+  "acquisitionNotes": [
+    "7 张均通过来源页面中明确的公开图片 URL 下载，逐图用 view_image 查看，再以本地 SHA-256、字节数和 sips 尺寸核对。",
+    "新浪两张图片不带页面变换后缀的 URL 返回 HTTP 400；改用该公开页面本身提供的完整图片 URL 后成功。没有绕过登录、付费或访问限制。",
+    "部分 web 文本抓取重试超时；已成功保存的公开 HTML 留于 .tooling/loop-tunnel-reference-pages，每条引用附对应 HTML SHA。"
+  ],
+  "photos": [
+    {
+      "id": "renmin-operator-portal",
+      "localPath": "assets/streets/loop-tunnel-references/renmin-operator-portal.jpg",
+      "downloadUrl": "https://www.suog.cn/uploads/&e6&9c&aa&e6&a0&87&e9&a2&98-1-&e6&81&a2&e5&a4&8d&e7&9a&84.jpg",
+      "resolvedUrl": "https://www.suog.cn/uploads/&e6&9c&aa&e6&a0&87&e9&a2&98-1-&e6&81&a2&e5&a4&8d&e7&9a&84.jpg",
+      "sourcePageUrl": "https://www.suog.cn/site/service_business_load/2",
+      "bytes": 84128,
+      "sha256": "a0bfa5f4d8f30032a73a60625f4f0783c7113181e2e3f711c8f86feac43a7e9a",
+      "mime": "image/jpeg",
+      "tunnel": "人民路隧道",
+      "viewKind": "入口全景",
+      "sourcePublisher": "上海城建城市运营（集团）有限公司（隧道股份城市运营）",
+      "sourcePublicationDate": null,
+      "captureDate": null,
+      "captureDateNote": "未提供确切拍摄日期；报道日期不自动视为拍摄日期。",
+      "photographer": null,
+      "photoCredit": "运营方项目页面，未署摄影者",
+      "license": {
+        "status": "未发现开放再利用许可",
+        "licenseId": null,
+        "licenseUrl": null,
+        "localModelingReferenceOnly": true,
+        "embedInRuntimeGlb": false,
+        "note": "公开可访问不等于已获贴图、再分发或商业复制许可；保留原图与来源，仅用于本地观察建模。"
+      },
+      "identityEvidence": [
+        "下载图与运营方页面同一项目条目的“人民路隧道”标题对应。",
+        "照片入口顶端可辨识人民路隧道中文与英文名称。"
+      ],
+      "identityConfidence": "high",
+      "dimensions": {
+        "width": 399,
+        "height": 297
+      },
+      "visualReview": {
+        "actuallyViewed": true,
+        "method": "tools.view_image 展示本地原文件，逐张人工视觉核对；大图工具可缩放展示。",
+        "observations": {
+          "wallsOrTiles": "入口侧墙为浅灰色大块饰面，板缝规整；洞内墙面细节不够清楚。",
+          "ceiling": "矩形入口框架，上方是分格的半透明水平遮阳顶；不能由入口外形推断内部拱形断面。",
+          "lighting": "洞内隐约可见重复矩形亮点及绿色车道信号；本图不足以确定灯具间距。",
+          "laneMarkings": {
+            "visibleLaneCount": 2,
+            "scope": "右侧洞口可辨认的同向车道，其他洞口和入口分流不作总车道数推断。",
+            "description": "白色车道分隔线和边线。"
+          },
+          "maintenanceWalkway": "可见窄侧缘/防护台与分隔设施，不能确认其是否为连续检修道或量出宽度。",
+          "fireFacilities": "本图未清晰显示，不能据此确定形制、尺寸或间距。",
+          "ventilationFans": "本图未清晰显示，不能据此确定形制、尺寸或间距。",
+          "portal": "两个分离的矩形洞口框架，浅灰立面、横向分格半透明顶、红色洞名、种植隔离带。"
+        },
+        "limitations": [
+          "399×297 小图仅适合入口轮廓与基本材质判断。",
+          "不能复制到浦西入口；也不能直接当本路线5433.45米向北出浦城路的支路棚架。"
+        ],
+        "limitationsPriorToLocationAudit": [
+          "运营页面未给图像日期、摄影者与该入口的浦东/浦西方位；不可把此形态自动复制到全部出入口。",
+          "399×297 小图仅适合入口轮廓与基本材质判断。"
+        ]
+      },
+      "absoluteLocalPath": "/Volumes/mzh的固体移动硬盘/shanghai-commute-drive/assets/streets/loop-tunnel-references/renmin-operator-portal.jpg",
+      "sourcePageSnapshot": {
+        "path": ".tooling/loop-tunnel-reference-pages/operator.html",
+        "sha256": "2087421f95c191a474fd6eb08062f025cf78c8c166bc69d8e1d1ec8e41bb39bc"
+      },
+      "portalLocationReview": {
+        "reviewedAt": "2026-09-09T13:12:05.008453+00:00",
+        "reviewer": "bund_identity independent source/photo audit",
+        "bank": "浦东",
+        "bankConfidence": "high",
+        "portal": "东昌路主出入口，浦城路交口西侧",
+        "viewDirection": "朝西/西南进入隧道",
+        "exactLoopPortalMatch": false,
+        "evidenceIds": [
+          "renmin-pudong-portal-n509fz-20251029"
+        ],
+        "reason": "带GPS的2025实拍同时显示相同双矩形洞口、棚顶格栅、红色中英文洞名、左侧浅灰窄条护屏、背景橙色住宅塔楼及阳台布局。由同一建筑与洞口组合完成同景匹配，不仅依赖隧道名称。",
+        "restriction": "不能复制到浦西入口；也不能直接当本路线5433.45米向北出浦城路的支路棚架。"
+      }
+    },
+    {
+      "id": "xinjian-operator-portal",
+      "localPath": "assets/streets/loop-tunnel-references/xinjian-operator-portal.jpg",
+      "downloadUrl": "https://www.suog.cn/uploads/5b74e703/&e6&9c&aa&e6&a0&87&e9&a2&98-1-&e6&81&a2&e5&a4&8d&e7&9a&84.jpg",
+      "resolvedUrl": "https://www.suog.cn/uploads/5b74e703/&e6&9c&aa&e6&a0&87&e9&a2&98-1-&e6&81&a2&e5&a4&8d&e7&9a&84.jpg",
+      "sourcePageUrl": "https://www.suog.cn/site/service_business_load/2",
+      "bytes": 95687,
+      "sha256": "5e1e462e0428a5bbbc037d39c9d8173d0eb5dd848c18864e8d55d1a6c874f79a",
+      "mime": "image/jpeg",
+      "tunnel": "新建路隧道",
+      "viewKind": "入口全景",
+      "sourcePublisher": "上海城建城市运营（集团）有限公司（隧道股份城市运营）",
+      "sourcePublicationDate": null,
+      "captureDate": null,
+      "captureDateNote": "未提供确切拍摄日期；报道日期不自动视为拍摄日期。",
+      "photographer": null,
+      "photoCredit": "运营方项目页面，未署摄影者",
+      "license": {
+        "status": "未发现开放再利用许可",
+        "licenseId": null,
+        "licenseUrl": null,
+        "localModelingReferenceOnly": true,
+        "embedInRuntimeGlb": false,
+        "note": "公开可访问不等于已获贴图、再分发或商业复制许可；保留原图与来源，仅用于本地观察建模。"
+      },
+      "identityEvidence": [
+        "下载图与运营方页面同一项目条目的“新建路隧道”标题对应。",
+        "照片拱棚上可辨识新建路隧道名称。"
+      ],
+      "identityConfidence": "high",
+      "dimensions": {
+        "width": 399,
+        "height": 297
+      },
+      "visualReview": {
+        "actuallyViewed": true,
+        "method": "tools.view_image 展示本地原文件，逐张人工视觉核对；大图工具可缩放展示。",
+        "observations": {
+          "wallsOrTiles": "入口低墙/侧缘为浅灰色，内部墙板无法判定。",
+          "ceiling": "大型弧形半透明遮阳棚，金属拱肋和横纵格栅清楚。",
+          "lighting": "远处洞口有绿色车道箭头；内部灯具排列未清晰显示。",
+          "laneMarkings": {
+            "visibleLaneCount": null,
+            "approximateBoreLaneCount": 2,
+            "scope": "洞口疑似两车道；前景交叉口、转向车道与遮挡使精确计数不可靠。",
+            "description": "前景有斑马线、白色引导线与路口信号。"
+          },
+          "maintenanceWalkway": "种植分隔岛、路缘与侧护栏可见，不能判定洞内检修道。",
+          "fireFacilities": "本图未清晰显示，不能据此确定形制、尺寸或间距。",
+          "ventilationFans": "本图未清晰显示，不能据此确定形制、尺寸或间距。",
+          "portal": "有红色中文和黄色英文洞名的大型弧形钢肋透明棚；前方是城市交叉口、蓝色指路牌和植被分隔岛。"
+        },
+        "limitations": [
+          "399×297 图像不能支持构件尺寸测量。",
+          "不能复制到浦东陆家嘴环路口。玩家驶出浦西应先看到棚内与标字背面，洞名正面朝地面来车。"
+        ],
+        "limitationsPriorToLocationAudit": [
+          "运营页面没有给出这张照片的出入口方位；禁止将弧棚无条件复制到浦东全部入口。",
+          "399×297 图像不能支持构件尺寸测量。"
+        ]
+      },
+      "absoluteLocalPath": "/Volumes/mzh的固体移动硬盘/shanghai-commute-drive/assets/streets/loop-tunnel-references/xinjian-operator-portal.jpg",
+      "sourcePageSnapshot": {
+        "path": ".tooling/loop-tunnel-reference-pages/operator.html",
+        "sha256": "2087421f95c191a474fd6eb08062f025cf78c8c166bc69d8e1d1ec8e41bb39bc"
+      },
+      "portalLocationReview": {
+        "reviewedAt": "2026-09-09T13:12:05.008453+00:00",
+        "reviewer": "bund_identity independent source/photo audit",
+        "bank": "浦西",
+        "bankConfidence": "high",
+        "portal": "虹口海伦路—海拉尔路主出入口",
+        "viewDirection": "由浦西地面向东南/南看洞口外正面",
+        "exactLoopPortalMatch": true,
+        "routeEndpoint": "新建路隧道 end 11778.96",
+        "evidenceIds": [
+          "xinjian-puxi-hailun-marshall-20120721"
+        ],
+        "reason": "Marshall本人2012摄影与原文明确海拉尔路海伦路出口；照片与运营图同一椭圆弧透明棚、红中文黄英文、中央支柱、同组米色阶梯顶住宅。虹口政府2018海伦路拓宽原文确认此处为隧道浦西主出入口。",
+        "restriction": "不能复制到浦东陆家嘴环路口。玩家驶出浦西应先看到棚内与标字背面，洞名正面朝地面来车。"
+      }
+    },
+    {
+      "id": "renmin-interior-repaired-20220606",
+      "localPath": "assets/streets/loop-tunnel-references/renmin-interior-repaired-20220606.jpg",
+      "downloadUrl": "https://p5.itc.cn/q_70/images03/20220606/f21bf269b07b4a1b86eb6b6f29ad0bd2.jpeg",
+      "resolvedUrl": "https://p5.itc.cn/q_70/images03/20220606/f21bf269b07b4a1b86eb6b6f29ad0bd2.jpeg",
+      "sourcePageUrl": "https://www.sohu.com/a/554504284_121286085",
+      "bytes": 17409,
+      "sha256": "a6900ebb692fddc1615c2de80fae3a646fd9ca32b9ae12b4a70d364c2d24d1bb",
+      "mime": "image/jpeg",
+      "tunnel": "人民路隧道",
+      "viewKind": "内部墙面维修完成近景",
+      "sourcePublisher": "新民晚报官方搜狐账号",
+      "sourcePublicationDate": "2022-06-06T10:10:00+08:00",
+      "captureDate": null,
+      "captureDateNote": "未提供确切拍摄日期；报道日期不自动视为拍摄日期。",
+      "photographer": null,
+      "photoCredit": "隧道养护单位供图；文字记者陈浩",
+      "license": {
+        "status": "未发现开放再利用许可",
+        "licenseId": null,
+        "licenseUrl": null,
+        "localModelingReferenceOnly": true,
+        "embedInRuntimeGlb": false,
+        "note": "公开可访问不等于已获贴图、再分发或商业复制许可；保留原图与来源，仅用于本地观察建模。"
+      },
+      "identityEvidence": [
+        "报道点名人民路隧道浦西往浦东方向事故后的维修。",
+        "本图是该报道的维修完成配图，署供图单位为隧道养护单位。"
+      ],
+      "identityConfidence": "high",
+      "dimensions": {
+        "width": 600,
+        "height": 403
+      },
+      "visualReview": {
+        "actuallyViewed": true,
+        "method": "tools.view_image 展示本地原文件，逐张人工视觉核对；大图工具可缩放展示。",
+        "observations": {
+          "wallsOrTiles": "浅米白/浅灰的大块横向矩形面板，深色水平与竖直板缝；局部淡奶黄色条带。不能凭照片断言其材质为瓷砖。",
+          "ceiling": "深灰至黑色弧形顶，分段接缝可见。",
+          "lighting": "沿墙顶肩部重复安装独立矩形灯具；亮度曝光后偏白，不是无间断整条发光带。",
+          "laneMarkings": {
+            "visibleLaneCount": null,
+            "scope": "养护车辆与人员遮挡，不能完整数车道。",
+            "description": "沿侧墙有白色实线边线。"
+          },
+          "maintenanceWalkway": "墙脚有深灰斜面防撞侧石与很窄的侧缘；不足以量出检修道宽度。",
+          "fireFacilities": "本图未清晰显示，不能据此确定形制、尺寸或间距。",
+          "ventilationFans": "本图未清晰显示，不能据此确定形制、尺寸或间距。",
+          "portal": "内部近景，无入口信息。"
+        },
+        "limitations": [
+          "历史维修场景，只证明该时段外观；不代表 2026 年全部线路已现场核验。",
+          "维修车辆、人员与施工封闭不作为日常场景构成。"
+        ]
+      },
+      "absoluteLocalPath": "/Volumes/mzh的固体移动硬盘/shanghai-commute-drive/assets/streets/loop-tunnel-references/renmin-interior-repaired-20220606.jpg",
+      "sourcePageSnapshot": {
+        "path": ".tooling/loop-tunnel-reference-pages/renmin-repair.html",
+        "sha256": "eddafe74e28ebd6969311ea002fe52eec548024ea58978ab534e55dce21f66cf"
+      },
+      "portalLocationReview": {
+        "reviewedAt": "2026-09-09T13:12:05.008453+00:00",
+        "actuallyReViewed": true,
+        "bank": "not-determinable-from-interior",
+        "portal": null,
+        "exactLoopPortalMatch": null,
+        "reason": "内部照片已逐图重看，不含出入口/可定位岸侧地标，不给入口棚架身份。原报道给出的行驶方向另行保留。"
+      }
+    },
+    {
+      "id": "xinjian-interior-dashcam-20250325",
+      "localPath": "assets/streets/loop-tunnel-references/xinjian-interior-dashcam-20250325.jpg",
+      "downloadUrl": "https://imgm.gmw.cn/attachement/jpg/site215/20250325/1188923313091069794.jpg",
+      "resolvedUrl": "https://imgm.gmw.cn/attachement/jpg/site215/20250325/1188923313091069794.jpg",
+      "sourcePageUrl": "https://m.gmw.cn/2025-03/25/content_1304000603.htm",
+      "bytes": 37477,
+      "sha256": "7923b29b78406c56a46bd7f247391a9dafd19cfce5d2a376e627a177cee4757d",
+      "mime": "image/jpeg",
+      "tunnel": "新建路隧道",
+      "viewKind": "内部行车记录仪视角",
+      "sourcePublisher": "光明网转载新民晚报",
+      "sourcePublicationDate": "2025-03-25T20:24:00+08:00",
+      "captureDate": null,
+      "captureDateNote": "未提供确切拍摄日期；报道日期不自动视为拍摄日期。",
+      "photographer": null,
+      "photoCredit": "新民晚报；图注明确为行车记录仪拍摄，摄影者未署名",
+      "license": {
+        "status": "未发现开放再利用许可",
+        "licenseId": null,
+        "licenseUrl": null,
+        "localModelingReferenceOnly": true,
+        "embedInRuntimeGlb": false,
+        "note": "公开可访问不等于已获贴图、再分发或商业复制许可；保留原图与来源，仅用于本地观察建模。"
+      },
+      "identityEvidence": [
+        "来源文章为每张配图分别标注隧道名称；本图紧邻“新建路隧道”与行车记录仪图注。",
+        "同文的复兴东路、外滩、北横通道照片已排除，未作为本图或新建路纹理。"
+      ],
+      "identityConfidence": "high",
+      "dimensions": {
+        "width": 800,
+        "height": 450
+      },
+      "visualReview": {
+        "actuallyViewed": true,
+        "method": "tools.view_image 展示本地原文件，逐张人工视觉核对；大图工具可缩放展示。",
+        "observations": {
+          "wallsOrTiles": "米白/浅灰哑光长矩形面板分行排布，暗色板缝；有淡奶黄和灰色块。墙面红绿晕影是车辆尾灯/信号的反射，不能当固定彩色墙漆。",
+          "ceiling": "暗灰色半圆拱顶，有连续重复的结构分段和接缝，非空白光滑弧面。",
+          "lighting": "左右拱肩各一列重复的独立矩形亮灯，附近有黑色线状管线；远处绿色车道信号。图像曝光不足以标定色温，正文的暖色体验不可直接转换为精确 RGB。",
+          "laneMarkings": {
+            "visibleLaneCount": 2,
+            "scope": "画面内同一洞体同向两车道。",
+            "description": "白色虚线分隔两车道，侧缘是白色实线，前车尾灯可见。"
+          },
+          "maintenanceWalkway": "两侧有深灰斜面防撞基座和窄侧缘，沿基座有小型重复反光标识；无法量出检修道宽度。",
+          "fireFacilities": "本图未清晰显示，不能据此确定形制、尺寸或间距。",
+          "ventilationFans": "远处顶棚有难辨识的小型暗色圆形设备，分辨率不足以确认是风机；不可据此确定风机数量、位置或尺寸。",
+          "portal": "纵深内部视角，无入口信息。"
+        },
+        "limitations": [
+          "行车记录仪图像有透视、压缩与曝光影响，不能据此做精确测绘或灯光色温测量。",
+          "具体洞线、里程及行驶方向未注明。"
+        ]
+      },
+      "absoluteLocalPath": "/Volumes/mzh的固体移动硬盘/shanghai-commute-drive/assets/streets/loop-tunnel-references/xinjian-interior-dashcam-20250325.jpg",
+      "sourcePageSnapshot": {
+        "path": ".tooling/loop-tunnel-reference-pages/xinjian-lighting-2025.html",
+        "sha256": "d717127142e4ff3fb78ad448508bb48b21d990426805bc1eefd66b444c38c7ee"
+      },
+      "portalLocationReview": {
+        "reviewedAt": "2026-09-09T13:12:05.008453+00:00",
+        "actuallyReViewed": true,
+        "bank": "not-determinable-from-interior",
+        "portal": null,
+        "exactLoopPortalMatch": null,
+        "reason": "内部照片已逐图重看，不含出入口/可定位岸侧地标，不给入口棚架身份。原报道给出的行驶方向另行保留。"
+      }
+    },
+    {
+      "id": "renmin-puxi-portal-n509fz-20250611",
+      "localPath": "assets/streets/loop-tunnel-references/renmin-puxi-portal-n509fz-20250611.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Puxi_portal_of_Renmin_Road_Tunnel_%2820250611125748%29.jpg",
+      "resolvedUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Puxi_portal_of_Renmin_Road_Tunnel_%2820250611125748%29.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Puxi_portal_of_Renmin_Road_Tunnel_(20250611125748).jpg",
+      "bytes": 10945646,
+      "sha256": "76f4b554af98d938cf966aea7eba3e2c296bafbd7405d97fcd43bf8af68c5dcc",
+      "mime": "image/jpeg",
+      "tunnel": "人民路隧道",
+      "viewKind": "浦西入口道路设施",
+      "sourcePublisher": "Wikimedia Commons 作者本人上传",
+      "sourcePublicationDate": "2025-06-12",
+      "captureDate": "2025-06-11T12:57:48+08:00",
+      "captureDateNote": "采用作者说明与文件元数据；并非独立现场测时。",
+      "photographer": "N509FZ",
+      "photoCredit": "N509FZ，Own work",
+      "license": {
+        "status": "公开署名许可",
+        "licenseId": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "localModelingReferenceOnly": true,
+        "embedInRuntimeGlb": false,
+        "attribution": "N509FZ, Puxi portal of Renmin Road Tunnel (20250611125748).jpg, Wikimedia Commons, CC BY-SA 4.0",
+        "note": "原图保留；如另行再分发/改编照片须遵守署名、许可链接、变更说明及相同方式共享条件。本任务仍只作本地参考。"
+      },
+      "identityEvidence": [
+        "作者中文说明明确为人民路隧道浦西端入口，并标注豫园站附近。",
+        "照片路牌可读人民路隧道 / Renmin Rd. Tunnel，地理坐标与该入口相符。"
+      ],
+      "identityConfidence": "high",
+      "dimensions": {
+        "width": 4032,
+        "height": 2688
+      },
+      "visualReview": {
+        "actuallyViewed": true,
+        "method": "tools.view_image 展示本地原文件，逐张人工视觉核对；大图工具可缩放展示。",
+        "observations": {
+          "wallsOrTiles": "浅灰色道路侧墙、围栏、路缘与种植隔离带；不是内部墙板证据。",
+          "ceiling": "洞体主体位于画面外/遮挡处，不作为洞内顶棚依据。",
+          "lighting": "路口道路照明、LED 信息牌及绿色车道箭头可见，洞内灯具不可见。",
+          "laneMarkings": {
+            "visibleLaneCount": null,
+            "scope": "可见一段弯曲进洞车道，完整洞口断面不在画内。",
+            "description": "白色入口导向线与路缘，不能由该局部推断总车道数。"
+          },
+          "maintenanceWalkway": "入口护栏、窄路缘和管理亭；无洞内检修道证据。",
+          "fireFacilities": "本图未清晰显示，不能据此确定形制、尺寸或间距。",
+          "ventilationFans": "本图未清晰显示，不能据此确定形制、尺寸或间距。",
+          "portal": "蓝色人民路隧道入口指示牌、向下箭头、40 限速牌、4.3 m 限高牌、黑黄限高杆、金属门架、小管理亭、红字 LED 信息牌及绿色车道箭头；这些数字仅记录该照片时刻可见标志。"
+        },
+        "limitations": [
+          "作者相机日期与定位可追溯，但不是本次现场拍摄。",
+          "道路管理标志可能调整，模型若采用只表达照片时点证据。",
+          "可作为浦西设施背景参考，具体本路线东侧入口改用Joseph Tedeschi实拍。"
+        ],
+        "limitationsPriorToLocationAudit": [
+          "作者相机日期与定位可追溯，但不是本次现场拍摄。",
+          "道路管理标志可能调整，模型若采用只表达照片时点证据。"
+        ]
+      },
+      "absoluteLocalPath": "/Volumes/mzh的固体移动硬盘/shanghai-commute-drive/assets/streets/loop-tunnel-references/renmin-puxi-portal-n509fz-20250611.jpg",
+      "sourcePageSnapshot": {
+        "path": ".tooling/loop-tunnel-reference-pages/renmin-portal-commons.html",
+        "sha256": "d80d2aaae4bac2e0ee0b5a4e1e9fd524b921a2d5feef8ef6e9caedd50e63b63f"
+      },
+      "cameraLocation": {
+        "latitude": 31.229814,
+        "longitude": 121.480178,
+        "headingDegrees": 85.295013436847,
+        "source": "作者文件说明页及元数据"
+      },
+      "portalLocationReview": {
+        "reviewedAt": "2026-09-09T13:12:05.008453+00:00",
+        "reviewer": "bund_identity independent source/photo audit",
+        "bank": "浦西",
+        "bankConfidence": "high",
+        "portal": "河南南路以西的人民路隧道主线入口区域",
+        "exactLoopPortalMatch": false,
+        "reason": "作者GPS31.229814,121.480178、85.295度朝东，图中河南南路分流；本路线入口31.2308533,121.4829919在河南路以东另一组匝道，距离约290米，不能视作同一入口。",
+        "restriction": "可作为浦西设施背景参考，具体本路线东侧入口改用Joseph Tedeschi实拍。"
+      }
+    },
+    {
+      "id": "renmin-fire-facilities-repair-20180704",
+      "localPath": "assets/streets/loop-tunnel-references/renmin-fire-facilities-repair-20180704.jpg",
+      "downloadUrl": "https://k.sinaimg.cn/n/translate/54/w494h360/20180704/KHcP-hevauxk0213243.jpg/w700d1q75cms.jpg?by=cms_fixed_width",
+      "sourcePageUrl": "https://news.sina.cn/2018-07-04/detail-ihevauxk1364269.d.html?vt=4",
+      "bytes": 81251,
+      "sha256": "e2622a5f544a298086c36717430fb66b76a420c00190db17f62afa67341a3a1d",
+      "mime": "image/jpeg",
+      "tunnel": "人民路隧道",
+      "viewKind": "内部消防箱及墙板事故近景",
+      "sourcePublisher": "新民晚报新民网官方账号，经新浪新闻发布",
+      "sourcePublicationDate": "2018-07-04T09:03:00+08:00",
+      "captureDate": null,
+      "captureDateNote": "未提供确切拍摄日期；报道日期不自动视为拍摄日期。",
+      "photographer": null,
+      "photoCredit": "管理部门供图；文字记者陈浩",
+      "license": {
+        "status": "未发现开放再利用许可",
+        "licenseId": null,
+        "licenseUrl": null,
+        "localModelingReferenceOnly": true,
+        "embedInRuntimeGlb": false,
+        "note": "公开可访问不等于已获贴图、再分发或商业复制许可；保留原图与来源，仅用于本地观察建模。"
+      },
+      "identityEvidence": [
+        "来源报道明确为人民路隧道浦西往浦东方向单车事故。",
+        "该图在文章中对应隧道设施受损的图注，署管理部门供图。"
+      ],
+      "identityConfidence": "high",
+      "dimensions": {
+        "width": 494,
+        "height": 360
+      },
+      "visualReview": {
+        "actuallyViewed": true,
+        "method": "tools.view_image 展示本地原文件，逐张人工视觉核对；大图工具可缩放展示。",
+        "observations": {
+          "wallsOrTiles": "大块白色与淡奶黄色面板交替形成横向条带，水平深缝贯通、竖缝错开；受损区可见后方金属框架与混凝土内壁。",
+          "ceiling": "深灰色分段拱面，可见多道接缝。",
+          "lighting": "拱肩单列重复矩形灯，近处与远处均可见离散灯具及间隔。",
+          "laneMarkings": {
+            "visibleLaneCount": null,
+            "scope": "事故局部近景，道路大部分被裁切。",
+            "description": "画面下方白色边线可见。"
+          },
+          "maintenanceWalkway": "底部深灰色斜面防撞侧石，上缘连接面板；不可把被水和碎片遮挡的侧缘量作检修道。",
+          "fireFacilities": "面板中低处嵌入打开的矩形设备箱，浅色门框/边框、深色内腔、红色消防器件可见，旁边有红底小标牌。结合对应报道可确认此处为消防设施受损区域；无法由此确定正常闭门外观及全线布置间距。",
+          "ventilationFans": "本图未清晰显示，不能据此确定形制、尺寸或间距。",
+          "portal": "内部局部，无入口信息。"
+        },
+        "limitations": [
+          "照片为事故损坏状态：开门、露骨架、喷水、碎片均不可直接照搬成日常运营外观。",
+          "历史日期较早；只用于确认面板构造、设备箱存在与相对高度，不能证明现状完全一致。"
+        ]
+      },
+      "absoluteLocalPath": "/Volumes/mzh的固体移动硬盘/shanghai-commute-drive/assets/streets/loop-tunnel-references/renmin-fire-facilities-repair-20180704.jpg",
+      "sourcePageSnapshot": {
+        "path": ".tooling/loop-tunnel-reference-pages/renmin-fire-repair-20180704.html",
+        "sha256": "5939d1d68fe978873b87ca25f95717b87284f3d69034035cfa59dc98169fdfae"
+      },
+      "portalLocationReview": {
+        "reviewedAt": "2026-09-09T13:12:05.008453+00:00",
+        "actuallyReViewed": true,
+        "bank": "not-determinable-from-interior",
+        "portal": null,
+        "exactLoopPortalMatch": null,
+        "reason": "内部照片已逐图重看，不含出入口/可定位岸侧地标，不给入口棚架身份。原报道给出的行驶方向另行保留。"
+      }
+    },
+    {
+      "id": "renmin-wall-repair-20180704",
+      "localPath": "assets/streets/loop-tunnel-references/renmin-wall-repair-20180704.jpg",
+      "downloadUrl": "https://k.sinaimg.cn/n/translate/242/w445h597/20180704/b_D3-hevauxk0213291.jpg/w700d1q75cms.jpg?by=cms_fixed_width",
+      "sourcePageUrl": "https://news.sina.cn/2018-07-04/detail-ihevauxk1364269.d.html?vt=4",
+      "bytes": 92051,
+      "sha256": "ca0bb3cd70bb05fa61c737be9fe8c0a2b8bf3ec93f90dac199b5a701043ec082",
+      "mime": "image/jpeg",
+      "tunnel": "人民路隧道",
+      "viewKind": "内部拆板修复近景",
+      "sourcePublisher": "新民晚报新民网官方账号，经新浪新闻发布",
+      "sourcePublicationDate": "2018-07-04T09:03:00+08:00",
+      "captureDate": null,
+      "captureDateNote": "未提供确切拍摄日期；报道日期不自动视为拍摄日期。",
+      "photographer": null,
+      "photoCredit": "管理部门供图；文字记者陈浩",
+      "license": {
+        "status": "未发现开放再利用许可",
+        "licenseId": null,
+        "licenseUrl": null,
+        "localModelingReferenceOnly": true,
+        "embedInRuntimeGlb": false,
+        "note": "公开可访问不等于已获贴图、再分发或商业复制许可；保留原图与来源，仅用于本地观察建模。"
+      },
+      "identityEvidence": [
+        "与上一张来自同篇人民路隧道事故维修报道。",
+        "图注指出正在修复事故区，供图单位仍为管理部门。"
+      ],
+      "identityConfidence": "high",
+      "dimensions": {
+        "width": 445,
+        "height": 597
+      },
+      "visualReview": {
+        "actuallyViewed": true,
+        "method": "tools.view_image 展示本地原文件，逐张人工视觉核对；大图工具可缩放展示。",
+        "observations": {
+          "wallsOrTiles": "左端保留白/淡奶黄横向大面板，其余拆除露出水平金属龙骨、竖向支撑及混凝土壁；明确是成片板材而不是逐块小瓷砖。",
+          "ceiling": "深灰黑色拱顶，纵横结构缝与顶部线状管线可辨。",
+          "lighting": "近顶肩可见带外壳的长矩形灯具，后方还有重复亮灯；不能从透视推断真实距离。",
+          "laneMarkings": {
+            "visibleLaneCount": null,
+            "scope": "维修封闭的局部侧边。",
+            "description": "成列锥桶为临时施工布置，不计入常设交通设施。"
+          },
+          "maintenanceWalkway": "深灰防撞侧石及窄侧缘可见，后方电缆/龙骨因拆板外露；不能把临时暴露管线全部安排在正常面板表面。",
+          "fireFacilities": "无完整可辨识的消防箱；不能由近景判定常态箱门颜色。",
+          "ventilationFans": "本图未清晰显示，不能据此确定形制、尺寸或间距。",
+          "portal": "内部局部，无入口信息。"
+        },
+        "limitations": [
+          "损坏和维修临设只辅助理解构造，不作为正常场景外观。",
+          "未给确切拍摄日，不能把新闻发布时间当相机时间。"
+        ]
+      },
+      "absoluteLocalPath": "/Volumes/mzh的固体移动硬盘/shanghai-commute-drive/assets/streets/loop-tunnel-references/renmin-wall-repair-20180704.jpg",
+      "sourcePageSnapshot": {
+        "path": ".tooling/loop-tunnel-reference-pages/renmin-fire-repair-20180704.html",
+        "sha256": "5939d1d68fe978873b87ca25f95717b87284f3d69034035cfa59dc98169fdfae"
+      },
+      "portalLocationReview": {
+        "reviewedAt": "2026-09-09T13:12:05.008453+00:00",
+        "actuallyReViewed": true,
+        "bank": "not-determinable-from-interior",
+        "portal": null,
+        "exactLoopPortalMatch": null,
+        "reason": "内部照片已逐图重看，不含出入口/可定位岸侧地标，不给入口棚架身份。原报道给出的行驶方向另行保留。"
+      }
+    },
+    {
+      "id": "renmin-pudong-portal-n509fz-20251029",
+      "localPath": "assets/streets/loop-tunnel-references/renmin-pudong-portal-n509fz-20251029.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Renmin_Road_Tunnel%2C_Pudong_portal_%2820251029082548%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Renmin_Road_Tunnel,_Pudong_portal_(20251029082548).jpg",
+      "bytes": 3675277,
+      "sha256": "d33aa887f406ef378946621e0c360dee80357bad09ce9b59e00208ce629b406f",
+      "mime": "image/jpeg",
+      "dimensions": {
+        "width": 2296,
+        "height": 1531
+      },
+      "absoluteLocalPath": "/Volumes/mzh的固体移动硬盘/shanghai-commute-drive/assets/streets/loop-tunnel-references/renmin-pudong-portal-n509fz-20251029.jpg",
+      "sourcePublicationDate": null,
+      "captureDate": "2025-10-29T08:25:48+08:00",
+      "identityConfidence": "high",
+      "downloadResolution": "Native source URL bytes retained without local resizing or recompression.",
+      "visualReview": {
+        "actuallyViewed": true,
+        "reviewedAt": "2026-09-09T13:12:05.008453+00:00",
+        "method": "Individual tools.view_image of local full source file",
+        "observations": {
+          "portal": "开放下坡引道，横向分格的两个平顶矩形入口，红色中英文洞名，浅灰板缝挡墙，窄绿化中央分隔，黄底黑字限高门架与绿色箭头；背景橙色高层住宅。"
+        },
+        "limitations": []
+      },
+      "license": {
+        "status": "公开署名许可",
+        "licenseId": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "localModelingReferenceOnly": true,
+        "embedInRuntimeGlb": false,
+        "attribution": "N509FZ, Renmin Road Tunnel, Pudong portal (20251029082548).jpg, CC BY-SA 4.0"
+      },
+      "tunnel": "人民路隧道",
+      "viewKind": "浦东东昌路主入口全景",
+      "sourcePublisher": "Wikimedia Commons作者本人上传",
+      "photographer": "N509FZ",
+      "photoCredit": "N509FZ, Own work",
+      "cameraLocation": {
+        "latitude": 31.233886,
+        "longitude": 121.505219,
+        "headingDegrees": 254.339111328125,
+        "source": "Commons文件页与本地EXIF GPS双重读取",
+        "locationAccuracyNote": "相机GPS定位，非洞口测量坐标；EXIF水平误差约14.12m"
+      },
+      "identityEvidence": [
+        "作者标题与中文说明明确人民路隧道浦东端（东昌路）。",
+        "GPS朝向与画面道路、橙色住宅、双矩形框棚吻合运营图。"
+      ],
+      "portalLocationReview": {
+        "bank": "浦东",
+        "portal": "东昌路、浦城路西侧主入口",
+        "bankConfidence": "high",
+        "exactLoopPortalMatch": false,
+        "restriction": "只能用于运营方矩形棚的岸侧定位，不能替代本路线向北的浦城路出口匝道。"
+      },
+      "sourcePageSnapshot": {
+        "path": ".tooling/loop-tunnel-reference-pages/renmin-pudong-commons-20251029.html",
+        "sha256": "1dd19c5663999d48440f29a7f8a7ea1a5c71f3eb27295a06bb87daff4f8b3ab6"
+      }
+    },
+    {
+      "id": "xinjian-puxi-hailun-marshall-20120721",
+      "localPath": "assets/streets/loop-tunnel-references/xinjian-puxi-hailun-marshall-20120721.jpg",
+      "downloadUrl": "https://farm9.staticflickr.com/8282/7619549296_33916085db.jpg",
+      "sourcePageUrl": "https://onlymarshall.com/2012/07/22/2012-7-21-riding-2/",
+      "bytes": 68324,
+      "sha256": "bb5794d48a501418b4c16a4bd62cd9cd08cf2590a816d0f7b8edb89f69e6ea31",
+      "mime": "image/jpeg",
+      "dimensions": {
+        "width": 375,
+        "height": 500
+      },
+      "absoluteLocalPath": "/Volumes/mzh的固体移动硬盘/shanghai-commute-drive/assets/streets/loop-tunnel-references/xinjian-puxi-hailun-marshall-20120721.jpg",
+      "sourcePublicationDate": "2012-07-22",
+      "captureDate": "2012-07-21 author travel diary date; exact EXIF time not verified",
+      "identityConfidence": "high",
+      "downloadResolution": "Native source URL bytes retained without local resizing or recompression.",
+      "visualReview": {
+        "actuallyViewed": true,
+        "reviewedAt": "2026-09-09T13:12:05.008453+00:00",
+        "method": "Individual tools.view_image of local full source file",
+        "observations": {
+          "portal": "宽大单个椭圆弧透明棚横跨两方向车道；银灰粗弧边梁、纵横细肋与数根细立柱，棚上红中文和黄英文，前方斑马线、植被隔离岛和多个指路牌。"
+        },
+        "limitations": [
+          "375×500原URL图只证明基本结构与位置，不用于精确构件测量。",
+          "未验证Flickr开放许可，保留为本地观察。"
+        ]
+      },
+      "license": {
+        "status": "未发现开放再利用许可",
+        "licenseId": null,
+        "licenseUrl": null,
+        "localModelingReferenceOnly": true,
+        "embedInRuntimeGlb": false
+      },
+      "tunnel": "新建路隧道",
+      "viewKind": "浦西海伦路主口外侧正面",
+      "sourcePublisher": "摄影者OnlyMarshall博客与Flickr",
+      "photographer": "Wu, Marshall",
+      "photoCredit": "Wu, Marshall; IMG_0591",
+      "photographerImagePage": "https://www.flickr.com/photos/21796163@N08/7619549296/",
+      "identityEvidence": [
+        "原作者按照片顺序明确此图为新建路隧道海拉尔路海伦路出口。",
+        "图中红中文、黄色英文、支柱与米色阶梯顶住宅同运营方图片一一对应。"
+      ],
+      "portalLocationReview": {
+        "bank": "浦西",
+        "portal": "海伦路—海拉尔路主出入口",
+        "bankConfidence": "high",
+        "exactLoopPortalMatch": true,
+        "routeEndpoint": "end 11778.96",
+        "cameraCoordinates": null,
+        "restriction": "运营图与此图均看向棚外侧正面；玩家由内向外行驶，看见顺序与照片相反。"
+      },
+      "sourcePageSnapshot": {
+        "path": ".tooling/loop-tunnel-reference-pages/xinjian-marshall-201207.html",
+        "sha256": "879bca3d59270269d4bf9f898ab6c23f8c82d16826f06f9643130828203778ea"
+      }
+    },
+    {
+      "id": "renmin-puxi-east-henan-streetsblog-20250123",
+      "localPath": "assets/streets/loop-tunnel-references/renmin-puxi-east-henan-streetsblog-20250123.jpg",
+      "downloadUrl": "https://nyc.streetsblog.org/wp-content/uploads/sites/9/2025/01/shanghai-postcard-2.jpg",
+      "sourcePageUrl": "https://nyc.streetsblog.org/2025/01/23/streetsblog-on-the-road-bike-share-in-shanghai",
+      "bytes": 4242889,
+      "sha256": "148b2bf834d2100d149a3b043f8a4841124524e906e54e267f6e7967840129c5",
+      "mime": "image/jpeg",
+      "dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "absoluteLocalPath": "/Volumes/mzh的固体移动硬盘/shanghai-commute-drive/assets/streets/loop-tunnel-references/renmin-puxi-east-henan-streetsblog-20250123.jpg",
+      "sourcePublicationDate": "2025-01-23",
+      "captureDate": null,
+      "identityConfidence": "high",
+      "downloadResolution": "Native source URL bytes retained without local resizing or recompression.",
+      "visualReview": {
+        "actuallyViewed": true,
+        "reviewedAt": "2026-09-09T13:12:05.008453+00:00",
+        "method": "Individual tools.view_image of local full source file",
+        "observations": {
+          "portal": "蓝色入口及禁令牌、40限速/4.3m限高照片时点数字、黄色黑色限高杆、左侧管理亭、黑黄路缘、入口向右微弯下沉、远处LED桁架门架。无覆盖整段引道的大型弧棚证据。"
+        },
+        "limitations": []
+      },
+      "license": {
+        "status": "未发现开放再利用许可",
+        "licenseId": null,
+        "licenseUrl": null,
+        "localModelingReferenceOnly": true,
+        "embedInRuntimeGlb": false
+      },
+      "tunnel": "人民路隧道",
+      "viewKind": "浦西河南路以东入口与地面分流",
+      "sourcePublisher": "Streetsblog NYC",
+      "photographer": "Joseph Tedeschi",
+      "photoCredit": "Photo: Joseph Tedeschi",
+      "captureDateNote": "作者叙述New Year在上海骑行，EXIF仅有编辑时间2025-01-22，不冒充拍摄日期。",
+      "identityEvidence": [
+        "照片蓝牌明确人民路隧道入口，左侧地面方向标注中山东二路、新开河路；右边为自行车通行分流。",
+        "背景东方明珠、上海中心、金茂的由左至右顺序，与人民路河南路东侧向东看一致；与本路线71310758地面入口及旁侧弯曲设施相符。",
+        "旧Commons浦西照片背景河南路牌、豫园商城圆楼等组合不同，已区分两组匝道。"
+      ],
+      "portalLocationReview": {
+        "bank": "浦西",
+        "portal": "人民路、河南南路以东进洞匝道",
+        "bankConfidence": "high",
+        "exactLoopPortalMatch": true,
+        "routeEndpoint": "start 3059.71",
+        "cameraCoordinates": null,
+        "coordinateStatus": "No GPS present; photographed signage, skyline, surface/ramp split and OSM road shape used together",
+        "restriction": "只支持地面分流、门架与开放下沉引道；深处实体洞顶在画面中不清楚。右側白色绿化拱形设施不可误当隧道棚。"
+      },
+      "sourcePageSnapshot": {
+        "path": "assets/streets/loop-tunnel-references/streetsblog-20250123.html",
+        "sha256": "dd92cdb3589ca5da1f5dd32a398d6e490fefb333ea5f7654ec262f042ba278a9"
+      }
+    },
+    {
+      "id": "xinjian-pudong-portal-bechology-20251031",
+      "localPath": "assets/streets/pudong-loop-references/golden-bank-shanghai.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Bank_of_Shanghai_building_and_Golden_Landmark_buildning%2C_Lujiazui%2C_Shanghai_%28Oct._2025%29.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Bank_of_Shanghai_building_and_Golden_Landmark_buildning,_Lujiazui,_Shanghai_(Oct._2025).jpg",
+      "bytes": 3976507,
+      "sha256": "2c103566214d1a1738e5b23d947f458919505beb4b3e70bbad9f2e63446d1ef0",
+      "existingAssetReused": true,
+      "mime": "image/jpeg",
+      "dimensions": {
+        "width": 3213,
+        "height": 5712
+      },
+      "absoluteLocalPath": "/Volumes/mzh的固体移动硬盘/shanghai-commute-drive/assets/streets/pudong-loop-references/golden-bank-shanghai.jpg",
+      "sourcePublicationDate": "2026-01-27",
+      "captureDate": "2025-10-31T12:13:40+08:00",
+      "identityConfidence": "high",
+      "downloadResolution": "Native source URL bytes retained without local resizing or recompression.",
+      "visualReview": {
+        "actuallyViewed": true,
+        "reviewedAt": "2026-09-09T13:12:05.008453+00:00",
+        "method": "Individual tools.view_image of local full source file",
+        "observations": {
+          "portal": "开放下沉匝道，浅灰直挡墙及上方隔屏，多道银灰桁架门架，黑色大型LED板，黄色黑色限高横杆，双车道、左侧养护区与右侧地面分流。照片没有海伦路式大型弧形透明棚。"
+        },
+        "limitations": []
+      },
+      "license": {
+        "status": "公开署名许可",
+        "licenseId": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "localModelingReferenceOnly": true,
+        "embedInRuntimeGlb": false,
+        "attribution": "Bechology, Bank of Shanghai building and Golden Landmark buildning, Lujiazui, Shanghai (Oct. 2025).jpg, CC BY 4.0"
+      },
+      "tunnel": "新建路隧道",
+      "viewKind": "浦东陆家嘴环路入口引道、门架与周边楼群",
+      "sourcePublisher": "Wikimedia Commons作者本人上传",
+      "photographer": "Bechology",
+      "photoCredit": "Bechology, Own work",
+      "cameraLocation": {
+        "latitude": 31.240619,
+        "longitude": 121.503486,
+        "headingDegrees": 312.23394787031,
+        "source": "Commons原始文件页GPS信息，已在线核验",
+        "note": "相机在入口引道东侧上方，非9260.81米匝道起点。照片视野覆盖该段接近洞口的北部。"
+      },
+      "identityEvidence": [
+        "原照片下方清楚出现“新建路隧道 入口”蓝牌及右侧“银城中路/浦东大道地道/延安东路隧道方向”分流牌。",
+        "拍摄GPS31.240619,121.503486位于166332795这条陆家嘴环路地面引道北部，朝312.234°。",
+        "上海银行、黄金置地、凯宾斯基楼群位置及引道车流方向共同证明浦东入口，不只凭一块隧道名牌。"
+      ],
+      "portalLocationReview": {
+        "bank": "浦东",
+        "portal": "陆家嘴环路东城路北侧的新建路隧道入口地面引道",
+        "bankConfidence": "high",
+        "exactLoopPortalMatch": true,
+        "routeEndpoint": "start 9260.81; photograph covers farther-north portion of same approach way166332795",
+        "restriction": "可作该引道门架/挡墙/分流参考；不能在9260.81起点复制一整段浦西海伦弧形棚，照片也不量出准确顶盖起止。"
+      }
+    }
+  ],
+  "portalLocalizationAudit": {
+    "completedAt": "2026-09-09T13:12:05.008453+00:00",
+    "previousReportSha256": "58c9b03485bf84622d17c96832fe1dff8b7f2f06bac51fb219f01e9c4c398d53",
+    "scope": "定位岸侧与本环线具体匝道，不改src/public/模型；重用同一报告，不另建总报告。",
+    "summary": {
+      "operatorPhotosLocated": 2,
+      "operatorPhotos": {
+        "renmin-operator-portal": "浦东东昌路主口，非本环线北向浦城支路",
+        "xinjian-operator-portal": "浦西海伦路—海拉尔路主口，与本环线出口一致"
+      },
+      "loopEndpoints": 4,
+      "loopEndpointsWithMatchedApproachPhotos": 3,
+      "matchingDoesNotImplyFullCanopySurvey": true,
+      "originalSevenPhotosActuallyReViewed": 7,
+      "newPhotosDownloadedAndViewed": 3,
+      "existingPudongAssetReViewedAndReused": 1,
+      "additionalTbmCandidateDownloadedAndRejected": 1,
+      "loopEndpointsWithoutMatchedApproachPhoto": 1,
+      "fullCanopyBoundary": "3个端点有可定位引道或洞口照片，不等于3个端点完整棚架都已核实；人民路浦西及新建路浦东照片主要证明开放引道和门架。"
+    },
+    "routeEndpoints": [
+      {
+        "id": "renmin-puxi-entry",
+        "tunnel": "人民路隧道",
+        "endpoint": "start",
+        "routeDistanceM": 3059.71,
+        "routePointIndex": 665,
+        "localPoint": [
+          -1047.75,
+          906.891
+        ],
+        "wgs84": {
+          "latitude": 31.2308533,
+          "longitude": 121.4829919
+        },
+        "coordinateSource": "public/tour-city.json WGS84 local equirectangular inverse, agrees original OSM approach geometry",
+        "bank": "浦西",
+        "portal": "人民路河南南路以东入口",
+        "approachWayId": 71310758,
+        "osmUrl": "https://www.openstreetmap.org/way/71310758",
+        "photoStatus": "matched-visible-approach",
+        "evidenceIds": [
+          "renmin-puxi-east-henan-streetsblog-20250123"
+        ],
+        "boundary": "只证明地面分流/管理亭/门架/开放下沉引道。实体洞顶未充分出现在实拍；右侧绿化白拱不是洞口棚。"
+      },
+      {
+        "id": "renmin-pudong-exit",
+        "tunnel": "人民路隧道",
+        "endpoint": "end",
+        "routeDistanceM": 5433.45,
+        "routePointIndex": 1172,
+        "localPoint": [
+          1050.081,
+          406.006
+        ],
+        "wgs84": {
+          "latitude": 31.2353528,
+          "longitude": 121.5050326
+        },
+        "coordinateSource": "public/tour-city.json WGS84 local equirectangular inverse, agrees original OSM approach geometry",
+        "bank": "浦东",
+        "portal": "浦城路向北出口匝道",
+        "approachWayId": 71316443,
+        "osmUrl": "https://www.openstreetmap.org/way/71316443",
+        "photoStatus": "unknown-exact-portal-shape",
+        "evidenceIds": [],
+        "boundary": "北向出浦城路支路未找到足够精确实拍；东昌路主口矩形棚虽确定在浦东，仍不可移植到本支路。位置可由OSM确认，棚架形式保留unknown。"
+      },
+      {
+        "id": "xinjian-pudong-entry",
+        "tunnel": "新建路隧道",
+        "endpoint": "start",
+        "routeDistanceM": 9260.81,
+        "routePointIndex": 2029,
+        "localPoint": [
+          977.821,
+          1.892
+        ],
+        "wgs84": {
+          "latitude": 31.238983,
+          "longitude": 121.5042734
+        },
+        "coordinateSource": "public/tour-city.json WGS84 local equirectangular inverse, agrees original OSM approach geometry",
+        "bank": "浦东",
+        "portal": "陆家嘴环路东城路北侧入口",
+        "approachWayId": 166332795,
+        "osmUrl": "https://www.openstreetmap.org/way/166332795",
+        "photoStatus": "matched-visible-approach",
+        "evidenceIds": [
+          "xinjian-pudong-portal-bechology-20251031"
+        ],
+        "boundary": "9260.81是地面引道开始；照片相机处位于其更北部，不能把GPS当作引道起点，也不把整段开放引道盖成连续棚。"
+      },
+      {
+        "id": "xinjian-puxi-exit",
+        "tunnel": "新建路隧道",
+        "endpoint": "end",
+        "routeDistanceM": 11778.96,
+        "routePointIndex": 2555,
+        "localPoint": [
+          -290.794,
+          -2162.124
+        ],
+        "wgs84": {
+          "latitude": 31.2584226,
+          "longitude": 121.4909448
+        },
+        "coordinateSource": "public/tour-city.json WGS84 local equirectangular inverse, agrees original OSM approach geometry",
+        "bank": "浦西",
+        "portal": "海伦路—海拉尔路主出口",
+        "approachWayId": 145007023,
+        "osmUrl": "https://www.openstreetmap.org/way/145007023",
+        "photoStatus": "matched-visible-approach",
+        "evidenceIds": [
+          "xinjian-operator-portal",
+          "xinjian-puxi-hailun-marshall-20120721"
+        ],
+        "boundary": "环线从内部向外驶出，先看到棚内梁架及外侧文字背面。不要始终把外侧红中文/黄英文正面朝向玩家。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.suog.cn/site/service_business_load/2",
+        "role": "运营方两张项目照片与各隧道出入口文字说明",
+        "snapshot": ".tooling/loop-tunnel-reference-pages/operator.html"
+      },
+      {
+        "url": "https://www.shhk.gov.cn/xwzx/002003/20180301/1df5410d-2547-42cf-858e-160c5f9a755d.html",
+        "role": "虹口政府2018明确海伦路连接浦西主口；只用文字定位，未把其照片当本任务已下载实拍",
+        "snapshot": ".tooling/loop-tunnel-reference-pages/hongkou-hailun-20180301.html"
+      },
+      {
+        "url": "https://onlymarshall.com/2012/07/22/2012-7-21-riding-2/",
+        "role": "摄影者逐图定位海拉尔路海伦路出口及骑行轨迹"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Renmin_Road_Tunnel,_Pudong_portal_(20251029082548).jpg",
+        "role": "N509FZ有GPS浦东东昌路实拍，同景确认运营方矩形棚"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bank_of_Shanghai_building_and_Golden_Landmark_buildning,_Lujiazui,_Shanghai_(Oct._2025).jpg",
+        "role": "Bechology有GPS浦东新建路入口，准确下方路牌"
+      },
+      {
+        "url": "https://nyc.streetsblog.org/2025/01/23/streetsblog-on-the-road-bike-share-in-shanghai",
+        "role": "Joseph Tedeschi人民路浦西河南路东侧入口原始摄影与署名"
+      },
+      {
+        "url": "https://sh.sohu.com/20091123/n268389777.shtml",
+        "role": "新闻晨报2009实地行车提示，区分人民路东昌地面主口与北向浦城支路、新建路陆家嘴环路入口；历史路网说明不作现时交通规则"
+      },
+      {
+        "url": "https://news.sina.cn/sa/2009-11-21/detail-ikmxzfmi9459924.d.html",
+        "role": "东方早报2009明确人民路河南路东西两组不同出入口"
+      },
+      {
+        "url": "https://tunnelling.cn/PLibrary/PLibraryArchivesDetail.aspx?Arch=152",
+        "role": "原2017工程页面已核实。下载候选图实际为TBM内部，拒绝作为入口或运营内装照片"
+      }
+    ],
+    "geometryRules": [
+      "岸侧定位、支路定位和可见构件范围分别记录；不能因为隧道同名或同岸就复用外形。",
+      "所有照片支持的构件只建原始几何参考；没有实测尺寸，不声称米级棚架校准。",
+      "运营方人民路矩形棚只归东昌路主口；运营方新建路大弧棚只归海伦路主口。",
+      "本路线人民路浦东北向支路的棚架仍为unknown。"
+    ],
+    "processStatus": {
+      "downloadsExited": true,
+      "backgroundDownloaderStarted": false,
+      "servicesStarted": false,
+      "blenderStarted": false,
+      "nestedAgentsStarted": false,
+      "threadClosure": "No close API invoked; work completion does not imply thread closed."
+    }
+  },
+  "updatedAt": "2026-09-09T13:12:05.008453+00:00"
+}

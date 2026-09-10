@@ -1,0 +1,1879 @@
+{
+  "schemaVersion": 1,
+  "task": "Independent photo identity audit of 21 anonymous/rear Bund ways",
+  "generatedAt": "2026-09-09T12:56:40.905625+00:00",
+  "scope": "Only references/tourism/bund-anonymous-identities.json and assets/streets/bund-anonymous were created by this agent. No src/public/model script changes.",
+  "summary": {
+    "totalWays": 21,
+    "matched": 8,
+    "unknown": 13,
+    "matchedMeaning": "Eight individually matched visible subjects; this does not make the remaining thirteen accurate models or imply every side of a matched building is photo verified.",
+    "individuallyViewedNewPhotos": 20,
+    "openLicencePhotosUsedAsExactMatches": 0
+  },
+  "policy": {
+    "reverseGeocodeIsIdentityEvidence": false,
+    "neighbourhoodIsExactIdentityEvidence": false,
+    "mainHallPhotoProvesRearBuilding": false,
+    "unlicensedPhotoRuntimeUse": false,
+    "allDownloadedOriginalBytesRetained": true,
+    "unknownWaysMustRemainUnknown": true,
+    "exactHeightSurveyPerformed": false
+  },
+  "sourceFiles": [
+    {
+      "file": "public/tour-city.json",
+      "sha256": "e78c1164b24452189ca0caf29bb97b074fc0029c1097df98e1f8408c7225c975"
+    },
+    {
+      "file": "references/tourism/city.osm.json",
+      "sha256": "428d759863af4af315c5a1e9dab875f612df2625feb59c11a362765769e87aee"
+    },
+    {
+      "file": "references/tourism/loop-frontage-catalog.json",
+      "sha256": "6c50fd5fc865a343e640c4bba8c95040adf585782d89fb942e2060c0b20c6046"
+    },
+    {
+      "file": "references/tourism/bund-loop-geocoding.json",
+      "sha256": "9ce23909a2cf66fb420680d948abf398a86e290c15fba395392b83ccc8975621"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://mt.sohu.com/20160301/n439239415.shtml",
+      "author": "建筑摄影师徐飞",
+      "role": "Huarong/Jinyan/Kaishi actual exterior photographs; caption anchors"
+    },
+    {
+      "url": "https://www.cameraitacina.com/en/events/aperitif-retex-and-cicc-fellas-may-22nd-shanghai",
+      "author": "China-Italy Chamber of Commerce",
+      "role": "Primary 2024 event address: F7 Qianchen Building No.7 Yanan East Road"
+    },
+    {
+      "url": "https://maps.apple.com/place?auid=1118368615726872&lsp=57879",
+      "role": "Qianchen address corroboration"
+    },
+    {
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202009251417360550_1.pdf",
+      "author": "上海德必文化创意产业发展（集团）股份有限公司",
+      "role": "Issuer prospectus identifies former Jinyan as Debi Bund8, Zhongshan East2nd 6–8; 2018 operation. Search excerpt inspected; PDF not locally downloaded or visually inspected."
+    },
+    {
+      "url": "https://www.sohu.com/a/332946980_230791",
+      "author": "华南135 original, repost 上海老底子",
+      "role": "Jinling street photographic address sequence 17–19,21–23,25–41"
+    },
+    {
+      "url": "https://m.thepaper.cn/newsDetail_forward_7358410",
+      "role": "Zijin apartments Jinling25–41 address corroboration"
+    },
+    {
+      "url": "https://qxb-img-osscache.qixin.com/bid/75aa2115a82e77bde3560cda3defb2fc.pdf",
+      "role": "Public tender indexed table identifies 金兔17号 and 星星川香菜馆19号, photographed signage; search excerpt inspected, not PDF visual inspection"
+    },
+    {
+      "url": "https://m.thepaper.cn/baijiahao_6593306",
+      "author": "上海黄浦",
+      "role": "Dated 2020 article and aerial photograph of Bund22/New Yongan road; also proves circular glass component location"
+    },
+    {
+      "url": "https://export.shobserver.com/baijiahao/html/544565.html",
+      "author": "张海峰",
+      "role": "2022 rehabilitation chronology, main-building photographs; not evidence of anonymous south blocks"
+    },
+    {
+      "url": "https://wap.xinmin.cn/content/32440191.html",
+      "author": "新民晚报",
+      "role": "2023 street photograph with365 number, SUBWAY and platform; localized partial context"
+    },
+    {
+      "url": "https://m.thepaper.cn/newsDetail_forward_14628461",
+      "author": "老周望野眼",
+      "role": "Jinling school visible partial tower rejected for target6-floor rear building"
+    }
+  ],
+  "photos": [
+    {
+      "id": "huarong-xufei",
+      "url": "https://photocdn.sohu.com/20160303/mp61175093_1456979356619_6.jpeg",
+      "file": "assets/streets/bund-anonymous/huarong-xufei.jpg",
+      "bytes": 210008,
+      "sha256": "022174d89c7070d73c08906fa89734b5f6715ed297fc2231e70cef4f19dfce94",
+      "width": 600,
+      "height": 400,
+      "download": "https://photocdn.sohu.com/20160303/mp61175093_1456979356619_6.jpeg",
+      "downloadResolution": "Original bytes and native pixel dimensions delivered by the recorded source URL; not asserted to be the photographers camera original. No resizing or recompression.",
+      "inspectedAt": "2026-09-09",
+      "inspectionMethod": "Individual view_image tool call; not contact-sheet-only",
+      "visualObservation": "正对东立面：灰褐石框与蓝色玻璃，底层较厚石基，上部约九个巨柱间，窗格每大开间约三列。通长檐口，中央与两端退台小亭。画面有中国华融标志和摄影水印。",
+      "textureEmbedded": false,
+      "runtimeTextureAllowed": false,
+      "source": "https://mt.sohu.com/20160301/n439239415.shtml",
+      "author": "建筑摄影师徐飞",
+      "license": "No open licence identified; reference observation only",
+      "licenseUrl": null,
+      "date": "2016-03-01 publication",
+      "usage": "reference-only-visually-inspected"
+    },
+    {
+      "id": "jinyan-xufei",
+      "url": "https://photocdn.sohu.com/20160303/mp61175093_1456979356619_9.jpeg",
+      "file": "assets/streets/bund-anonymous/jinyan-xufei.jpg",
+      "bytes": 278572,
+      "sha256": "da058597de6a3e58aa40006a78cd653e8d98da13a674e8f72066ca1d7b037d9e",
+      "width": 600,
+      "height": 848,
+      "download": "https://photocdn.sohu.com/20160303/mp61175093_1456979356619_9.jpeg",
+      "downloadResolution": "Original bytes and native pixel dimensions delivered by the recorded source URL; not asserted to be the photographers camera original. No resizing or recompression.",
+      "inspectedAt": "2026-09-09",
+      "inspectionMethod": "Individual view_image tool call; not contact-sheet-only",
+      "visualObservation": "朝西看金延临江正面：中央蓝玻璃高竖向开口与两侧巨柱，顶部半圆券和三角山花，左右翼每侧三列窗，窗顶小三角山花，底层大拱口；2016中晋招牌不可当现状。",
+      "textureEmbedded": false,
+      "runtimeTextureAllowed": false,
+      "source": "https://mt.sohu.com/20160301/n439239415.shtml",
+      "author": "建筑摄影师徐飞",
+      "license": "No open licence identified; reference observation only",
+      "licenseUrl": null,
+      "date": "2016-03-01 publication",
+      "usage": "reference-only-visually-inspected"
+    },
+    {
+      "id": "kaishi-xufei",
+      "url": "https://photocdn.sohu.com/20160303/mp61175093_1456979356619_10.jpeg",
+      "file": "assets/streets/bund-anonymous/kaishi-xufei.jpg",
+      "bytes": 134024,
+      "sha256": "c85e5fe1f137a91fcd91095769be46c9a08ab184862c7b361d30ea44e59c694f",
+      "width": 600,
+      "height": 376,
+      "download": "https://photocdn.sohu.com/20160303/mp61175093_1456979356619_10.jpeg",
+      "downloadResolution": "Original bytes and native pixel dimensions delivered by the recorded source URL; not asserted to be the photographers camera original. No resizing or recompression.",
+      "inspectedAt": "2026-09-09",
+      "inspectionMethod": "Individual view_image tool call; not contact-sheet-only",
+      "visualObservation": "由东北看凯石与仟宸：凯石圆弧转角、通高窄窗、壁柱、上部小拱窗、八角灯亭和浅色圆顶；右侧向西连续较低仟宸立面，约五层主立面与退台上层。左侧明确接金延，固定三者空间次序。",
+      "textureEmbedded": false,
+      "runtimeTextureAllowed": false,
+      "source": "https://mt.sohu.com/20160301/n439239415.shtml",
+      "author": "建筑摄影师徐飞",
+      "license": "No open licence identified; reference observation only",
+      "licenseUrl": null,
+      "date": "2016-03-01 publication",
+      "usage": "reference-only-visually-inspected"
+    },
+    {
+      "id": "huarong-listing",
+      "url": "https://www.wthrds.cn/images/0loupantu/1.jpg",
+      "file": "assets/streets/bund-anonymous/huarong-listing.jpg",
+      "bytes": 78876,
+      "sha256": "20c4666ff6031b1a60ee911b10315fab1716f1615496ccdef1163f87058a69af",
+      "width": 520,
+      "height": 310,
+      "download": "https://www.wthrds.cn/images/0loupantu/1.jpg",
+      "downloadResolution": "Original bytes and native pixel dimensions delivered by the recorded source URL; not asserted to be the photographers camera original. No resizing or recompression.",
+      "inspectedAt": "2026-09-09",
+      "inspectionMethod": "Individual view_image tool call; not contact-sheet-only",
+      "visualObservation": "宽角度临江街景：中部华融通长立面和三个屋顶亭，北侧东方商旅高楼，南側太古红砖楼；支持整栋位置与宽度，不证明匿名小后楼。",
+      "textureEmbedded": false,
+      "runtimeTextureAllowed": false,
+      "source": "https://www.wthrds.cn/",
+      "author": "Unknown photographer; published by 上海写字楼信息平台",
+      "license": "All rights reserved; reference observation only",
+      "licenseUrl": null,
+      "usage": "reference-only-visually-inspected"
+    },
+    {
+      "id": "bund22-2020-1",
+      "url": "https://imagepphcloud.thepaper.cn/pph/image/58/36/340.jpg",
+      "source": "https://m.thepaper.cn/baijiahao_6593306",
+      "file": "assets/streets/bund-anonymous/bund22-2020-1.jpg",
+      "bytes": 10619,
+      "sha256": "fed3df7b3acb4fc43bf3d7558a227b457d0a41cfaa11fef4ba0c5428290c6822",
+      "width": 578,
+      "height": 325,
+      "download": "https://imagepphcloud.thepaper.cn/pph/image/58/36/340.jpg",
+      "downloadResolution": "Original bytes and native pixel dimensions delivered by the recorded source URL; not asserted to be the photographers camera original. No resizing or recompression.",
+      "inspectedAt": "2026-09-09",
+      "inspectionMethod": "Individual view_image tool call; not contact-sheet-only",
+      "visualObservation": "文件画面绝大部分为灰色，仅顶部有局部城市背景，不能作建筑身份依据。保留原文件。",
+      "textureEmbedded": false,
+      "runtimeTextureAllowed": false,
+      "author": "上海黄浦 account; credits 新闻坊/新民晚报/东方网, individual photographer unverified",
+      "license": "No open licence identified; reference observation only",
+      "licenseUrl": null,
+      "date": "2020-03-18 publication",
+      "usage": "context-only-not-an-exact-way-match"
+    },
+    {
+      "id": "bund22-2020-2",
+      "url": "https://imagepphcloud.thepaper.cn/pph/image/58/36/530.jpg",
+      "source": "https://m.thepaper.cn/baijiahao_6593306",
+      "file": "assets/streets/bund-anonymous/bund22-2020-2.jpg",
+      "bytes": 42276,
+      "sha256": "9f3e7808969dae208ff663f2ff9160d5189648965cad351308534cbe9d5a80e4",
+      "width": 511,
+      "height": 341,
+      "download": "https://imagepphcloud.thepaper.cn/pph/image/58/36/530.jpg",
+      "downloadResolution": "Original bytes and native pixel dimensions delivered by the recorded source URL; not asserted to be the photographers camera original. No resizing or recompression.",
+      "inspectedAt": "2026-09-09",
+      "inspectionMethod": "Individual view_image tool call; not contact-sheet-only",
+      "visualObservation": "中山东二路路牌与太古主楼正面，照片只证明495105937主楼，不覆盖其南侧三个匿名way。",
+      "textureEmbedded": false,
+      "runtimeTextureAllowed": false,
+      "author": "上海黄浦 account; credits 新闻坊/新民晚报/东方网, individual photographer unverified",
+      "license": "No open licence identified; reference observation only",
+      "licenseUrl": null,
+      "date": "2020-03-18 publication",
+      "usage": "context-only-not-an-exact-way-match"
+    },
+    {
+      "id": "bund22-2020-3",
+      "url": "https://imagepphcloud.thepaper.cn/pph/image/58/36/557.jpg",
+      "source": "https://m.thepaper.cn/baijiahao_6593306",
+      "file": "assets/streets/bund-anonymous/bund22-2020-3.jpg",
+      "bytes": 139842,
+      "sha256": "bcafe57cec41a40b4d14c1148bf698515965e9ed608b654b319da0bd551ec4de",
+      "width": 1080,
+      "height": 608,
+      "download": "https://imagepphcloud.thepaper.cn/pph/image/58/36/557.jpg",
+      "downloadResolution": "Original bytes and native pixel dimensions delivered by the recorded source URL; not asserted to be the photographers camera original. No resizing or recompression.",
+      "inspectedAt": "2026-09-09",
+      "inspectionMethod": "Individual view_image tool call; not contact-sheet-only",
+      "visualObservation": "俯视太古东楼及新永安路：道路北侧、华融南端的圆形玻璃建筑位于画面右下，圆柱身、三至四层水平圈梁、顶部高空心圆环和露天圆屋顶；对应1198569402独立圆形轮廓。1198569401的短连接段不足以独立匹配。",
+      "textureEmbedded": false,
+      "runtimeTextureAllowed": false,
+      "author": "上海黄浦 account; credits 新闻坊/新民晚报/东方网, individual photographer unverified",
+      "license": "No open licence identified; reference observation only",
+      "licenseUrl": null,
+      "date": "2020-03-18 publication",
+      "usage": "reference-only-visually-inspected"
+    },
+    {
+      "id": "bund22-2020-4",
+      "url": "https://imagepphcloud.thepaper.cn/pph/image/58/36/592.jpg",
+      "source": "https://m.thepaper.cn/baijiahao_6593306",
+      "file": "assets/streets/bund-anonymous/bund22-2020-4.jpg",
+      "bytes": 137191,
+      "sha256": "73203929af8a13d71528a1eb180a561895b9f33907c00d3e741cbd9d3c622966",
+      "width": 1080,
+      "height": 720,
+      "download": "https://imagepphcloud.thepaper.cn/pph/image/58/36/592.jpg",
+      "downloadResolution": "Original bytes and native pixel dimensions delivered by the recorded source URL; not asserted to be the photographers camera original. No resizing or recompression.",
+      "inspectedAt": "2026-09-09",
+      "inspectionMethod": "Individual view_image tool call; not contact-sheet-only",
+      "visualObservation": "太古主楼外墙与施工围栏的地面近照，未显示三个南侧匿名way。",
+      "textureEmbedded": false,
+      "runtimeTextureAllowed": false,
+      "author": "上海黄浦 account; credits 新闻坊/新民晚报/东方网, individual photographer unverified",
+      "license": "No open licence identified; reference observation only",
+      "licenseUrl": null,
+      "date": "2020-03-18 publication",
+      "usage": "context-only-not-an-exact-way-match"
+    },
+    {
+      "id": "bund22-2020-5",
+      "url": "https://imagepphcloud.thepaper.cn/pph/image/58/36/617.jpg",
+      "source": "https://m.thepaper.cn/baijiahao_6593306",
+      "file": "assets/streets/bund-anonymous/bund22-2020-5.jpg",
+      "bytes": 103881,
+      "sha256": "4f15ad481cf59e8fdfb5ec20f12f69b1e8fee780f130683f0c13519df9b21115",
+      "width": 1080,
+      "height": 720,
+      "download": "https://imagepphcloud.thepaper.cn/pph/image/58/36/617.jpg",
+      "downloadResolution": "Original bytes and native pixel dimensions delivered by the recorded source URL; not asserted to be the photographers camera original. No resizing or recompression.",
+      "inspectedAt": "2026-09-09",
+      "inspectionMethod": "Individual view_image tool call; not contact-sheet-only",
+      "visualObservation": "太古室内楼梯，不是匿名分体外立面证据。",
+      "textureEmbedded": false,
+      "runtimeTextureAllowed": false,
+      "author": "上海黄浦 account; credits 新闻坊/新民晚报/东方网, individual photographer unverified",
+      "license": "No open licence identified; reference observation only",
+      "licenseUrl": null,
+      "date": "2020-03-18 publication",
+      "usage": "context-only-not-an-exact-way-match"
+    },
+    {
+      "id": "bund22-2022-2",
+      "url": "https://images.shobserver.com/export_img/2022/10/30/8f57d670f0a548d7961dec16666419f6.jpg",
+      "source": "https://export.shobserver.com/baijiahao/html/544565.html",
+      "file": "assets/streets/bund-anonymous/bund22-2022-2.jpg",
+      "bytes": 96983,
+      "sha256": "29a8e8b46344e1da3978938c0b7006c07e6163b35edffd56a8fbdf26943e1d09",
+      "width": 600,
+      "height": 900,
+      "download": "https://images.shobserver.com/export_img/2022/10/30/8f57d670f0a548d7961dec16666419f6.jpg",
+      "downloadResolution": "Original bytes and native pixel dimensions delivered by the recorded source URL; not asserted to be the photographers camera original. No resizing or recompression.",
+      "inspectedAt": "2026-09-09",
+      "inspectionMethod": "Individual view_image tool call; not contact-sheet-only",
+      "visualObservation": "太古中庭穹顶与内廊，无法证明外侧匿名way的精确身份。",
+      "textureEmbedded": false,
+      "runtimeTextureAllowed": false,
+      "author": "张海峰 / 上观新闻",
+      "license": "No open licence identified; reference observation only",
+      "licenseUrl": null,
+      "date": "2022-10-30 publication",
+      "usage": "context-only-not-an-exact-way-match"
+    },
+    {
+      "id": "subway365-5",
+      "url": "https://pic0.xinmin.cn/xmwb/2023/08/01/0b2e8319-126d-4ed0-941d-6bef29d36196.jpg",
+      "source": "https://wap.xinmin.cn/content/32440191.html",
+      "file": "assets/streets/bund-anonymous/subway365-5.jpg",
+      "bytes": 260460,
+      "sha256": "3569b8a15d7c3e2bb5f2a99b16b393662ca1b164843f058827afde94a7735391",
+      "width": 600,
+      "height": 450,
+      "download": "https://pic0.xinmin.cn/xmwb/2023/08/01/0b2e8319-126d-4ed0-941d-6bef29d36196.jpg",
+      "downloadResolution": "Original bytes and native pixel dimensions delivered by the recorded source URL; not asserted to be the photographers camera original. No resizing or recompression.",
+      "inspectedAt": "2026-09-09",
+      "inspectionMethod": "Individual view_image tool call; not contact-sheet-only",
+      "visualObservation": "流动售货车近照，不作建筑依据。",
+      "textureEmbedded": false,
+      "runtimeTextureAllowed": false,
+      "author": "新民晚报全媒体 (visible watermark); individual photographer unverified",
+      "license": "No open licence identified; reference observation only",
+      "licenseUrl": null,
+      "date": "2023-08-01 publication",
+      "usage": "context-only-not-an-exact-way-match"
+    },
+    {
+      "id": "subway365-6",
+      "url": "https://pic0.xinmin.cn/xmwb/2023/08/01/79973843-40b8-4690-8d0d-9e99e3bfb43a.jpg",
+      "source": "https://wap.xinmin.cn/content/32440191.html",
+      "file": "assets/streets/bund-anonymous/subway365-6.jpg",
+      "bytes": 177215,
+      "sha256": "dd758ece117606bdeaaaa0fe86c9b879f85115df4ee5c5cbac295cc5002fc198",
+      "width": 600,
+      "height": 408,
+      "download": "https://pic0.xinmin.cn/xmwb/2023/08/01/79973843-40b8-4690-8d0d-9e99e3bfb43a.jpg",
+      "downloadResolution": "Original bytes and native pixel dimensions delivered by the recorded source URL; not asserted to be the photographers camera original. No resizing or recompression.",
+      "inspectedAt": "2026-09-09",
+      "inspectionMethod": "Individual view_image tool call; not contact-sheet-only",
+      "visualObservation": "365号门牌、SUBWAY招牌、石板墙与上方有人行护栏的观景平台同框。只能证明长条平台商业带的局部门面，不能用单店照片证明160033736全部120米外墙。",
+      "textureEmbedded": false,
+      "runtimeTextureAllowed": false,
+      "author": "新民晚报全媒体 (visible watermark); individual photographer unverified",
+      "license": "No open licence identified; reference observation only",
+      "licenseUrl": null,
+      "date": "2023-08-01 publication",
+      "usage": "context-only-not-an-exact-way-match"
+    },
+    {
+      "id": "subway365-7",
+      "url": "https://pic0.xinmin.cn/xmwb/2023/08/01/58afb729-10e3-4e88-b732-de6372128cb7.jpg",
+      "source": "https://wap.xinmin.cn/content/32440191.html",
+      "file": "assets/streets/bund-anonymous/subway365-7.jpg",
+      "bytes": 198110,
+      "sha256": "18ce333178538adfb17b8c45d3a49c870e5093c94a8eaf38e02a2c42f97e2696",
+      "width": 600,
+      "height": 450,
+      "download": "https://pic0.xinmin.cn/xmwb/2023/08/01/58afb729-10e3-4e88-b732-de6372128cb7.jpg",
+      "downloadResolution": "Original bytes and native pixel dimensions delivered by the recorded source URL; not asserted to be the photographers camera original. No resizing or recompression.",
+      "inspectedAt": "2026-09-09",
+      "inspectionMethod": "Individual view_image tool call; not contact-sheet-only",
+      "visualObservation": "仓库内部饮料堆放，不作整栋立面证据。",
+      "textureEmbedded": false,
+      "runtimeTextureAllowed": false,
+      "author": "新民晚报全媒体 (visible watermark); individual photographer unverified",
+      "license": "No open licence identified; reference observation only",
+      "licenseUrl": null,
+      "date": "2023-08-01 publication",
+      "usage": "context-only-not-an-exact-way-match"
+    },
+    {
+      "id": "jinling-frontage-29",
+      "url": "https://5b0988e595225.cdn.sohucs.com/images/20190811/ad890665237a4fb19ae3f4634b2726a4.jpeg",
+      "caption": "金陵东路17-19号",
+      "source": "https://www.sohu.com/a/332946980_230791",
+      "file": "assets/streets/bund-anonymous/jinling-frontage-29.jpg",
+      "bytes": 40573,
+      "sha256": "e93e8dbc5c1337cc15c8d796d828bb8b6908f8531ec55da5f26474854fea78ec",
+      "width": 490,
+      "height": 326,
+      "download": "https://5b0988e595225.cdn.sohucs.com/images/20190811/ad890665237a4fb19ae3f4634b2726a4.jpeg",
+      "downloadResolution": "Original bytes and native pixel dimensions delivered by the recorded source URL; not asserted to be the photographers camera original. No resizing or recompression.",
+      "inspectedAt": "2026-09-09",
+      "inspectionMethod": "Individual view_image tool call; not contact-sheet-only",
+      "visualObservation": "金陵东路17–19号逐栋照，低矮灰米色楼，三段窄窗、带雕花的挑檐与矮山花；两层高的方柱骑楼，上部一层主窗，局部退台；底层金兔/星星川香菜馆字样可见。",
+      "textureEmbedded": false,
+      "runtimeTextureAllowed": false,
+      "author": "华南135 (source credits original Sina blog; repost 上海老底子/搜狐)",
+      "license": "No open licence identified; reference observation only",
+      "licenseUrl": null,
+      "date": "2019-08-11 republication; capture date unverified",
+      "usage": "reference-only-visually-inspected"
+    },
+    {
+      "id": "jinling-frontage-30",
+      "url": "https://5b0988e595225.cdn.sohucs.com/images/20190811/2ad1313ca6134911913a66d7ecc83f88.jpeg",
+      "caption": "金陵东路21-23号",
+      "source": "https://www.sohu.com/a/332946980_230791",
+      "file": "assets/streets/bund-anonymous/jinling-frontage-30.jpg",
+      "bytes": 69150,
+      "sha256": "5813f137350b167175c4bdfca269fa89bff6d8815b1e56933df34b8a4d2e8260",
+      "width": 450,
+      "height": 600,
+      "download": "https://5b0988e595225.cdn.sohucs.com/images/20190811/2ad1313ca6134911913a66d7ecc83f88.jpeg",
+      "downloadResolution": "Original bytes and native pixel dimensions delivered by the recorded source URL; not asserted to be the photographers camera original. No resizing or recompression.",
+      "inspectedAt": "2026-09-09",
+      "inspectionMethod": "Individual view_image tool call; not contact-sheet-only",
+      "visualObservation": "金陵东路21–23号逐栋照，约五层主体，两层高骑楼以上三排窗，四组双窗竖向节奏，深挑檐，外露空调；两侧邻楼同时可见。",
+      "textureEmbedded": false,
+      "runtimeTextureAllowed": false,
+      "author": "华南135 (source credits original Sina blog; repost 上海老底子/搜狐)",
+      "license": "No open licence identified; reference observation only",
+      "licenseUrl": null,
+      "date": "2019-08-11 republication; capture date unverified",
+      "usage": "reference-only-visually-inspected"
+    },
+    {
+      "id": "jinling-frontage-31",
+      "url": "https://5b0988e595225.cdn.sohucs.com/images/20190811/341cd335bf854eedb5c774be33fb3664.jpeg",
+      "caption": "金陵东路23-25号门前",
+      "source": "https://www.sohu.com/a/332946980_230791",
+      "file": "assets/streets/bund-anonymous/jinling-frontage-31.jpg",
+      "bytes": 37170,
+      "sha256": "ea7adddde7891fc950a6e08f21393f2300f55dd2d4c0dadb722afae0fc4069cc",
+      "width": 490,
+      "height": 326,
+      "download": "https://5b0988e595225.cdn.sohucs.com/images/20190811/341cd335bf854eedb5c774be33fb3664.jpeg",
+      "downloadResolution": "Original bytes and native pixel dimensions delivered by the recorded source URL; not asserted to be the photographers camera original. No resizing or recompression.",
+      "inspectedAt": "2026-09-09",
+      "inspectionMethod": "Individual view_image tool call; not contact-sheet-only",
+      "visualObservation": "23–25号骑楼交界近照，方/圆柱、灰白梁、门洞与夹层窗；只作连续街面与转接支持。",
+      "textureEmbedded": false,
+      "runtimeTextureAllowed": false,
+      "author": "华南135 (source credits original Sina blog; repost 上海老底子/搜狐)",
+      "license": "No open licence identified; reference observation only",
+      "licenseUrl": null,
+      "date": "2019-08-11 republication; capture date unverified",
+      "usage": "reference-only-visually-inspected"
+    },
+    {
+      "id": "jinling-frontage-33",
+      "url": "https://5b0988e595225.cdn.sohucs.com/images/20190811/a4457728c44646b28c230d45000a2c40.jpeg",
+      "caption": "金陵东路17-19、21-23、25－41号外貌",
+      "source": "https://www.sohu.com/a/332946980_230791",
+      "file": "assets/streets/bund-anonymous/jinling-frontage-33.jpg",
+      "bytes": 43211,
+      "sha256": "0ce6851a8feebba0c976b2deed21905ff0d9f979396727902c134cb843ba75f1",
+      "width": 490,
+      "height": 326,
+      "download": "https://5b0988e595225.cdn.sohucs.com/images/20190811/a4457728c44646b28c230d45000a2c40.jpeg",
+      "downloadResolution": "Original bytes and native pixel dimensions delivered by the recorded source URL; not asserted to be the photographers camera original. No resizing or recompression.",
+      "inspectedAt": "2026-09-09",
+      "inspectionMethod": "Individual view_image tool call; not contact-sheet-only",
+      "visualObservation": "17–19、21–23、25–41三段同框，东低西高，支撑三份OSM相接轮廓的门牌排序与开间比例，不能当三栋共同统一立面。",
+      "textureEmbedded": false,
+      "runtimeTextureAllowed": false,
+      "author": "华南135 (source credits original Sina blog; repost 上海老底子/搜狐)",
+      "license": "No open licence identified; reference observation only",
+      "licenseUrl": null,
+      "date": "2019-08-11 republication; capture date unverified",
+      "usage": "reference-only-visually-inspected"
+    },
+    {
+      "id": "jinling-frontage-34",
+      "url": "https://5b0988e595225.cdn.sohucs.com/images/20190811/bcd682f4a8c44c228154c6d1da8a5f4f.jpeg",
+      "caption": "金陵东路25－41号东望外貌",
+      "source": "https://www.sohu.com/a/332946980_230791",
+      "file": "assets/streets/bund-anonymous/jinling-frontage-34.jpg",
+      "bytes": 42826,
+      "sha256": "fe0e8585918292f25a647dedfc5487834f5b28a1f5bff50d5a147ea8312db511",
+      "width": 490,
+      "height": 326,
+      "download": "https://5b0988e595225.cdn.sohucs.com/images/20190811/bcd682f4a8c44c228154c6d1da8a5f4f.jpeg",
+      "downloadResolution": "Original bytes and native pixel dimensions delivered by the recorded source URL; not asserted to be the photographers camera original. No resizing or recompression.",
+      "inspectedAt": "2026-09-09",
+      "inspectionMethod": "Individual view_image tool call; not contact-sheet-only",
+      "visualObservation": "25–41号紫金公寓从西朝东，长条街面底层高骑楼，米粉墙、黑窗、长阳台与退台屋顶，街角边界和长度清楚。",
+      "textureEmbedded": false,
+      "runtimeTextureAllowed": false,
+      "author": "华南135 (source credits original Sina blog; repost 上海老底子/搜狐)",
+      "license": "No open licence identified; reference observation only",
+      "licenseUrl": null,
+      "date": "2019-08-11 republication; capture date unverified",
+      "usage": "reference-only-visually-inspected"
+    },
+    {
+      "id": "jinling-school-west-view",
+      "url": "https://imagepphcloud.thepaper.cn/pph/image/155/237/814.jpg",
+      "source": "https://m.thepaper.cn/newsDetail_forward_14628461",
+      "file": "assets/streets/bund-anonymous/jinling-school-west-view.jpg",
+      "sha256": "be4a99a919abb7180169e0ee96cf8a2f1ebff583ce56340f91e83ba279c8960d",
+      "bytes": 290535,
+      "width": 1080,
+      "height": 1441,
+      "download": "https://imagepphcloud.thepaper.cn/pph/image/155/237/814.jpg",
+      "downloadResolution": "Original bytes and native pixel dimensions delivered by the recorded source URL; not asserted to be the photographers camera original. No resizing or recompression.",
+      "inspectedAt": "2026-09-09",
+      "inspectionMethod": "Individual view_image tool call; not contact-sheet-only",
+      "visualObservation": "从雷米洋行消防梯向东，只看到金陵中学高楼的遮挡后墙与竖向窗；没有六层后排446933537独立全貌，拒绝匹配该way。",
+      "textureEmbedded": false,
+      "runtimeTextureAllowed": false,
+      "author": "老周望野眼",
+      "license": "No open licence identified; reference observation only",
+      "licenseUrl": null,
+      "date": "2021-09-25 publication",
+      "usage": "context-only-not-an-exact-way-match"
+    },
+    {
+      "id": "jinling-road-commons",
+      "file": "assets/streets/bund-anonymous/jinling-road-commons.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/East_Jinling_Rd._Shanghai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:East_Jinling_Rd._Shanghai.JPG",
+      "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Livelikerw&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Livelikerw (page does not exist)\">Livelikerw</a>",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sha256": "20c8d3be585ab00ce777751d459bc7a0ca8ef831c538545eeb3942e6511d423f",
+      "bytes": 5472256,
+      "width": 4912,
+      "height": 3264,
+      "download": "https://upload.wikimedia.org/wikipedia/commons/7/7b/East_Jinling_Rd._Shanghai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadResolution": "Original bytes and native pixel dimensions delivered by the recorded source URL; not asserted to be the photographers camera original. No resizing or recompression.",
+      "inspectedAt": "2026-09-09",
+      "inspectionMethod": "Individual view_image tool call; not contact-sheet-only",
+      "visualObservation": "云南南路至广西南路、余庆里附近骑楼，画面可见416路牌段及工行；地点距离所需金陵东路17–41号很远，明确拒绝匹配。",
+      "textureEmbedded": false,
+      "runtimeTextureAllowed": false,
+      "usage": "rejected-location-mismatch"
+    }
+  ],
+  "buildings": [
+    {
+      "wayId": 178564468,
+      "osmTags": {
+        "building": "yes"
+      },
+      "wgs84VertexMean": [
+        31.244563975,
+        121.4861928
+      ],
+      "osmBounds": {
+        "minlat": 31.2445097,
+        "minlon": 121.4861101,
+        "maxlat": 31.2446182,
+        "maxlon": 121.4862755
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/178564468",
+      "footprint": [
+        [
+          -748.21,
+          -625.42
+        ],
+        [
+          -750.96,
+          -618.51
+        ],
+        [
+          -737.97,
+          -613.34
+        ],
+        [
+          -735.22,
+          -620.26
+        ],
+        [
+          -748.21,
+          -625.42
+        ]
+      ],
+      "sourceHeightM": 17.0,
+      "heightSource": "estimated",
+      "sourceFrontageWidthM": 7.437,
+      "photoReferences": [],
+      "runtimeTextureAllowed": false,
+      "status": "unknown",
+      "name": null,
+      "candidateContext": "黄浦公园西北入口附近小构筑物",
+      "reason": "仅building=yes，约14×7m小矩形；公园/隧道reverse不是建筑身份。没有正面或门牌实景，不赋领馆身份。",
+      "contextPhotoReferences": [],
+      "matchingBoundary": "Do not upgrade to matched from neighbourhood geocoding or a photograph of another part of the site."
+    },
+    {
+      "wayId": 177930863,
+      "osmTags": {
+        "building": "yes",
+        "building:levels": "6"
+      },
+      "wgs84VertexMean": [
+        31.24230111333333,
+        121.48442475333334
+      ],
+      "osmBounds": {
+        "minlat": 31.2422238,
+        "minlon": 121.4838337,
+        "maxlat": 31.2424279,
+        "maxlon": 121.4849736
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/177930863",
+      "footprint": [
+        [
+          -956.65,
+          -381.59
+        ],
+        [
+          -956.65,
+          -375.46
+        ],
+        [
+          -967.63,
+          -375.2
+        ],
+        [
+          -967.37,
+          -365.25
+        ],
+        [
+          -945.42,
+          -361.42
+        ],
+        [
+          -935.18,
+          -359.94
+        ],
+        [
+          -926.76,
+          -358.92
+        ],
+        [
+          -918.61,
+          -358.87
+        ],
+        [
+          -896.63,
+          -359.43
+        ],
+        [
+          -884.4,
+          -360.14
+        ],
+        [
+          -871.87,
+          -361.98
+        ],
+        [
+          -860.38,
+          -364.28
+        ],
+        [
+          -859.13,
+          -374.69
+        ],
+        [
+          -861.94,
+          -374.69
+        ],
+        [
+          -861.94,
+          -380.31
+        ],
+        [
+          -956.65,
+          -381.59
+        ]
+      ],
+      "sourceHeightM": 20.4,
+      "heightSource": "levels",
+      "sourceFrontageWidthM": 42.378,
+      "photoReferences": [],
+      "runtimeTextureAllowed": false,
+      "status": "unknown",
+      "name": null,
+      "candidateContext": "北京东路南侧匿名长条六层体块",
+      "reason": "益丰177930861在北京东路北侧；目标OSM明确在南侧，不能用益丰照片。格林邮船177930858也在更北的另一个轮廓；无足够照片证明该长条楼段属于谁。",
+      "contextPhotoReferences": [],
+      "matchingBoundary": "Do not upgrade to matched from neighbourhood geocoding or a photograph of another part of the site."
+    },
+    {
+      "wayId": 160033736,
+      "osmTags": {
+        "building": "yes"
+      },
+      "wgs84VertexMean": [
+        31.242012879999997,
+        121.48617845999999
+      ],
+      "osmBounds": {
+        "minlat": 31.2414785,
+        "minlon": 121.4859863,
+        "maxlat": 31.2425632,
+        "maxlon": 121.4863675
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/160033736",
+      "footprint": [
+        [
+          -739.63,
+          -396.66
+        ],
+        [
+          -745.85,
+          -368.27
+        ],
+        [
+          -750.87,
+          -345.35
+        ],
+        [
+          -758.02,
+          -302.46
+        ],
+        [
+          -762.74,
+          -278.72
+        ],
+        [
+          -745.61,
+          -275.91
+        ],
+        [
+          -742.19,
+          -302.97
+        ],
+        [
+          -738.87,
+          -332.32
+        ],
+        [
+          -734.27,
+          -356.58
+        ],
+        [
+          -726.46,
+          -394.71
+        ],
+        [
+          -739.63,
+          -396.66
+        ]
+      ],
+      "sourceHeightM": 17.0,
+      "heightSource": "estimated",
+      "sourceFrontageWidthM": 120.183,
+      "photoReferences": [],
+      "runtimeTextureAllowed": false,
+      "status": "unknown",
+      "name": null,
+      "candidateContext": "中山东一路365号附近平台下商业长条",
+      "reason": "已查看带365门牌/SUBWAY与平台护栏的局部现场照，说明局部为平台下店面；120.18m整条轮廓与每段门面没有完整覆盖，精确全体身份仍未知，17m默认高度无照片依据。",
+      "contextPhotoReferences": [
+        "subway365-6"
+      ],
+      "matchingBoundary": "Do not upgrade to matched from neighbourhood geocoding or a photograph of another part of the site."
+    },
+    {
+      "wayId": 178406075,
+      "osmTags": {
+        "building": "yes",
+        "building:levels": "6"
+      },
+      "wgs84VertexMean": [
+        31.239022449999997,
+        121.4850598125
+      ],
+      "osmBounds": {
+        "minlat": 31.2388096,
+        "minlon": 121.4847698,
+        "maxlat": 31.2391649,
+        "maxlon": 121.485279
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/178406075",
+      "footprint": [
+        [
+          -867.07,
+          0.21
+        ],
+        [
+          -862.18,
+          18.75
+        ],
+        [
+          -871.46,
+          21.2
+        ],
+        [
+          -878.53,
+          -5.99
+        ],
+        [
+          -830.41,
+          -18.36
+        ],
+        [
+          -830.06,
+          -13.92
+        ],
+        [
+          -833.66,
+          -12.96
+        ],
+        [
+          -834.04,
+          -8.93
+        ],
+        [
+          -867.07,
+          0.21
+        ]
+      ],
+      "sourceHeightM": 20.4,
+      "heightSource": "levels",
+      "sourceFrontageWidthM": 19.174,
+      "photoReferences": [],
+      "runtimeTextureAllowed": false,
+      "status": "unknown",
+      "name": null,
+      "candidateContext": "交通银行大楼／上海总工会后侧L形体块候选",
+      "reason": "同院及地理重叠不证明独立楼段身份；主楼正面照片不显示该后侧L形，无法确认全轮廓，保持unknown。",
+      "contextPhotoReferences": [],
+      "matchingBoundary": "Do not upgrade to matched from neighbourhood geocoding or a photograph of another part of the site."
+    },
+    {
+      "wayId": 380339914,
+      "osmTags": {
+        "building": "yes",
+        "building:levels": "7",
+        "source": "Bing"
+      },
+      "wgs84VertexMean": [
+        31.238469249999998,
+        121.48516857499999
+      ],
+      "osmBounds": {
+        "minlat": 31.2383895,
+        "minlon": 121.4850236,
+        "maxlat": 31.2385491,
+        "maxlon": 121.4853138
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/380339914",
+      "footprint": [
+        [
+          -854.37,
+          56.53
+        ],
+        [
+          -829.69,
+          50.19
+        ],
+        [
+          -826.75,
+          61.65
+        ],
+        [
+          -851.48,
+          67.96
+        ],
+        [
+          -854.37,
+          56.53
+        ]
+      ],
+      "sourceHeightM": 23.8,
+      "heightSource": "levels",
+      "sourceFrontageWidthM": 25.522,
+      "photoReferences": [],
+      "runtimeTextureAllowed": false,
+      "status": "unknown",
+      "name": null,
+      "candidateContext": "汇丰／浦发地块北侧东段匿名楼",
+      "reason": "reverse返回浦发主楼，但目标是独立25m×12m矩形，主厅和正面照片不能证明后排局部。",
+      "contextPhotoReferences": [],
+      "matchingBoundary": "Do not upgrade to matched from neighbourhood geocoding or a photograph of another part of the site."
+    },
+    {
+      "wayId": 1197725294,
+      "osmTags": {
+        "building": "yes",
+        "building:levels": "7",
+        "source": "Bing"
+      },
+      "wgs84VertexMean": [
+        31.23839398,
+        121.48476786
+      ],
+      "osmBounds": {
+        "minlat": 31.238293,
+        "minlon": 121.4845737,
+        "maxlat": 31.2384618,
+        "maxlon": 121.4849073
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/1197725294",
+      "footprint": [
+        [
+          -897.19,
+          67.13
+        ],
+        [
+          -868.29,
+          59.91
+        ],
+        [
+          -868.34,
+          60.07
+        ],
+        [
+          -865.44,
+          71.5
+        ],
+        [
+          -894.31,
+          78.7
+        ],
+        [
+          -897.19,
+          67.13
+        ]
+      ],
+      "sourceHeightM": 23.8,
+      "heightSource": "levels",
+      "sourceFrontageWidthM": 29.754,
+      "photoReferences": [],
+      "runtimeTextureAllowed": false,
+      "status": "unknown",
+      "name": null,
+      "candidateContext": "汇丰／浦发地块北侧西段匿名楼",
+      "reason": "与380339914分开，有独立约30m长轮廓；未找到逐楼号或可判定后立面的照片，不因相邻就归入汇丰主楼。",
+      "contextPhotoReferences": [],
+      "matchingBoundary": "Do not upgrade to matched from neighbourhood geocoding or a photograph of another part of the site."
+    },
+    {
+      "wayId": 380339857,
+      "osmTags": {
+        "building": "yes",
+        "building:levels": "7",
+        "source": "Bing"
+      },
+      "wgs84VertexMean": [
+        31.237061325,
+        121.4855859
+      ],
+      "osmBounds": {
+        "minlat": 31.2369818,
+        "minlon": 121.4854373,
+        "maxlat": 31.2371409,
+        "maxlon": 121.4857345
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/380339857",
+      "footprint": [
+        [
+          -815.0,
+          215.92
+        ],
+        [
+          -789.82,
+          206.96
+        ],
+        [
+          -786.71,
+          215.72
+        ],
+        [
+          -811.88,
+          224.67
+        ],
+        [
+          -815.0,
+          215.92
+        ]
+      ],
+      "sourceHeightM": 23.8,
+      "heightSource": "levels",
+      "sourceFrontageWidthM": 26.727,
+      "photoReferences": [],
+      "runtimeTextureAllowed": false,
+      "status": "unknown",
+      "name": null,
+      "candidateContext": "外滩7号后侧／元芳弄北缘匿名体块",
+      "reason": "OSM7层独立狭条；元芳弄整体叙述或大北电报正面不证明该条楼段，未取得专属照片。",
+      "contextPhotoReferences": [],
+      "matchingBoundary": "Do not upgrade to matched from neighbourhood geocoding or a photograph of another part of the site."
+    },
+    {
+      "wayId": 1197674361,
+      "osmTags": {
+        "building": "yes"
+      },
+      "wgs84VertexMean": [
+        31.236610225,
+        121.485535075
+      ],
+      "osmBounds": {
+        "minlat": 31.2365323,
+        "minlon": 121.4854455,
+        "maxlat": 31.2366881,
+        "maxlon": 121.4856247
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/1197674361",
+      "footprint": [
+        [
+          -814.22,
+          261.51
+        ],
+        [
+          -801.47,
+          257.36
+        ],
+        [
+          -797.16,
+          270.54
+        ],
+        [
+          -809.91,
+          274.7
+        ],
+        [
+          -814.22,
+          261.51
+        ]
+      ],
+      "sourceHeightM": 17.0,
+      "heightSource": "estimated",
+      "sourceFrontageWidthM": 13.408,
+      "photoReferences": [],
+      "runtimeTextureAllowed": false,
+      "status": "unknown",
+      "name": null,
+      "candidateContext": "元芳弄靠通商银行西侧匿名方形体块",
+      "reason": "约13m方形，generic building=yes；元芳弄区域地址不能定位到此单体，禁止复用通商银行主楼正面照片。",
+      "contextPhotoReferences": [],
+      "matchingBoundary": "Do not upgrade to matched from neighbourhood geocoding or a photograph of another part of the site."
+    },
+    {
+      "wayId": 439877627,
+      "osmTags": {
+        "building": "yes",
+        "building:levels": "6"
+      },
+      "wgs84VertexMean": [
+        31.234690125,
+        121.487000125
+      ],
+      "osmBounds": {
+        "minlat": 31.2345583,
+        "minlon": 121.4868191,
+        "maxlat": 31.2348197,
+        "maxlon": 121.4871919
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/439877627",
+      "footprint": [
+        [
+          -683.48,
+          473.52
+        ],
+        [
+          -654.89,
+          465.35
+        ],
+        [
+          -647.99,
+          485.78
+        ],
+        [
+          -678.63,
+          494.45
+        ],
+        [
+          -683.48,
+          473.52
+        ]
+      ],
+      "sourceHeightM": 20.4,
+      "heightSource": "levels",
+      "sourceFrontageWidthM": 29.734,
+      "photoReferences": [
+        "kaishi-xufei"
+      ],
+      "runtimeTextureAllowed": false,
+      "status": "matched",
+      "name": "仟宸大厦",
+      "address": "延安东路7号",
+      "identityEvidence": "中意商会2024活动和Apple Maps均给延安东路7号；实景在凯石西侧紧邻连续立面，OSM与凯石共边的矩形体块，官方灯光文件标识只作附加定位、不当实景照片。",
+      "matchingBoundary": "The inspected visible elevation/component only. Rear elevations, current shop names, hidden roof and exact surveyed height are not confirmed."
+    },
+    {
+      "wayId": 439877626,
+      "osmTags": {
+        "building": "commercial",
+        "building:levels": "10",
+        "name": "凯石大厦"
+      },
+      "wgs84VertexMean": [
+        31.2347535,
+        121.48730705999999
+      ],
+      "osmBounds": {
+        "minlat": 31.2346362,
+        "minlon": 121.4871195,
+        "maxlat": 31.2348918,
+        "maxlon": 121.4875091
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/439877626",
+      "footprint": [
+        [
+          -654.89,
+          465.35
+        ],
+        [
+          -633.0,
+          457.32
+        ],
+        [
+          -617.8,
+          471.32
+        ],
+        [
+          -631.48,
+          483.83
+        ],
+        [
+          -647.99,
+          485.78
+        ],
+        [
+          -654.89,
+          465.35
+        ]
+      ],
+      "sourceHeightM": 34.0,
+      "heightSource": "levels",
+      "sourceFrontageWidthM": 20.665,
+      "photoReferences": [
+        "kaishi-xufei"
+      ],
+      "runtimeTextureAllowed": false,
+      "status": "matched",
+      "name": "凯石大厦",
+      "address": "延安东路1号",
+      "identityEvidence": "OSM直接命名凯石；摄影师文章标题与门牌明确，照片圆弧转角对上延安东路和中山东二路交口，左侧金延、右侧仟宸顺序确定。",
+      "matchingBoundary": "The inspected visible elevation/component only. Rear elevations, current shop names, hidden roof and exact surveyed height are not confirmed."
+    },
+    {
+      "wayId": 1156865542,
+      "osmTags": {
+        "building": "commercial",
+        "layer": "0",
+        "name": "金延大楼"
+      },
+      "wgs84VertexMean": [
+        31.23450383333333,
+        121.4874606
+      ],
+      "osmBounds": {
+        "minlat": 31.2343188,
+        "minlon": 121.4871772,
+        "maxlat": 31.2347008,
+        "maxlon": 121.4876714
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/1156865542",
+      "footprint": [
+        [
+          -649.39,
+          504.57
+        ],
+        [
+          -635.1,
+          521.11
+        ],
+        [
+          -617.13,
+          517.03
+        ],
+        [
+          -607.93,
+          510.69
+        ],
+        [
+          -618.15,
+          501.3
+        ],
+        [
+          -602.36,
+          487.94
+        ],
+        [
+          -611.37,
+          478.59
+        ],
+        [
+          -628.32,
+          493.54
+        ],
+        [
+          -632.03,
+          489.86
+        ],
+        [
+          -649.39,
+          504.57
+        ]
+      ],
+      "sourceHeightM": 17.0,
+      "heightSource": "estimated",
+      "sourceFrontageWidthM": 12.985,
+      "photoReferences": [
+        "jinyan-xufei",
+        "kaishi-xufei"
+      ],
+      "runtimeTextureAllowed": false,
+      "status": "matched",
+      "name": "金延大楼（德必外滩8号WE）",
+      "address": "中山东二路6–8号",
+      "identityEvidence": "OSM直接命名金延；摄影师专图标题门牌及凯石同框南侧位置吻合；德必招股书确认改造前名称。",
+      "matchingBoundary": "The inspected visible elevation/component only. Rear elevations, current shop names, hidden roof and exact surveyed height are not confirmed.",
+      "geometryCaution": "OSM凹9点，东侧13.0m及13.9m两个近平行边间有20.7m凹口；整栋照片不可压缩到13m frontage，未找到可合并的命名相邻way；保留轮廓，照片观察与高度估计分别记录。"
+    },
+    {
+      "wayId": 446933537,
+      "osmTags": {
+        "building": "yes",
+        "building:levels": "6"
+      },
+      "wgs84VertexMean": [
+        31.234075875000002,
+        121.487153
+      ],
+      "osmBounds": {
+        "minlat": 31.2339233,
+        "minlon": 121.4869281,
+        "maxlat": 31.2342284,
+        "maxlon": 121.4873779
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/446933537",
+      "footprint": [
+        [
+          -673.1,
+          542.03
+        ],
+        [
+          -637.3,
+          531.17
+        ],
+        [
+          -630.29,
+          554.27
+        ],
+        [
+          -666.1,
+          565.14
+        ],
+        [
+          -673.1,
+          542.03
+        ]
+      ],
+      "sourceHeightM": 20.4,
+      "heightSource": "levels",
+      "sourceFrontageWidthM": 24.14,
+      "photoReferences": [],
+      "runtimeTextureAllowed": false,
+      "status": "unknown",
+      "name": null,
+      "candidateContext": "金陵中学校园北部六层后楼候选",
+      "reason": "实景来源只拍到雷米洋行东侧现代高楼局部，被消防梯遮挡；OSM446933533有15层而目标537是6层，不能把高楼照片分配给此后楼。",
+      "contextPhotoReferences": [
+        "jinling-school-west-view"
+      ],
+      "matchingBoundary": "Do not upgrade to matched from neighbourhood geocoding or a photograph of another part of the site."
+    },
+    {
+      "wayId": 446933508,
+      "osmTags": {
+        "building": "yes",
+        "building:levels": "8"
+      },
+      "wgs84VertexMean": [
+        31.233513833333333,
+        121.48748275000003
+      ],
+      "osmBounds": {
+        "minlat": 31.2333496,
+        "minlon": 121.4870984,
+        "maxlat": 31.233665,
+        "maxlon": 121.4878584
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/446933508",
+      "footprint": [
+        [
+          -656.89,
+          618.12
+        ],
+        [
+          -652.37,
+          614.29
+        ],
+        [
+          -588.58,
+          593.89
+        ],
+        [
+          -585.99,
+          602.22
+        ],
+        [
+          -584.56,
+          606.81
+        ],
+        [
+          -653.47,
+          629.0
+        ],
+        [
+          -656.89,
+          618.12
+        ]
+      ],
+      "sourceHeightM": 27.2,
+      "heightSource": "levels",
+      "sourceFrontageWidthM": 66.973,
+      "photoReferences": [
+        "jinling-frontage-33",
+        "jinling-frontage-34",
+        "jinling-frontage-31"
+      ],
+      "runtimeTextureAllowed": false,
+      "status": "matched",
+      "name": "紫金公寓（圣亚纳公寓）临街长楼段",
+      "address": "金陵东路25–41号",
+      "identityEvidence": "逐门牌摄影来源与同框连续街面，位于21–23号西側，67m长条街面直到永安路，东低西高多层体量吻合该OSM长轮廓。OSM8层与照片分段层数不一致，精确高度保留估计。",
+      "matchingBoundary": "The inspected visible elevation/component only. Rear elevations, current shop names, hidden roof and exact surveyed height are not confirmed."
+    },
+    {
+      "wayId": 446933528,
+      "osmTags": {
+        "building": "yes",
+        "building:levels": "6"
+      },
+      "wgs84VertexMean": [
+        31.233646874999998,
+        121.48790205
+      ],
+      "osmBounds": {
+        "minlat": 31.2335902,
+        "minlon": 121.4878161,
+        "maxlat": 31.2337035,
+        "maxlon": 121.487988
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/446933528",
+      "footprint": [
+        [
+          -588.58,
+          593.89
+        ],
+        [
+          -574.81,
+          589.61
+        ],
+        [
+          -572.22,
+          597.92
+        ],
+        [
+          -585.99,
+          602.22
+        ],
+        [
+          -588.58,
+          593.89
+        ]
+      ],
+      "sourceHeightM": 20.4,
+      "heightSource": "levels",
+      "sourceFrontageWidthM": 14.42,
+      "photoReferences": [
+        "jinling-frontage-30",
+        "jinling-frontage-33",
+        "jinling-frontage-31"
+      ],
+      "runtimeTextureAllowed": false,
+      "status": "matched",
+      "name": "金陵东路21–23号临街楼",
+      "address": "金陵东路21–23号",
+      "identityEvidence": "逐栋门牌说明及三栋同框，17–19号西侧、25–41号东侧，约14.4m中间立面，与三块相接OSM轮廓顺序和宽度一致。",
+      "matchingBoundary": "The inspected visible elevation/component only. Rear elevations, current shop names, hidden roof and exact surveyed height are not confirmed."
+    },
+    {
+      "wayId": 1198568466,
+      "osmTags": {
+        "building": "yes"
+      },
+      "wgs84VertexMean": [
+        31.2336481,
+        121.48803011666666
+      ],
+      "osmBounds": {
+        "minlat": 31.2335854,
+        "minlon": 121.4879608,
+        "maxlat": 31.233739,
+        "maxlon": 121.4881386
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/1198568466",
+      "footprint": [
+        [
+          -574.81,
+          589.61
+        ],
+        [
+          -561.97,
+          585.65
+        ],
+        [
+          -557.89,
+          598.75
+        ],
+        [
+          -570.76,
+          602.75
+        ],
+        [
+          -571.63,
+          599.96
+        ],
+        [
+          -572.22,
+          597.92
+        ],
+        [
+          -574.81,
+          589.61
+        ]
+      ],
+      "sourceHeightM": 17.0,
+      "heightSource": "estimated",
+      "sourceFrontageWidthM": 13.721,
+      "photoReferences": [
+        "jinling-frontage-29",
+        "jinling-frontage-33"
+      ],
+      "runtimeTextureAllowed": false,
+      "status": "matched",
+      "name": "金陵东路17–19号临街楼",
+      "address": "金陵东路17–19号",
+      "identityEvidence": "逐栋门牌说明；实景金兔/星星川香菜馆招牌与公开地址证据吻合，位于21–23号东侧并接小巷，13.7m最东窄轮廓匹配。",
+      "matchingBoundary": "The inspected visible elevation/component only. Rear elevations, current shop names, hidden roof and exact surveyed height are not confirmed."
+    },
+    {
+      "wayId": 1198569401,
+      "osmTags": {
+        "building": "yes"
+      },
+      "wgs84VertexMean": [
+        31.232958599999996,
+        121.48917807999999
+      ],
+      "osmBounds": {
+        "minlat": 31.232901,
+        "minlon": 121.4890683,
+        "maxlat": 31.2330198,
+        "maxlon": 121.4892585
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/1198569401",
+      "footprint": [
+        [
+          -466.1,
+          678.94
+        ],
+        [
+          -469.4,
+          671.11
+        ],
+        [
+          -454.36,
+          665.72
+        ],
+        [
+          -451.3,
+          672.96
+        ],
+        [
+          -453.6,
+          673.91
+        ],
+        [
+          -466.1,
+          678.94
+        ]
+      ],
+      "sourceHeightM": 17.0,
+      "heightSource": "estimated",
+      "sourceFrontageWidthM": 7.86,
+      "photoReferences": [],
+      "runtimeTextureAllowed": false,
+      "status": "unknown",
+      "name": null,
+      "candidateContext": "华融南端小连接段候选",
+      "reason": "OSM紧邻华融和独立圆筒1198569402；航拍主要显示圆筒，无法独立识别其约8m短面与高度。",
+      "contextPhotoReferences": [
+        "bund22-2020-3"
+      ],
+      "matchingBoundary": "Do not upgrade to matched from neighbourhood geocoding or a photograph of another part of the site."
+    },
+    {
+      "wayId": 446933520,
+      "osmTags": {
+        "addr:housenumber": "15",
+        "addr:street": "Zhongshan East 2nd Road",
+        "building": "yes",
+        "building:levels": "11",
+        "name": "Bund 15"
+      },
+      "wgs84VertexMean": [
+        31.2331863,
+        121.48887545000001
+      ],
+      "osmBounds": {
+        "minlat": 31.2329195,
+        "minlon": 121.4883567,
+        "maxlat": 31.2336331,
+        "maxlon": 121.4893038
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/446933520",
+      "footprint": [
+        [
+          -485.82,
+          676.88
+        ],
+        [
+          -499.19,
+          645.96
+        ],
+        [
+          -505.46,
+          648.03
+        ],
+        [
+          -537.13,
+          609.08
+        ],
+        [
+          -503.69,
+          597.44
+        ],
+        [
+          -446.98,
+          663.23
+        ],
+        [
+          -454.36,
+          665.72
+        ],
+        [
+          -469.4,
+          671.11
+        ],
+        [
+          -485.82,
+          676.88
+        ]
+      ],
+      "sourceHeightM": 37.4,
+      "heightSource": "levels",
+      "sourceFrontageWidthM": 86.858,
+      "photoReferences": [
+        "huarong-xufei",
+        "huarong-listing"
+      ],
+      "runtimeTextureAllowed": false,
+      "status": "matched",
+      "name": "外滩华融大厦（Bund 15）",
+      "address": "中山东二路15号",
+      "identityEvidence": "OSM直接标Bund 15与中山东二路15号；照片上华融标志、沿江通长立面与两侧东方商旅及太古位置相符。不可混同中山东一路15号华俄道胜银行。",
+      "matchingBoundary": "The inspected visible elevation/component only. Rear elevations, current shop names, hidden roof and exact surveyed height are not confirmed."
+    },
+    {
+      "wayId": 1198569402,
+      "osmTags": {
+        "building": "yes"
+      },
+      "wgs84VertexMean": [
+        31.232929266666662,
+        121.4893140541667
+      ],
+      "osmBounds": {
+        "minlat": 31.2328796,
+        "minlon": 121.4892587,
+        "maxlat": 31.2329736,
+        "maxlon": 121.4893684
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/1198569402",
+      "footprint": [
+        [
+          -449.26,
+          671.93
+        ],
+        [
+          -448.42,
+          671.4
+        ],
+        [
+          -447.5,
+          671.04
+        ],
+        [
+          -446.54,
+          670.86
+        ],
+        [
+          -445.56,
+          670.86
+        ],
+        [
+          -443.91,
+          671.28
+        ],
+        [
+          -442.71,
+          672.02
+        ],
+        [
+          -441.76,
+          673.04
+        ],
+        [
+          -441.16,
+          674.17
+        ],
+        [
+          -440.84,
+          675.38
+        ],
+        [
+          -440.84,
+          676.83
+        ],
+        [
+          -441.21,
+          678.13
+        ],
+        [
+          -441.79,
+          679.15
+        ],
+        [
+          -442.75,
+          680.17
+        ],
+        [
+          -444.3,
+          681.03
+        ],
+        [
+          -445.75,
+          681.32
+        ],
+        [
+          -447.21,
+          681.2
+        ],
+        [
+          -448.59,
+          680.67
+        ],
+        [
+          -449.76,
+          679.78
+        ],
+        [
+          -450.65,
+          678.6
+        ],
+        [
+          -451.16,
+          677.2
+        ],
+        [
+          -451.28,
+          675.73
+        ],
+        [
+          -450.97,
+          674.3
+        ],
+        [
+          -450.29,
+          672.99
+        ],
+        [
+          -449.26,
+          671.93
+        ]
+      ],
+      "sourceHeightM": 17.0,
+      "heightSource": "estimated",
+      "sourceFrontageWidthM": 1.279,
+      "photoReferences": [
+        "bund22-2020-3"
+      ],
+      "runtimeTextureAllowed": false,
+      "status": "matched",
+      "name": "华融南侧圆形玻璃分体（正式名称与用途未知）",
+      "address": null,
+      "identityEvidence": "航拍同时给太古东楼、新永安路、华融南面，圆筒位于新永安路北侧东口、太古主楼东北侧；半径约5m的唯一圆形OSM轮廓与空心圆顶结构对应。仅匹配几何分体，不主张独立商号、产权或用途。",
+      "matchingBoundary": "The inspected visible elevation/component only. Rear elevations, current shop names, hidden roof and exact surveyed height are not confirmed.",
+      "observedGeometry": "圆筒玻璃墙，灰色水平圈梁，顶部为空心高圆环与露台，不是实心穹顶。正式楼名和用途unknown。"
+    },
+    {
+      "wayId": 1287050300,
+      "osmTags": {
+        "building": "yes"
+      },
+      "wgs84VertexMean": [
+        31.2322714,
+        121.48868035
+      ],
+      "osmBounds": {
+        "minlat": 31.2320872,
+        "minlon": 121.4883516,
+        "maxlat": 31.2324822,
+        "maxlon": 121.4889532
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/1287050300",
+      "footprint": [
+        [
+          -537.61,
+          740.69
+        ],
+        [
+          -503.66,
+          725.56
+        ],
+        [
+          -480.35,
+          760.33
+        ],
+        [
+          -503.66,
+          769.53
+        ],
+        [
+          -537.61,
+          740.69
+        ]
+      ],
+      "sourceHeightM": 17.0,
+      "heightSource": "estimated",
+      "sourceFrontageWidthM": 25.06,
+      "photoReferences": [],
+      "runtimeTextureAllowed": false,
+      "status": "unknown",
+      "name": null,
+      "candidateContext": "新永安路南侧、太古西南后排匿名楼",
+      "reason": "距太古主楼有间距，三栋合并建筑的文字不证明这个现代OSM体块。现有太古正面与中庭照片均不足匹配。",
+      "contextPhotoReferences": [
+        "bund22-2020-2",
+        "bund22-2020-3",
+        "bund22-2022-2"
+      ],
+      "matchingBoundary": "Do not upgrade to matched from neighbourhood geocoding or a photograph of another part of the site."
+    },
+    {
+      "wayId": 1287050298,
+      "osmTags": {
+        "building": "yes"
+      },
+      "wgs84VertexMean": [
+        31.232323324999996,
+        121.4895723
+      ],
+      "osmBounds": {
+        "minlat": 31.2320715,
+        "minlon": 121.4892097,
+        "maxlat": 31.2325751,
+        "maxlon": 121.4899349
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/1287050298",
+      "footprint": [
+        [
+          -455.94,
+          743.41
+        ],
+        [
+          -441.57,
+          771.28
+        ],
+        [
+          -386.92,
+          743.08
+        ],
+        [
+          -401.29,
+          715.22
+        ],
+        [
+          -455.94,
+          743.41
+        ]
+      ],
+      "sourceHeightM": 17.0,
+      "heightSource": "estimated",
+      "sourceFrontageWidthM": 31.348,
+      "photoReferences": [],
+      "runtimeTextureAllowed": false,
+      "status": "unknown",
+      "name": null,
+      "candidateContext": "太古主楼南侧／外滩SOHO北缘匿名楼",
+      "reason": "此轮廓在已命名495105937南方，无法仅凭大蔬无界POI匹配太古。所查看太古照片只证主楼与新永安路侧，不涵盖此独立楼段全貌。",
+      "contextPhotoReferences": [
+        "bund22-2020-2",
+        "bund22-2020-3"
+      ],
+      "matchingBoundary": "Do not upgrade to matched from neighbourhood geocoding or a photograph of another part of the site."
+    },
+    {
+      "wayId": 1287050297,
+      "osmTags": {
+        "building": "yes"
+      },
+      "wgs84VertexMean": [
+        31.232022475,
+        121.48989845
+      ],
+      "osmBounds": {
+        "minlat": 31.2317853,
+        "minlon": 121.4895876,
+        "maxlat": 31.2322597,
+        "maxlon": 121.4902093
+      },
+      "osmUrl": "https://www.openstreetmap.org/way/1287050297",
+      "footprint": [
+        [
+          -419.97,
+          773.1
+        ],
+        [
+          -376.55,
+          750.33
+        ],
+        [
+          -360.8,
+          780.39
+        ],
+        [
+          -404.22,
+          803.14
+        ],
+        [
+          -419.97,
+          773.1
+        ]
+      ],
+      "sourceHeightM": 17.0,
+      "heightSource": "estimated",
+      "sourceFrontageWidthM": 49.019,
+      "photoReferences": [],
+      "runtimeTextureAllowed": false,
+      "status": "unknown",
+      "name": null,
+      "candidateContext": "外滩SOHO临江北端匿名楼段候选",
+      "reason": "在太古主楼南方更远，OSM无名称高度。附近SOHO位置与宽景不足证明单个49m边轮廓，保持unknown。",
+      "contextPhotoReferences": [
+        "bund22-2020-2"
+      ],
+      "matchingBoundary": "Do not upgrade to matched from neighbourhood geocoding or a photograph of another part of the site."
+    }
+  ],
+  "downloadProcessStatus": {
+    "allOwnDownloadCommands": "Exited successfully; no remaining tool session or background downloader",
+    "servicesStarted": false,
+    "blenderStarted": false,
+    "nestedAgentsCreated": false,
+    "threadClosed": "No thread-close API available; work completion is not a claim of runtime thread closure"
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "checkedAt": "2026-09-10T09:28:16.136806+00:00",
+  "records": [
+    {
+      "id": "su7",
+      "endpoint": "https://api.sketchfab.com/v3/models/ca2cda599f5341068c992c9f44551bf9",
+      "status": "fetched",
+      "name": "Xiaomi SU7",
+      "user": {
+        "displayName": "Mona x Supercars",
+        "username": "Car2022",
+        "profileUrl": "https://sketchfab.com/Car2022"
+      },
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      },
+      "description": "![](https://evprotec.com/wp-content/uploads/2024/05/xiaomi-su7-front-1.jpg)\n\n3 Electric Motors.",
+      "sourceUrl": "https://sketchfab.com/3d-models/xiaomi-su7-ca2cda599f5341068c992c9f44551bf9"
+    },
+    {
+      "id": "model-3",
+      "endpoint": "https://api.sketchfab.com/v3/models/36c52f3f89f6439c90310f14e8ff33f2",
+      "status": "fetched",
+      "name": "Tesla model  3 2024",
+      "user": {
+        "displayName": "brandonleong28",
+        "username": "brandonleong28",
+        "profileUrl": "https://sketchfab.com/brandonleong28"
+      },
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      },
+      "description": "Tesla model 3 2024 newest  Tesla model  3  refresh model",
+      "sourceUrl": "https://sketchfab.com/3d-models/tesla-model-3-2024-36c52f3f89f6439c90310f14e8ff33f2"
+    },
+    {
+      "id": "dolphin",
+      "endpoint": "https://api.sketchfab.com/v3/models/8d30880667524cf3abb9e3e66c5299b5",
+      "status": "fetched",
+      "name": "2024 BYD Dolphin Premium Long Range",
+      "user": {
+        "displayName": "Nazh Design ✔",
+        "username": "NazhDesign",
+        "profileUrl": "https://sketchfab.com/NazhDesign"
+      },
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      },
+      "description": "2024 BYD Dolphin Premium Long Range\nConvert from Skp.",
+      "sourceUrl": "https://sketchfab.com/3d-models/2024-byd-dolphin-premium-long-range-8d30880667524cf3abb9e3e66c5299b5"
+    },
+    {
+      "id": "model-y",
+      "endpoint": "https://api.sketchfab.com/v3/models/bc8ac22c744b4d11b92f2f31ab0297d0",
+      "status": "fetched",
+      "name": "Tesla Model Y",
+      "user": {
+        "displayName": "Nieve5677",
+        "username": "niev",
+        "profileUrl": "https://sketchfab.com/niev"
+      },
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      },
+      "description": "",
+      "sourceUrl": "https://sketchfab.com/3d-models/tesla-model-y-bc8ac22c744b4d11b92f2f31ab0297d0"
+    },
+    {
+      "id": "yuan-up",
+      "endpoint": "https://api.sketchfab.com/v3/models/2e04b67017ed49e982a1f0737eb7f0ae",
+      "status": "fetched",
+      "name": "2024 BYD Atto 2",
+      "user": {
+        "displayName": "Ddiaz Design",
+        "username": "ddiaz-design",
+        "profileUrl": "https://sketchfab.com/ddiaz-design"
+      },
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/2628dbe5140a4e9592126c8df566c0b7",
+        "label": "CC Attribution-NonCommercial-ShareAlike",
+        "fullName": "CC Attribution-NonCommercial-ShareAlike",
+        "requirements": "Author must be credited. No commercial use. Modified versions must have the same license.",
+        "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "slug": "by-nc-sa"
+      },
+      "description": "Repositorio de modelos 3D de Ddiaz Design\n\n![](https://images.prismic.io/carwow/aNuqy55xUNkB1Q7H_2025-BYD-Atto-2-RHD-front-quarter-moving.jpg)\n\nEl BYD Atto 2 (también conocido en algunos mercados como Yuan UP) es un SUV compacto muy popular. Se ofrece tanto en versiones 100% eléctricas con autonomías de hasta 463 km (ciclo urbano), como en variantes híbridas enchufables (DM-i) que combinan una batería para uso diario y un motor a combustión para largos viajes.\n\nInstagram del proyecto: https://www.instagram.com/ddiaz.design/\n\nPaypal Donations: https://paypal.me/sergiodd\n\nBased on a BYD 3d model\n\nCredits: GameModels Community Discord Server https://discord.gg/XkCQGws",
+      "sourceUrl": "https://sketchfab.com/3d-models/2024-byd-atto-2-2e04b67017ed49e982a1f0737eb7f0ae"
+    },
+    {
+      "id": "urus",
+      "endpoint": "https://api.sketchfab.com/v3/models/32964087f5d24c3e90482724ddfc2fef",
+      "status": "fetched",
+      "name": "Lamborghini Urus 2018",
+      "user": {
+        "displayName": "Kai Xiang",
+        "username": "kirikom9000",
+        "profileUrl": "https://sketchfab.com/kirikom9000"
+      },
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      },
+      "description": "- update with a more refined texture in the future? before the Sun dies I guess",
+      "sourceUrl": "https://sketchfab.com/3d-models/lamborghini-urus-2018-32964087f5d24c3e90482724ddfc2fef"
+    },
+    {
+      "id": "porsche-911",
+      "endpoint": "https://api.sketchfab.com/v3/models/68d8ef218d7e42adbd4425dc43629705",
+      "status": "fetched",
+      "name": "Porsche 911 Turbo S",
+      "user": {
+        "displayName": "SeKali",
+        "username": "zh.200.c",
+        "profileUrl": "https://sketchfab.com/zh.200.c"
+      },
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      },
+      "description": "**Blender Car Model**\n- without interior\n- very low poly tires\n- car on sketchfab a little bit different(textures)",
+      "sourceUrl": "https://sketchfab.com/3d-models/porsche-911-turbo-s-68d8ef218d7e42adbd4425dc43629705"
+    },
+    {
+      "id": "alphard",
+      "endpoint": "https://api.sketchfab.com/v3/models/c3b0c9b6363945e0b27d020404198b0f",
+      "status": "fetched",
+      "name": "Toyota Alphard III 2015",
+      "user": {
+        "displayName": "Nieve5677",
+        "username": "niev",
+        "profileUrl": "https://sketchfab.com/niev"
+      },
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      },
+      "description": "",
+      "sourceUrl": "https://sketchfab.com/3d-models/toyota-alphard-iii-2015-c3b0c9b6363945e0b27d020404198b0f"
+    },
+    {
+      "id": "g63",
+      "endpoint": "https://api.sketchfab.com/v3/models/52296f1a65d54a85a2ed7cb67604e554",
+      "status": "fetched",
+      "name": "2020 Mercedes-Benz G-Class AMG G63",
+      "user": {
+        "displayName": "Outlaw Games™",
+        "username": "Outlaw_Games",
+        "profileUrl": "https://sketchfab.com/Outlaw_Games"
+      },
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/bbfe3f7dbcdd4122b966b85b9786a989",
+        "label": "CC Attribution-NonCommercial",
+        "fullName": "Creative Commons Attribution-NonCommercial",
+        "requirements": "Author must be credited. No commercial use.",
+        "url": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "slug": "by-nc"
+      },
+      "description": "# CURRENT MONEY LOSS: \n$525,030 ($525k)\n\n-\n# SUPPORT ME\nJust join our Discord server already. Link is in ACCOUNT BIO\n\n-\n\n\n**Credits:** *@myself*",
+      "sourceUrl": "https://sketchfab.com/3d-models/2020-mercedes-benz-g-class-amg-g63-52296f1a65d54a85a2ed7cb67604e554"
+    },
+    {
+      "id": "ferrari-488",
+      "endpoint": "https://api.sketchfab.com/v3/models/c2bca88f04044daaa7c0274a9c0f2cc1",
+      "status": "fetched",
+      "name": "Ferrari 488 gtb",
+      "user": {
+        "displayName": "Turbostuart",
+        "username": "Turbostuart",
+        "profileUrl": "https://sketchfab.com/Turbostuart"
+      },
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      },
+      "description": "",
+      "sourceUrl": "https://sketchfab.com/3d-models/ferrari-488-gtb-c2bca88f04044daaa7c0274a9c0f2cc1"
+    }
+  ]
+}

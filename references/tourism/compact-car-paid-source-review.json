@@ -1,0 +1,228 @@
+{
+  "checkedAt": "2026-09-09T09:58:27.350385+00:00",
+  "purchaseMade": false,
+  "contactMade": false,
+  "zifir": {
+    "url": "https://zifir3d.com/product/geely-ex2-2025",
+    "displayPrice": 59,
+    "currency": "USD",
+    "taxAndCheckoutTotalVerified": false,
+    "polygonCount": 175547,
+    "vertices": 194944,
+    "formats": [
+      "3DS",
+      "FBX",
+      "MAX 2013",
+      "OBJ"
+    ],
+    "blendAvailability": "on request per product description; not requested",
+    "statedUses": [
+      "movies",
+      "advertisements",
+      "games"
+    ],
+    "fullLicenseVerified": false,
+    "notes": "Product page names allowed uses but no full asset-license link was found; footer only linked Privacy Policy. Do not apply another marketplace license to this direct purchase."
+  },
+  "sameAuthorAlternative": {
+    "url": "https://www.blendkit.com/asset-gallery-detail/36f7b97e-287c-442d-a5f5-7b5a462c61bf/",
+    "author": "Zifir3D Fedorov",
+    "sameAssetInference": "Same title, author, and 175547 polygon count; raw archive not acquired so binary identity unverified",
+    "sizeMiB": 9.3,
+    "plan": "Full Plan",
+    "displayPriceUSDPerMonth": 9.9,
+    "recurring": true,
+    "businessPriceUSDPerMonth": 29,
+    "pricingURL": "https://www.blendkit.com/plans/pricing/",
+    "royaltyFreeLabel": true,
+    "licenseURL": "https://www.blendkit.com/docs/licenses/",
+    "licenseFAQURL": "https://www.blendkit.com/docs/licenses/licensing-faq/",
+    "conditions": [
+      "Commercial higher-level derivative works allowed without author credit",
+      "Asset or asset-pack resale prohibited even if modified",
+      "Games allowed only when assets are not readily/directly extractable"
+    ],
+    "directPublicGLBDistributionCompatible": null,
+    "distributionIssue": "The current public/*.glb delivery exposes the model directly; the game-extraction condition has not been met or clarified. No blanket redistribution clearance is claimed."
+  },
+  "visualInspection": {
+    "previewFilesViewed": [
+      "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-01.jpeg",
+      "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-02.jpeg",
+      "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-03.jpeg",
+      "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-04.jpeg",
+      "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-05.jpeg",
+      "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-06.jpeg"
+    ],
+    "comparisonFiles": [
+      "assets/vehicles/compact-exteriors/references/starwish-2025-01.jpg",
+      "assets/vehicles/compact-exteriors/references/starwish-2025-02.jpg",
+      "assets/vehicles/compact-exteriors/references/starwish-official/Photo/1.jpg"
+    ],
+    "matchingVisibleFeatures": [
+      "Five-door short-overhang hatchback proportions and arch/shoulder curvature",
+      "Feather triangular headlamp housing with stepped bottom light guide",
+      "Corner air curtains and wide lower cooling inlet",
+      "Half-hidden handles, narrow B pillar, decorated C pillar, small spoiler",
+      "Feather tail lamps and lower black rear bumper",
+      "Clover-style alloy and separate tyre tread visible in preview"
+    ],
+    "visibleExportMarketDifferences": [
+      "Front six-tile badge instead of domestic GEOME wordmark",
+      "Rear GEELY and GEELY EX2 badging instead of domestic GEOME/Chinese badges",
+      "European number plates",
+      "Wheel variant and C-pillar decoration need exact domestic-2025 comparison before acceptance"
+    ],
+    "conclusion": "Product previews are visibly a much stronger close-up exterior candidate than current self-authored procedural iteration. Exterior/model identity is compatible at the model-family level; domestic trim parity, actual geometry, materials, wheel separation, scale, and runtime size remain unverified without acquisition."
+  },
+  "previewOriginals": [
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-01.jpeg",
+      "url": "https://zifir3d.com/storage/app/uploads/public/69b/00f/25a/69b00f25a6041419480106.jpeg",
+      "bytes": 545722,
+      "sha256": "a91c81979d1211e762e1e671186f03d96c4e6f71b44226034c1ab49367092fb7",
+      "rights": "Zifir3D product preview; reference only, not acquired geometry"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-02.jpeg",
+      "url": "https://zifir3d.com/storage/app/uploads/public/69b/00f/2a0/69b00f2a08323428638836.jpeg",
+      "bytes": 486818,
+      "sha256": "2e7aa64420c5f091fd2d8e5c3c1c094a15afac327b3f10e47cc0a8ca88b3b16f",
+      "rights": "Zifir3D product preview; reference only, not acquired geometry"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-03.jpeg",
+      "url": "https://zifir3d.com/storage/app/uploads/public/69b/00f/2ea/69b00f2ea920d613554384.jpeg",
+      "bytes": 561328,
+      "sha256": "4003832b3e3892bfc25cd7b99bd1ab5f316c7324a739379f9def28085f69e2af",
+      "rights": "Zifir3D product preview; reference only, not acquired geometry"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-04.jpeg",
+      "url": "https://zifir3d.com/storage/app/uploads/public/69b/00f/399/69b00f399b7d7393054899.jpeg",
+      "bytes": 538964,
+      "sha256": "66312ed9db9a3a0c5d0c61eb2b80a803208225a00a82ad43e43fa3a66b3525eb",
+      "rights": "Zifir3D product preview; reference only, not acquired geometry"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-05.jpeg",
+      "url": "https://zifir3d.com/storage/app/uploads/public/69b/00f/3ce/69b00f3ced0b3067478386.jpeg",
+      "bytes": 546112,
+      "sha256": "18873796cade0ed2a1592e907b8f8fcb71d15dc9d814371ce510e5e6c68abbaf",
+      "rights": "Zifir3D product preview; reference only, not acquired geometry"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-06.jpeg",
+      "url": "https://zifir3d.com/storage/app/uploads/public/69b/00f/3f6/69b00f3f61187738636799.jpeg",
+      "bytes": 501972,
+      "sha256": "e2620912d8df7f5407aa837bdeccafbe46137860a202366b9daa6473bbaad9d9",
+      "rights": "Zifir3D product preview; reference only, not acquired geometry"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-07.jpeg",
+      "url": "https://zifir3d.com/storage/app/uploads/public/69b/00f/423/69b00f42325e7656299221.jpeg",
+      "bytes": 494868,
+      "sha256": "7ff6115bbcf78f07f8dfcd82a2bd6017f4d21c39f2e2532aabc0576816b38a27",
+      "rights": "Zifir3D product preview; reference only, not acquired geometry"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-08.jpeg",
+      "url": "https://zifir3d.com/storage/app/uploads/public/69b/00f/425/69b00f42548cd728384207.jpeg",
+      "bytes": 390705,
+      "sha256": "01ad975c8d297cbde1443e63bfabcbcabaecf9fffbe4b276d968c31537bb3a4e",
+      "rights": "Zifir3D product preview; reference only, not acquired geometry"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-09.jpeg",
+      "url": "https://zifir3d.com/storage/app/uploads/public/69b/00f/444/69b00f444adf4092208990.jpeg",
+      "bytes": 585869,
+      "sha256": "ae98749215e1cff9e23f6ed5c676985dc8f806609da0796e46a389de0142127f",
+      "rights": "Zifir3D product preview; reference only, not acquired geometry"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-10.jpeg",
+      "url": "https://zifir3d.com/storage/app/uploads/public/69b/00f/45a/69b00f45a0126486353807.jpeg",
+      "bytes": 557027,
+      "sha256": "db7f6c7e1d2c3e35209ed55a842d7579f7603a50daab4c39431afc766f502f82",
+      "rights": "Zifir3D product preview; reference only, not acquired geometry"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-11.jpeg",
+      "url": "https://zifir3d.com/storage/app/uploads/public/69b/00f/474/69b00f4740295381857135.jpeg",
+      "bytes": 504604,
+      "sha256": "90712f9b438d62173cbecaf2406159636c8e84280d5501f9cb4424ebe2922b42",
+      "rights": "Zifir3D product preview; reference only, not acquired geometry"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-12.jpeg",
+      "url": "https://zifir3d.com/storage/app/uploads/public/69b/00f/48f/69b00f48f1ef4254545373.jpeg",
+      "bytes": 555546,
+      "sha256": "1b0896bdf5cfe5cc27146812dcbd12c58a944358beb8db0194238e275e6621d5",
+      "rights": "Zifir3D product preview; reference only, not acquired geometry"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-13.jpeg",
+      "url": "https://zifir3d.com/storage/app/uploads/public/69b/00f/4a5/69b00f4a58e71671271415.jpeg",
+      "bytes": 405446,
+      "sha256": "2ac2a37d7eb22862d69394f2ab73d065ac1969b4970ce0fac102bf1a775f93fb",
+      "rights": "Zifir3D product preview; reference only, not acquired geometry"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-14.jpeg",
+      "url": "https://zifir3d.com/storage/app/uploads/public/69b/00f/4b9/69b00f4b98a1f767088407.jpeg",
+      "bytes": 1009211,
+      "sha256": "fad27952c8adda0f00062b30ec667b1e49c089dc391c2e45c557d77384749284",
+      "rights": "Zifir3D product preview; reference only, not acquired geometry"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-15.jpeg",
+      "url": "https://zifir3d.com/storage/app/uploads/public/69b/00f/4e0/69b00f4e033bb826721790.jpeg",
+      "bytes": 1075275,
+      "sha256": "d0eaca96113f1a4de72c07480d6df7e6842ed771b86885cae9194c2a126eefab",
+      "rights": "Zifir3D product preview; reference only, not acquired geometry"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-16.jpeg",
+      "url": "https://zifir3d.com/storage/app/uploads/public/69b/00f/579/69b00f5792c2b085635221.jpeg",
+      "bytes": 1071666,
+      "sha256": "427c83d58314f16ba43655d86ef264c5346abff9b96d680cc77959504973051b",
+      "rights": "Zifir3D product preview; reference only, not acquired geometry"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-17.jpeg",
+      "url": "https://zifir3d.com/storage/app/uploads/public/69b/00f/5c3/69b00f5c32d78776582312.jpeg",
+      "bytes": 1083105,
+      "sha256": "4aa67d91df847bf54856a99064e52737aa1086b41ac82dcc025affbc30c7f53a",
+      "rights": "Zifir3D product preview; reference only, not acquired geometry"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-zifir3d-preview-18.jpeg",
+      "url": "https://zifir3d.com/storage/app/uploads/public/69b/00f/5e2/69b00f5e2ff99718204757.jpeg",
+      "bytes": 1072830,
+      "sha256": "b62ecfc64cb3dc56bd816cc0956db272d2895ffdabd6d6df655959bf1ea74a31",
+      "rights": "Zifir3D product preview; reference only, not acquired geometry"
+    }
+  ],
+  "archives": [
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-zifir3d-product.html",
+      "bytes": 110662,
+      "sha256": "5eed0338df3bd478fb2aaa6161c2bc507543fad99dfc7b4decc1a8ea17bdde86"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-blendkit-license.html",
+      "bytes": 93650,
+      "sha256": "23c247562fd17273021cbd7accdb1de6940b88e76143cb1bd96d211fe9861086"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-blendkit-license-faq.html",
+      "bytes": 91303,
+      "sha256": "12e8d7e5c2b1db80a5e20548b5ee6cb62afc003f1233bfee852fff0148f93ed4"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-blendkit-pricing.html",
+      "bytes": 110686,
+      "sha256": "968da5334c3948fa87b07c5690f1851e73473001e5e7b6b2a5dd92479871c41a"
+    }
+  ]
+}

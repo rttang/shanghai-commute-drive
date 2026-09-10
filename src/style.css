@@ -1,0 +1,1138 @@
+:root {
+  font-family:
+    -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft Yahei",
+    sans-serif;
+  color: #f6f5ee;
+  font-synthesis: none;
+  font-weight: 400;
+  background: #aabecb;
+  --paper: #f3f1e8;
+  --ink: #263d35;
+  --line: rgba(255, 255, 255, 0.3);
+}
+::selection { background:#ddba7c;color:#17382f; }
+.tour-objective { position:absolute;left:3.5vw;top:150px;width:300px;padding:18px 20px;background:rgba(20,42,37,.93);box-shadow:0 12px 30px rgba(0,0,0,.18);border-radius:12px; }
+.tour-objective>div:first-child { display:flex;justify-content:space-between;align-items:center;font-size:11px;color:#e6ddc7; }
+.tour-objective button { padding:4px 0;font-size:11px; }
+.tour-objective button svg { width:16px;height:16px; }
+.tour-objective>strong { display:block;font:25px "Songti SC",serif;margin-top:19px;line-height:1.4; }
+.tour-objective p { font-size:12px;color:#e6ddc7;line-height:1.65;min-height:40px;margin:8px 0 16px; }
+.objective-footer { display:flex;align-items:center;justify-content:space-between;border-top:1px solid rgba(233,224,202,.22);padding-top:12px;font-size:11px; }
+.objective-footer b { font-size:18px;font-variant-numeric:tabular-nums; }
+.objective-footer button { color:#ffe1a7; }
+.objective-footer button:disabled { cursor:default;color:#cabfaa;opacity:1; }
+.album-grid { display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:30px 24px; }
+.album-grid article { min-width:0; }
+.album-grid img,.album-empty { width:100%;aspect-ratio:16/9;object-fit:cover;background:#dde0d4; }
+.album-empty { display:grid;place-items:center;color:#445b50;font-size:14px; }
+.album-grid h3 { font:23px "Songti SC",serif;margin:14px 0 8px; }
+.album-grid p { font-size:13px;line-height:1.7;margin:0;color:#3e5549; }
+.photo-mode .tour-objective { display:none; }
+.mission-entry { margin-top:18px; }
+.mission-objective { position:absolute;left:3.5vw;top:150px;width:300px;padding:18px 20px;background:rgba(20,42,37,.93);border-radius:12px;max-height:max(150px,calc(100dvh - 340px));overflow:auto;pointer-events:auto;overscroll-behavior:contain; }
+.mission-visible .tour-objective,.photo-mode .mission-objective { display:none; }
+.mission-heading,.mission-destination,.mission-album,.mission-career { display:flex;align-items:center;justify-content:space-between;gap:12px; }
+.mission-heading { color:#e6ddc7;font-size:11px; }
+.mission-objective button { font-size:11px;min-height:32px;color:#ffe1a7; }
+.mission-objective button svg,.mission-route svg { width:16px;height:16px;vertical-align:middle; }
+.mission-objective h2,.mission-objective h3 { font:24px/1.4 "Songti SC",serif;margin:12px 0 4px; }
+.mission-objective p { font-size:12px;line-height:1.65;color:#e6ddc7;margin:9px 0; }
+.mission-objective .mission-person { font-size:11px;margin:0 0 14px; }
+.mission-destination { align-items:flex-start;flex-wrap:wrap;gap:3px 8px; }
+.mission-destination strong { font-size:15px; }
+.mission-destination span { font-size:11px;color:#ffe1a7; }
+.mission-objective .mission-clock { font-size:13px;font-variant-numeric:tabular-nums;color:#fff2d4; }
+.mission-objective .mission-clock.urgent { color:#ffd38a;font-weight:600; }
+.mission-event { border-top:1px solid #e9e0ca38;border-bottom:1px solid #e9e0ca38;padding:12px 0;margin:12px 0; }
+.mission-event>strong { font-size:13px; }
+.mission-actions { display:flex;align-items:center;flex-wrap:wrap;gap:10px 18px; }
+.mission-album { border-top:1px solid #e9e0ca38;margin-top:12px;padding-top:7px; }
+.mission-album button:disabled { color:#cabfaa;cursor:default; }
+.mission-career { justify-content:flex-start;font-size:12px;color:#526252;margin:16px 0;gap:30px; }
+.mission-career strong { color:#263d35;font-size:20px;font-variant-numeric:tabular-nums; }
+.mission-kicker { font-size:11px;color:#667361; }
+.mission-current { padding:4px 0 8px;margin:24px 0; }
+.mission-current h3,.mission-row h3 { margin:6px 0;font:22px/1.4 "Songti SC",serif; }
+.mission-current p,.mission-row p { font-size:12px;line-height:1.75;margin:7px 0; }
+.mission-current .primary,.mission-row .primary { background:#314c3d;color:#fff;white-space:nowrap; }
+.mission-list { border-top:1px solid #293f352e; }
+.mission-row { display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:24px;padding:20px 0;border-bottom:1px solid #293f352e; }
+.mission-row small { font-size:11px;color:#5b6c60; }
+.mission-row button:disabled { background:#dce1d5;color:#64715f;cursor:default; }
+.mission-rating { color:#92703f;display:flex;align-items:center;gap:14px;flex-wrap:wrap; }
+.mission-objective .mission-rating { color:#ffe1a7; }
+.mission-detail { font-size:11px; }
+.mission-storage { color:#8e472d;font-size:12px;line-height:1.6; }
+@media(max-width:760px) {
+  .tour-objective { top:128px;left:16px;width:220px;padding:12px 14px; }
+  .tour-objective>strong { font-size:20px;margin-top:10px; }
+  .tour-objective p { font-size:11px;min-height:32px;margin:5px 0 8px; }
+  .tour-objective>div:first-child { font-size:10px; }
+  .album-grid { grid-template-columns:1fr; }
+  #gear-button { display:none; }
+  .mission-objective { top:128px;left:16px;width:220px;padding:12px 14px;max-height:max(150px,calc(100dvh - 390px)); }
+  .mission-objective h2,.mission-objective h3 { font-size:20px;margin-top:8px; }
+  .mission-objective p { font-size:11px; }
+  .mission-visible .landmark-note { display:none; }
+  .mission-row { gap:12px; }
+  .mission-row .primary { padding:12px; }
+  .mission-row h3 { font-size:19px; }
+  .mission-route { display:flex;flex-wrap:wrap;align-items:center;gap:5px; }
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  overflow: hidden;
+}
+button,
+a,
+select {
+  -webkit-tap-highlight-color: transparent;
+}
+button,
+select {
+  font: inherit;
+}
+button {
+  cursor: pointer;
+}
+button:disabled {
+  cursor: wait;
+  opacity: 0.5;
+}
+button:focus-visible,
+a:focus-visible,
+select:focus-visible {
+  outline: 3px solid #dba56b;
+  outline-offset: 4px;
+}
+button {
+  color: inherit;
+  border: 0;
+  background: none;
+}
+a {
+  color: inherit;
+}
+svg {
+  width: 22px;
+  height: 22px;
+  flex-shrink: 0;
+}
+button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+button:hover {
+  filter: brightness(1.08);
+}
+[hidden] {
+  display: none !important;
+}
+#scene {
+  position: fixed;
+  inset: 0;
+}
+#scene canvas {
+  display: block;
+  touch-action: none;
+}
+.scene-pending #scene {
+  background: #aabecb url('/home-preview.jpg') center / cover no-repeat;
+}
+.scene-pending #scene canvas {
+  visibility: hidden;
+}
+#app {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(90deg, rgba(14, 29, 31, 0.6), transparent 61%),
+    linear-gradient(
+      0deg,
+      rgba(14, 27, 28, 0.68),
+      transparent 43%,
+      transparent 80%,
+      rgba(14, 27, 28, 0.3)
+    );
+  transition: background 0.3s;
+}
+#app button,
+#app a,
+#app select {
+  pointer-events: auto;
+}
+.topbar {
+  position: absolute;
+  left: 3.5vw;
+  right: 3.5vw;
+  top: 27px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.wordmark {
+  display: flex;
+  gap: 13px;
+  align-items: center;
+  text-decoration: none;
+  font-size: 18px;
+  letter-spacing: 2px;
+}
+.brand-mark {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 43px;
+  height: 43px;
+  border: 1px solid currentColor;
+  font-family: "Songti SC", serif;
+  font-size: 26px;
+}
+.wordmark small {
+  display: block;
+  font-size: 8px;
+  font-weight: 500;
+  letter-spacing: 1.9px;
+  margin-top: 6px;
+}
+.top-actions {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+.weather {
+  font-size: 11px;
+  letter-spacing: 1px;
+}
+.icon-button {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+}
+.icon-button:hover {
+  background: rgba(255, 255, 255, 0.13);
+}
+.intro {
+  position: absolute;
+  left: 5.6vw;
+  top: 20%;
+}
+.eyebrow {
+  font-size: 11px;
+  letter-spacing: 2.8px;
+}
+.intro h1 {
+  font-family: "Songti SC", "STSong", serif;
+  font-size: clamp(48px, 5.6vw, 82px);
+  font-weight: 500;
+  line-height: 1.18;
+  letter-spacing: 2px;
+  margin: 18px 0 21px;
+}
+.intro p {
+  font-size: 13px;
+  line-height: 1.9;
+  color: #eeeee4;
+  letter-spacing: 1px;
+}
+.departure {
+  position: absolute;
+  bottom: 72px;
+  left: 5.6vw;
+  width: min(540px, 48vw);
+}
+.section-label {
+  font-size: 11px;
+  letter-spacing: 2px;
+  display: flex;
+  justify-content: space-between;
+  opacity: 0.85;
+  margin-bottom: 15px;
+}
+.section-label > span {
+  letter-spacing: 1px;
+}
+.routes {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.route-card {
+  padding: 15px 0 13px;
+  border-top: 1px solid #ffffff55;
+  justify-content: flex-start;
+  text-align: left;
+  position: relative;
+  gap: 12px;
+  opacity: 0.65;
+  transition: opacity 0.2s;
+}
+.route-card.selected {
+  border-top: 2px solid #f7f0dd;
+  opacity: 1;
+  padding-top: 14px;
+}
+.route-card:hover {
+  opacity: 1;
+}
+.route-number {
+  font-size: 12px;
+  align-self: flex-start;
+  margin-top: 4px;
+}
+.route-card strong {
+  display: block;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 500;
+}
+.route-card small {
+  display: block;
+  margin-top: 8px;
+  font-size: 10px;
+  color: #e2e6dc;
+}
+.route-length {
+  position: absolute;
+  right: 0;
+  top: 17px;
+  font-size: 9px;
+  opacity: 0.8;
+}
+.departure-actions {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  margin-top: 17px;
+}
+.primary {
+  background: var(--paper);
+  color: var(--ink);
+  padding: 15px 23px;
+  font-size: 13px;
+  letter-spacing: 1px;
+  min-height: 48px;
+  gap: 36px;
+}
+.primary:hover {
+  background: #fff;
+}
+.text-button {
+  padding: 12px 0;
+  font-size: 12px;
+}
+.text-button:hover {
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
+.departure-note {
+  font-size: 10px;
+  opacity: 0.75;
+  margin: 13px 0 0;
+  letter-spacing: 0.4px;
+}
+.chosen-car {
+  position: absolute;
+  right: 5vw;
+  bottom: 85px;
+  width: 285px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  text-align: left;
+  gap: 0;
+}
+.car-portrait {
+  height: 145px;
+  margin-bottom: 9px;
+  overflow: visible;
+}
+.car-portrait img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  filter: drop-shadow(0 10px 12px #16262780);
+}
+.car-label {
+  font-size: 10px;
+  letter-spacing: 1px;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--line);
+}
+.car-label > span {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.car-label svg {
+  width: 15px;
+  height: 15px;
+}
+.chosen-car strong {
+  font-size: 24px;
+  letter-spacing: 1px;
+  font-weight: 400;
+  margin-top: 12px;
+}
+.chosen-car > small {
+  font-size: 10px;
+  opacity: 0.7;
+  margin-top: 7px;
+}
+.credits {
+  position: absolute;
+  bottom: 22px;
+  left: 3.5vw;
+  right: 3.5vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 9px;
+  opacity: 0.65;
+}
+.credits button {
+  font-size: 10px;
+}
+.loading {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: #d4ddd9;
+  color: #2c433a;
+  pointer-events: auto;
+  gap: 18px;
+}
+.loading p {
+  font-family: "Songti SC", serif;
+  font-size: 26px;
+  margin: 15px 0 0;
+}
+.loading > span:not(.brand-mark) {
+  font-size: 12px;
+}
+.loading-line {
+  width: 150px;
+  height: 1px;
+  background: linear-gradient(90deg, #d4ddd9, #365146, #d4ddd9);
+  animation: breathe 1.5s ease-in-out infinite;
+}
+@keyframes breathe {
+  50% {
+    opacity: 0.25;
+    transform: scaleX(0.6);
+  }
+}
+.driving #app {
+  background: linear-gradient(
+    0deg,
+    #16272c66,
+    transparent 24%,
+    transparent 78%,
+    #16272c55
+  );
+}
+.driving .weather {
+  display: inline-flex;
+}
+.journey-top {
+  position: absolute;
+  top: 103px;
+  left: 3.5vw;
+  display: flex;
+  gap: 22px;
+  align-items: center;
+  font-size: 12px;
+  letter-spacing: 1px;
+}
+.glass-button {
+  padding: 10px 15px;
+  background: #263c3988;
+  backdrop-filter: blur(16px);
+  font-size: 12px;
+}
+.glass-button svg {
+  width: 17px;
+  height: 17px;
+}
+.mini-wrap {
+  position: absolute;
+  right: 3.5vw;
+  top: 112px;
+  width: 210px;
+  background: #eeeede;
+  color: #30453a;
+  box-shadow: 0 8px 28px #18272526;
+}
+.mini-wrap canvas {
+  display: block;
+  width: 210px;
+  height: 170px;
+}
+.mini-wrap > div {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  font-size: 10px;
+}
+.landmark-note {
+  position: absolute;
+  left: 3.5vw;
+  bottom: 185px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  text-shadow: 0 1px 8px #112825;
+  gap: 8px;
+}
+.landmark-note > span {
+  font-size: 10px;
+  letter-spacing: 1px;
+}
+.landmark-note strong {
+  font-family: "Songti SC", serif;
+  font-size: 25px;
+  font-weight: 500;
+  display: flex;
+  gap: 18px;
+  align-items: center;
+}
+.landmark-note svg {
+  width: 18px;
+  height: 18px;
+}
+.drive-dock {
+  position: absolute;
+  left: 50%;
+  bottom: 65px;
+  transform: translateX(-50%);
+  width: min(630px, 92vw);
+  background: #f0f0e6f0;
+  backdrop-filter: blur(20px);
+  color: #2c4137;
+  box-shadow: 0 10px 40px #112a3524;
+}
+.drive-progress {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  font-size: 10px;
+  letter-spacing: 0.6px;
+  padding: 12px 20px 11px;
+}
+.progress-track {
+  height: 2px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #ccd4c9;
+}
+.progress-track i {
+  display: block;
+  background: #476e59;
+  height: 100%;
+  width: 0;
+}
+.drive-controls {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: space-around;
+  height: 67px;
+  padding: 8px 15px;
+}
+.drive-controls .icon-button:hover {
+  background: #d6dfd5;
+}
+.speed {
+  display: flex;
+  gap: 5px;
+  align-items: baseline;
+  min-width: 67px;
+}
+.speed strong {
+  font-size: 27px;
+  font-weight: 400;
+  font-variant-numeric: tabular-nums;
+}
+.speed span {
+  font-size: 9px;
+}
+.dock-divider {
+  width: 1px;
+  height: 26px;
+  background: #c1cbbe;
+}
+.dock-button {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 9px;
+  min-width: 58px;
+}
+.dock-button b {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+}
+.dock-button svg {
+  height: 21px;
+}
+.keyboard-hint {
+  position: absolute;
+  left: 50%;
+  bottom: 31px;
+  transform: translateX(-50%);
+  font-size: 10px;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+  opacity: 0.8;
+}
+.panel {
+  border: 0;
+  background: #f3f1e8;
+  color: #293f35;
+  padding: 30px 36px;
+  width: min(580px, calc(100vw - 32px));
+  max-height: calc(100dvh - 60px);
+  overflow: auto;
+  box-shadow: 0 20px 100px #0d25294d;
+}
+.panel.wide {
+  width: min(1020px, calc(100vw - 48px));
+}
+.panel::backdrop {
+  background: #0b242980;
+  backdrop-filter: blur(12px);
+}
+.panel-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 25px;
+}
+.panel-heading h2 {
+  font-family: "Songti SC", serif;
+  font-size: 29px;
+  font-weight: 500;
+  margin: 9px 0;
+}
+.panel-heading .eyebrow {
+  font-size: 9px;
+}
+.panel .icon-button:hover {
+  background: #dce0d6;
+}
+.panel-intro {
+  font-size: 11px;
+  color: #617268;
+  margin: 10px 0 25px;
+}
+.garage-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 14px;
+}
+.garage-car {
+  background: #e7e9e0;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  text-align: left;
+  gap: 5px;
+  padding: 12px 12px 15px;
+  outline: 1px solid transparent;
+  outline-offset: -1px;
+  min-width: 0;
+}
+.garage-car.selected {
+  outline: 2px solid #46694f;
+  background: #e0e7da;
+}
+.garage-car:hover {
+  background: #d9e2d4;
+}
+.car-category {
+  font-size: 10px;
+  color: #63705e;
+}
+.garage-car img {
+  width: 100%;
+  height: 91px;
+  object-fit: contain;
+}
+.garage-car strong {
+  font-size: 13px;
+  font-weight: 500;
+}
+.garage-car small {
+  font-size: 8px;
+  line-height: 1.5;
+  min-height: 24px;
+  color: #5e7063;
+}
+.car-dimensions {
+  font-size: 7px;
+  white-space: nowrap;
+  opacity: 0.6;
+}
+.car-dynamics {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-top: 6px;
+  padding-top: 8px;
+  border-top: 1px solid #293f352e;
+  white-space: normal;
+}
+.car-acceleration {
+  font-size: 10px;
+  line-height: 1.6;
+  font-variant-numeric: tabular-nums;
+  color: #293f35;
+}
+.car-character {
+  font-size: 10px;
+  line-height: 1.6;
+  color: #5e7063;
+}
+.panel-foot.garage-measurement {
+  opacity: 1;
+  color: #5e7063;
+}
+.panel-foot {
+  font-size: 10px;
+  line-height: 1.8;
+  opacity: 0.65;
+  margin-top: 23px;
+}
+.reading {
+  font-size: 13px;
+  line-height: 1.9;
+  color: #4e6255;
+}
+.reading h3 {
+  font-size: 14px;
+  font-weight: 500;
+  margin: 24px 0 8px;
+  color: #263d31;
+}
+.reading a {
+  text-underline-offset: 4px;
+}
+.reading .primary {
+  background: #314c3d;
+  color: #fff;
+  margin: 12px 0;
+}
+.source-cars a {
+  display: flex;
+  justify-content: space-between;
+  text-decoration: none;
+  border-bottom: 1px solid #d6ddcf;
+  padding: 8px 0;
+  font-size: 12px;
+}
+.quality-label {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 26px;
+  align-items: center;
+}
+.quality-label select {
+  background: #e0e6d9;
+  border: 0;
+  padding: 10px;
+  color: #2e483b;
+}
+.place-meta {
+  font-size: 11px;
+  color: #84907d;
+  letter-spacing: 1px;
+}
+.end-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.toast {
+  position: absolute;
+  bottom: 190px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #243e35ee;
+  padding: 13px 24px;
+  font-size: 12px;
+  max-width: 90vw;
+  text-align: center;
+}
+.restore-ui {
+  position: absolute;
+  right: 25px;
+  top: 25px;
+}
+.photo-mode .topbar,
+.photo-mode .home,
+.photo-mode .journey,
+.photo-mode .credits {
+  display: none;
+}
+.photo-mode #app {
+  background: none;
+}
+.touch-controls {
+  display: none;
+}
+.loading .primary {
+  background: #304b3f;
+  color: #fff;
+  margin-top: 20px;
+}
+@media (min-width: 1400px) {
+  .departure {
+    bottom: 88px;
+  }
+  .intro {
+    top: 22%;
+  }
+  .chosen-car {
+    width: 330px;
+  }
+  .car-portrait {
+    height: 165px;
+  }
+}
+@media (max-height: 740px) and (min-width: 701px) {
+  .intro {
+    top: 17%;
+  }
+  .intro h1 {
+    font-size: 55px;
+    margin: 13px 0;
+  }
+  .intro p {
+    font-size: 11px;
+  }
+  .departure {
+    bottom: 56px;
+  }
+  .chosen-car {
+    bottom: 72px;
+  }
+  .mini-wrap {
+    top: 100px;
+    width: 170px;
+  }
+  .mini-wrap canvas {
+    width: 170px;
+    height: 137px;
+  }
+}
+@media (max-width: 900px) {
+  .garage-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .route-length {
+    display: none;
+  }
+  .chosen-car {
+    right: 4vw;
+    width: 220px;
+  }
+  .intro {
+    left: 5vw;
+  }
+  .departure {
+    left: 5vw;
+    width: 53vw;
+  }
+  .departure-actions {
+    gap: 17px;
+  }
+  .primary {
+    gap: 20px;
+  }
+  .mini-wrap {
+    width: 160px;
+  }
+  .mini-wrap canvas {
+    width: 160px;
+    height: 130px;
+  }
+}
+@media (max-width: 700px) {
+  .topbar {
+    left: 22px;
+    right: 18px;
+    top: 22px;
+  }
+  .wordmark {
+    font-size: 16px;
+    gap: 10px;
+  }
+  .brand-mark {
+    height: 36px;
+    width: 36px;
+    font-size: 23px;
+  }
+  .wordmark small {
+    font-size: 6px;
+    letter-spacing: 1.5px;
+  }
+  .weather {
+    display: inline-flex;
+    font-size: 10px;
+    max-width: 64px;
+    line-height: 1.5;
+  }
+  .top-actions {
+    gap: 2px;
+  }
+  .icon-button {
+    width: 38px;
+    height: 38px;
+  }
+  .intro {
+    top: 17%;
+    left: 26px;
+  }
+  .intro h1 {
+    font-size: 51px;
+    margin: 13px 0;
+  }
+  .intro p {
+    font-size: 11px;
+    line-height: 1.7;
+  }
+  .eyebrow {
+    font-size: 9px;
+    letter-spacing: 2px;
+  }
+  .departure {
+    left: 26px;
+    right: 26px;
+    width: auto;
+    bottom: 65px;
+  }
+  .section-label {
+    font-size: 10px;
+  }
+  .routes {
+    gap: 16px;
+  }
+  .route-card {
+    gap: 7px;
+  }
+  .route-card strong {
+    font-size: 15px;
+  }
+  .route-card small {
+    font-size: 9px;
+  }
+  .route-card .route-number {
+    font-size: 10px;
+  }
+  .departure-actions {
+    gap: 25px;
+  }
+  .departure-note {
+    font-size: 9px;
+  }
+  .chosen-car {
+    width: 150px;
+    right: 22px;
+    bottom: 285px;
+  }
+  .car-portrait {
+    height: 80px;
+    margin: 0;
+  }
+  .car-label {
+    font-size: 8px;
+    padding-bottom: 5px;
+  }
+  .chosen-car strong {
+    font-size: 18px;
+    margin-top: 7px;
+  }
+  .chosen-car > small {
+    font-size: 8px;
+    max-width: 150px;
+  }
+  .credits {
+    font-size: 7px;
+    left: 23px;
+    right: 23px;
+    bottom: 21px;
+  }
+  .credits button {
+    font-size: 8px;
+  }
+  #app {
+    background:
+      linear-gradient(90deg, #142c315c, transparent 90%),
+      linear-gradient(0deg, #142c31cc, transparent 62%, #142c3122);
+  }
+  .journey-top {
+    left: 20px;
+    top: 86px;
+    gap: 14px;
+    font-size: 10px;
+  }
+  .glass-button {
+    padding: 9px 12px;
+    font-size: 10px;
+  }
+  .journey-top > span {
+    display: none;
+  }
+  .mini-wrap {
+    top: 87px;
+    right: 20px;
+    width: 123px;
+  }
+  .mini-wrap canvas {
+    width: 123px;
+    height: 100px;
+  }
+  .mini-wrap > div {
+    font-size: 8px;
+    padding: 7px;
+  }
+  .landmark-note {
+    bottom: 205px;
+    left: 22px;
+  }
+  .landmark-note strong {
+    font-size: 21px;
+  }
+  .landmark-note > span {
+    font-size: 9px;
+  }
+  .drive-dock {
+    bottom: 68px;
+    width: calc(100vw - 32px);
+  }
+  .drive-controls {
+    height: 63px;
+    padding: 8px 6px;
+    gap: 2px;
+  }
+  .drive-controls .icon-button {
+    width: 31px;
+    height: 35px;
+  }
+  .speed {
+    min-width: 48px;
+    gap: 3px;
+  }
+  .speed strong {
+    font-size: 22px;
+  }
+  .speed span {
+    font-size: 7px;
+  }
+  .dock-button {
+    min-width: 45px;
+    font-size: 8px;
+  }
+  .dock-button svg {
+    width: 19px;
+  }
+  .dock-divider {
+    display: none;
+  }
+  .keyboard-hint {
+    bottom: 36px;
+    font-size: 8px;
+  }
+  .drive-progress {
+    font-size: 9px;
+    padding: 11px 15px;
+  }
+  .panel,
+  .panel.wide {
+    padding: 22px 20px;
+    max-height: calc(100dvh - 32px);
+    width: calc(100vw - 28px);
+  }
+  .panel-heading h2 {
+    font-size: 25px;
+  }
+  .garage-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+  .garage-car {
+    padding: 10px;
+  }
+  .garage-car img {
+    height: 90px;
+  }
+  .garage-car small {
+    font-size: 9px;
+  }
+  .car-dimensions {
+    font-size: 7px;
+  }
+  .panel-intro {
+    font-size: 10px;
+    line-height: 1.7;
+  }
+  .touch-controls {
+    position: absolute;
+    bottom: 190px;
+    left: 18px;
+    right: 18px;
+    display: flex;
+    justify-content: space-between;
+    pointer-events: none;
+  }
+  .touch-controls > div {
+    display: flex;
+    gap: 8px;
+  }
+  .touch-controls button {
+    width: 47px;
+    height: 47px;
+    border: 1px solid #ffffff77;
+    background: #22392d99;
+    border-radius: 50%;
+    font-size: 12px;
+    touch-action: none;
+    pointer-events: auto;
+  }
+  .journey:has(.touch-controls:not([hidden])) .landmark-note {
+    bottom: 265px;
+  }
+  .toast {
+    bottom: 270px;
+    width: 85vw;
+  }
+  .end-actions {
+    flex-wrap: wrap;
+  }
+  .restore-ui {
+    right: 20px;
+    top: 20px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}

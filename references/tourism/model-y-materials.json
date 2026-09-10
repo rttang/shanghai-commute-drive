@@ -1,0 +1,2209 @@
+{
+  "car": "model-y",
+  "sourceYear": 2021,
+  "appearanceFamily": "2020–2024 original exterior; retained source wheel variant",
+  "method": "Explicit source-material mapping reviewed against real exterior photographs; no random recolouring",
+  "source": {
+    "source": "https://sketchfab.com/3d-models/tesla-model-y-bc8ac22c744b4d11b92f2f31ab0297d0",
+    "author": "Nieve5677",
+    "license": "CC-BY-4.0",
+    "file": "original.zip",
+    "bytes": 12321516,
+    "sha256": "cb73adcc0aa9d2ab3e5e5e53b376e1e4fd008f43f14e00117d6353d241d5e043",
+    "mainDiskTemporary": "/Users/maiziheng/Downloads/tesla_model_y.zip",
+    "verifiedBeforeUnlink": true,
+    "mainDiskCopyRemoved": true
+  },
+  "parts": [
+    {
+      "mesh": "desirefx.me_001_wire_126170208_0_body",
+      "sourceMaterials": [
+        "wire_126170208"
+      ],
+      "semanticMaterials": [
+        "panoramic-glass"
+      ],
+      "triangles": 414,
+      "boundsBlender": [
+        [
+          -0.6165552735328674,
+          -1.3511958122253418,
+          1.4750863313674927
+        ],
+        [
+          0.6165533661842346,
+          0.23411254584789276,
+          1.6125329732894897
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_002_wire_184209127_0_body",
+      "sourceMaterials": [
+        "wire_184209127"
+      ],
+      "semanticMaterials": [
+        "underbody-polymer"
+      ],
+      "triangles": 4035,
+      "boundsBlender": [
+        [
+          -0.9501075148582458,
+          -2.375,
+          0.15108388662338257
+        ],
+        [
+          0.950108528137207,
+          2.35841965675354,
+          0.8317803740501404
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_003_wire_131210127_0_body",
+      "sourceMaterials": [
+        "wire_131210127"
+      ],
+      "semanticMaterials": [
+        "privacy-glass"
+      ],
+      "triangles": 1781,
+      "boundsBlender": [
+        [
+          -0.7255757451057434,
+          -2.149951457977295,
+          1.0089906454086304
+        ],
+        [
+          0.7255765795707703,
+          1.275537371635437,
+          1.5506449937820435
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_004_wire_126166208_0_body",
+      "sourceMaterials": [
+        "wire_126166208"
+      ],
+      "semanticMaterials": [
+        "black-window-trim"
+      ],
+      "triangles": 224,
+      "boundsBlender": [
+        [
+          -0.7972221970558167,
+          -0.4266415536403656,
+          1.1061605215072632
+        ],
+        [
+          0.7972199320793152,
+          -0.20758020877838135,
+          1.5315847396850586
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_006_wire_122193202_0_body",
+      "sourceMaterials": [
+        "wire_122193202"
+      ],
+      "semanticMaterials": [
+        "chrome-emblem"
+      ],
+      "triangles": 638,
+      "boundsBlender": [
+        [
+          -0.0448840856552124,
+          2.1660683155059814,
+          0.7920563817024231
+        ],
+        [
+          0.044886957854032516,
+          2.244663953781128,
+          0.8339683413505554
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_007_wire_226164137_0_body",
+      "sourceMaterials": [
+        "wire_226164137"
+      ],
+      "semanticMaterials": [
+        "pearl-white-paint"
+      ],
+      "triangles": 3642,
+      "boundsBlender": [
+        [
+          -1.0645222663879395,
+          0.6233060359954834,
+          1.0204110145568848
+        ],
+        [
+          1.0645222663879395,
+          1.283000111579895,
+          1.2065638303756714
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_008_wire_228138153_0_body",
+      "sourceMaterials": [
+        "wire_228138153"
+      ],
+      "semanticMaterials": [
+        "camera-housing"
+      ],
+      "triangles": 559,
+      "boundsBlender": [
+        [
+          -0.9313756823539734,
+          1.0348048210144043,
+          0.8013448119163513
+        ],
+        [
+          0.9313768744468689,
+          1.1862930059432983,
+          0.8670392036437988
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_009_wire_238144228_0_body",
+      "sourceMaterials": [
+        "wire_238144228"
+      ],
+      "semanticMaterials": [
+        "black-window-trim"
+      ],
+      "triangles": 3338,
+      "boundsBlender": [
+        [
+          -0.8168673515319824,
+          -1.6482913494110107,
+          1.0567536354064941
+        ],
+        [
+          0.8168652057647705,
+          0.9236377477645874,
+          1.5505754947662354
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_014_wire_172204124_0_body",
+      "sourceMaterials": [
+        "wire_172204124"
+      ],
+      "semanticMaterials": [
+        "camera-housing"
+      ],
+      "triangles": 473,
+      "boundsBlender": [
+        [
+          -0.9291504621505737,
+          1.0362904071807861,
+          0.81154865026474
+        ],
+        [
+          0.9291514158248901,
+          1.1216496229171753,
+          0.8654723167419434
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_015_wire_145219133_0_body",
+      "sourceMaterials": [
+        "wire_145219133"
+      ],
+      "semanticMaterials": [
+        "camera-housing"
+      ],
+      "triangles": 32,
+      "boundsBlender": [
+        [
+          -0.924660861492157,
+          1.087433099746704,
+          0.8297947645187378
+        ],
+        [
+          0.9246619343757629,
+          1.0941447019577026,
+          0.844308614730835
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_016_wire_122201175_0_body",
+      "sourceMaterials": [
+        "wire_122201175"
+      ],
+      "semanticMaterials": [
+        "rear-wiper"
+      ],
+      "triangles": 8,
+      "boundsBlender": [
+        [
+          -0.5670113563537598,
+          -1.4319534301757812,
+          1.376391053199768
+        ],
+        [
+          0.558340847492218,
+          -1.3256988525390625,
+          1.432970643043518
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_018_wire_121191200_0_FL",
+      "sourceMaterials": [
+        "wire_121191200"
+      ],
+      "semanticMaterials": [
+        "brake-cast-metal"
+      ],
+      "triangles": 10001,
+      "boundsBlender": [
+        [
+          -0.9158165454864502,
+          1.283109188079834,
+          0.18735459446907043
+        ],
+        [
+          -0.7633845806121826,
+          1.384559154510498,
+          0.5354952812194824
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_019_wire_213204129_0_FL",
+      "sourceMaterials": [
+        "wire_213204129"
+      ],
+      "semanticMaterials": [
+        "wheel-fasteners"
+      ],
+      "triangles": 280,
+      "boundsBlender": [
+        [
+          -0.9122610688209534,
+          1.4239857196807861,
+          0.2910655736923218
+        ],
+        [
+          -0.8712226152420044,
+          1.5725085735321045,
+          0.4394018054008484
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_020_wire_136225142_0_FL",
+      "sourceMaterials": [
+        "wire_136225142"
+      ],
+      "semanticMaterials": [
+        "graphite-alloy"
+      ],
+      "triangles": 2996,
+      "boundsBlender": [
+        [
+          -0.9530051946640015,
+          1.4353145360946655,
+          0.3022896349430084
+        ],
+        [
+          -0.9419863224029541,
+          1.5611971616744995,
+          0.4281807541847229
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_021_wire_208231140_0_FL",
+      "sourceMaterials": [
+        "wire_208231140"
+      ],
+      "semanticMaterials": [
+        "graphite-alloy"
+      ],
+      "triangles": 15654,
+      "boundsBlender": [
+        [
+          -0.951678991317749,
+          1.1995136737823486,
+          0.06648123264312744
+        ],
+        [
+          -0.6477485299110413,
+          1.796983003616333,
+          0.6639189720153809
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_022_wire_121191200_0_FL",
+      "sourceMaterials": [
+        "wire_121191200"
+      ],
+      "semanticMaterials": [
+        "brake-cast-metal"
+      ],
+      "triangles": 3408,
+      "boundsBlender": [
+        [
+          -0.8727101683616638,
+          1.2948123216629028,
+          0.16205623745918274
+        ],
+        [
+          -0.8147490620613098,
+          1.7016791105270386,
+          0.5684112906455994
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_023_wire_181229139_0_FL",
+      "sourceMaterials": [
+        "wire_181229139"
+      ],
+      "semanticMaterials": [
+        "tire-rubber"
+      ],
+      "triangles": 24354,
+      "boundsBlender": [
+        [
+          -0.9357149004936218,
+          1.141392707824707,
+          0.0083809494972229
+        ],
+        [
+          -0.6473259329795837,
+          1.8634796142578125,
+          0.7305607795715332
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_023_wire_181229139_0.001_FL",
+      "sourceMaterials": [
+        "wire_181229139"
+      ],
+      "semanticMaterials": [
+        "tire-rubber"
+      ],
+      "triangles": 23714,
+      "boundsBlender": [
+        [
+          -0.9357149600982666,
+          1.1329573392868042,
+          3.8743019104003906e-07
+        ],
+        [
+          -0.6473260521888733,
+          1.8431755304336548,
+          0.7101547718048096
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_024_wire_224136177_0_RL",
+      "sourceMaterials": [
+        "wire_224136177"
+      ],
+      "semanticMaterials": [
+        "brake-cast-metal"
+      ],
+      "triangles": 3168,
+      "boundsBlender": [
+        [
+          -0.8536116480827332,
+          -1.5850902795791626,
+          0.1849164515733719
+        ],
+        [
+          -0.8040585517883301,
+          -1.224908709526062,
+          0.5455522537231445
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_029_wire_128211137_0_body",
+      "sourceMaterials": [
+        "wire_128211137"
+      ],
+      "semanticMaterials": [
+        "rear-wiper"
+      ],
+      "triangles": 373,
+      "boundsBlender": [
+        [
+          -0.5502105951309204,
+          -1.3499436378479004,
+          1.4264968633651733
+        ],
+        [
+          0.5502055287361145,
+          -1.3173567056655884,
+          1.503121256828308
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_030_wire_139177229_0_RL",
+      "sourceMaterials": [
+        "wire_139177229"
+      ],
+      "semanticMaterials": [
+        "tire-rubber"
+      ],
+      "triangles": 24379,
+      "boundsBlender": [
+        [
+          -0.9357185363769531,
+          -1.7618541717529297,
+          0.008380532264709473
+        ],
+        [
+          -0.6473294496536255,
+          -1.0397669076919556,
+          0.7305604815483093
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_030_wire_139177229_0.001_RL",
+      "sourceMaterials": [
+        "wire_139177229"
+      ],
+      "semanticMaterials": [
+        "tire-rubber"
+      ],
+      "triangles": 23689,
+      "boundsBlender": [
+        [
+          -0.9357184767723083,
+          -1.770285725593567,
+          -2.321600914001465e-05
+        ],
+        [
+          -0.6473297476768494,
+          -1.0600709915161133,
+          0.7101543545722961
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_031_wire_237183144_0_RL",
+      "sourceMaterials": [
+        "wire_237183144"
+      ],
+      "semanticMaterials": [
+        "graphite-alloy"
+      ],
+      "triangles": 2996,
+      "boundsBlender": [
+        [
+          -0.9530090689659119,
+          -1.467932105064392,
+          0.3022894263267517
+        ],
+        [
+          -0.9419902563095093,
+          -1.342049241065979,
+          0.4281805753707886
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_032_wire_203123149_0_RL",
+      "sourceMaterials": [
+        "wire_203123149"
+      ],
+      "semanticMaterials": [
+        "graphite-alloy"
+      ],
+      "triangles": 15654,
+      "boundsBlender": [
+        [
+          -0.9516828656196594,
+          -1.7037328481674194,
+          0.0664808452129364
+        ],
+        [
+          -0.6477521657943726,
+          -1.106263279914856,
+          0.6639187932014465
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_033_wire_122183201_0_RL",
+      "sourceMaterials": [
+        "wire_122183201"
+      ],
+      "semanticMaterials": [
+        "wheel-fasteners"
+      ],
+      "triangles": 200,
+      "boundsBlender": [
+        [
+          -0.893511176109314,
+          -1.5188738107681274,
+          0.25150266289711
+        ],
+        [
+          -0.8823966979980469,
+          -1.2911255359649658,
+          0.47896483540534973
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_034_wire_203233141_0_RL",
+      "sourceMaterials": [
+        "wire_203233141"
+      ],
+      "semanticMaterials": [
+        "brake-cast-metal"
+      ],
+      "triangles": 6460,
+      "boundsBlender": [
+        [
+          -0.8861719369888306,
+          -1.6065431833267212,
+          0.2801099121570587
+        ],
+        [
+          -0.7721154093742371,
+          -1.4552768468856812,
+          0.5674934387207031
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_035_wire_142235153_0_body",
+      "sourceMaterials": [
+        "wire_142235153"
+      ],
+      "semanticMaterials": [
+        "fog-lamp-bezel"
+      ],
+      "triangles": 68,
+      "boundsBlender": [
+        [
+          -0.8659141659736633,
+          2.0438313484191895,
+          0.4349094331264496
+        ],
+        [
+          0.8659173250198364,
+          2.2526304721832275,
+          0.4940730929374695
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_036_wire_132218134_0_body",
+      "sourceMaterials": [
+        "wire_132218134"
+      ],
+      "semanticMaterials": [
+        "headlamp-led"
+      ],
+      "triangles": 4,
+      "boundsBlender": [
+        [
+          -0.8123621344566345,
+          2.072972059249878,
+          0.43299543857574463
+        ],
+        [
+          0.8123655319213867,
+          2.214921236038208,
+          0.4392623007297516
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_037_wire_238144223_0_body",
+      "sourceMaterials": [
+        "wire_238144223"
+      ],
+      "semanticMaterials": [
+        "headlamp-cover"
+      ],
+      "triangles": 1035,
+      "boundsBlender": [
+        [
+          -0.8449883460998535,
+          1.7499719858169556,
+          0.7317134737968445
+        ],
+        [
+          0.8449908494949341,
+          2.1985089778900146,
+          0.9367706775665283
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_038_wire_158136224_0_body",
+      "sourceMaterials": [
+        "wire_158136224"
+      ],
+      "semanticMaterials": [
+        "headlamp-black-bezel"
+      ],
+      "triangles": 65,
+      "boundsBlender": [
+        [
+          -0.8486870527267456,
+          1.7569724321365356,
+          0.7665945887565613
+        ],
+        [
+          0.8486894965171814,
+          2.160163640975952,
+          0.9168897867202759
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_039_wire_211234142_0_body",
+      "sourceMaterials": [
+        "wire_211234142"
+      ],
+      "semanticMaterials": [
+        "headlamp-led"
+      ],
+      "triangles": 90,
+      "boundsBlender": [
+        [
+          -0.8170470595359802,
+          1.9293932914733887,
+          0.7784254550933838
+        ],
+        [
+          0.8170502185821533,
+          1.9928094148635864,
+          0.7872656583786011
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_040_wire_222134208_0_body",
+      "sourceMaterials": [
+        "wire_222134208"
+      ],
+      "semanticMaterials": [
+        "headlamp-reflector"
+      ],
+      "triangles": 131,
+      "boundsBlender": [
+        [
+          -0.8267857432365417,
+          1.8835784196853638,
+          0.7741471529006958
+        ],
+        [
+          0.8267885446548462,
+          1.993627667427063,
+          0.8580500483512878
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_041_wire_129124204_0_body",
+      "sourceMaterials": [
+        "wire_129124204"
+      ],
+      "semanticMaterials": [
+        "headlamp-reflector"
+      ],
+      "triangles": 4,
+      "boundsBlender": [
+        [
+          -0.7802634239196777,
+          1.906714916229248,
+          0.8368198871612549
+        ],
+        [
+          0.780266284942627,
+          1.9653853178024292,
+          0.8609038591384888
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_043_wire_176215130_0_body",
+      "sourceMaterials": [
+        "wire_176215130"
+      ],
+      "semanticMaterials": [
+        "headlamp-led"
+      ],
+      "triangles": 66,
+      "boundsBlender": [
+        [
+          -0.8367767930030823,
+          1.7843331098556519,
+          0.7724478244781494
+        ],
+        [
+          0.8367795348167419,
+          2.003019094467163,
+          0.8878595232963562
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_044_wire_231144237_0_FR",
+      "sourceMaterials": [
+        "wire_231144237"
+      ],
+      "semanticMaterials": [
+        "tire-rubber"
+      ],
+      "triangles": 24290,
+      "boundsBlender": [
+        [
+          0.6473287343978882,
+          1.141390323638916,
+          0.008381366729736328
+        ],
+        [
+          0.9357171058654785,
+          1.8634779453277588,
+          0.7304708361625671
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_044_wire_231144237_0.001_FR",
+      "sourceMaterials": [
+        "wire_231144237"
+      ],
+      "semanticMaterials": [
+        "tire-rubber"
+      ],
+      "triangles": 23778,
+      "boundsBlender": [
+        [
+          0.6473284363746643,
+          1.133007287979126,
+          -2.0712614059448242e-05
+        ],
+        [
+          0.9357171654701233,
+          1.8431724309921265,
+          0.7101550102233887
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_045_wire_221169134_0_FR",
+      "sourceMaterials": [
+        "wire_221169134"
+      ],
+      "semanticMaterials": [
+        "brake-cast-metal"
+      ],
+      "triangles": 9810,
+      "boundsBlender": [
+        [
+          0.7633854150772095,
+          1.2831066846847534,
+          0.18735477328300476
+        ],
+        [
+          0.9158174395561218,
+          1.384556531906128,
+          0.5354954600334167
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_046_wire_209127165_0_FR",
+      "sourceMaterials": [
+        "wire_209127165"
+      ],
+      "semanticMaterials": [
+        "graphite-alloy"
+      ],
+      "triangles": 2996,
+      "boundsBlender": [
+        [
+          0.9419883489608765,
+          1.435312271118164,
+          0.3022899627685547
+        ],
+        [
+          0.953007161617279,
+          1.5611950159072876,
+          0.42818108201026917
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_047_wire_123160203_0_FR",
+      "sourceMaterials": [
+        "wire_123160203"
+      ],
+      "semanticMaterials": [
+        "graphite-alloy"
+      ],
+      "triangles": 15654,
+      "boundsBlender": [
+        [
+          0.6477505564689636,
+          1.1995115280151367,
+          0.06648138165473938
+        ],
+        [
+          0.9516810178756714,
+          1.796980857849121,
+          0.6639192700386047
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_048_wire_221169134_0_FR",
+      "sourceMaterials": [
+        "wire_221169134"
+      ],
+      "semanticMaterials": [
+        "brake-cast-metal"
+      ],
+      "triangles": 2858,
+      "boundsBlender": [
+        [
+          0.7820588946342468,
+          1.293168544769287,
+          0.16205617785453796
+        ],
+        [
+          0.9122629761695862,
+          1.701676368713379,
+          0.5684112906455994
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_049_wire_234170142_0_body",
+      "sourceMaterials": [
+        "wire_234170142"
+      ],
+      "semanticMaterials": [
+        "rear-reflector"
+      ],
+      "triangles": 120,
+      "boundsBlender": [
+        [
+          -0.6292657852172852,
+          -2.34329891204834,
+          0.5047653913497925
+        ],
+        [
+          0.6292588710784912,
+          -2.2476186752319336,
+          0.55470871925354
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_051_wire_133220182_0_RR",
+      "sourceMaterials": [
+        "wire_133220182"
+      ],
+      "semanticMaterials": [
+        "tire-rubber"
+      ],
+      "triangles": 24372,
+      "boundsBlender": [
+        [
+          0.6473249793052673,
+          -1.7618563175201416,
+          0.008380740880966187
+        ],
+        [
+          0.9357134103775024,
+          -1.0397690534591675,
+          0.7304826974868774
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_051_wire_133220182_0.001_RR",
+      "sourceMaterials": [
+        "wire_133220182"
+      ],
+      "semanticMaterials": [
+        "tire-rubber"
+      ],
+      "triangles": 23695,
+      "boundsBlender": [
+        [
+          0.6473247408866882,
+          -1.7702926397323608,
+          -1.9788742065429688e-05
+        ],
+        [
+          0.9357134699821472,
+          -1.060073971748352,
+          0.7101545929908752
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_052_wire_134222196_0_RR",
+      "sourceMaterials": [
+        "wire_134222196"
+      ],
+      "semanticMaterials": [
+        "graphite-alloy"
+      ],
+      "triangles": 2996,
+      "boundsBlender": [
+        [
+          0.9419851899147034,
+          -1.467934489250183,
+          0.30228978395462036
+        ],
+        [
+          0.9530040621757507,
+          -1.3420517444610596,
+          0.42818090319633484
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_053_wire_122201198_0_RR",
+      "sourceMaterials": [
+        "wire_122201198"
+      ],
+      "semanticMaterials": [
+        "graphite-alloy"
+      ],
+      "triangles": 15654,
+      "boundsBlender": [
+        [
+          0.6477471590042114,
+          -1.7037354707717896,
+          0.06648120284080505
+        ],
+        [
+          0.9516777396202087,
+          -1.106265902519226,
+          0.6639191508293152
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_054_wire_125133207_0_RR",
+      "sourceMaterials": [
+        "wire_125133207"
+      ],
+      "semanticMaterials": [
+        "brake-cast-metal"
+      ],
+      "triangles": 3368,
+      "boundsBlender": [
+        [
+          0.8040533065795898,
+          -1.5850930213928223,
+          0.18491637706756592
+        ],
+        [
+          0.893505871295929,
+          -1.2249115705490112,
+          0.5455522537231445
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_055_wire_189131217_0_RR",
+      "sourceMaterials": [
+        "wire_189131217"
+      ],
+      "semanticMaterials": [
+        "brake-cast-metal"
+      ],
+      "triangles": 6460,
+      "boundsBlender": [
+        [
+          0.7721094489097595,
+          -1.6065452098846436,
+          0.2801096439361572
+        ],
+        [
+          0.886165976524353,
+          -1.455278754234314,
+          0.567493200302124
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_057_wire_185142234_0_body",
+      "sourceMaterials": [
+        "wire_185142234"
+      ],
+      "semanticMaterials": [
+        "underbody-polymer"
+      ],
+      "triangles": 3125,
+      "boundsBlender": [
+        [
+          -0.8108317852020264,
+          -1.4387925863265991,
+          0.3224230110645294
+        ],
+        [
+          0.8110026121139526,
+          1.103742003440857,
+          1.532865047454834
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_057_wire_185142234_0.001_body",
+      "sourceMaterials": [
+        "wire_185142234"
+      ],
+      "semanticMaterials": [
+        "underbody-polymer"
+      ],
+      "triangles": 2628,
+      "boundsBlender": [
+        [
+          -0.8114776015281677,
+          -2.125863552093506,
+          0.3224218487739563
+        ],
+        [
+          0.8114738464355469,
+          1.1037403345108032,
+          1.1157405376434326
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_058_wire_238144217_0_body",
+      "sourceMaterials": [
+        "wire_238144217"
+      ],
+      "semanticMaterials": [
+        "underbody-polymer"
+      ],
+      "triangles": 36,
+      "boundsBlender": [
+        [
+          0.7560919523239136,
+          0.24309197068214417,
+          0.2944076359272003
+        ],
+        [
+          0.8006759881973267,
+          0.7394828796386719,
+          0.31238865852355957
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_059_wire_141141232_0_body",
+      "sourceMaterials": [
+        "wire_141141232"
+      ],
+      "semanticMaterials": [
+        "camera-housing"
+      ],
+      "triangles": 11,
+      "boundsBlender": [
+        [
+          -0.6007369160652161,
+          -0.28716322779655457,
+          1.509344220161438
+        ],
+        [
+          -0.5905619859695435,
+          -0.2751558721065521,
+          1.5102416276931763
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_062_wire_209142127_0_body",
+      "sourceMaterials": [
+        "wire_209142127"
+      ],
+      "semanticMaterials": [
+        "underbody-polymer"
+      ],
+      "triangles": 36,
+      "boundsBlender": [
+        [
+          -0.8006769418716431,
+          0.24309366941452026,
+          0.2944074273109436
+        ],
+        [
+          -0.756092369556427,
+          0.7394846081733704,
+          0.31238844990730286
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_066_wire_127177209_0_body",
+      "sourceMaterials": [
+        "wire_127177209"
+      ],
+      "semanticMaterials": [
+        "tail-lamp-lens"
+      ],
+      "triangles": 784,
+      "boundsBlender": [
+        [
+          -0.7924931645393372,
+          -2.068460464477539,
+          0.9884918928146362
+        ],
+        [
+          0.7924859523773193,
+          -1.8493772745132446,
+          1.1109015941619873
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_067_wire_135223195_0_body",
+      "sourceMaterials": [
+        "wire_135223195"
+      ],
+      "semanticMaterials": [
+        "tail-lamp-led"
+      ],
+      "triangles": 299,
+      "boundsBlender": [
+        [
+          -0.7891489267349243,
+          -2.058870792388916,
+          1.0172890424728394
+        ],
+        [
+          0.7891406416893005,
+          -1.9148261547088623,
+          1.0635508298873901
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_069_wire_163140231_0_body",
+      "sourceMaterials": [
+        "wire_163140231"
+      ],
+      "semanticMaterials": [
+        "tail-lamp-bezel"
+      ],
+      "triangles": 182,
+      "boundsBlender": [
+        [
+          -0.7159584760665894,
+          -2.1652562618255615,
+          0.9597878456115723
+        ],
+        [
+          0.7159506678581238,
+          -1.9865176677703857,
+          1.1543265581130981
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_070_wire_137179227_0_body",
+      "sourceMaterials": [
+        "wire_137179227"
+      ],
+      "semanticMaterials": [
+        "pearl-white-paint"
+      ],
+      "triangles": 17823,
+      "boundsBlender": [
+        [
+          -0.9497504830360413,
+          -2.363150119781494,
+          0.2573486864566803
+        ],
+        [
+          0.9497554302215576,
+          2.375,
+          1.584226131439209
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_071_wire_126170208_0_body",
+      "sourceMaterials": [
+        "wire_126170208"
+      ],
+      "semanticMaterials": [
+        "panoramic-glass"
+      ],
+      "triangles": 980,
+      "boundsBlender": [
+        [
+          -0.6163142323493958,
+          -1.3471179008483887,
+          1.4757118225097656
+        ],
+        [
+          0.6163126230239868,
+          0.22357305884361267,
+          1.5805671215057373
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_072_wire_212224136_0_body",
+      "sourceMaterials": [
+        "wire_212224136"
+      ],
+      "semanticMaterials": [
+        "flush-handle"
+      ],
+      "triangles": 20,
+      "boundsBlender": [
+        [
+          0.8736369013786316,
+          -0.15232406556606293,
+          0.9447453618049622
+        ],
+        [
+          0.8934891819953918,
+          0.07032075524330139,
+          0.9864391684532166
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_073_wire_204124189_0_body",
+      "sourceMaterials": [
+        "wire_204124189"
+      ],
+      "semanticMaterials": [
+        "mirror-reflector"
+      ],
+      "triangles": 77,
+      "boundsBlender": [
+        [
+          0.8934593200683594,
+          0.6299974322319031,
+          1.0621992349624634
+        ],
+        [
+          1.0554524660110474,
+          0.7225770950317383,
+          1.1970266103744507
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_074_wire_136225145_0_body",
+      "sourceMaterials": [
+        "wire_136225145"
+      ],
+      "semanticMaterials": [
+        "mirror-mount"
+      ],
+      "triangles": 121,
+      "boundsBlender": [
+        [
+          0.7241109013557434,
+          0.6493042707443237,
+          1.0715785026550293
+        ],
+        [
+          0.7918438911437988,
+          0.8947545289993286,
+          1.268739104270935
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_076_wire_124180204_0_body",
+      "sourceMaterials": [
+        "wire_124180204"
+      ],
+      "semanticMaterials": [
+        "flush-handle"
+      ],
+      "triangles": 45,
+      "boundsBlender": [
+        [
+          0.8495110273361206,
+          -1.1822482347488403,
+          1.0002784729003906
+        ],
+        [
+          0.8732331991195679,
+          -0.9489094614982605,
+          1.0471365451812744
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_077_wire_219133211_0_body",
+      "sourceMaterials": [
+        "wire_219133211"
+      ],
+      "semanticMaterials": [
+        "underbody-polymer"
+      ],
+      "triangles": 43,
+      "boundsBlender": [
+        [
+          -0.827659547328949,
+          -1.1779885292053223,
+          0.6284011602401733
+        ],
+        [
+          -0.787867546081543,
+          -0.9535616636276245,
+          0.9213191866874695
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_078_wire_127209186_0_body",
+      "sourceMaterials": [
+        "wire_127209186"
+      ],
+      "semanticMaterials": [
+        "flush-handle"
+      ],
+      "triangles": 45,
+      "boundsBlender": [
+        [
+          -0.8732373118400574,
+          -1.1822479963302612,
+          1.0002789497375488
+        ],
+        [
+          -0.8495158553123474,
+          -0.9489090442657471,
+          1.0471371412277222
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_080_wire_238151144_0_body",
+      "sourceMaterials": [
+        "wire_238151144"
+      ],
+      "semanticMaterials": [
+        "flush-handle"
+      ],
+      "triangles": 20,
+      "boundsBlender": [
+        [
+          -0.8934925198554993,
+          -0.1523231416940689,
+          0.9447440505027771
+        ],
+        [
+          -0.8736405372619629,
+          0.07032160460948944,
+          0.9864375591278076
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_081_wire_156232141_0_body",
+      "sourceMaterials": [
+        "wire_156232141"
+      ],
+      "semanticMaterials": [
+        "mirror-reflector"
+      ],
+      "triangles": 77,
+      "boundsBlender": [
+        [
+          -1.055453896522522,
+          0.6299986243247986,
+          1.0621988773345947
+        ],
+        [
+          -0.8934605121612549,
+          0.7225781679153442,
+          1.197026252746582
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_084_wire_238144164_0_body",
+      "sourceMaterials": [
+        "wire_238144164"
+      ],
+      "semanticMaterials": [
+        "mirror-mount"
+      ],
+      "triangles": 121,
+      "boundsBlender": [
+        [
+          -0.7918451428413391,
+          0.6493054628372192,
+          1.0715782642364502
+        ],
+        [
+          -0.724112331867218,
+          0.8947557210922241,
+          1.268738865852356
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_088_wire_238144208_0_body",
+      "sourceMaterials": [
+        "wire_238144208"
+      ],
+      "semanticMaterials": [
+        "chrome-emblem"
+      ],
+      "triangles": 430,
+      "boundsBlender": [
+        [
+          -0.044888246804475784,
+          -2.315166711807251,
+          1.0831180810928345
+        ],
+        [
+          0.04488278925418854,
+          -2.302117347717285,
+          1.1694252490997314
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_091_wire_216131131_0_body",
+      "sourceMaterials": [
+        "wire_216131131"
+      ],
+      "semanticMaterials": [
+        "reverse-lamp"
+      ],
+      "triangles": 88,
+      "boundsBlender": [
+        [
+          -0.5843807458877563,
+          -2.2636704444885254,
+          0.9616406559944153
+        ],
+        [
+          0.5843750834465027,
+          -2.180140495300293,
+          1.0005764961242676
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_097_wire_190139230_0_body",
+      "sourceMaterials": [
+        "wire_190139230"
+      ],
+      "semanticMaterials": [
+        "tail-lamp-led"
+      ],
+      "triangles": 180,
+      "boundsBlender": [
+        [
+          -0.6038039922714233,
+          -2.1927683353424072,
+          0.9597145915031433
+        ],
+        [
+          0.6037989258766174,
+          -2.1608994007110596,
+          1.1080015897750854
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_098_wire_136225221_0_body",
+      "sourceMaterials": [
+        "wire_136225221"
+      ],
+      "semanticMaterials": [
+        "tail-lamp-lens"
+      ],
+      "triangles": 757,
+      "boundsBlender": [
+        [
+          -0.785353422164917,
+          -2.2636618614196777,
+          0.954848051071167
+        ],
+        [
+          0.7853477001190186,
+          -2.0133068561553955,
+          1.110971450805664
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_099_wire_131210127_0_body",
+      "sourceMaterials": [
+        "wire_131210127"
+      ],
+      "semanticMaterials": [
+        "privacy-glass"
+      ],
+      "triangles": 1949,
+      "boundsBlender": [
+        [
+          0.6174881458282471,
+          -1.1966869831085205,
+          1.0726828575134277
+        ],
+        [
+          0.8027644157409668,
+          0.7002707123756409,
+          1.5313318967819214
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_100_wire_131210127_0_body",
+      "sourceMaterials": [
+        "wire_131210127"
+      ],
+      "semanticMaterials": [
+        "privacy-glass"
+      ],
+      "triangles": 1948,
+      "boundsBlender": [
+        [
+          -0.8027666211128235,
+          -1.1966859102249146,
+          1.0726823806762695
+        ],
+        [
+          -0.6174930930137634,
+          0.7002722024917603,
+          1.5313314199447632
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_005_wire_139214230_0",
+      "sourceMaterials": [
+        "wire_139214230"
+      ],
+      "semanticMaterials": [
+        "headlamp-led"
+      ],
+      "triangles": 40,
+      "boundsBlender": [
+        [
+          -0.8377963900566101,
+          1.7532267570495605,
+          0.8572717905044556
+        ],
+        [
+          0.8377988934516907,
+          1.9149402379989624,
+          0.9250688552856445
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_042_wire_214149130_0",
+      "sourceMaterials": [
+        "wire_214149130"
+      ],
+      "semanticMaterials": [
+        "headlamp-reflector"
+      ],
+      "triangles": 36,
+      "boundsBlender": [
+        [
+          -0.8148257732391357,
+          1.7423768043518066,
+          0.8424444794654846
+        ],
+        [
+          0.8148279190063477,
+          2.0013582706451416,
+          0.9316704273223877
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_050_wire_227137192_0",
+      "sourceMaterials": [
+        "wire_227137192"
+      ],
+      "semanticMaterials": [
+        "rear-reflector"
+      ],
+      "triangles": 106,
+      "boundsBlender": [
+        [
+          -0.6287488341331482,
+          -2.3397011756896973,
+          0.5039693713188171
+        ],
+        [
+          0.6287418603897095,
+          -2.251610517501831,
+          0.5534816384315491
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_063_wire_140231157_0",
+      "sourceMaterials": [
+        "wire_140231157"
+      ],
+      "semanticMaterials": [
+        "tail-lamp-bezel"
+      ],
+      "triangles": 400,
+      "boundsBlender": [
+        [
+          -0.761667013168335,
+          -2.1854002475738525,
+          0.9552688002586365
+        ],
+        [
+          0.7616602182388306,
+          -2.0686419010162354,
+          1.101178526878357
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_064_wire_216131171_0",
+      "sourceMaterials": [
+        "wire_216131171"
+      ],
+      "semanticMaterials": [
+        "tail-lamp-reflector"
+      ],
+      "triangles": 1264,
+      "boundsBlender": [
+        [
+          -0.7297240495681763,
+          -2.1882967948913574,
+          0.993154764175415
+        ],
+        [
+          0.7297164797782898,
+          -2.1059410572052,
+          1.077813744544983
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_065_wire_139229227_0",
+      "sourceMaterials": [
+        "wire_139229227"
+      ],
+      "semanticMaterials": [
+        "tail-lamp-led"
+      ],
+      "triangles": 302,
+      "boundsBlender": [
+        [
+          -0.7837015390396118,
+          -2.167637586593628,
+          0.9621376395225525
+        ],
+        [
+          0.7836952209472656,
+          -2.0162110328674316,
+          1.109058141708374
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_068_wire_228170138_0",
+      "sourceMaterials": [
+        "wire_228170138"
+      ],
+      "semanticMaterials": [
+        "reverse-lamp"
+      ],
+      "triangles": 412,
+      "boundsBlender": [
+        [
+          -0.7150086760520935,
+          -2.187641143798828,
+          1.0032684803009033
+        ],
+        [
+          0.715000331401825,
+          -2.112856149673462,
+          1.0669077634811401
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_089_wire_224136181_0",
+      "sourceMaterials": [
+        "wire_224136181"
+      ],
+      "semanticMaterials": [
+        "tail-lamp-reflector"
+      ],
+      "triangles": 820,
+      "boundsBlender": [
+        [
+          -0.593745768070221,
+          -2.2441091537475586,
+          1.0011130571365356
+        ],
+        [
+          0.5937403440475464,
+          -2.1717400550842285,
+          1.0767942667007446
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_090_wire_153129213_0",
+      "sourceMaterials": [
+        "wire_153129213"
+      ],
+      "semanticMaterials": [
+        "tail-lamp-bezel"
+      ],
+      "triangles": 218,
+      "boundsBlender": [
+        [
+          -0.595461905002594,
+          -2.25262713432312,
+          1.0024003982543945
+        ],
+        [
+          0.5954566597938538,
+          -2.1647918224334717,
+          1.10039484500885
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_092_wire_159144237_0",
+      "sourceMaterials": [
+        "wire_159144237"
+      ],
+      "semanticMaterials": [
+        "tail-lamp-reflector"
+      ],
+      "triangles": 324,
+      "boundsBlender": [
+        [
+          -0.5918442606925964,
+          -2.2441246509552,
+          1.003529667854309
+        ],
+        [
+          0.5918390154838562,
+          -2.1742899417877197,
+          1.064998984336853
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_093_wire_130168215_0",
+      "sourceMaterials": [
+        "wire_130168215"
+      ],
+      "semanticMaterials": [
+        "reverse-lamp"
+      ],
+      "triangles": 210,
+      "boundsBlender": [
+        [
+          -0.5880302786827087,
+          -2.2309982776641846,
+          1.0291908979415894
+        ],
+        [
+          0.5880248546600342,
+          -2.179856061935425,
+          1.035715937614441
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_094_wire_138212128_0",
+      "sourceMaterials": [
+        "wire_138212128"
+      ],
+      "semanticMaterials": [
+        "tail-lamp-led"
+      ],
+      "triangles": 282,
+      "boundsBlender": [
+        [
+          -0.5960751175880432,
+          -2.262415647506714,
+          0.9666998386383057
+        ],
+        [
+          0.5960694551467896,
+          -2.1631972789764404,
+          1.1079902648925781
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_095_wire_195221134_0",
+      "sourceMaterials": [
+        "wire_195221134"
+      ],
+      "semanticMaterials": [
+        "tail-lamp-led"
+      ],
+      "triangles": 70,
+      "boundsBlender": [
+        [
+          0.5596289038658142,
+          -2.181983232498169,
+          0.9606810808181763
+        ],
+        [
+          0.6013864874839783,
+          -2.1351633071899414,
+          1.1094452142715454
+        ]
+      ]
+    },
+    {
+      "mesh": "desirefx.me_096_wire_222134190_0",
+      "sourceMaterials": [
+        "wire_222134190"
+      ],
+      "semanticMaterials": [
+        "tail-lamp-led"
+      ],
+      "triangles": 70,
+      "boundsBlender": [
+        [
+          -0.6013920307159424,
+          -2.181983232498169,
+          0.9606813788414001
+        ],
+        [
+          -0.5596344470977783,
+          -2.1351633071899414,
+          1.1094452142715454
+        ]
+      ]
+    }
+  ],
+  "finishes": {
+    "pearl-white-paint": {
+      "linearRgb": [
+        0.74,
+        0.76,
+        0.77
+      ],
+      "metallic": 0.22,
+      "roughness": 0.23,
+      "clearcoat": 0.9,
+      "alpha": 1
+    },
+    "privacy-glass": {
+      "linearRgb": [
+        0.012,
+        0.018,
+        0.025
+      ],
+      "metallic": 0.2,
+      "roughness": 0.105,
+      "clearcoat": 1,
+      "alpha": 1
+    },
+    "panoramic-glass": {
+      "linearRgb": [
+        0.009,
+        0.014,
+        0.021
+      ],
+      "metallic": 0.24,
+      "roughness": 0.1,
+      "clearcoat": 1,
+      "alpha": 1
+    },
+    "black-window-trim": {
+      "linearRgb": [
+        0.012,
+        0.015,
+        0.018
+      ],
+      "metallic": 0.12,
+      "roughness": 0.3,
+      "clearcoat": 0.4,
+      "alpha": 1
+    },
+    "underbody-polymer": {
+      "linearRgb": [
+        0.013,
+        0.015,
+        0.018
+      ],
+      "metallic": 0,
+      "roughness": 0.78,
+      "clearcoat": 0,
+      "alpha": 1
+    },
+    "camera-housing": {
+      "linearRgb": [
+        0.009,
+        0.011,
+        0.013
+      ],
+      "metallic": 0.1,
+      "roughness": 0.29,
+      "clearcoat": 0.3,
+      "alpha": 1
+    },
+    "rear-wiper": {
+      "linearRgb": [
+        0.011,
+        0.012,
+        0.014
+      ],
+      "metallic": 0.15,
+      "roughness": 0.53,
+      "clearcoat": 0,
+      "alpha": 1
+    },
+    "chrome-emblem": {
+      "linearRgb": [
+        0.64,
+        0.68,
+        0.7
+      ],
+      "metallic": 0.9,
+      "roughness": 0.18,
+      "clearcoat": 0.7,
+      "alpha": 1
+    },
+    "mirror-reflector": {
+      "linearRgb": [
+        0.28,
+        0.34,
+        0.38
+      ],
+      "metallic": 0.96,
+      "roughness": 0.07,
+      "clearcoat": 0.8,
+      "alpha": 1
+    },
+    "mirror-mount": {
+      "linearRgb": [
+        0.014,
+        0.017,
+        0.019
+      ],
+      "metallic": 0.08,
+      "roughness": 0.34,
+      "clearcoat": 0.3,
+      "alpha": 1
+    },
+    "flush-handle": {
+      "linearRgb": [
+        0.015,
+        0.018,
+        0.021
+      ],
+      "metallic": 0.45,
+      "roughness": 0.25,
+      "clearcoat": 0.4,
+      "alpha": 1
+    },
+    "tire-rubber": {
+      "linearRgb": [
+        0.012,
+        0.014,
+        0.017
+      ],
+      "metallic": 0,
+      "roughness": 0.87,
+      "clearcoat": 0,
+      "alpha": 1
+    },
+    "graphite-alloy": {
+      "linearRgb": [
+        0.045,
+        0.049,
+        0.056
+      ],
+      "metallic": 0.8,
+      "roughness": 0.27,
+      "clearcoat": 0.5,
+      "alpha": 1
+    },
+    "brake-cast-metal": {
+      "linearRgb": [
+        0.2,
+        0.22,
+        0.24
+      ],
+      "metallic": 0.7,
+      "roughness": 0.45,
+      "clearcoat": 0,
+      "alpha": 1
+    },
+    "wheel-fasteners": {
+      "linearRgb": [
+        0.48,
+        0.51,
+        0.55
+      ],
+      "metallic": 0.86,
+      "roughness": 0.23,
+      "clearcoat": 0.1,
+      "alpha": 1
+    },
+    "headlamp-cover": {
+      "linearRgb": [
+        0.5,
+        0.59,
+        0.66
+      ],
+      "metallic": 0.1,
+      "roughness": 0.065,
+      "clearcoat": 0.8,
+      "alpha": 0.12
+    },
+    "headlamp-black-bezel": {
+      "linearRgb": [
+        0.009,
+        0.012,
+        0.016
+      ],
+      "metallic": 0.25,
+      "roughness": 0.22,
+      "clearcoat": 0.6,
+      "alpha": 1
+    },
+    "headlamp-reflector": {
+      "linearRgb": [
+        0.55,
+        0.6,
+        0.67
+      ],
+      "metallic": 0.92,
+      "roughness": 0.14,
+      "clearcoat": 0.7,
+      "alpha": 1
+    },
+    "headlamp-led": {
+      "linearRgb": [
+        0.73,
+        0.84,
+        0.92
+      ],
+      "metallic": 0.12,
+      "roughness": 0.17,
+      "clearcoat": 0.4,
+      "alpha": 1
+    },
+    "fog-lamp-bezel": {
+      "linearRgb": [
+        0.018,
+        0.022,
+        0.026
+      ],
+      "metallic": 0.2,
+      "roughness": 0.24,
+      "clearcoat": 0.6,
+      "alpha": 1
+    },
+    "tail-lamp-lens": {
+      "linearRgb": [
+        0.028,
+        0.014,
+        0.02
+      ],
+      "metallic": 0.12,
+      "roughness": 0.11,
+      "clearcoat": 0.85,
+      "alpha": 0.22
+    },
+    "tail-lamp-led": {
+      "linearRgb": [
+        0.55,
+        0.004,
+        0.009
+      ],
+      "metallic": 0.1,
+      "roughness": 0.22,
+      "clearcoat": 0.5,
+      "alpha": 1
+    },
+    "rear-reflector": {
+      "linearRgb": [
+        0.38,
+        0.006,
+        0.009
+      ],
+      "metallic": 0.2,
+      "roughness": 0.28,
+      "clearcoat": 0.6,
+      "alpha": 1
+    },
+    "tail-lamp-bezel": {
+      "linearRgb": [
+        0.01,
+        0.011,
+        0.014
+      ],
+      "metallic": 0.25,
+      "roughness": 0.23,
+      "clearcoat": 0.6,
+      "alpha": 1
+    },
+    "reverse-lamp": {
+      "linearRgb": [
+        0.65,
+        0.69,
+        0.7
+      ],
+      "metallic": 0.45,
+      "roughness": 0.18,
+      "clearcoat": 0.5,
+      "alpha": 1
+    },
+    "tail-lamp-reflector": {
+      "linearRgb": [
+        0.2,
+        0.22,
+        0.26
+      ],
+      "metallic": 0.7,
+      "roughness": 0.22,
+      "clearcoat": 0.3,
+      "alpha": 1
+    }
+  },
+  "officialReferences": [
+    "https://www.tesla.com/ownersmanual/2020_2024_modely/en_qa/Owners_Manual.pdf",
+    "https://service.tesla.com/docs/ModelY/ServiceManual/en-au/air/GUID-769C9625-76EE-467B-B756-C9032AC2B99A.html"
+  ],
+  "photographicReferences": "references/tourism/model-y-photos.json",
+  "geometryChanged": "Only original lamp optical objects restored; retained body and wheel faces unchanged",
+  "restoredLampTriangles": 4554,
+  "normalRepair": "Coincident vertices welded within 1 micrometre for paint/glass; face counts preserved, smooth split normals restored",
+  "interiorAdded": false,
+  "textureUpscaled": false
+}

@@ -1,0 +1,2284 @@
+{
+  "schemaVersion": 1,
+  "models": [
+    {
+      "id": "alphard",
+      "car": "alphard",
+      "type": "licensed-exterior",
+      "file": "/vehicles/rigged/alphard.glb",
+      "trafficFile": "/vehicles/rigged/luxury-traffic/alphard.glb",
+      "preview": "/vehicles/alphard-front.png",
+      "sourceFile": "assets/vehicles/luxury-source/alphard/unpacked/source/Toyota Alphard III 2015.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/toyota-alphard-iii-2015-c3b0c9b6363945e0b27d020404198b0f",
+      "author": "Nieve5677 (@niev)",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceYear": 2015,
+      "sourceProvenance": {
+        "url": "https://sketchfab.com/3d-models/toyota-alphard-iii-2015-c3b0c9b6363945e0b27d020404198b0f",
+        "author": "Nieve5677 (@niev)",
+        "license": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "year": 2015,
+        "sourceUid": "c3b0c9b6363945e0b27d020404198b0f",
+        "provenanceFile": "references/luxury-vehicle-sources.json",
+        "acquisition": "Logged-in Sketchfab official Download action; browser temporary file copied to external disk, SHA-256 verified and temporary copy removed",
+        "visibleThirdPartyMark": "HUMSTER3D text is present in source front/rear number plates; retained as source-authored geometry. Uploader licensing metadata is not treated as independently verified original ownership."
+      },
+      "sourceSha256": "abb3c0836ec386f2ddf172b2c592362d68349eb9ba9ff8ed674995413cdfc85f",
+      "sourceTriangles": 1567054,
+      "normalization": {
+        "rawBoundsXYZ": {
+          "min": [
+            -112.04010009765625,
+            -249.06919860839844,
+            0.0
+          ],
+          "max": [
+            112.04010009765625,
+            249.06919860839844,
+            184.1298065185547
+          ],
+          "size": [
+            224.0802001953125,
+            498.1383972167969,
+            184.1298065185547
+          ]
+        },
+        "posedBoundsXYZ": {
+          "min": [
+            -112.04010772705078,
+            -249.06919860839844,
+            0.0
+          ],
+          "max": [
+            112.04009246826172,
+            249.06919860839844,
+            184.1298065185547
+          ],
+          "size": [
+            224.0802001953125,
+            498.1383972167969,
+            184.1298065185547
+          ]
+        },
+        "uniformScale": 0.009906885370758154,
+        "rotationEulerDegrees": [
+          0,
+          0,
+          180
+        ],
+        "normalizedBoundsXYZ": {
+          "min": [
+            -1.1099684238433838,
+            -2.4674999713897705,
+            0.0
+          ],
+          "max": [
+            1.1099684238433838,
+            2.4674999713897705,
+            1.8241528272628784
+          ],
+          "size": [
+            2.2199368476867676,
+            4.934999942779541,
+            1.8241528272628784
+          ]
+        }
+      },
+      "dimensionsM": [
+        4.934999942779541,
+        2.2199368476867676,
+        1.8241528272628784
+      ],
+      "wheelbaseM": 2.9720670580863953,
+      "nominalDimensionsM": [
+        4.935,
+        1.85,
+        1.88
+      ],
+      "nominalWheelbaseM": 3.0,
+      "nominalDimensionsSource": "https://toyota.jp/pages/contents/alphard/003_p_001/pdf/spec/alphard_spec_201501.pdf",
+      "wheelRig": {
+        "FL": {
+          "centerBlender": [
+            -0.7867122292518616,
+            1.5635461807250977,
+            0.3219534754753113
+          ],
+          "radius": 0.32195401191711426,
+          "width": 0.22605037689208984,
+          "triangles": 90428,
+          "components": 190
+        },
+        "FR": {
+          "centerBlender": [
+            0.7877151966094971,
+            1.5634833574295044,
+            0.3219539523124695
+          ],
+          "radius": 0.3219539523124695,
+          "width": 0.22605139017105103,
+          "triangles": 90428,
+          "components": 190
+        },
+        "RL": {
+          "centerBlender": [
+            -0.7867119908332825,
+            -1.4085209369659424,
+            0.3219539523124695
+          ],
+          "radius": 0.3219539523124695,
+          "width": 0.22605037689208984,
+          "triangles": 90428,
+          "components": 190
+        },
+        "RR": {
+          "centerBlender": [
+            0.7877154350280762,
+            -1.408583641052246,
+            0.3219534754753113
+          ],
+          "radius": 0.3219539523124695,
+          "width": 0.22605139017105103,
+          "triangles": 90428,
+          "components": 190
+        }
+      },
+      "runtimeMeshes": 5,
+      "runtimePrimitives": 33,
+      "runtimeBytes": 5749396,
+      "runtimeTriangles": 1450738,
+      "runtimeSha256": "30913dad3081737b843401373eb12b9b94da1ae8d46b0870aa1ab047e72b3962",
+      "sha256": "30913dad3081737b843401373eb12b9b94da1ae8d46b0870aa1ab047e72b3962",
+      "budgetBytes": 10000000,
+      "textureMaxSize": 2048,
+      "textureChanges": [],
+      "materialOverrides": [
+        {
+          "material": "LicPlate_blue.095",
+          "input": "Alpha",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 1
+        },
+        {
+          "material": "LicPlate_blue.095",
+          "input": "Transmission Weight",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 0
+        },
+        {
+          "material": "LicPlate_black.095",
+          "input": "Alpha",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 1
+        },
+        {
+          "material": "LicPlate_black.095",
+          "input": "Transmission Weight",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 0
+        },
+        {
+          "material": "interior.114",
+          "input": "Alpha",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 1
+        },
+        {
+          "material": "interior.114",
+          "input": "Transmission Weight",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 0
+        },
+        {
+          "material": "tire.139",
+          "input": "Alpha",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 1
+        },
+        {
+          "material": "tire.139",
+          "input": "Transmission Weight",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 0
+        },
+        {
+          "material": "brakedisk.102",
+          "input": "Alpha",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 1
+        },
+        {
+          "material": "brakedisk.102",
+          "input": "Transmission Weight",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 0
+        },
+        {
+          "material": "black.139",
+          "input": "Alpha",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 1
+        },
+        {
+          "material": "black.139",
+          "input": "Transmission Weight",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 0
+        },
+        {
+          "material": "mirror.137",
+          "input": "Alpha",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 1
+        },
+        {
+          "material": "mirror.137",
+          "input": "Transmission Weight",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 0
+        },
+        {
+          "material": "LicPlate_white.095",
+          "input": "Alpha",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 1
+        },
+        {
+          "material": "LicPlate_white.095",
+          "input": "Transmission Weight",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 0
+        },
+        {
+          "material": "carpaint.139",
+          "input": "Alpha",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 1
+        },
+        {
+          "material": "carpaint.139",
+          "input": "Transmission Weight",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 0
+        },
+        {
+          "material": "rim.134",
+          "input": "Alpha",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 1
+        },
+        {
+          "material": "rim.134",
+          "input": "Transmission Weight",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 0
+        },
+        {
+          "material": "chrome.139",
+          "input": "Alpha",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 1
+        },
+        {
+          "material": "chrome.139",
+          "input": "Transmission Weight",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 0
+        },
+        {
+          "material": "LicPlate_yellow.095",
+          "input": "Alpha",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 1
+        },
+        {
+          "material": "LicPlate_yellow.095",
+          "input": "Transmission Weight",
+          "oldValue": 1.0,
+          "oldLinked": false,
+          "newValue": 0
+        }
+      ],
+      "removedInterior": [
+        {
+          "object": "Toyota_Alphard_(Mk3)_2015",
+          "triangles": 116316
+        }
+      ],
+      "removedInteriorTriangles": 116316,
+      "removedHiddenTriangles": 0,
+      "exteriorTrianglesBeforeBudget": 1450738,
+      "detailDecimateRatio": 1.0,
+      "rigFacesBefore": 1450738,
+      "rigFacesAfter": 1450738,
+      "rigValidation": {
+        "fourIndependentRolls": true,
+        "frontSteerOnly": true,
+        "bodyStationary": true,
+        "rollDegrees": 60,
+        "steerDegrees": 25,
+        "triangles": 1450738,
+        "wheelVertexChanges": {
+          "FL": {
+            "vertices": 62193,
+            "rolledVertices": 62191,
+            "steeredVertices": 62193
+          },
+          "FR": {
+            "vertices": 62224,
+            "rolledVertices": 62222,
+            "steeredVertices": 62224
+          },
+          "RL": {
+            "vertices": 62197,
+            "rolledVertices": 62195,
+            "steeredVertices": 0
+          },
+          "RR": {
+            "vertices": 62117,
+            "rolledVertices": 62115,
+            "steeredVertices": 0
+          }
+        }
+      },
+      "traffic": {
+        "bytes": 289416,
+        "sha256": "a2ba4239d7298f23e468f66bfa091067908440ad817965d5a82eafb4133f087e",
+        "triangles": 19998,
+        "dimensionsM": [
+          4.936242580413818,
+          2.2192368507385254,
+          1.8251278698444366
+        ],
+        "meshes": 5,
+        "primitives": 33,
+        "materials": 16,
+        "embeddedImages": 0,
+        "rigValidation": {
+          "fourIndependentRolls": true,
+          "frontSteerOnly": true,
+          "bodyStationary": true,
+          "rollDegrees": 60,
+          "steerDegrees": 25,
+          "triangles": 19998,
+          "wheelVertexChanges": {
+            "FL": {
+              "vertices": 1947,
+              "rolledVertices": 1947,
+              "steeredVertices": 1947
+            },
+            "FR": {
+              "vertices": 1928,
+              "rolledVertices": 1928,
+              "steeredVertices": 1928
+            },
+            "RL": {
+              "vertices": 1919,
+              "rolledVertices": 1919,
+              "steeredVertices": 0
+            },
+            "RR": {
+              "vertices": 1953,
+              "rolledVertices": 1953,
+              "steeredVertices": 0
+            }
+          }
+        },
+        "reductions": [
+          {
+            "group": "body",
+            "beforeTriangles": 1089026,
+            "afterTriangles": 14000,
+            "requestedBudget": 14000
+          },
+          {
+            "group": "RL",
+            "beforeTriangles": 90428,
+            "afterTriangles": 1500,
+            "requestedBudget": 1500
+          },
+          {
+            "group": "FL",
+            "beforeTriangles": 90428,
+            "afterTriangles": 1499,
+            "requestedBudget": 1500
+          },
+          {
+            "group": "FR",
+            "beforeTriangles": 90428,
+            "afterTriangles": 1500,
+            "requestedBudget": 1500
+          },
+          {
+            "group": "RR",
+            "beforeTriangles": 90428,
+            "afterTriangles": 1499,
+            "requestedBudget": 1500
+          }
+        ],
+        "textureChanges": [],
+        "contactRepair": {
+          "reason": "Actual Draco readback measured DECIMATE wheel-radius overshoot of up to 20 mm.",
+          "method": "Only simplified wheel vertices outside original measured tire radius are constrained to that radial envelope; no translation of pivots or body.",
+          "preserved": "assets/vehicles/luxury-prepared/alphard/20260909T163132Z-prepare-ce50d5/before-traffic-contact-fix",
+          "detailSha256Unchanged": "30913dad3081737b843401373eb12b9b94da1ae8d46b0870aa1ab047e72b3962",
+          "editableSha256Unchanged": "f8c28fa898a25d81a9c420ab2b355672f641c2196825f862b6adb72ce34181fb",
+          "wheels": [
+            {
+              "wheel": "FL",
+              "sourceRadiusM": 0.32195401191711426,
+              "correctedVertices": 132,
+              "maximumRadiusBeforeM": 0.3393147864015092,
+              "maximumDisplacementM": 0.017360774484394936
+            },
+            {
+              "wheel": "FR",
+              "sourceRadiusM": 0.3219539523124695,
+              "correctedVertices": 153,
+              "maximumRadiusBeforeM": 0.34191495498017377,
+              "maximumDisplacementM": 0.019961002667704286
+            },
+            {
+              "wheel": "RL",
+              "sourceRadiusM": 0.3219539523124695,
+              "correctedVertices": 125,
+              "maximumRadiusBeforeM": 0.34191502967567106,
+              "maximumDisplacementM": 0.019961077363201574
+            },
+            {
+              "wheel": "RR",
+              "sourceRadiusM": 0.3219539523124695,
+              "correctedVertices": 131,
+              "maximumRadiusBeforeM": 0.3419156391774515,
+              "maximumDisplacementM": 0.01996168686498201
+            }
+          ],
+          "render": {
+            "engine": "BLENDER_EEVEE",
+            "views": [
+              "traffic-contact-fixed-front.png",
+              "traffic-contact-fixed-rear.png",
+              "traffic-contact-fixed-side.png"
+            ],
+            "resolution": [
+              960,
+              640
+            ]
+          }
+        }
+      },
+      "geometryCompression": "Draco, 18-bit positions / 14-bit normals / 16-bit UV; source alpha-preserving image formats",
+      "editable": "assets/blender/vehicles/luxury/alphard.blend",
+      "renderEvidence": "assets/vehicles/luxury-prepared/alphard/20260909T163132Z-prepare-ce50d5",
+      "render": {
+        "engine": "BLENDER_EEVEE",
+        "views": [
+          "front.png",
+          "rear.png",
+          "side.png"
+        ],
+        "resolution": [
+          960,
+          640
+        ]
+      },
+      "visualAccepted": false,
+      "scope": "Existing exterior mesh conversion and four independent wheel rigs; no sculpted replacement body",
+      "conversionRun": "20260909T163132Z-prepare-ce50d5",
+      "decodedGlbValidation": {
+        "passed": true,
+        "evidence": "assets/vehicles/luxury-prepared/alphard/20260909T163132Z-prepare-ce50d5/glb-bounds-readback.json",
+        "evidenceSha256": "bb249428beb99b30c46cb7b115756a7bcb474042292c541e5b0f084f1dd722f5",
+        "groundToleranceM": 0.002,
+        "rollStepDegrees": 10,
+        "rollSamplesPerWheel": 36,
+        "totalWheelRollSamples": 288,
+        "maximumAbsoluteGroundErrorM": 0.0009915440891468674,
+        "actualTriangleIndicesValid": true,
+        "verticesFinite": true
+      },
+      "conversionVisualNotes": [
+        "Detailed front/rear/side and corrected-traffic front/rear/side images were each viewed.",
+        "Detailed exterior geometry is unchanged after explicit interior removal; no detailed DECIMATE used.",
+        "The 20k-triangle traffic proxy has visible body faceting at close inspection and is intended for NPC distance use, not detailed hero display.",
+        "Original HUMSTER3D numberplate mark retained; uploader CC-BY metadata is not independently audited original authorship."
+      ],
+      "conversionVisualReviewed": true,
+      "conversionVisualReviewScope": "Local three-view imported-GLB inspection; gameplay acceptance remains separate"
+    },
+    {
+      "id": "ferrari-488",
+      "car": "ferrari-488",
+      "type": "licensed-exterior",
+      "file": "/vehicles/rigged/ferrari-488.glb",
+      "trafficFile": "/vehicles/rigged/luxury-traffic/ferrari-488.glb",
+      "preview": "/vehicles/ferrari-488-front.png",
+      "sourceFile": "assets/vehicles/luxury-source/ferrari-488/original.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/ferrari-488-gtb-c2bca88f04044daaa7c0274a9c0f2cc1",
+      "author": "Turbostuart (@Turbostuart)",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceYear": null,
+      "sourceProvenance": {
+        "url": "https://sketchfab.com/3d-models/ferrari-488-gtb-c2bca88f04044daaa7c0274a9c0f2cc1",
+        "author": "Turbostuart (@Turbostuart)",
+        "license": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "year": null,
+        "modelIntroductionYear": 2015,
+        "provenanceFile": "references/luxury-vehicle-sources.json",
+        "sourceLimitations": [
+          "Original body material is pink with no bitmap textures",
+          "Original GLB includes SketchUp edge_color line primitives; only triangle surfaces form runtime exterior"
+        ]
+      },
+      "sourceSha256": "aec457c172214788e56201f65c891c88a17d238ac9dd3b90bca4f1f69828d2e0",
+      "sourceTriangles": 354824,
+      "normalization": {
+        "rawBoundsXYZ": {
+          "min": [
+            73.6276626586914,
+            -6.712979316711426,
+            1.0159941911697388
+          ],
+          "max": [
+            164.43167114257812,
+            178.3575897216797,
+            48.90025329589844
+          ],
+          "size": [
+            90.80400848388672,
+            185.0705690383911,
+            47.8842591047287
+          ]
+        },
+        "posedBoundsXYZ": {
+          "min": [
+            -164.43167114257812,
+            -178.35760498046875,
+            1.0159941911697388
+          ],
+          "max": [
+            -73.62765502929688,
+            6.712968826293945,
+            48.90025329589844
+          ],
+          "size": [
+            90.80401611328125,
+            185.0705738067627,
+            47.8842591047287
+          ]
+        },
+        "uniformScale": 0.024682476020037494,
+        "rotationEulerDegrees": [
+          0,
+          0,
+          180
+        ],
+        "normalizedBoundsXYZ": {
+          "min": [
+            -1.1206340789794922,
+            -2.2839996814727783,
+            0.0
+          ],
+          "max": [
+            1.1206340789794922,
+            2.2839999198913574,
+            1.1819020509719849
+          ],
+          "size": [
+            2.2412681579589844,
+            4.567999601364136,
+            1.1819020509719849
+          ]
+        }
+      },
+      "dimensionsM": [
+        4.567999601364136,
+        2.2412681579589844,
+        1.1819020509719849
+      ],
+      "wheelbaseM": 2.6401349306106567,
+      "nominalDimensionsM": [
+        4.568,
+        1.952,
+        1.213
+      ],
+      "nominalWheelbaseM": 2.65,
+      "nominalDimensionsSource": "https://www.ferrari.com/it-CH/auto/ferrari-488-gtb",
+      "wheelRig": {
+        "RL": {
+          "centerBlender": [
+            -0.806281566619873,
+            -1.4972789287567139,
+            0.32902592420578003
+          ],
+          "radius": 0.32409696746617556,
+          "width": 0.2886800765991211,
+          "triangles": 54236,
+          "components": 287
+        },
+        "RR": {
+          "centerBlender": [
+            0.8182525038719177,
+            -1.4972789287567139,
+            0.32902592420578003
+          ],
+          "radius": 0.32409696746617556,
+          "width": 0.28868043422698975,
+          "triangles": 54236,
+          "components": 317
+        },
+        "FL": {
+          "centerBlender": [
+            -0.841718316078186,
+            1.1428558826446533,
+            0.3148757517337799
+          ],
+          "radius": 0.3148757517337799,
+          "width": 0.28046679496765137,
+          "triangles": 54338,
+          "components": 291
+        },
+        "FR": {
+          "centerBlender": [
+            0.8536885976791382,
+            1.1428561210632324,
+            0.3148757517337799
+          ],
+          "radius": 0.3148757517337799,
+          "width": 0.28046679496765137,
+          "triangles": 53758,
+          "components": 304
+        }
+      },
+      "runtimeMeshes": 5,
+      "runtimePrimitives": 97,
+      "runtimeBytes": 3247188,
+      "runtimeTriangles": 354824,
+      "runtimeSha256": "880f86c5bef010b6a0d688c50f09904d5931c5d79740f5253177c441bd746b03",
+      "sha256": "880f86c5bef010b6a0d688c50f09904d5931c5d79740f5253177c441bd746b03",
+      "budgetBytes": 10000000,
+      "textureMaxSize": 2048,
+      "textureChanges": [],
+      "materialOverrides": [
+        {
+          "material": "Tyre_Side",
+          "input": "Base Color",
+          "oldValue": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "oldLinked": false,
+          "newValue": [
+            0.012,
+            0.014,
+            0.017,
+            1
+          ]
+        },
+        {
+          "material": "Tyre_Side",
+          "input": "Metallic",
+          "oldValue": 0.0,
+          "oldLinked": false,
+          "newValue": 0
+        },
+        {
+          "material": "Tyre_Side",
+          "input": "Roughness",
+          "oldValue": 0.6000000238418579,
+          "oldLinked": false,
+          "newValue": 0.85
+        },
+        {
+          "material": "Profiel02",
+          "input": "Base Color",
+          "oldValue": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "oldLinked": false,
+          "newValue": [
+            0.012,
+            0.014,
+            0.017,
+            1
+          ]
+        },
+        {
+          "material": "Profiel02",
+          "input": "Metallic",
+          "oldValue": 0.0,
+          "oldLinked": false,
+          "newValue": 0
+        },
+        {
+          "material": "Profiel02",
+          "input": "Roughness",
+          "oldValue": 0.6000000238418579,
+          "oldLinked": false,
+          "newValue": 0.85
+        },
+        {
+          "material": "body1",
+          "input": "Base Color",
+          "oldValue": [
+            1.0,
+            0.0,
+            0.7764710187911987,
+            1.0
+          ],
+          "oldLinked": false,
+          "newValue": [
+            0.47353149614800955,
+            0.026241221894849898,
+            0.017641954488384078,
+            1
+          ]
+        }
+      ],
+      "removedInterior": [],
+      "removedInteriorTriangles": 0,
+      "removedHiddenTriangles": 0,
+      "exteriorTrianglesBeforeBudget": 354824,
+      "detailDecimateRatio": 1.0,
+      "rigFacesBefore": 354824,
+      "rigFacesAfter": 354824,
+      "rigValidation": {
+        "fourIndependentRolls": true,
+        "frontSteerOnly": true,
+        "bodyStationary": true,
+        "rollDegrees": 60,
+        "steerDegrees": 25,
+        "triangles": 354824,
+        "wheelVertexChanges": {
+          "FL": {
+            "vertices": 86267,
+            "rolledVertices": 86267,
+            "steeredVertices": 86260
+          },
+          "FR": {
+            "vertices": 85326,
+            "rolledVertices": 85326,
+            "steeredVertices": 85319
+          },
+          "RL": {
+            "vertices": 85953,
+            "rolledVertices": 85953,
+            "steeredVertices": 0
+          },
+          "RR": {
+            "vertices": 85702,
+            "rolledVertices": 85702,
+            "steeredVertices": 0
+          }
+        },
+        "caliperVertexChanges": {}
+      },
+      "traffic": {
+        "bytes": 733376,
+        "sha256": "bb0bd39046417a0d693a58d8792af19d16666ad1495d73e2d5465c56908e3052",
+        "triangles": 11643,
+        "dimensionsM": [
+          4.585824728012085,
+          2.2450525760650635,
+          1.183068186044693
+        ],
+        "meshes": 5,
+        "primitives": 55,
+        "materials": 28,
+        "embeddedImages": 0,
+        "rigValidation": {
+          "fourIndependentRolls": true,
+          "frontSteerOnly": true,
+          "bodyStationary": true,
+          "rollDegrees": 60,
+          "steerDegrees": 25,
+          "triangles": 11643,
+          "wheelVertexChanges": {
+            "FL": {
+              "vertices": 1571,
+              "rolledVertices": 1571,
+              "steeredVertices": 1571
+            },
+            "FR": {
+              "vertices": 1664,
+              "rolledVertices": 1664,
+              "steeredVertices": 1664
+            },
+            "RL": {
+              "vertices": 1471,
+              "rolledVertices": 1471,
+              "steeredVertices": 0
+            },
+            "RR": {
+              "vertices": 1500,
+              "rolledVertices": 1500,
+              "steeredVertices": 0
+            }
+          },
+          "caliperVertexChanges": {}
+        },
+        "reductions": [
+          {
+            "group": "body",
+            "beforeTriangles": 138256,
+            "afterTriangles": 14000,
+            "requestedBudget": 14000
+          },
+          {
+            "group": "FR",
+            "beforeTriangles": 53758,
+            "afterTriangles": 1499,
+            "requestedBudget": 1500
+          },
+          {
+            "group": "RL",
+            "beforeTriangles": 54236,
+            "afterTriangles": 1500,
+            "requestedBudget": 1500
+          },
+          {
+            "group": "RR",
+            "beforeTriangles": 54236,
+            "afterTriangles": 1500,
+            "requestedBudget": 1500
+          },
+          {
+            "group": "FL",
+            "beforeTriangles": 54338,
+            "afterTriangles": 1500,
+            "requestedBudget": 1500
+          }
+        ],
+        "geometryCleanup": {
+          "beforeTriangles": 19999,
+          "afterTriangles": 11644,
+          "weldDistanceM": 5e-05,
+          "wheelVerticesConstrained": 162,
+          "maximumWheelRadialOvershootBeforeM": 0.03774900587122981,
+          "scope": "Traffic copy only; clamp decimation overshoot to original tyre radius and clean below-encoding-precision edges/faces",
+          "meshValidation": {
+            "beforeTriangles": 11644,
+            "afterTriangles": 11643,
+            "correctedMeshes": [
+              {
+                "mesh": "Exterior_WheelRoll_RL",
+                "beforeTriangles": 879,
+                "afterTriangles": 878
+              }
+            ],
+            "reason": "Explicitly apply same Mesh.validate performed by Blender glTF exporter before counting"
+          }
+        },
+        "geometryEncoding": {
+          "method": "Uncompressed glTF"
+        },
+        "textureChanges": []
+      },
+      "geometryCompression": "Draco, 18-bit positions / 14-bit normals / 16-bit UV; source alpha-preserving image formats",
+      "editable": "assets/blender/vehicles/luxury/ferrari-488.blend",
+      "renderEvidence": "assets/vehicles/luxury-prepared/ferrari-488/20260909T165310Z-prepare-fe6cf2",
+      "render": {
+        "engine": "BLENDER_EEVEE",
+        "views": [
+          "front.png",
+          "rear.png",
+          "side.png"
+        ],
+        "resolution": [
+          960,
+          640
+        ]
+      },
+      "visualAccepted": false,
+      "scope": "Existing exterior mesh conversion and four independent wheel rigs; no sculpted replacement body",
+      "conversionRun": "20260909T165310Z-prepare-fe6cf2",
+      "conversionVisualReviewed": true,
+      "conversionVisualReviewScope": "Local three-view imported-GLB inspection; gameplay acceptance remains separate"
+    },
+    {
+      "id": "g63",
+      "car": "g63",
+      "type": "licensed-exterior",
+      "file": "/vehicles/rigged/g63.glb",
+      "trafficFile": "/vehicles/rigged/luxury-traffic/g63.glb",
+      "preview": "/vehicles/g63-front.png",
+      "sourceFile": "assets/vehicles/luxury-source/g63/original.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/2020-mercedes-benz-g-class-amg-g63-52296f1a65d54a85a2ed7cb67604e554",
+      "author": "Outlaw Games™ (https://sketchfab.com/Outlaw_Games)",
+      "license": "CC-BY-NC-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceYear": 2020,
+      "sourceProvenance": {
+        "url": "https://sketchfab.com/3d-models/2020-mercedes-benz-g-class-amg-g63-52296f1a65d54a85a2ed7cb67604e554",
+        "author": "Outlaw Games™ (https://sketchfab.com/Outlaw_Games)",
+        "license": "CC-BY-NC-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "year": 2020,
+        "sourceUid": "52296f1a65d54a85a2ed7cb67604e554",
+        "provenanceFile": "references/luxury-vehicle-sources.json",
+        "usageScope": "Existing local noncommercial project only; preserve CC-BY-NC-4.0 credit. Do not claim original ownership independently audited; unresolved provenance inference remains recorded.",
+        "provenanceReview": {
+          "status": "requires-source-clarification",
+          "facts": [
+            "Page explicitly prohibits commercial use under its noncommercial license",
+            "A different uploader has a 2020 G63 with the same displayed 230.3k triangle / 146k vertex totals and explicitly credits a CSR2 model"
+          ],
+          "inference": "Identical displayed mesh totals suggest possible shared extracted geometry, but do not prove it; the requested candidate is not being treated as independently authored/rights-cleared",
+          "comparisonUrl": "https://sketchfab.com/3d-models/2020-mercedes-benz-g-class-amg-g-63-64db1862be754722bbf4f23695bf06a5"
+        }
+      },
+      "sourceSha256": "8b53404fb9ddd0ae918c26056a9adecb4cd13dbb528219c0319f092e3dd226f4",
+      "sourceTriangles": 230245,
+      "normalization": {
+        "rawBoundsXYZ": {
+          "min": [
+            -0.010877740569412708,
+            -0.02468906156718731,
+            6.690823283861391e-06
+          ],
+          "max": [
+            0.010877740569412708,
+            0.024489520117640495,
+            0.019527843222022057
+          ],
+          "size": [
+            0.021755481138825417,
+            0.049178581684827805,
+            0.019521152398738195
+          ]
+        },
+        "posedBoundsXYZ": {
+          "min": [
+            -0.010877741500735283,
+            -0.024489520117640495,
+            6.690621376037598e-06
+          ],
+          "max": [
+            0.010877739638090134,
+            0.02468906156718731,
+            0.019527843222022057
+          ],
+          "size": [
+            0.021755481138825417,
+            0.049178581684827805,
+            0.01952115260064602
+          ]
+        },
+        "uniformScale": 99.08785152100839,
+        "rotationEulerDegrees": [
+          0,
+          0,
+          180
+        ],
+        "normalizedBoundsXYZ": {
+          "min": [
+            -1.0778518915176392,
+            -2.436500072479248,
+            0.0
+          ],
+          "max": [
+            1.0778520107269287,
+            2.436500072479248,
+            1.9343091249465942
+          ],
+          "size": [
+            2.155703902244568,
+            4.873000144958496,
+            1.9343091249465942
+          ]
+        }
+      },
+      "dimensionsM": [
+        4.873000144958496,
+        2.155703902244568,
+        1.9343091249465942
+      ],
+      "wheelbaseM": 2.8567041754722595,
+      "nominalDimensionsM": [
+        4.873,
+        1.984,
+        1.966
+      ],
+      "nominalWheelbaseM": 2.89,
+      "nominalDimensionsSource": "https://static.oneweb.mercedes-benz.com/css-oom-assets/en-lb/pdf/mercedes-g-class-suv-2023-june-463-comand-owners-manual-1.pdf",
+      "wheelRig": {
+        "FR": {
+          "centerBlender": [
+            0.82854825258255,
+            1.5012043714523315,
+            0.39288440346717834
+          ],
+          "radius": 0.39288440346717834,
+          "width": 0.3125951290130615,
+          "triangles": 7549,
+          "components": 154
+        },
+        "RR": {
+          "centerBlender": [
+            0.8286832571029663,
+            -1.3554997444152832,
+            0.3934883773326874
+          ],
+          "radius": 0.39143416308797896,
+          "width": 0.3065264821052551,
+          "triangles": 7522,
+          "components": 187
+        },
+        "FL": {
+          "centerBlender": [
+            -0.82854825258255,
+            1.501204490661621,
+            0.39288440346717834
+          ],
+          "radius": 0.39288440346717834,
+          "width": 0.3125951290130615,
+          "triangles": 7549,
+          "components": 154
+        },
+        "RL": {
+          "centerBlender": [
+            -0.8286832571029663,
+            -1.3554997444152832,
+            0.3934883773326874
+          ],
+          "radius": 0.39143416308797896,
+          "width": 0.3065265417098999,
+          "triangles": 7558,
+          "components": 189
+        }
+      },
+      "runtimeMeshes": 9,
+      "runtimePrimitives": 40,
+      "runtimeBytes": 2995316,
+      "runtimeTriangles": 177189,
+      "runtimeSha256": "0f5ce96f405cb454e8164aa7ee58fb34e5b568c8edd5b3020f4995ec9ba1342d",
+      "sha256": "0f5ce96f405cb454e8164aa7ee58fb34e5b568c8edd5b3020f4995ec9ba1342d",
+      "budgetBytes": 10000000,
+      "textureMaxSize": 2048,
+      "textureChanges": [],
+      "materialOverrides": [],
+      "removedInterior": [
+        {
+          "object": "Object_2105",
+          "triangles": 1873
+        },
+        {
+          "object": "Object_2108",
+          "triangles": 198
+        },
+        {
+          "object": "Object_2111",
+          "triangles": 50679
+        },
+        {
+          "object": "Object_2123",
+          "triangles": 306
+        }
+      ],
+      "removedInteriorTriangles": 53056,
+      "removedHiddenTriangles": 0,
+      "exteriorTrianglesBeforeBudget": 177189,
+      "detailDecimateRatio": 1.0,
+      "rigFacesBefore": 177189,
+      "rigFacesAfter": 177189,
+      "rigValidation": {
+        "fourIndependentRolls": true,
+        "frontSteerOnly": true,
+        "bodyStationary": true,
+        "rollDegrees": 60,
+        "steerDegrees": 25,
+        "triangles": 177189,
+        "wheelVertexChanges": {
+          "FL": {
+            "vertices": 5885,
+            "rolledVertices": 5885,
+            "steeredVertices": 5885
+          },
+          "FR": {
+            "vertices": 5877,
+            "rolledVertices": 5877,
+            "steeredVertices": 5877
+          },
+          "RL": {
+            "vertices": 5973,
+            "rolledVertices": 5973,
+            "steeredVertices": 0
+          },
+          "RR": {
+            "vertices": 5895,
+            "rolledVertices": 5895,
+            "steeredVertices": 0
+          }
+        },
+        "caliperVertexChanges": {
+          "FL": {
+            "vertices": 264,
+            "rolledVertices": 0,
+            "steeredVertices": 264
+          },
+          "FR": {
+            "vertices": 258,
+            "rolledVertices": 0,
+            "steeredVertices": 258
+          },
+          "RL": {
+            "vertices": 352,
+            "rolledVertices": 0,
+            "steeredVertices": 0
+          },
+          "RR": {
+            "vertices": 350,
+            "rolledVertices": 0,
+            "steeredVertices": 0
+          }
+        }
+      },
+      "traffic": {
+        "bytes": 2310772,
+        "sha256": "56294fbf2a25b705a3c9421e9064ea3b0ce35f4954fb36b2a0ca56325ec266b8",
+        "triangles": 19977,
+        "dimensionsM": [
+          4.861616373062134,
+          2.1482255458831787,
+          1.9307633936405182
+        ],
+        "meshes": 9,
+        "primitives": 37,
+        "materials": 25,
+        "embeddedImages": 36,
+        "rigValidation": {
+          "fourIndependentRolls": true,
+          "frontSteerOnly": true,
+          "bodyStationary": true,
+          "rollDegrees": 60,
+          "steerDegrees": 25,
+          "triangles": 19977,
+          "wheelVertexChanges": {
+            "FL": {
+              "vertices": 1601,
+              "rolledVertices": 1601,
+              "steeredVertices": 1601
+            },
+            "FR": {
+              "vertices": 1597,
+              "rolledVertices": 1597,
+              "steeredVertices": 1597
+            },
+            "RL": {
+              "vertices": 1596,
+              "rolledVertices": 1596,
+              "steeredVertices": 0
+            },
+            "RR": {
+              "vertices": 1620,
+              "rolledVertices": 1620,
+              "steeredVertices": 0
+            }
+          },
+          "caliperVertexChanges": {
+            "FL": {
+              "vertices": 76,
+              "rolledVertices": 0,
+              "steeredVertices": 76
+            },
+            "FR": {
+              "vertices": 72,
+              "rolledVertices": 0,
+              "steeredVertices": 72
+            },
+            "RL": {
+              "vertices": 79,
+              "rolledVertices": 0,
+              "steeredVertices": 0
+            },
+            "RR": {
+              "vertices": 79,
+              "rolledVertices": 0,
+              "steeredVertices": 0
+            }
+          }
+        },
+        "reductions": [
+          {
+            "group": "body",
+            "beforeTriangles": 147011,
+            "afterTriangles": 14000,
+            "requestedBudget": 14000
+          },
+          {
+            "group": "FL",
+            "beforeTriangles": 7549,
+            "afterTriangles": 1499,
+            "requestedBudget": 1500
+          },
+          {
+            "group": "FR",
+            "beforeTriangles": 7549,
+            "afterTriangles": 1499,
+            "requestedBudget": 1500
+          },
+          {
+            "group": "RL",
+            "beforeTriangles": 7558,
+            "afterTriangles": 1499,
+            "requestedBudget": 1500
+          },
+          {
+            "group": "RR",
+            "beforeTriangles": 7522,
+            "afterTriangles": 1499,
+            "requestedBudget": 1500
+          }
+        ],
+        "geometryCleanup": {
+          "beforeTriangles": 19996,
+          "afterTriangles": 19988,
+          "weldDistanceM": 5e-05,
+          "wheelVerticesConstrained": 0,
+          "maximumWheelRadialOvershootBeforeM": 0,
+          "scope": "Traffic copy only; clamp decimation overshoot to original tyre radius and clean below-encoding-precision edges/faces",
+          "meshValidation": {
+            "beforeTriangles": 19988,
+            "afterTriangles": 19977,
+            "correctedMeshes": [
+              {
+                "mesh": "Exterior_Body",
+                "beforeTriangles": 13992,
+                "afterTriangles": 13981
+              }
+            ],
+            "reason": "Explicitly apply same Mesh.validate performed by Blender glTF exporter before counting"
+          }
+        },
+        "geometryEncoding": {
+          "method": "Uncompressed glTF"
+        },
+        "textureChanges": [
+          {
+            "image": "Image_1",
+            "before": [
+              512,
+              512
+            ],
+            "after": [
+              256,
+              256
+            ]
+          },
+          {
+            "image": "Image_39",
+            "before": [
+              512,
+              512
+            ],
+            "after": [
+              256,
+              256
+            ]
+          },
+          {
+            "image": "Image_37",
+            "before": [
+              1024,
+              1024
+            ],
+            "after": [
+              256,
+              256
+            ]
+          },
+          {
+            "image": "Image_38",
+            "before": [
+              1024,
+              1024
+            ],
+            "after": [
+              256,
+              256
+            ]
+          },
+          {
+            "image": "Image_8",
+            "before": [
+              512,
+              512
+            ],
+            "after": [
+              256,
+              256
+            ]
+          },
+          {
+            "image": "Image_9",
+            "before": [
+              512,
+              512
+            ],
+            "after": [
+              256,
+              256
+            ]
+          },
+          {
+            "image": "Image_35",
+            "before": [
+              1024,
+              1024
+            ],
+            "after": [
+              256,
+              256
+            ]
+          },
+          {
+            "image": "Image_36",
+            "before": [
+              1024,
+              1024
+            ],
+            "after": [
+              256,
+              256
+            ]
+          },
+          {
+            "image": "Image_31",
+            "before": [
+              512,
+              512
+            ],
+            "after": [
+              256,
+              256
+            ]
+          },
+          {
+            "image": "Image_32",
+            "before": [
+              512,
+              512
+            ],
+            "after": [
+              256,
+              256
+            ]
+          },
+          {
+            "image": "Image_33",
+            "before": [
+              512,
+              512
+            ],
+            "after": [
+              256,
+              256
+            ]
+          },
+          {
+            "image": "Image_34",
+            "before": [
+              512,
+              256
+            ],
+            "after": [
+              256,
+              128
+            ]
+          },
+          {
+            "image": "Image_0",
+            "before": [
+              512,
+              512
+            ],
+            "after": [
+              256,
+              256
+            ]
+          }
+        ]
+      },
+      "geometryCompression": "Draco, 18-bit positions / 14-bit normals / 16-bit UV; source alpha-preserving image formats",
+      "editable": "assets/blender/vehicles/luxury/g63.blend",
+      "renderEvidence": "assets/vehicles/luxury-prepared/g63/20260909T165526Z-prepare-ef7b8f",
+      "render": {
+        "engine": "BLENDER_EEVEE",
+        "views": [
+          "front.png",
+          "rear.png",
+          "side.png"
+        ],
+        "resolution": [
+          960,
+          640
+        ]
+      },
+      "visualAccepted": false,
+      "scope": "Existing exterior mesh conversion and four independent wheel rigs; no sculpted replacement body",
+      "conversionRun": "20260909T165526Z-prepare-ef7b8f",
+      "conversionVisualLimitations": [
+        "Removing only explicitly identified interior geometry leaves some source inner body/trim faces visible through the original transparent cabin glass. This is recorded, not treated as full visual fidelity acceptance. Root requested delivery of the current validated conversion without another optional material/shape round.",
+        "Source proportions are retained with uniform length calibration: measured height and wheelbase differ slightly from nominal same-generation handbook dimensions.",
+        "Local conversion and Blender GLB readback only; gameplay and browser acceptance are owned by the integration task."
+      ],
+      "conversionVisualReviewObservations": [
+        "Read imported-GLB front.png, rear.png and side.png: +Y front and ground contact correct; exterior body, lamps, front guard and rear spare retained.",
+        "No conversion-induced exterior holes or detached running wheels observed. Original transparent glass exposes retained cabin-facing surfaces after explicit interior deletion.",
+        "Detailed and traffic GLB four-wheel roll/front-only steering/caliper isolation/body stationary checks passed with 100 percent of the relevant wheel vertices moving."
+      ],
+      "conversionVisualReviewed": true,
+      "conversionVisualReviewScope": "Local three-view imported-GLB inspection; gameplay acceptance remains separate"
+    },
+    {
+      "id": "porsche-911",
+      "car": "porsche-911",
+      "type": "licensed-exterior",
+      "file": "/vehicles/rigged/porsche-911.glb",
+      "trafficFile": "/vehicles/rigged/luxury-traffic/porsche-911.glb",
+      "preview": "/vehicles/porsche-911-front.png",
+      "sourceFile": "assets/vehicles/luxury-source/porsche-911/original.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/68d8ef218d7e42adbd4425dc43629705",
+      "author": "SeKali / formerly fewdd (@zh.200.c)",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceYear": 2020,
+      "sourceProvenance": {
+        "url": "https://sketchfab.com/3d-models/68d8ef218d7e42adbd4425dc43629705",
+        "author": "SeKali / formerly fewdd (@zh.200.c)",
+        "license": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "year": 2020,
+        "provenanceFile": "assets/vehicles/luxury-source/porsche-911/provenance.json"
+      },
+      "sourceSha256": "92be2f317ac1c919c64dc31aabc051c672b0d1a95387a7a9fafd1c6bd891fa00",
+      "sourceTriangles": 1045396,
+      "normalization": {
+        "rawBoundsXYZ": {
+          "min": [
+            -2.115811824798584,
+            -3.9607253074645996,
+            0.17497870326042175
+          ],
+          "max": [
+            2.115811824798584,
+            5.468029975891113,
+            2.8114023208618164
+          ],
+          "size": [
+            4.231623649597168,
+            9.428755283355713,
+            2.6364236176013947
+          ]
+        },
+        "posedBoundsXYZ": {
+          "min": [
+            -2.115811824798584,
+            -5.468029975891113,
+            0.17497867345809937
+          ],
+          "max": [
+            2.115811824798584,
+            3.9607253074645996,
+            2.8114023208618164
+          ],
+          "size": [
+            4.231623649597168,
+            9.428755283355713,
+            2.636423647403717
+          ]
+        },
+        "uniformScale": 0.48097546958350845,
+        "rotationEulerDegrees": [
+          0,
+          0,
+          180
+        ],
+        "normalizedBoundsXYZ": {
+          "min": [
+            -1.0176535844802856,
+            -2.267500162124634,
+            0.0
+          ],
+          "max": [
+            1.0176535844802856,
+            2.267500162124634,
+            1.2680550813674927
+          ],
+          "size": [
+            2.0353071689605713,
+            4.535000324249268,
+            1.2680550813674927
+          ]
+        }
+      },
+      "dimensionsM": [
+        4.535000324249268,
+        2.0353071689605713,
+        1.2680550813674927
+      ],
+      "wheelbaseM": 2.443885922431946,
+      "nominalDimensionsM": [
+        4.535,
+        1.9,
+        1.303
+      ],
+      "nominalWheelbaseM": 2.45,
+      "nominalDimensionsSource": "https://download.newsroom.porsche.com/dam/jcr:8b531ae3-48f0-4d00-bfb9-c29f2676959b/Copy%20of%20U.S.%20Technical%20Specifications%202021%20911%20Turbo%20S%20Coupe%20and%20Cabriolet.pdf",
+      "wheelRig": {
+        "RL": {
+          "centerBlender": [
+            -0.7798359394073486,
+            -1.212310791015625,
+            0.34804052114486694
+          ],
+          "radius": 0.34804046526551247,
+          "width": 0.3425506353378296,
+          "triangles": 134822,
+          "components": 68
+        },
+        "RR": {
+          "centerBlender": [
+            0.7689952850341797,
+            -1.212310552597046,
+            0.34804049134254456
+          ],
+          "radius": 0.34804049134254456,
+          "width": 0.34255069494247437,
+          "triangles": 134822,
+          "components": 68
+        },
+        "FL": {
+          "centerBlender": [
+            -0.7678948640823364,
+            1.2315752506256104,
+            0.3354741036891937
+          ],
+          "radius": 0.33449843525886536,
+          "width": 0.32922226190567017,
+          "triangles": 134822,
+          "components": 68
+        },
+        "FR": {
+          "centerBlender": [
+            0.7499346137046814,
+            1.2315752506256104,
+            0.33547407388687134
+          ],
+          "radius": 0.33449846506118774,
+          "width": 0.3292222023010254,
+          "triangles": 134822,
+          "components": 68
+        }
+      },
+      "runtimeMeshes": 9,
+      "runtimePrimitives": 60,
+      "runtimeBytes": 10880692,
+      "runtimeTriangles": 1045396,
+      "runtimeSha256": "60fc77a03494c6ebb64bfa506cc479ce85d5f93f4e8150fc3eebca59c2d4bf35",
+      "sha256": "60fc77a03494c6ebb64bfa506cc479ce85d5f93f4e8150fc3eebca59c2d4bf35",
+      "budgetBytes": 10000000,
+      "textureMaxSize": 2048,
+      "textureChanges": [],
+      "materialOverrides": [],
+      "removedInterior": [],
+      "removedInteriorTriangles": 0,
+      "removedHiddenTriangles": 0,
+      "exteriorTrianglesBeforeBudget": 1045396,
+      "detailDecimateRatio": 1.0,
+      "rigFacesBefore": 1045396,
+      "rigFacesAfter": 1045396,
+      "rigValidation": {
+        "fourIndependentRolls": true,
+        "frontSteerOnly": true,
+        "bodyStationary": true,
+        "rollDegrees": 60,
+        "steerDegrees": 25,
+        "triangles": 1045396,
+        "wheelVertexChanges": {
+          "FL": {
+            "vertices": 317189,
+            "rolledVertices": 317189,
+            "steeredVertices": 317189
+          },
+          "FR": {
+            "vertices": 263564,
+            "rolledVertices": 263564,
+            "steeredVertices": 263564
+          },
+          "RL": {
+            "vertices": 317530,
+            "rolledVertices": 317530,
+            "steeredVertices": 0
+          },
+          "RR": {
+            "vertices": 263564,
+            "rolledVertices": 263564,
+            "steeredVertices": 0
+          }
+        },
+        "caliperVertexChanges": {
+          "FL": {
+            "vertices": 1234,
+            "rolledVertices": 0,
+            "steeredVertices": 1234
+          },
+          "FR": {
+            "vertices": 1170,
+            "rolledVertices": 0,
+            "steeredVertices": 1170
+          },
+          "RL": {
+            "vertices": 1232,
+            "rolledVertices": 0,
+            "steeredVertices": 0
+          },
+          "RR": {
+            "vertices": 1170,
+            "rolledVertices": 0,
+            "steeredVertices": 0
+          }
+        }
+      },
+      "traffic": {
+        "bytes": 1213868,
+        "sha256": "70ce6ba928ca369bf3c228787841eb6d7751d6de5876ba3a886714b12cf1172e",
+        "triangles": 19783,
+        "dimensionsM": [
+          4.532720565795898,
+          2.036696672439575,
+          1.2426609992980957
+        ],
+        "meshes": 9,
+        "primitives": 54,
+        "materials": 36,
+        "embeddedImages": 1,
+        "rigValidation": {
+          "fourIndependentRolls": true,
+          "frontSteerOnly": true,
+          "bodyStationary": true,
+          "rollDegrees": 60,
+          "steerDegrees": 25,
+          "triangles": 19783,
+          "wheelVertexChanges": {
+            "FL": {
+              "vertices": 2227,
+              "rolledVertices": 2227,
+              "steeredVertices": 2227
+            },
+            "FR": {
+              "vertices": 1493,
+              "rolledVertices": 1493,
+              "steeredVertices": 1493
+            },
+            "RL": {
+              "vertices": 2198,
+              "rolledVertices": 2198,
+              "steeredVertices": 0
+            },
+            "RR": {
+              "vertices": 1489,
+              "rolledVertices": 1489,
+              "steeredVertices": 0
+            }
+          },
+          "caliperVertexChanges": {
+            "FL": {
+              "vertices": 18,
+              "rolledVertices": 0,
+              "steeredVertices": 18
+            },
+            "FR": {
+              "vertices": 17,
+              "rolledVertices": 0,
+              "steeredVertices": 17
+            },
+            "RL": {
+              "vertices": 18,
+              "rolledVertices": 0,
+              "steeredVertices": 0
+            },
+            "RR": {
+              "vertices": 17,
+              "rolledVertices": 0,
+              "steeredVertices": 0
+            }
+          }
+        },
+        "reductions": [
+          {
+            "group": "body",
+            "beforeTriangles": 506108,
+            "afterTriangles": 14000,
+            "requestedBudget": 14000
+          },
+          {
+            "group": "FL",
+            "beforeTriangles": 134822,
+            "afterTriangles": 1499,
+            "requestedBudget": 1500
+          },
+          {
+            "group": "RL",
+            "beforeTriangles": 134822,
+            "afterTriangles": 1499,
+            "requestedBudget": 1500
+          },
+          {
+            "group": "RR",
+            "beforeTriangles": 134822,
+            "afterTriangles": 1499,
+            "requestedBudget": 1500
+          },
+          {
+            "group": "FR",
+            "beforeTriangles": 134822,
+            "afterTriangles": 1499,
+            "requestedBudget": 1500
+          }
+        ],
+        "geometryCleanup": {
+          "beforeTriangles": 19996,
+          "afterTriangles": 19785,
+          "weldDistanceM": 5e-05,
+          "wheelVerticesConstrained": 106,
+          "maximumWheelRadialOvershootBeforeM": 0.013657325392842534,
+          "scope": "Traffic copy only; clamp decimation overshoot to original tyre radius and clean below-encoding-precision edges/faces",
+          "meshValidation": {
+            "beforeTriangles": 19785,
+            "afterTriangles": 19783,
+            "correctedMeshes": [
+              {
+                "mesh": "Exterior_Body",
+                "beforeTriangles": 13793,
+                "afterTriangles": 13791
+              }
+            ],
+            "reason": "Explicitly apply same Mesh.validate performed by Blender glTF exporter before counting"
+          }
+        },
+        "geometryEncoding": {
+          "method": "Uncompressed glTF"
+        },
+        "textureChanges": []
+      },
+      "geometryCompression": "Draco, 18-bit positions / 14-bit normals / 16-bit UV; source alpha-preserving image formats",
+      "editable": "assets/blender/vehicles/luxury/porsche-911.blend",
+      "renderEvidence": "assets/vehicles/luxury-prepared/porsche-911/20260909T165707Z-prepare-b956c8",
+      "render": {
+        "engine": "BLENDER_EEVEE",
+        "views": [
+          "front.png",
+          "rear.png",
+          "side.png"
+        ],
+        "resolution": [
+          960,
+          640
+        ]
+      },
+      "visualAccepted": false,
+      "scope": "Existing exterior mesh conversion and four independent wheel rigs; no sculpted replacement body",
+      "conversionRun": "20260909T165707Z-prepare-b956c8",
+      "conversionVisualReviewed": true,
+      "conversionVisualReviewScope": "Local three-view imported-GLB inspection; gameplay acceptance remains separate"
+    },
+    {
+      "id": "urus",
+      "car": "urus",
+      "type": "licensed-exterior",
+      "file": "/vehicles/rigged/urus.glb",
+      "trafficFile": "/vehicles/rigged/luxury-traffic/urus.glb",
+      "preview": "/vehicles/urus-front.png",
+      "sourceFile": "assets/vehicles/luxury-source/urus/original.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/lamborghini-urus-2018-32964087f5d24c3e90482724ddfc2fef",
+      "author": "Kai Xiang (https://sketchfab.com/kirikom9000)",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceYear": 2018,
+      "sourceProvenance": {
+        "url": "https://sketchfab.com/3d-models/lamborghini-urus-2018-32964087f5d24c3e90482724ddfc2fef",
+        "author": "Kai Xiang (https://sketchfab.com/kirikom9000)",
+        "license": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "year": 2018,
+        "sourceUid": "32964087f5d24c3e90482724ddfc2fef",
+        "provenanceFile": "assets/vehicles/luxury-source/urus/provenance.json",
+        "downloadUrl": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-022/32964087f5d24c3e90482724ddfc2fef.glb"
+      },
+      "sourceSha256": "d20b1a1642fc36641bcfb7b426fc81531a918ed735f7b027f9c6175bb9574198",
+      "sourceTriangles": 248473,
+      "normalization": {
+        "rawBoundsXYZ": {
+          "min": [
+            -72.21551513671875,
+            -194.7144012451172,
+            4.503650665283203
+          ],
+          "max": [
+            72.21551513671875,
+            132.13296508789062,
+            110.08707427978516
+          ],
+          "size": [
+            144.4310302734375,
+            326.8473663330078,
+            105.58342361450195
+          ]
+        },
+        "posedBoundsXYZ": {
+          "min": [
+            -72.21551513671875,
+            -194.7144012451172,
+            4.503650665283203
+          ],
+          "max": [
+            72.21551513671875,
+            132.13296508789062,
+            110.08707427978516
+          ],
+          "size": [
+            144.4310302734375,
+            326.8473663330078,
+            105.58342361450195
+          ]
+        },
+        "uniformScale": 0.015640327952930938,
+        "rotationEulerDegrees": [
+          0,
+          0,
+          0
+        ],
+        "normalizedBoundsXYZ": {
+          "min": [
+            -1.1294742822647095,
+            -2.555999994277954,
+            0.0
+          ],
+          "max": [
+            1.1294742822647095,
+            2.555999994277954,
+            1.6513593196868896
+          ],
+          "size": [
+            2.258948564529419,
+            5.111999988555908,
+            1.6513593196868896
+          ]
+        }
+      },
+      "dimensionsM": [
+        5.111999988555908,
+        2.258948564529419,
+        1.6513593196868896
+      ],
+      "wheelbaseM": 3.017777979373932,
+      "nominalDimensionsM": [
+        5.112,
+        2.016,
+        1.638
+      ],
+      "nominalWheelbaseM": 3.003,
+      "nominalDimensionsSource": "https://new.lamborghinigeneve.ch/en/models/urus/collection-capsule-urus-graphite/",
+      "wheelRig": {
+        "RR": {
+          "centerBlender": [
+            0.8642333745956421,
+            -1.528948187828064,
+            0.4024169147014618
+          ],
+          "radius": 0.398627195507288,
+          "width": 0.2940449118614197,
+          "triangles": 39930,
+          "components": 353
+        },
+        "RL": {
+          "centerBlender": [
+            -0.8642333745956421,
+            -1.5289480686187744,
+            0.40241697430610657
+          ],
+          "radius": 0.3986271433532238,
+          "width": 0.2940449118614197,
+          "triangles": 39930,
+          "components": 353
+        },
+        "FR": {
+          "centerBlender": [
+            0.8642333745956421,
+            1.4888298511505127,
+            0.4024169147014618
+          ],
+          "radius": 0.398627195507288,
+          "width": 0.2940449118614197,
+          "triangles": 39930,
+          "components": 353
+        },
+        "FL": {
+          "centerBlender": [
+            -0.8642333745956421,
+            1.4888298511505127,
+            0.40241697430610657
+          ],
+          "radius": 0.3986271433532238,
+          "width": 0.2940449118614197,
+          "triangles": 39930,
+          "components": 353
+        }
+      },
+      "runtimeBytes": 2144536,
+      "runtimeTriangles": 248473,
+      "runtimeSha256": "c400101aef3f6ca43d7dfa069e49c8ebde3ba4a13be0d23f6e16dcae65ed8e0c",
+      "sha256": "c400101aef3f6ca43d7dfa069e49c8ebde3ba4a13be0d23f6e16dcae65ed8e0c",
+      "budgetBytes": 10000000,
+      "textureMaxSize": 2048,
+      "textureChanges": [],
+      "materialOverrides": [
+        {
+          "material": "body",
+          "input": "Alpha",
+          "oldValue": 1.0,
+          "oldLinked": true,
+          "newValue": 1
+        },
+        {
+          "material": "body",
+          "input": "Transmission Weight",
+          "oldValue": 0.0,
+          "oldLinked": true,
+          "newValue": 0
+        }
+      ],
+      "removedInterior": [],
+      "removedInteriorTriangles": 0,
+      "removedHiddenTriangles": 0,
+      "exteriorTrianglesBeforeBudget": 248473,
+      "detailDecimateRatio": 1.0,
+      "rigFacesBefore": 248473,
+      "rigFacesAfter": 248473,
+      "rigValidation": {
+        "fourIndependentRolls": true,
+        "frontSteerOnly": true,
+        "bodyStationary": true,
+        "rollDegrees": 60,
+        "steerDegrees": 25,
+        "triangles": 248473,
+        "wheelVertexChanges": {
+          "FL": {
+            "vertices": 32274,
+            "rolledVertices": 32272,
+            "steeredVertices": 32274
+          },
+          "FR": {
+            "vertices": 32264,
+            "rolledVertices": 32262,
+            "steeredVertices": 32264
+          },
+          "RL": {
+            "vertices": 32376,
+            "rolledVertices": 32374,
+            "steeredVertices": 0
+          },
+          "RR": {
+            "vertices": 32448,
+            "rolledVertices": 32446,
+            "steeredVertices": 0
+          }
+        }
+      },
+      "traffic": {
+        "bytes": 1146128,
+        "sha256": "d832171ad430b8a1b54fcfc8f52815aea67e84118a3a44268d8487674b044b9f",
+        "triangles": 19997,
+        "meshes": 10,
+        "materials": 3,
+        "embeddedImages": 9,
+        "rigValidation": {
+          "fourIndependentRolls": true,
+          "frontSteerOnly": true,
+          "bodyStationary": true,
+          "rollDegrees": 60,
+          "steerDegrees": 25,
+          "triangles": 19997,
+          "wheelVertexChanges": {
+            "FL": {
+              "vertices": 2789,
+              "rolledVertices": 2789,
+              "steeredVertices": 2789
+            },
+            "FR": {
+              "vertices": 2794,
+              "rolledVertices": 2794,
+              "steeredVertices": 2794
+            },
+            "RL": {
+              "vertices": 2793,
+              "rolledVertices": 2793,
+              "steeredVertices": 0
+            },
+            "RR": {
+              "vertices": 2784,
+              "rolledVertices": 2784,
+              "steeredVertices": 0
+            }
+          },
+          "caliperVertexChanges": {}
+        },
+        "reductions": [
+          {
+            "group": "body",
+            "beforeTriangles": 88753,
+            "afterTriangles": 13997,
+            "requestedBudget": 14000
+          },
+          {
+            "group": "FL",
+            "beforeTriangles": 39930,
+            "afterTriangles": 1500,
+            "requestedBudget": 1500
+          },
+          {
+            "group": "FR",
+            "beforeTriangles": 39930,
+            "afterTriangles": 1500,
+            "requestedBudget": 1500
+          },
+          {
+            "group": "RL",
+            "beforeTriangles": 39930,
+            "afterTriangles": 1500,
+            "requestedBudget": 1500
+          },
+          {
+            "group": "RR",
+            "beforeTriangles": 39930,
+            "afterTriangles": 1500,
+            "requestedBudget": 1500
+          }
+        ],
+        "textureChanges": [
+          {
+            "image": "Image_0",
+            "before": [
+              1024,
+              1024
+            ],
+            "after": [
+              256,
+              256
+            ]
+          },
+          {
+            "image": "Image_8",
+            "before": [
+              1024,
+              1024
+            ],
+            "after": [
+              256,
+              256
+            ]
+          },
+          {
+            "image": "Image_2",
+            "before": [
+              1024,
+              1024
+            ],
+            "after": [
+              256,
+              256
+            ]
+          },
+          {
+            "image": "Image_3",
+            "before": [
+              1024,
+              1024
+            ],
+            "after": [
+              256,
+              256
+            ]
+          },
+          {
+            "image": "Image_1",
+            "before": [
+              1024,
+              1024
+            ],
+            "after": [
+              256,
+              256
+            ]
+          },
+          {
+            "image": "Image_6",
+            "before": [
+              1024,
+              1024
+            ],
+            "after": [
+              256,
+              256
+            ]
+          },
+          {
+            "image": "Image_4",
+            "before": [
+              1024,
+              1024
+            ],
+            "after": [
+              256,
+              256
+            ]
+          },
+          {
+            "image": "Image_5",
+            "before": [
+              1024,
+              1024
+            ],
+            "after": [
+              256,
+              256
+            ]
+          },
+          {
+            "image": "Image_7",
+            "before": [
+              1024,
+              1024
+            ],
+            "after": [
+              256,
+              256
+            ]
+          }
+        ],
+        "dimensionsM": [
+          5.112462043762207,
+          2.2616477012634277,
+          1.6516083478927612
+        ],
+        "primitives": 10,
+        "geometryEncoding": {
+          "method": "Uncompressed glTF",
+          "reason": "Preserve corrected NPC vertex and triangle data without additional compression work"
+        },
+        "contactRepair": {
+          "reason": "Actual decoded traffic vertices exceeded the original detailed wheel radial envelope by up to 35 mm; static ground alone did not expose the roll-phase risk.",
+          "method": "Only simplified wheel vertices outside original measured tire radius are constrained to that radial envelope; no translation of pivots or body.",
+          "preserved": "assets/vehicles/luxury-prepared/urus/20260909T160336Z-prepare-729206/before-traffic-contact-fix",
+          "detailSha256Unchanged": "c400101aef3f6ca43d7dfa069e49c8ebde3ba4a13be0d23f6e16dcae65ed8e0c",
+          "editableSha256Unchanged": "8dee4133ca2fa0524a2f60e3689685f98aa8a9a81dcb032bf4499342d0ef948f",
+          "wheels": [
+            {
+              "wheel": "FL",
+              "sourceRadiusM": 0.4024195019700344,
+              "correctedVertices": 20,
+              "maximumRadiusBeforeM": 0.43274539709096216,
+              "maximumDisplacementM": 0.03032589512092776
+            },
+            {
+              "wheel": "FR",
+              "sourceRadiusM": 0.4024195478626628,
+              "correctedVertices": 23,
+              "maximumRadiusBeforeM": 0.43209944289376423,
+              "maximumDisplacementM": 0.02967989503110141
+            },
+            {
+              "wheel": "RL",
+              "sourceRadiusM": 0.4024196042765338,
+              "correctedVertices": 21,
+              "maximumRadiusBeforeM": 0.43764128556573206,
+              "maximumDisplacementM": 0.03522168128919828
+            },
+            {
+              "wheel": "RR",
+              "sourceRadiusM": 0.4024196501691505,
+              "correctedVertices": 22,
+              "maximumRadiusBeforeM": 0.4351344976824836,
+              "maximumDisplacementM": 0.03271484751333309
+            }
+          ],
+          "render": {
+            "engine": "BLENDER_EEVEE",
+            "views": [
+              "traffic-contact-fixed-front.png",
+              "traffic-contact-fixed-rear.png",
+              "traffic-contact-fixed-side.png"
+            ],
+            "resolution": [
+              960,
+              640
+            ]
+          }
+        }
+      },
+      "geometryCompression": "Draco, 18-bit positions / 14-bit normals / 16-bit UV; source alpha-preserving image formats",
+      "editable": "assets/blender/vehicles/luxury/urus.blend",
+      "renderEvidence": "assets/vehicles/luxury-prepared/urus/20260909T160336Z-prepare-729206",
+      "render": {
+        "engine": "BLENDER_EEVEE",
+        "views": [
+          "front.png",
+          "rear.png",
+          "side.png"
+        ],
+        "resolution": [
+          960,
+          640
+        ]
+      },
+      "visualAccepted": false,
+      "scope": "Existing exterior mesh conversion and four independent wheel rigs; no sculpted replacement body",
+      "conversionRun": "20260909T160336Z-prepare-729206",
+      "conversionVisualReviewed": true,
+      "conversionVisualReviewScope": "Local three-view imported-GLB inspection; gameplay acceptance remains separate",
+      "boundsMeasurement": "Recomputed from exported glTF POSITION bounds and complete node hierarchy; source geometry unchanged"
+    }
+  ],
+  "readyIds": [
+    "alphard",
+    "ferrari-488",
+    "g63",
+    "porsche-911",
+    "urus"
+  ],
+  "averageRuntimeBytes": 5003425.6,
+  "updatedAt": "2026-09-09T17:05:08.548516+00:00"
+}

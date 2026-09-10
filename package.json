@@ -1,0 +1,33 @@
+{
+  "name": "shanghai-commute-drive",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node node_modules/vite/bin/vite.js --host 127.0.0.1 --port 8080 --strictPort",
+    "build": "node node_modules/typescript/bin/tsc --noEmit && node --import tsx scripts/verify_photo_placement.mjs && node node_modules/vite/bin/vite.js build && python3 scripts/verify_street_build.py",
+    "preview": "node node_modules/vite/bin/vite.js preview --host 127.0.0.1 --port 8080 --strictPort",
+    "test": "node --import tsx --test tests/*.test.ts",
+    "test:portable": "node scripts/run_portable_tests.mjs",
+    "test:release": "node --test tests/release-assets.test.mjs",
+    "build:release": "node --import tsx scripts/build-release.mjs",
+    "preview:release": "node scripts/serve-release.mjs dist-release 8081",
+    "pack:release": "python3 scripts/pack_release.py",
+    "models": "bash scripts/build-tourism.sh",
+    "map": "python3 scripts/prepare_tourism_map.py",
+    "streets": "bash scripts/build-streets.sh",
+    "streets:master": "bash scripts/build-street-master.sh"
+  },
+  "dependencies": {
+    "meshoptimizer": "1.1.1",
+    "three": "0.185.1"
+  },
+  "devDependencies": {
+    "@types/node": "26.5.0",
+    "@types/three": "0.185.4",
+    "prettier": "3.9.6",
+    "tsx": "4.23.13",
+    "typescript": "7.0.2",
+    "vite": "8.2.2"
+  }
+}

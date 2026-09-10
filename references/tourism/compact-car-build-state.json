@@ -1,0 +1,38 @@
+{
+  "updatedAt": "2026-09-09T13:45:36.581297+00:00",
+  "status": "full-width-front-and-rear-surface-rebuild-awaiting-reimport",
+  "integrationAllowed": false,
+  "acceptedCars": [],
+  "latestInspected": {
+    "starwish": "11 FAIL: singular end surface; material diagnostic complete",
+    "bingo-pro": "07 FAIL: same singular end surface; conformal badge retained"
+  },
+  "queuedLogs": [
+    "assets/vehicles/compact-exteriors/starwish-build-12.log",
+    "assets/vehicles/compact-exteriors/bingo-pro-build-08.log"
+  ],
+  "cancelledSupersededDraft": "assets/vehicles/compact-exteriors/bingo-pro-build-03.log",
+  "paidSourceAudit": "references/tourism/compact-car-paid-source-review.json",
+  "sourceAndRenderOriginalsPreserved": true,
+  "activeChanges": [
+    "Continuous crowned hood and wheel shoulder cross sections",
+    "Model-specific front/rear longitudinal contours",
+    "Tail optical surface mapping excludes nonexistent canopy outside its width",
+    "Correct rear door seam direction and black wheel arch strips",
+    "Actual world-vertex rolling and steering checks while body is static"
+  ],
+  "scriptSha256": "a09d633037b19295e58d1b1900e3b48d8af76621b6e4fce1501cf7b200319e45",
+  "helperSha256": "300d729629c002f1ed8c8c2ca5d4741ebe1984b9568f22ef5b9ed1eaeb0e36e7",
+  "queueSessions": [
+    {
+      "car": "starwish",
+      "build": "12",
+      "sessionId": 36270
+    },
+    {
+      "car": "bingo-pro",
+      "build": "08",
+      "sessionId": 50909
+    }
+  ]
+}

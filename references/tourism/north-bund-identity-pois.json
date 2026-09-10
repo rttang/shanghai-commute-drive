@@ -1,0 +1,1675 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-09-09T12:42:12Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 78592097,
+  "lat": 31.2503801,
+  "lon": 121.4942084,
+  "tags": {
+    "bus": "yes",
+    "name": "东大名路旅顺路",
+    "name:en": "East Daming Road Lushun Road",
+    "name:zh": "东大名路旅顺路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 265710962,
+  "lat": 31.2554405,
+  "lon": 121.4902698,
+  "tags": {
+    "bus": "yes",
+    "name": "周家嘴路新建路",
+    "name:zh": "周家嘴路新建路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 475861906,
+  "lat": 31.2530202,
+  "lon": 121.4903934,
+  "tags": {
+    "bus": "yes",
+    "name": "东汉阳路梧州路",
+    "name:zh": "东汉阳路梧州路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 476068109,
+  "lat": 31.2457297,
+  "lon": 121.4872012,
+  "tags": {
+    "brand": "Regent Hotels & Resorts",
+    "name": "上海海鸥丽晶酒店",
+    "name:en": "Regent Shanghai on the Bund",
+    "name:zh": "上海海鸥丽晶酒店",
+    "name:zh-Hans": "上海海鸥丽晶酒店",
+    "name:zh-Hant": "上海海鷗麗晶酒店",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 495626009,
+  "lat": 31.2467662,
+  "lon": 121.4891440,
+  "tags": {
+    "amenity": "police",
+    "name": "上海港公安局"
+  }
+},
+{
+  "type": "node",
+  "id": 1573535385,
+  "lat": 31.2480271,
+  "lon": 121.4880858,
+  "tags": {
+    "bus": "yes",
+    "name": "大名路闵行路",
+    "name:zh": "大名路闵行路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1584759525,
+  "lat": 31.2554769,
+  "lon": 121.4976338,
+  "tags": {
+    "bus": "yes",
+    "name": "唐山路高阳路",
+    "name:zh": "唐山路高阳路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1689892488,
+  "lat": 31.2492332,
+  "lon": 121.4929645,
+  "tags": {
+    "amenity": "parking",
+    "capacity": "1000",
+    "name": "上海港国际客运中心停车场",
+    "name:en": "SPICT Parking",
+    "name:zh": "上海港国际客运中心停车场"
+  }
+},
+{
+  "type": "node",
+  "id": 1689893063,
+  "lat": 31.2499555,
+  "lon": 121.4937825,
+  "tags": {
+    "amenity": "parking",
+    "capacity": "2000",
+    "name": "上海港国际客运中心停车场",
+    "name:en": "SPICT Parking",
+    "name:zh": "上海港国际客运中心停车场"
+  }
+},
+{
+  "type": "node",
+  "id": 1867076935,
+  "lat": 31.2597292,
+  "lon": 121.4952879,
+  "tags": {
+    "bus": "yes",
+    "name": "海门路周家嘴路",
+    "name:zh": "海门路周家嘴路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1879928940,
+  "lat": 31.2483720,
+  "lon": 121.4852078,
+  "tags": {
+    "bus": "yes",
+    "name": "吴淞路闵行路",
+    "name:en": "Wusong Road Minhang Road",
+    "name:zh": "吴淞路闵行路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1880007906,
+  "lat": 31.2481477,
+  "lon": 121.4850589,
+  "tags": {
+    "bus": "yes",
+    "name": "吴淞路天潼路",
+    "name:en": "Wusong Road Tiantong Road",
+    "name:zh": "吴淞路天潼路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1881511487,
+  "lat": 31.2537954,
+  "lon": 121.4928597,
+  "tags": {
+    "bus": "yes",
+    "name": "唐山路新建路",
+    "name:zh": "唐山路新建路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1881550505,
+  "lat": 31.2597012,
+  "lon": 121.4979905,
+  "tags": {
+    "bus": "yes",
+    "name": "公平路周家嘴路",
+    "name:zh": "公平路周家嘴路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1881550577,
+  "lat": 31.2589041,
+  "lon": 121.4959895,
+  "tags": {
+    "bus": "yes",
+    "name": "周家嘴路公平路",
+    "name:en": "Zhoujiazui Road Gongping Road",
+    "name:zh": "周家嘴路公平路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1881643705,
+  "lat": 31.2588643,
+  "lon": 121.4960512,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "周家嘴路公平路",
+    "name:en": "Zhoujiazui Road Gongping Road",
+    "name:zh": "周家嘴路公平路",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1881643711,
+  "lat": 31.2566223,
+  "lon": 121.4917256,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "周家嘴路新建路",
+    "name:en": "Zhoujiazui Road Xinjian Road",
+    "name:zh": "周家嘴路新建路",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1881643732,
+  "lat": 31.2553402,
+  "lon": 121.4903032,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "周家嘴路新建路",
+    "name:en": "Zhoujiazui Road Xinjian Road",
+    "name:zh": "周家嘴路新建路",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1883249747,
+  "lat": 31.2482238,
+  "lon": 121.4894518,
+  "tags": {
+    "bus": "yes",
+    "name": "白渡桥",
+    "name:zh": "白渡桥",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1883249755,
+  "lat": 31.2482702,
+  "lon": 121.4871140,
+  "tags": {
+    "bus": "yes",
+    "name": "长治路闵行路",
+    "name:en": "Changzhi Road Minhang Road",
+    "name:zh": "长治路闵行路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1883252616,
+  "lat": 31.2499062,
+  "lon": 121.4932496,
+  "tags": {
+    "bus": "yes",
+    "name": "东大名路旅顺路",
+    "name:en": "East Daming Road Lushun Road",
+    "name:zh": "东大名路旅顺路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2625439387,
+  "lat": 31.2521208,
+  "lon": 121.4939755,
+  "tags": {
+    "name": "国际客运中心",
+    "name:en": "International Cruise Terminal",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3569237119,
+  "lat": 31.2471336,
+  "lon": 121.4876194,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "星巴克",
+    "brand:en": "Starbucks",
+    "brand:wikidata": "Q37158",
+    "brand:wikipedia": "en:Starbucks",
+    "brand:zh": "星巴克",
+    "cuisine": "coffee_shop",
+    "name": "星巴克",
+    "name:en": "Starbucks",
+    "name:zh": "星巴克",
+    "official_name": "Starbucks Coffee",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4232393654,
+  "lat": 31.2560353,
+  "lon": 121.4874134,
+  "tags": {
+    "name": "绿地九龙酒店",
+    "name:en": "Greenland Jiulong Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4484829189,
+  "lat": 31.2566903,
+  "lon": 121.4873502,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "星巴克",
+    "brand:en": "Starbucks",
+    "brand:wikidata": "Q37158",
+    "brand:wikipedia": "en:Starbucks",
+    "brand:zh": "星巴克",
+    "cuisine": "coffee_shop",
+    "name": "星巴克",
+    "name:en": "Starbucks",
+    "name:zh": "星巴克",
+    "official_name": "Starbucks Coffee",
+    "takeaway": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4484836192,
+  "lat": 31.2564885,
+  "lon": 121.4875428,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "牛市中餐厅",
+    "name:zh": "牛市中餐厅"
+  }
+},
+{
+  "type": "node",
+  "id": 4484857890,
+  "lat": 31.2595199,
+  "lon": 121.4884439,
+  "tags": {
+    "name": "好德",
+    "name:zh": "好德",
+    "name:zh-Hans": "好德",
+    "name:zh-Hant": "好德",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 4484868789,
+  "lat": 31.2568476,
+  "lon": 121.4879949,
+  "tags": {
+    "amenity": "cafe",
+    "name": "花至咖啡馆",
+    "name:zh": "花至咖啡馆"
+  }
+},
+{
+  "type": "node",
+  "id": 4484871590,
+  "lat": 31.2595706,
+  "lon": 121.4874068,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "良友药店",
+    "name:zh": "良友药店",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4485179392,
+  "lat": 31.2595803,
+  "lon": 121.4873042,
+  "tags": {
+    "brand": "罗森",
+    "brand:en": "LAWSON",
+    "brand:wikidata": "Q1557223",
+    "brand:zh": "罗森",
+    "name": "罗森",
+    "name:en": "Lawson",
+    "name:zh": "罗森",
+    "operator": "罗森（中国）投资有限公司",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 4620190494,
+  "lat": 31.2595840,
+  "lon": 121.4872198,
+  "tags": {
+    "brand": "罗森",
+    "brand:en": "LAWSON",
+    "brand:wikidata": "Q1557223",
+    "brand:zh": "罗森",
+    "name": "罗森",
+    "name:en": "Lawson",
+    "name:zh": "罗森",
+    "operator": "罗森（中国）投资有限公司",
+    "shop": "convenience",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4710090879,
+  "lat": 31.2461362,
+  "lon": 121.4864009,
+  "tags": {
+    "built": "1858",
+    "historic": "heritage",
+    "name": "中国证券博物馆",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4893672823,
+  "lat": 31.2472740,
+  "lon": 121.4892198,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "外滩茂悦大酒店新大陆",
+    "name:zh": "外滩茂悦大酒店新大陆"
+  }
+},
+{
+  "type": "node",
+  "id": 5019789298,
+  "lat": 31.2521658,
+  "lon": 121.4939516,
+  "tags": {
+    "name": "国际客运中心",
+    "name:en": "International Cruise Terminal",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5306464714,
+  "lat": 31.2521438,
+  "lon": 121.4939618,
+  "tags": {
+    "name": "国际客运中心",
+    "name:en": "International Cruise Terminal",
+    "network": "上海地铁",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q10926246"
+  }
+},
+{
+  "type": "node",
+  "id": 5410190721,
+  "lat": 31.2564655,
+  "lon": 121.4871611,
+  "tags": {
+    "addr:housenumber": "611",
+    "addr:postcode": "200000",
+    "addr:street": "溧阳路",
+    "amenity": "cafe",
+    "name": "狗窝",
+    "name:en": "Canil"
+  }
+},
+{
+  "type": "node",
+  "id": 5725351721,
+  "lat": 31.2517613,
+  "lon": 121.4922921,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "东长治路旅顺路",
+    "name:zh": "东长治路旅顺路",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6482592753,
+  "lat": 31.2491378,
+  "lon": 121.4940953,
+  "tags": {
+    "amenity": "cafe",
+    "description:en": "Tea, milk, juice. No coffee",
+    "name": "If Chá",
+    "outdoor_seating": "yes",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6592346159,
+  "lat": 31.2488741,
+  "lon": 121.4941581,
+  "tags": {
+    "leisure": "sports_centre",
+    "name": "魔都矩阵",
+    "name:en": "Magic Jungle",
+    "sport": "climbing_adventure"
+  }
+},
+{
+  "type": "node",
+  "id": 6592385737,
+  "lat": 31.2507659,
+  "lon": 121.4931554,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "星巴克",
+    "brand:en": "Starbucks",
+    "brand:wikidata": "Q37158",
+    "brand:wikipedia": "en:Starbucks",
+    "brand:zh": "星巴克",
+    "cuisine": "coffee_shop",
+    "level": "0",
+    "name": "星巴克",
+    "name:en": "Starbucks",
+    "name:zh": "星巴克",
+    "official_name": "Starbucks Coffee",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6592386148,
+  "lat": 31.2499734,
+  "lon": 121.4932083,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "东大名路旅顺路",
+    "name:en": "East Daming Road Lushun Road",
+    "name:zh": "东大名路旅顺路",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6779243785,
+  "lat": 31.2532786,
+  "lon": 121.4960084,
+  "tags": {
+    "name": "茶茶",
+    "shop": "beverages"
+  }
+},
+{
+  "type": "node",
+  "id": 6782560689,
+  "lat": 31.2521563,
+  "lon": 121.4970272,
+  "tags": {
+    "addr:housenumber": "687",
+    "addr:street": "东大名路",
+    "amenity": "arts_centre",
+    "level": "1",
+    "name": "Sino Art Space"
+  }
+},
+{
+  "type": "node",
+  "id": 6844140592,
+  "lat": 31.2510630,
+  "lon": 121.4939852,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "蓝蛙",
+    "brand:en": "Blue Frog",
+    "brand:wikidata": "Q114448902",
+    "brand:zh": "蓝蛙",
+    "cuisine": "western",
+    "name": "蓝蛙",
+    "name:en": "Blue Frog",
+    "name:zh": "蓝蛙"
+  }
+},
+{
+  "type": "node",
+  "id": 9083990455,
+  "lat": 31.2565475,
+  "lon": 121.4917890,
+  "tags": {
+    "bus": "yes",
+    "name": "周家嘴路新建路",
+    "name:zh": "周家嘴路新建路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 9270936318,
+  "lat": 31.2539869,
+  "lon": 121.4947857,
+  "tags": {
+    "capital": "8",
+    "division_code": "310109018000",
+    "name": "北外滩街道",
+    "name:en": "Beiwaitan",
+    "name:ko": "베이와이탄가도",
+    "name:zh": "北外滩街道",
+    "name:zh-Hans": "北外滩街道",
+    "name:zh-Hant": "北外灘街道",
+    "name:zh-Latn-pinyin": "Běiwàitān Jiēdào",
+    "place": "suburb",
+    "place:CN": "subdistrict",
+    "wikidata": "Q47518658",
+    "wikipedia": "zh:北外滩街道"
+  }
+},
+{
+  "type": "node",
+  "id": 9660436114,
+  "lat": 31.2500343,
+  "lon": 121.4925354,
+  "tags": {
+    "amenity": "bank",
+    "brand": "招商银行",
+    "brand:en": "China Merchants Bank",
+    "brand:wikidata": "Q1073327",
+    "brand:wikipedia": "zh:招商银行",
+    "brand:zh": "招商银行",
+    "name": "招商银行",
+    "name:en": "China Merchants Bank",
+    "name:zh": "招商银行"
+  }
+},
+{
+  "type": "node",
+  "id": 9660437800,
+  "lat": 31.2508223,
+  "lon": 121.4956053,
+  "tags": {
+    "amenity": "bank",
+    "brand": "中国工商银行",
+    "brand:en": "Industrial and Commercial Bank of China",
+    "brand:wikidata": "Q26463",
+    "brand:wikipedia": "zh:中国工商银行",
+    "brand:zh": "中国工商银行",
+    "name": "中国工商银行",
+    "name:en": "Industrial and Commercial Bank of China",
+    "name:zh": "中国工商银行"
+  }
+},
+{
+  "type": "node",
+  "id": 9778896951,
+  "lat": 31.2553837,
+  "lon": 121.4977571,
+  "tags": {
+    "bus": "yes",
+    "name": "唐山路高阳路",
+    "name:zh": "唐山路高阳路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 9778929575,
+  "lat": 31.2524361,
+  "lon": 121.4884217,
+  "tags": {
+    "bus": "yes",
+    "name": "东汉阳路溧阳路",
+    "name:zh": "东汉阳路溧阳路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 9778929576,
+  "lat": 31.2537328,
+  "lon": 121.4926851,
+  "tags": {
+    "bus": "yes",
+    "name": "唐山路新建路",
+    "name:zh": "唐山路新建路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 9778929577,
+  "lat": 31.2536984,
+  "lon": 121.4926931,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "唐山路新建路",
+    "name:zh": "唐山路新建路",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9778929578,
+  "lat": 31.2538498,
+  "lon": 121.4928433,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "唐山路新建路",
+    "name:zh": "唐山路新建路",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9778929579,
+  "lat": 31.2553241,
+  "lon": 121.4977679,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "唐山路高阳路",
+    "name:zh": "唐山路高阳路",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9778929580,
+  "lat": 31.2550717,
+  "lon": 121.4962007,
+  "tags": {
+    "bus": "yes",
+    "name": "唐山路高阳路",
+    "name:zh": "唐山路高阳路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 9778929581,
+  "lat": 31.2551132,
+  "lon": 121.4961907,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "唐山路高阳路",
+    "name:zh": "唐山路高阳路",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9778929582,
+  "lat": 31.2555419,
+  "lon": 121.4976338,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "唐山路高阳路",
+    "name:zh": "唐山路高阳路",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9778936586,
+  "lat": 31.2483717,
+  "lon": 121.4852768,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "吴淞路闵行路",
+    "name:en": "Wusong Road Minhang Road",
+    "name:zh": "吴淞路闵行路",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9778936591,
+  "lat": 31.2529532,
+  "lon": 121.4904106,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "东汉阳路梧州路",
+    "name:zh": "东汉阳路梧州路",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9778936592,
+  "lat": 31.2524614,
+  "lon": 121.4884096,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "东汉阳路溧阳路",
+    "name:zh": "东汉阳路溧阳路",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9803198569,
+  "lat": 31.2480071,
+  "lon": 121.4877149,
+  "tags": {
+    "bus": "yes",
+    "name": "闵行路长治路",
+    "name:zh": "闵行路长治路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 9803273580,
+  "lat": 31.2484497,
+  "lon": 121.4877136,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "长治路闵行路",
+    "name:en": "Changzhi Road Minhang Road",
+    "name:zh": "长治路闵行路",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9803273581,
+  "lat": 31.2482857,
+  "lon": 121.4870712,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "长治路闵行路",
+    "name:en": "Changzhi Road Minhang Road",
+    "name:zh": "长治路闵行路",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9803273582,
+  "lat": 31.2517196,
+  "lon": 121.4923391,
+  "tags": {
+    "bus": "yes",
+    "name": "东长治路旅顺路",
+    "name:zh": "东长治路旅顺路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 9803303600,
+  "lat": 31.2503369,
+  "lon": 121.4942461,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "东大名路旅顺路",
+    "name:en": "East Daming Road Lushun Road",
+    "name:zh": "东大名路旅顺路",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9803303602,
+  "lat": 31.2481768,
+  "lon": 121.4894691,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "白渡桥",
+    "name:zh": "白渡桥",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9803303603,
+  "lat": 31.2480599,
+  "lon": 121.4880542,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "大名路闵行路",
+    "name:zh": "大名路闵行路",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9803307953,
+  "lat": 31.2479968,
+  "lon": 121.4876921,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "闵行路长治路",
+    "name:zh": "闵行路长治路",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9803309285,
+  "lat": 31.2484726,
+  "lon": 121.4876921,
+  "tags": {
+    "bus": "yes",
+    "name": "长治路闵行路",
+    "name:en": "Changzhi Road Minhang Road",
+    "name:zh": "长治路闵行路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 9805743389,
+  "lat": 31.2542992,
+  "lon": 121.4891043,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "梧州路余杭路",
+    "name:zh": "梧州路余杭路",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9805743390,
+  "lat": 31.2542969,
+  "lon": 121.4890587,
+  "tags": {
+    "bus": "yes",
+    "name": "梧州路余杭路",
+    "name:zh": "梧州路余杭路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 9808392974,
+  "lat": 31.2516760,
+  "lon": 121.4971912,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "东大名路高阳路",
+    "name:zh": "东大名路高阳路",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9808392975,
+  "lat": 31.2517310,
+  "lon": 121.4971805,
+  "tags": {
+    "bus": "yes",
+    "name": "东大名路高阳路",
+    "name:zh": "东大名路高阳路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 10215197417,
+  "lat": 31.2516531,
+  "lon": 121.4930718,
+  "tags": {
+    "name": "Hema",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 11135889791,
+  "lat": 31.2501823,
+  "lon": 121.4873132,
+  "tags": {
+    "name": "三角地",
+    "name:en": "Sanjiaodi",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 11314399773,
+  "lat": 31.2497097,
+  "lon": 121.4964079,
+  "tags": {
+    "name": "North Bund Riverside park",
+    "name:en": "Temple of light",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11343520317,
+  "lat": 31.2479819,
+  "lon": 121.4917302,
+  "tags": {
+    "amenity": "cafe",
+    "delivery": "yes",
+    "name": "MANNER COFFEE（国客滨江店）",
+    "outdoor_seating": "yes",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11668443629,
+  "lat": 31.2596508,
+  "lon": 121.4952546,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "海门路周家嘴路",
+    "name:zh": "海门路周家嘴路",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 11832164369,
+  "lat": 31.2485248,
+  "lon": 121.4922759,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "尚9",
+    "name:en": "Sun Chateau"
+  }
+},
+{
+  "type": "node",
+  "id": 11921138485,
+  "lat": 31.2486591,
+  "lon": 121.4934166,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "name": "鳥旦碳火烧鸟酒馆"
+  }
+},
+{
+  "type": "node",
+  "id": 12011804670,
+  "lat": 31.2589563,
+  "lon": 121.4953563,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "noodle",
+    "diet:halal": "yes",
+    "name": "伊旺牛肉拉面"
+  }
+},
+{
+  "type": "node",
+  "id": 12011838758,
+  "lat": 31.2590966,
+  "lon": 121.4953085,
+  "tags": {
+    "name": "元昶便利店",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 12011848485,
+  "lat": 31.2516457,
+  "lon": 121.4904039,
+  "tags": {
+    "name": "禾野高端私人定制",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 12011855092,
+  "lat": 31.2593234,
+  "lon": 121.4958934,
+  "tags": {
+    "name": "阿洪美容美发",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 12068137583,
+  "lat": 31.2464211,
+  "lon": 121.4872552,
+  "tags": {
+    "name": "上海外滩中南海滨酒店",
+    "name:en": "Shanghai Bund South China Harbour View Hotel",
+    "name:zh": "上海外滩中南海滨酒店",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12192896975,
+  "lat": 31.2589514,
+  "lon": 121.4949547,
+  "tags": {
+    "name": "易捷便利店",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 12192902211,
+  "lat": 31.2590348,
+  "lon": 121.4968111,
+  "tags": {
+    "name": "漫心酒店",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12246203037,
+  "lat": 31.2506997,
+  "lon": 121.4927969,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "杉姐老火锅(白玉兰店)"
+  }
+},
+{
+  "type": "node",
+  "id": 12246225788,
+  "lat": 31.2518002,
+  "lon": 121.4914300,
+  "tags": {
+    "amenity": "fast_food",
+    "brand": "麦当劳",
+    "brand:en": "McDonald's",
+    "brand:wikidata": "Q38076",
+    "brand:zh": "麦当劳",
+    "cuisine": "burger",
+    "name": "麦当劳",
+    "name:en": "McDonald's",
+    "name:zh": "麦当劳",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12246225789,
+  "lat": 31.2516945,
+  "lon": 121.4913276,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "匠雕·悦味(白玉兰店)",
+    "name:en": "Artisan & Delightful Taste (Magnolia Store)",
+    "name:ru": "Изысканный вкус и мастерство «Магнолия»"
+  }
+},
+{
+  "type": "node",
+  "id": 12246225790,
+  "lat": 31.2522371,
+  "lon": 121.4921367,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "YETEA野小白(北外滩店)"
+  }
+},
+{
+  "type": "node",
+  "id": 12246225791,
+  "lat": 31.2521784,
+  "lon": 121.4922593,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "娜姐牛杂"
+  }
+},
+{
+  "type": "node",
+  "id": 12246225792,
+  "lat": 31.2522229,
+  "lon": 121.4923854,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "娘惹囡·新加坡传统手作糕点(虹口双狮汇店)"
+  }
+},
+{
+  "type": "node",
+  "id": 12246236331,
+  "lat": 31.2494756,
+  "lon": 121.4929483,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "可鱼可饭·酸菜鱼(北外滩国客中心店)"
+  }
+},
+{
+  "type": "node",
+  "id": 12246236332,
+  "lat": 31.2492905,
+  "lon": 121.4927229,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "宝莱纳·露台江景婚宴(北外滩店)"
+  }
+},
+{
+  "type": "node",
+  "id": 12246236333,
+  "lat": 31.2489504,
+  "lon": 121.4918478,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "远洋海湟旋转餐厅"
+  }
+},
+{
+  "type": "node",
+  "id": 12246238620,
+  "lat": 31.2510831,
+  "lon": 121.4934777,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "红唇串串香·成都麻辣拌(白玉兰广场店)"
+  }
+},
+{
+  "type": "node",
+  "id": 12246238621,
+  "lat": 31.2512799,
+  "lon": 121.4938488,
+  "tags": {
+    "amenity": "fast_food",
+    "brand": "赛百味",
+    "brand:en": "Subway",
+    "brand:wikidata": "Q244457",
+    "brand:zh": "赛百味",
+    "cuisine": "sandwich",
+    "name": "赛百味",
+    "name:en": "Subway",
+    "name:zh": "赛百味",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12246238622,
+  "lat": 31.2514321,
+  "lon": 121.4937598,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "华三爷干拌面(白玉兰广场店)"
+  }
+},
+{
+  "type": "node",
+  "id": 12246238623,
+  "lat": 31.2514766,
+  "lon": 121.4939899,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "三餐荟烤北京烤鸭(上海白玉兰广场店)"
+  }
+},
+{
+  "type": "node",
+  "id": 12246238624,
+  "lat": 31.2516828,
+  "lon": 121.4940641,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "椰小小(上海白玉兰广场店)"
+  }
+},
+{
+  "type": "node",
+  "id": 12246238625,
+  "lat": 31.2518414,
+  "lon": 121.4944018,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "蘭心餐厅(白玉兰购物中心店)"
+  }
+},
+{
+  "type": "node",
+  "id": 12246238626,
+  "lat": 31.2518287,
+  "lon": 121.4940864,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "吕锦记招牌手撕鸡(白玉兰店)"
+  }
+},
+{
+  "type": "node",
+  "id": 12246238627,
+  "lat": 31.2515781,
+  "lon": 121.4938192,
+  "tags": {
+    "brand": "7-Eleven",
+    "brand:wikidata": "Q259340",
+    "name": "7-Eleven",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 12246238628,
+  "lat": 31.2510102,
+  "lon": 121.4944130,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "gaga(白玉兰广场店)"
+  }
+},
+{
+  "type": "node",
+  "id": 12246238629,
+  "lat": 31.2508864,
+  "lon": 121.4930287,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "大牌小档美食集市(上海白玉兰广场店)"
+  }
+},
+{
+  "type": "node",
+  "id": 12246238630,
+  "lat": 31.2502011,
+  "lon": 121.4925313,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "小鱼儿酸菜鱼·(上海白玉兰广场店)"
+  }
+},
+{
+  "type": "node",
+  "id": 12304989084,
+  "lat": 31.2547196,
+  "lon": 121.4877975,
+  "tags": {
+    "bus": "yes",
+    "name": "溧阳路周家嘴路",
+    "name:zh": "溧阳路周家嘴路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 12304989085,
+  "lat": 31.2547171,
+  "lon": 121.4878283,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "溧阳路周家嘴路",
+    "name:zh": "溧阳路周家嘴路",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 12310896833,
+  "lat": 31.2559762,
+  "lon": 121.4918946,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "道道鲜崇明私房菜"
+  }
+},
+{
+  "type": "node",
+  "id": 12389499219,
+  "lat": 31.2551202,
+  "lon": 121.4889211,
+  "tags": {
+    "name": "田野秀造型",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 12389499220,
+  "lat": 31.2550455,
+  "lon": 121.4889196,
+  "tags": {
+    "name": "良友（梧州路店）",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 12409735010,
+  "lat": 31.2589753,
+  "lon": 121.4976102,
+  "tags": {
+    "name": "美髮",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 12695826037,
+  "lat": 31.2527901,
+  "lon": 121.4932971,
+  "tags": {
+    "name": "雷士德工学院旧址",
+    "name:en": "Lester School & Technical Institute (Old Site)",
+    "office": "educational_institution"
+  }
+},
+{
+  "type": "node",
+  "id": 12695826038,
+  "lat": 31.2524615,
+  "lon": 121.4935219,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Peet's Coffee",
+    "name:zh": "皮爷咖啡"
+  }
+},
+{
+  "type": "node",
+  "id": 12695826061,
+  "lat": 31.2539614,
+  "lon": 121.4927570,
+  "tags": {
+    "addr:city": "上海市",
+    "addr:district": "虹口区",
+    "addr:province": "上海",
+    "healthcare": "doctor",
+    "name": "唐山路社区家庭医生诊所(高阳路)",
+    "name:en": "Tangshan Road Community Family Doctor Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 12696941278,
+  "lat": 31.2547312,
+  "lon": 121.4850668,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "第一人民医院员工食堂"
+  }
+},
+{
+  "type": "node",
+  "id": 12707961659,
+  "lat": 31.2515284,
+  "lon": 121.4867077,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "前城小吃"
+  }
+},
+{
+  "type": "node",
+  "id": 12707961660,
+  "lat": 31.2513633,
+  "lon": 121.4866270,
+  "tags": {
+    "brand": "罗森",
+    "brand:en": "LAWSON",
+    "brand:wikidata": "Q1557223",
+    "brand:zh": "罗森",
+    "name": "罗森",
+    "name:en": "Lawson",
+    "name:zh": "罗森",
+    "operator": "罗森（中国）投资有限公司",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 12707961666,
+  "lat": 31.2513412,
+  "lon": 121.4865804,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "西北牛肉面（耀江国际广场店）"
+  }
+},
+{
+  "type": "node",
+  "id": 12707961667,
+  "lat": 31.2513121,
+  "lon": 121.4865403,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "老上海馄饨铺（耀江国际广场店）"
+  }
+},
+{
+  "type": "node",
+  "id": 12707961668,
+  "lat": 31.2512803,
+  "lon": 121.4864899,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "大骨牛肉汤（耀江国际广场店）"
+  }
+},
+{
+  "type": "node",
+  "id": 12707961669,
+  "lat": 31.2511524,
+  "lon": 121.4863007,
+  "tags": {
+    "brand": "7-Eleven",
+    "brand:wikidata": "Q259340",
+    "name": "7-Eleven",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 12707961670,
+  "lat": 31.2511862,
+  "lon": 121.4863665,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "吉祥馄饨（耀江国际广场店）"
+  }
+},
+{
+  "type": "node",
+  "id": 12822586756,
+  "lat": 31.2483866,
+  "lon": 121.4914786,
+  "tags": {
+    "addr:floor": "1",
+    "amenity": "cafe",
+    "brand": "星巴克",
+    "brand:en": "Starbucks",
+    "brand:wikidata": "Q37158",
+    "brand:zh": "星巴克",
+    "check_date": "2025-05-09",
+    "cuisine": "coffee_shop",
+    "level": "0",
+    "name": "星巴克",
+    "name:en": "Starbucks",
+    "name:zh": "星巴克",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "takeaway": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13227754281,
+  "lat": 31.2460737,
+  "lon": 121.4865166,
+  "tags": {
+    "name": "礼查饭店旧址",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13403769320,
+  "lat": 31.2554419,
+  "lon": 121.4867887,
+  "tags": {
+    "amenity": "fast_food",
+    "brand": "肯德基",
+    "brand:en": "KFC",
+    "brand:wikidata": "Q524757",
+    "brand:zh": "肯德基",
+    "cuisine": "chicken",
+    "name": "肯德基",
+    "name:en": "KFC",
+    "name:zh": "肯德基",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13403769321,
+  "lat": 31.2554335,
+  "lon": 121.4867442,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "瑞幸咖啡",
+    "brand:en": "Luckin Coffee",
+    "brand:wikidata": "Q56811344",
+    "brand:zh": "瑞幸咖啡",
+    "cuisine": "coffee_shop",
+    "name": "瑞幸咖啡",
+    "name:en": "Luckin Coffee",
+    "name:zh": "瑞幸咖啡",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13505937088,
+  "lat": 31.2550506,
+  "lon": 121.4881061,
+  "tags": {
+    "name": "佳铭宾馆",
+    "name:en": "Jiaming Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 13771767801,
+  "lat": 31.2469398,
+  "lon": 121.4883733,
+  "tags": {
+    "addr:housenumber": "199",
+    "addr:street": "Huangpu Road",
+    "amenity": "bar",
+    "check_date": "2026-04-28",
+    "check_date:opening_hours": "2026-04-28",
+    "internet_access": "wlan",
+    "name": "VUE Bar",
+    "opening_hours": "Mo-Sa 17:30-01:00; Su 14:30-01:00"
+  }
+}
+
+  ]
+}

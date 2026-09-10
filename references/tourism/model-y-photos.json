@@ -1,0 +1,50 @@
+[
+  {
+    "id": "model-y-front",
+    "title": "2023 Tesla Model Y Long Range All-Wheel Drive in Pearl White Multi-Coat, front right, 2024-09-25.jpg",
+    "file": "assets/vehicles/source/model-y/review/reference-front.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:2023_Tesla_Model_Y_Long_Range_All-Wheel_Drive_in_Pearl_White_Multi-Coat,_front_right,_2024-09-25.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/2023_Tesla_Model_Y_Long_Range_All-Wheel_Drive_in_Pearl_White_Multi-Coat%2C_front_right%2C_2024-09-25.jpg/1920px-2023_Tesla_Model_Y_Long_Range_All-Wheel_Drive_in_Pearl_White_Multi-Coat%2C_front_right%2C_2024-09-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/User:Elise240SX\" title=\"User:Elise240SX\">Elise240SX</a>",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2024-09-25 10:38:10",
+    "bytes": 387572,
+    "sha256": "de272389bd61c6337c64290a3a400d01d1e92864cd657563c867bcaa83781ed4",
+    "usage": "Visual shape and material reference only; not embedded in runtime model",
+    "visualInspection": "Actually viewed local source photograph on 2026-09-09",
+    "observations": "2023 Pearl White body, black window surrounds, lower rocker and wheel arch trim, black flush handles, individual teardrop headlamp with internal projectors and low horizontal intake."
+  },
+  {
+    "id": "model-y-rear",
+    "title": "2023 Tesla Model Y Long Range All-Wheel Drive in Pearl White Multi-Coat, rear right, 2024-09-25.jpg",
+    "file": "assets/vehicles/source/model-y/review/reference-rear.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:2023_Tesla_Model_Y_Long_Range_All-Wheel_Drive_in_Pearl_White_Multi-Coat,_rear_right,_2024-09-25.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/2023_Tesla_Model_Y_Long_Range_All-Wheel_Drive_in_Pearl_White_Multi-Coat%2C_rear_right%2C_2024-09-25.jpg/1920px-2023_Tesla_Model_Y_Long_Range_All-Wheel_Drive_in_Pearl_White_Multi-Coat%2C_rear_right%2C_2024-09-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/User:Elise240SX\" title=\"User:Elise240SX\">Elise240SX</a>",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2024-09-25 10:38:30",
+    "bytes": 444681,
+    "sha256": "c2ffda26329ff54178ffc9c8f85a2f1c52546dd1b017fdb31a13530d618fbfca",
+    "usage": "Visual shape and material reference only; not embedded in runtime model",
+    "visualInspection": "Actually viewed local source photograph on 2026-09-09",
+    "observations": "2023 sloping black rear glass, body-coloured tailgate, dark clear taillamp housing with red outer light strip and pale inner optical elements, black lower rear valance."
+  },
+  {
+    "id": "model-y-side",
+    "title": "Tesla Model Y left side view 7-19-2020.jpg",
+    "file": "assets/vehicles/source/model-y/review/reference-side.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_left_side_view_7-19-2020.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Tesla_Model_Y_left_side_view_7-19-2020.jpg/1920px-Tesla_Model_Y_left_side_view_7-19-2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/User:Saucy\" title=\"User:Saucy\">Saucy</a>",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2020-07-19 20:05:34",
+    "bytes": 564426,
+    "sha256": "eb6eb25cfc5719ac094bee83363a057fb4bb6b63edae209ba37758a073920d66",
+    "usage": "Visual shape and material reference only; not embedded in runtime model",
+    "visualInspection": "Actually viewed local source photograph on 2026-09-09",
+    "observations": "2020 side/rear three-quarter view; used only to check panoramic roof divisions and old generation silhouette. Early chrome surround differs from 2023 black trim."
+  }
+]

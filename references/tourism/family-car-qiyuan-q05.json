@@ -1,0 +1,63 @@
+{
+  "car": "qiyuan-q05",
+  "sourceYear": 2026,
+  "modelIdentity": "New 2026 Changan Qiyuan Q05 BEV, 4435 mm length and 2735 mm wheelbase, not 2023 CS55-derived PHEV",
+  "references": [
+    {
+      "path": "assets/vehicles/family-exteriors/references/q05-01.jpg",
+      "sourceUrl": "https://changan-qiyuan-china.ru/img/q05/q05-01.jpg",
+      "license": "Copyright holder not established; retained as local visual reference only, not embedded in runtime asset",
+      "author": "Dongchedi branded photo mirrored by dealership",
+      "view": "front three-quarter",
+      "actuallyViewed": true,
+      "bytes": 436937,
+      "sha256": "dd41d50e5c40aa6098b721e32f249738b66eb994f1224e403915b7c256bc8173"
+    },
+    {
+      "path": "assets/vehicles/family-exteriors/references/q05-02.jpg",
+      "sourceUrl": "https://changan-qiyuan-china.ru/img/q05/q05-02.jpg",
+      "license": "Copyright holder not established; retained as local visual reference only, not embedded in runtime asset",
+      "author": "Dongchedi branded photo mirrored by dealership",
+      "view": "front",
+      "actuallyViewed": true,
+      "bytes": 407404,
+      "sha256": "e96afc1946dbd5401e201a1429b47a8fc916ee57295a899fd9688b8ae0088161"
+    },
+    {
+      "path": "assets/vehicles/family-exteriors/references/q05-03.jpg",
+      "sourceUrl": "https://changan-qiyuan-china.ru/img/q05/q05-03.jpg",
+      "license": "Copyright holder not established; retained as local visual reference only, not embedded in runtime asset",
+      "author": "Dongchedi branded photo mirrored by dealership",
+      "view": "front opposite three-quarter",
+      "actuallyViewed": true,
+      "bytes": 363903,
+      "sha256": "f4f1ba3d87c16debd6645601a50cc06ea36e88b1a9a46572531fa2edcda34eba"
+    },
+    {
+      "path": "assets/vehicles/family-exteriors/references/q05-04.jpg",
+      "sourceUrl": "https://changan-qiyuan-china.ru/img/q05/q05-04.jpg",
+      "license": "Copyright holder not established; retained as local visual reference only, not embedded in runtime asset",
+      "author": "Dongchedi branded photo mirrored by dealership",
+      "view": "side profile",
+      "actuallyViewed": true,
+      "bytes": 420404,
+      "sha256": "446f5f957fd2eec31aa5dbf1073f7633d6ebbd05106a24dc51ad645edb8aa4c0"
+    },
+    {
+      "path": "assets/vehicles/family-exteriors/references/q05-05.jpg",
+      "sourceUrl": "https://changan-qiyuan-china.ru/img/q05/q05-05.jpg",
+      "license": "Copyright holder not established; retained as local visual reference only, not embedded in runtime asset",
+      "author": "Dongchedi branded photo mirrored by dealership",
+      "view": "rear three-quarter",
+      "actuallyViewed": true,
+      "bytes": 412262,
+      "sha256": "a90df152996f39d5e30b3b1e3d4caa3db7124645755e21eba6e0eb210f46a164"
+    }
+  ],
+  "referenceUse": "Visual proportion and feature study only; photographs are never used as vehicle textures",
+  "cadSource": null,
+  "construction": "Original body sections, roof sections, cut wheel arches, fitted window/lighting surfaces and manufactured wheel geometry; no prototype asset loaded",
+  "observedFeatures": [
+    "Short upturned upper lights, trapezoidal lower lamp pods, short hood, relatively straight upper roof, painted swept D pillar, black arch lips, split-spoke wheels, full-width upper tail guide with stacked outer guide"
+  ]
+}

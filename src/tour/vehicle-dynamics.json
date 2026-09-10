@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "method": "City-driving game calibration informed by official performance references; not a manufacturer powertrain simulation.",
+  "limits": {
+    "forwardKmh": 80,
+    "reverseKmh": 15,
+    "brakeMps2": 7.5,
+    "handbrakeMps2": 9,
+    "coastBaseMps2": 0.23,
+    "coastDragPerSpeedSquared": 0.0035,
+    "driveDragPerSpeedSquared": 0.0018,
+    "maximumFrameSeconds": 0.25,
+    "maximumIntegrationSeconds": 0.008333333333333333
+  },
+  "profiles": [
+    {
+      "id": "su7", "name": "小米 SU7", "referenceId": "xiaomi-su7-standard-2024",
+      "referenceVariant": "2024 SU7 后驱标准版", "officialZeroTo100Seconds": 5.28,
+      "responseSeconds": 0.12, "reverseAccelerationMps2": 2.35,
+      "accelerationCurve": [[0, 6.2], [20, 6.5], [50, 5.8], [80, 4.8]],
+      "character": "轻快的电动起步，城市中段持续有力"
+    },
+    {
+      "id": "model-3", "name": "Tesla Model 3", "referenceId": "tesla-model-3-rwd",
+      "referenceVariant": "Model 3 后轮驱动版", "officialZeroTo100Seconds": 6.1,
+      "responseSeconds": 0.13, "reverseAccelerationMps2": 2.3,
+      "accelerationCurve": [[0, 5.4], [20, 5.8], [50, 5.0], [80, 4.3]],
+      "character": "响应直接，起步和中段均明显快于普通小型代步车"
+    },
+    {
+      "id": "model-y", "name": "Tesla Model Y", "referenceId": "tesla-model-y-rwd",
+      "referenceVariant": "Model Y Rear-Wheel Drive", "officialZeroTo100Seconds": 5.9,
+      "responseSeconds": 0.18, "reverseAccelerationMps2": 2.25,
+      "accelerationCurve": [[0, 5.05], [20, 5.6], [50, 5.65], [80, 4.9]],
+      "character": "起步稍柔和，中段电机牵引充足"
+    },
+    {
+      "id": "dolphin", "name": "比亚迪 海豚", "referenceId": "byd-dolphin-dynamic-70kw",
+      "referenceVariant": "DOLPHIN Dynamic Standard Range 70 kW", "officialZeroTo100Seconds": 12.3,
+      "responseSeconds": 0.28, "reverseAccelerationMps2": 2.1,
+      "accelerationCurve": [[0, 3.35], [20, 3.4], [50, 2.55], [80, 2.2]],
+      "character": "小型代步车的渐进起步，高速段牵引逐渐减弱"
+    },
+    {
+      "id": "yuan-up", "name": "比亚迪 元UP", "referenceId": "byd-atto-2-130kw",
+      "referenceVariant": "ATTO 2 Active/Boost 130 kW（元UP同型）", "officialZeroTo100Seconds": 7.9,
+      "referenceBoundary": "与当前运行外观来源ATTO 2一致；不把130 kW版数据称作国内301KM 70 kW版实测。",
+      "responseSeconds": 0.23, "reverseAccelerationMps2": 2.2,
+      "accelerationCurve": [[0, 4.45], [20, 4.65], [50, 4.0], [80, 3.45]],
+      "character": "平顺、易控制的紧凑型电动SUV"
+    },
+    {
+      "id": "g63", "name": "Mercedes-AMG G 63", "referenceId": "mercedes-amg-g63",
+      "referenceVariant": "Mercedes-AMG G 63 4.0 V8 biturbo", "officialZeroTo100Seconds": 4.4,
+      "responseSeconds": 0.2, "reverseAccelerationMps2": 2.3,
+      "accelerationCurve": [[0, 7.1], [20, 7.8], [50, 6.4], [80, 5.7]],
+      "character": "车身感沉稳，油门建立后有明显性能SUV推力"
+    },
+    {
+      "id": "urus", "name": "Lamborghini Urus", "referenceId": "lamborghini-urus-2018",
+      "referenceVariant": "2018 Lamborghini Urus", "officialZeroTo100Seconds": 3.6,
+      "responseSeconds": 0.15, "reverseAccelerationMps2": 2.45,
+      "accelerationCurve": [[0, 8.2], [20, 8.55], [50, 7.4], [80, 6.4]],
+      "character": "快速起步和强劲中段的性能SUV"
+    },
+    {
+      "id": "porsche-911", "name": "Porsche 911 Turbo S", "referenceId": "porsche-911-turbo-s-992",
+      "referenceVariant": "2020/2021 911 Turbo S Coupé（992）", "officialZeroTo100Seconds": 2.7,
+      "referenceBoundary": "使用992.1 Turbo S Coupé官方数据，未套用普通Carrera或2025 T-Hybrid版本；游戏不模拟厂家起步控制程序。",
+      "responseSeconds": 0.08, "reverseAccelerationMps2": 2.4,
+      "accelerationCurve": [[0, 10.1], [20, 10.8], [50, 9.7], [80, 8.3]],
+      "character": "迅捷建立动力，按Turbo S性能定位调校的强劲起步和中段"
+    },
+    {
+      "id": "ferrari-488", "name": "Ferrari 488", "referenceId": "ferrari-488-gtb",
+      "referenceVariant": "Ferrari 488 GTB", "officialZeroTo100Seconds": 3.0,
+      "responseSeconds": 0.085, "reverseAccelerationMps2": 2.5,
+      "accelerationCurve": [[0, 9.4], [20, 10.0], [50, 9.0], [80, 7.6]],
+      "character": "迅猛的跑车起步和持续加速，仍受城市速度上限约束"
+    },
+    {
+      "id": "alphard", "name": "Toyota Alphard", "referenceId": "toyota-alphard-hev",
+      "referenceVariant": "Alphard 2.5L HEV，系统功率184 kW", "officialZeroTo100Seconds": null,
+      "responseSeconds": 0.45, "reverseAccelerationMps2": 1.9,
+      "accelerationCurve": [[0, 3.95], [20, 4.35], [50, 3.5], [80, 2.75]],
+      "character": "渐进建立动力的舒适MPV；游戏加速数值不冒充官方零百成绩"
+    }
+  ]
+}

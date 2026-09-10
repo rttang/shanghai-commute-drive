@@ -1,0 +1,1147 @@
+{
+  "version": 1,
+  "photos": [
+    {
+      "id": "neo-c78f-2500",
+      "wayIds": [
+        389701925
+      ],
+      "title": "2.一层平面图©米凹工作室",
+      "file": "assets/streets/loop-frontages/reference/neo-c78f-2500.jpg",
+      "source": "https://www.archdaily.com/zh/957796/wai-tan-neo-mi-ao-gong-zuo-shi/603cc7d5f91c815225000040-wai-tan-neo-mi-ao-gong-zuo-shi-zhao-pian",
+      "download": "https://images.adsttc.com/media/images/603c/c78f/f91c/8152/2500/003d/large_jpg/2.%E4%B8%80%E5%B1%82%E5%B9%B3%E9%9D%A2%E5%9B%BE%C2%A9%E7%B1%B3%E5%87%B9%E5%B7%A5%E4%BD%9C%E5%AE%A4.jpg?1614595970",
+      "photographer": "米凹工作室",
+      "license": "Copyright retained; public reference use only, no runtime texture",
+      "usage": "designer-plan-reference-only",
+      "bytes": 263648,
+      "sha256": "a648fb7ce4e85e07467bb5d025732af5b26ff481b3552e8fd848cdfc99599528",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "not-yet-inspected",
+        "accepted": false,
+        "observations": "Downloaded and preserved, excluded from accepted modeling evidence until visual inspection."
+      }
+    },
+    {
+      "id": "neo-c7a1-2500",
+      "wayIds": [
+        389701925
+      ],
+      "title": "3.二层平面图©米凹工作室",
+      "file": "assets/streets/loop-frontages/reference/neo-c7a1-2500.jpg",
+      "source": "https://www.archdaily.com/zh/957796/wai-tan-neo-mi-ao-gong-zuo-shi/603cc7d5f91c815225000040-wai-tan-neo-mi-ao-gong-zuo-shi-zhao-pian",
+      "download": "https://images.adsttc.com/media/images/603c/c7a1/f91c/8152/2500/003e/large_jpg/3.%E4%BA%8C%E5%B1%82%E5%B9%B3%E9%9D%A2%E5%9B%BE%C2%A9%E7%B1%B3%E5%87%B9%E5%B7%A5%E4%BD%9C%E5%AE%A4.jpg?1614595989",
+      "photographer": "米凹工作室",
+      "license": "Copyright retained; public reference use only, no runtime texture",
+      "usage": "designer-plan-reference-only",
+      "bytes": 164038,
+      "sha256": "9373872e46a03483f4e317c49417ba1ee29a5bf6dcb5331cc5b36e6c970cc405",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "not-yet-inspected",
+        "accepted": false,
+        "observations": "Downloaded and preserved, excluded from accepted modeling evidence until visual inspection."
+      }
+    },
+    {
+      "id": "neo-c7a2-2500",
+      "wayIds": [
+        389701925
+      ],
+      "title": "4.四层平面图©米凹工作室",
+      "file": "assets/streets/loop-frontages/reference/neo-c7a2-2500.jpg",
+      "source": "https://www.archdaily.com/zh/957796/wai-tan-neo-mi-ao-gong-zuo-shi/603cc7d5f91c815225000040-wai-tan-neo-mi-ao-gong-zuo-shi-zhao-pian",
+      "download": "https://images.adsttc.com/media/images/603c/c7a2/f91c/8186/2500/003b/large_jpg/4.%E5%9B%9B%E5%B1%82%E5%B9%B3%E9%9D%A2%E5%9B%BE%C2%A9%E7%B1%B3%E5%87%B9%E5%B7%A5%E4%BD%9C%E5%AE%A4.jpg?1614595990",
+      "photographer": "米凹工作室",
+      "license": "Copyright retained; public reference use only, no runtime texture",
+      "usage": "designer-plan-reference-only",
+      "bytes": 174749,
+      "sha256": "29a4a734157321968823b9a06084760b14ef16dfbaaa1f4fa6f19456ccddc379",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "not-yet-inspected",
+        "accepted": false,
+        "observations": "Downloaded and preserved, excluded from accepted modeling evidence until visual inspection."
+      }
+    },
+    {
+      "id": "neo-c7af-2500",
+      "wayIds": [
+        389701925
+      ],
+      "title": "5.剖面图©米凹工作室",
+      "file": "assets/streets/loop-frontages/reference/neo-c7af-2500.jpg",
+      "source": "https://www.archdaily.com/zh/957796/wai-tan-neo-mi-ao-gong-zuo-shi/603cc7d5f91c815225000040-wai-tan-neo-mi-ao-gong-zuo-shi-zhao-pian",
+      "download": "https://images.adsttc.com/media/images/603c/c7af/f91c/8152/2500/003f/large_jpg/5.%E5%89%96%E9%9D%A2%E5%9B%BE%C2%A9%E7%B1%B3%E5%87%B9%E5%B7%A5%E4%BD%9C%E5%AE%A4.jpg?1614596007",
+      "photographer": "米凹工作室",
+      "license": "Copyright retained; public reference use only, no runtime texture",
+      "usage": "designer-plan-reference-only",
+      "bytes": 133407,
+      "sha256": "656cdbcc3a1aab44a0810544dd3231979b6db4b5a269cb493a44d227d9b12380",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Directly inspected local source image. NEO identity established by architect text and mapped location; visible neighbouring building parts still require individual geographic matching."
+      }
+    },
+    {
+      "id": "neo-c7d4-2500",
+      "wayIds": [
+        389701925
+      ],
+      "title": "2.鸟瞰古城公园和外滩方向©梁山",
+      "file": "assets/streets/loop-frontages/reference/neo-c7d4-2500.jpg",
+      "source": "https://www.archdaily.com/zh/957796/wai-tan-neo-mi-ao-gong-zuo-shi/603cc7d5f91c815225000040-wai-tan-neo-mi-ao-gong-zuo-shi-zhao-pian",
+      "download": "https://images.adsttc.com/media/images/603c/c7d4/f91c/8186/2500/003c/large_jpg/2.%E9%B8%9F%E7%9E%B0%E5%8F%A4%E5%9F%8E%E5%85%AC%E5%9B%AD%E5%92%8C%E5%A4%96%E6%BB%A9%E6%96%B9%E5%90%91%C2%A9%E6%A2%81%E5%B1%B1.jpg?1614596042",
+      "photographer": "梁山",
+      "license": "Copyright retained; public reference use only, no runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 426556,
+      "sha256": "68ed7dd755d56929325d213c0c5fdadef7b43630af49d7dcb9cd50f4051604bb",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Directly inspected local source image. NEO identity established by architect text and mapped location; visible neighbouring building parts still require individual geographic matching."
+      }
+    },
+    {
+      "id": "neo-c7d5-2500",
+      "wayIds": [
+        389701925
+      ],
+      "title": "1.人民路立面©梁山",
+      "file": "assets/streets/loop-frontages/reference/neo-c7d5-2500.jpg",
+      "source": "https://www.archdaily.com/zh/957796/wai-tan-neo-mi-ao-gong-zuo-shi/603cc7d5f91c815225000040-wai-tan-neo-mi-ao-gong-zuo-shi-zhao-pian",
+      "download": "https://images.adsttc.com/media/images/603c/c7d5/f91c/8152/2500/0040/large_jpg/1.%E4%BA%BA%E6%B0%91%E8%B7%AF%E7%AB%8B%E9%9D%A2%C2%A9%E6%A2%81%E5%B1%B1.jpg?1614596041",
+      "photographer": "梁山",
+      "license": "Copyright retained; public reference use only, no runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 407538,
+      "sha256": "a75ca1ce9b91e1f1bd2948b180a0d53bd46afcb8c8aaba1ac07dd65d0cb184c3",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Directly inspected local source image. NEO identity established by architect text and mapped location; visible neighbouring building parts still require individual geographic matching."
+      }
+    },
+    {
+      "id": "neo-c7e6-2500",
+      "wayIds": [
+        389701925
+      ],
+      "title": "3.改造前的福都商厦©梁山",
+      "file": "assets/streets/loop-frontages/reference/neo-c7e6-2500.jpg",
+      "source": "https://www.archdaily.com/zh/957796/wai-tan-neo-mi-ao-gong-zuo-shi/603cc7d5f91c815225000040-wai-tan-neo-mi-ao-gong-zuo-shi-zhao-pian",
+      "download": "https://images.adsttc.com/media/images/603c/c7e6/f91c/8186/2500/003e/large_jpg/3.%E6%94%B9%E9%80%A0%E5%89%8D%E7%9A%84%E7%A6%8F%E9%83%BD%E5%95%86%E5%8E%A6%C2%A9%E6%A2%81%E5%B1%B1.jpg?1614596058",
+      "photographer": "梁山",
+      "license": "Copyright retained; public reference use only, no runtime texture",
+      "usage": "historical-before-renovation-only-do-not-model-current-facade",
+      "bytes": 510937,
+      "sha256": "69d4ce84c1117b086c2146ca148a1ddfbe034b5dacf3c9d08e2cbf64c9954d44",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "not-yet-inspected",
+        "accepted": false,
+        "observations": "Downloaded and preserved, excluded from accepted modeling evidence until visual inspection."
+      }
+    },
+    {
+      "id": "neo-c7e8-2500",
+      "wayIds": [
+        389701925
+      ],
+      "title": "4.人民路透视©梁山",
+      "file": "assets/streets/loop-frontages/reference/neo-c7e8-2500.jpg",
+      "source": "https://www.archdaily.com/zh/957796/wai-tan-neo-mi-ao-gong-zuo-shi/603cc7d5f91c815225000040-wai-tan-neo-mi-ao-gong-zuo-shi-zhao-pian",
+      "download": "https://images.adsttc.com/media/images/603c/c7e8/f91c/8152/2500/0042/large_jpg/4.%E4%BA%BA%E6%B0%91%E8%B7%AF%E9%80%8F%E8%A7%86%C2%A9%E6%A2%81%E5%B1%B1.jpg?1614596059",
+      "photographer": "梁山",
+      "license": "Copyright retained; public reference use only, no runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 381310,
+      "sha256": "741e526ce268fcf253a97c58ac3cffe975a1e9e92f0acc5928759cf58e535b70",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Directly inspected local source image. NEO identity established by architect text and mapped location; visible neighbouring building parts still require individual geographic matching."
+      }
+    },
+    {
+      "id": "neo-c7fb-2500",
+      "wayIds": [
+        389701925
+      ],
+      "title": "5.福民街透视©梁山",
+      "file": "assets/streets/loop-frontages/reference/neo-c7fb-2500.jpg",
+      "source": "https://www.archdaily.com/zh/957796/wai-tan-neo-mi-ao-gong-zuo-shi/603cc7d5f91c815225000040-wai-tan-neo-mi-ao-gong-zuo-shi-zhao-pian",
+      "download": "https://images.adsttc.com/media/images/603c/c7fb/f91c/8152/2500/0044/large_jpg/5.%E7%A6%8F%E6%B0%91%E8%A1%97%E9%80%8F%E8%A7%86%C2%A9%E6%A2%81%E5%B1%B1.jpg?1614596078",
+      "photographer": "梁山",
+      "license": "Copyright retained; public reference use only, no runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 427637,
+      "sha256": "0c38f961767582e716e21112e9600367b9baa3cb7a680c061b0fd9a9ed758990",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Directly inspected local source image. NEO identity established by architect text and mapped location; visible neighbouring building parts still require individual geographic matching."
+      }
+    },
+    {
+      "id": "neo-c80a-2500",
+      "wayIds": [
+        389701925
+      ],
+      "title": "6.安平街透视©梁山",
+      "file": "assets/streets/loop-frontages/reference/neo-c80a-2500.jpg",
+      "source": "https://www.archdaily.com/zh/957796/wai-tan-neo-mi-ao-gong-zuo-shi/603cc7d5f91c815225000040-wai-tan-neo-mi-ao-gong-zuo-shi-zhao-pian",
+      "download": "https://images.adsttc.com/media/images/603c/c80a/f91c/8152/2500/0046/large_jpg/6.%E5%AE%89%E5%B9%B3%E8%A1%97%E9%80%8F%E8%A7%86%C2%A9%E6%A2%81%E5%B1%B1.jpg?1614596092",
+      "photographer": "梁山",
+      "license": "Copyright retained; public reference use only, no runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 530663,
+      "sha256": "c208837fa41a5cd26257a41bb611153b3ce5182f8f9c33b40a015b5c4f20b432",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Directly inspected local source image. NEO identity established by architect text and mapped location; visible neighbouring building parts still require individual geographic matching."
+      }
+    },
+    {
+      "id": "neo-c819-2500",
+      "wayIds": [
+        389701925
+      ],
+      "title": "7.从豫园走向外滩NEO©梁山",
+      "file": "assets/streets/loop-frontages/reference/neo-c819-2500.jpg",
+      "source": "https://www.archdaily.com/zh/957796/wai-tan-neo-mi-ao-gong-zuo-shi/603cc7d5f91c815225000040-wai-tan-neo-mi-ao-gong-zuo-shi-zhao-pian",
+      "download": "https://images.adsttc.com/media/images/603c/c819/f91c/8152/2500/0048/large_jpg/7.%E4%BB%8E%E8%B1%AB%E5%9B%AD%E8%B5%B0%E5%90%91%E5%A4%96%E6%BB%A9NEO%C2%A9%E6%A2%81%E5%B1%B1.jpg?1614596107",
+      "photographer": "梁山",
+      "license": "Copyright retained; public reference use only, no runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 467141,
+      "sha256": "4368882ab02295afb683930a3d8a65b1cdbf975036fe2c4b4b26bd15d1bb8834",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Directly inspected local source image. NEO identity established by architect text and mapped location; visible neighbouring building parts still require individual geographic matching."
+      }
+    },
+    {
+      "id": "neo-c823-2500",
+      "wayIds": [
+        389701925
+      ],
+      "title": "8.酒店入口©梁山",
+      "file": "assets/streets/loop-frontages/reference/neo-c823-2500.jpg",
+      "source": "https://www.archdaily.com/zh/957796/wai-tan-neo-mi-ao-gong-zuo-shi/603cc7d5f91c815225000040-wai-tan-neo-mi-ao-gong-zuo-shi-zhao-pian",
+      "download": "https://images.adsttc.com/media/images/603c/c823/f91c/8186/2500/0041/large_jpg/8.%E9%85%92%E5%BA%97%E5%85%A5%E5%8F%A3%C2%A9%E6%A2%81%E5%B1%B1.jpg?1614596122",
+      "photographer": "梁山",
+      "license": "Copyright retained; public reference use only, no runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 396233,
+      "sha256": "780ecc43fb1df5bdad57756aff4de46ca10e4b20e2d2c82935b98e4afab80800",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "not-yet-inspected",
+        "accepted": false,
+        "observations": "Downloaded and preserved, excluded from accepted modeling evidence until visual inspection."
+      }
+    },
+    {
+      "id": "neo-c829-2500",
+      "wayIds": [
+        389701925
+      ],
+      "title": "9.入口花园小憩©梁山",
+      "file": "assets/streets/loop-frontages/reference/neo-c829-2500.jpg",
+      "source": "https://www.archdaily.com/zh/957796/wai-tan-neo-mi-ao-gong-zuo-shi/603cc7d5f91c815225000040-wai-tan-neo-mi-ao-gong-zuo-shi-zhao-pian",
+      "download": "https://images.adsttc.com/media/images/603c/c829/f91c/8152/2500/004a/large_jpg/9.%E5%85%A5%E5%8F%A3%E8%8A%B1%E5%9B%AD%E5%B0%8F%E6%86%A9%C2%A9%E6%A2%81%E5%B1%B1.jpg?1614596127",
+      "photographer": "梁山",
+      "license": "Copyright retained; public reference use only, no runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 618663,
+      "sha256": "48ff7cfc1dcc5f69ba55167a6e6bc18e18f0f785709563ec1752f65d9db7234c",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "not-yet-inspected",
+        "accepted": false,
+        "observations": "Downloaded and preserved, excluded from accepted modeling evidence until visual inspection."
+      }
+    },
+    {
+      "id": "neo-c833-2500",
+      "wayIds": [
+        389701925
+      ],
+      "title": "10.场地的高差和雨棚©梁山",
+      "file": "assets/streets/loop-frontages/reference/neo-c833-2500.jpg",
+      "source": "https://www.archdaily.com/zh/957796/wai-tan-neo-mi-ao-gong-zuo-shi/603cc7d5f91c815225000040-wai-tan-neo-mi-ao-gong-zuo-shi-zhao-pian",
+      "download": "https://images.adsttc.com/media/images/603c/c833/f91c/8186/2500/0043/large_jpg/10.%E5%9C%BA%E5%9C%B0%E7%9A%84%E9%AB%98%E5%B7%AE%E5%92%8C%E9%9B%A8%E6%A3%9A%C2%A9%E6%A2%81%E5%B1%B1.jpg?1614596138",
+      "photographer": "梁山",
+      "license": "Copyright retained; public reference use only, no runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 668663,
+      "sha256": "f6b4bf307900639cc54988dc97095eb1200b634e73328e267f1ea22449726e64",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "not-yet-inspected",
+        "accepted": false,
+        "observations": "Downloaded and preserved, excluded from accepted modeling evidence until visual inspection."
+      }
+    },
+    {
+      "id": "neo-c841-2500",
+      "wayIds": [
+        389701925
+      ],
+      "title": "12.走向酒店前台©梁山",
+      "file": "assets/streets/loop-frontages/reference/neo-c841-2500.jpg",
+      "source": "https://www.archdaily.com/zh/957796/wai-tan-neo-mi-ao-gong-zuo-shi/603cc7d5f91c815225000040-wai-tan-neo-mi-ao-gong-zuo-shi-zhao-pian",
+      "download": "https://images.adsttc.com/media/images/603c/c841/f91c/8152/2500/004e/large_jpg/12.%E8%B5%B0%E5%90%91%E9%85%92%E5%BA%97%E5%89%8D%E5%8F%B0%C2%A9%E6%A2%81%E5%B1%B1.jpg?1614596153",
+      "photographer": "梁山",
+      "license": "Copyright retained; public reference use only, no runtime texture",
+      "usage": "interior-excluded-from-street-modeling",
+      "bytes": 320938,
+      "sha256": "e3edb41bd62886f1c8bd5053991c0060889ca1ab5216b0e6b5a6c69278713d00",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "not-yet-inspected",
+        "accepted": false,
+        "observations": "Downloaded and preserved, excluded from accepted modeling evidence until visual inspection."
+      }
+    },
+    {
+      "id": "neo-c87d-2500",
+      "wayIds": [
+        389701925
+      ],
+      "title": "19.人民路鸟瞰©梁山",
+      "file": "assets/streets/loop-frontages/reference/neo-c87d-2500.jpg",
+      "source": "https://www.archdaily.com/zh/957796/wai-tan-neo-mi-ao-gong-zuo-shi/603cc7d5f91c815225000040-wai-tan-neo-mi-ao-gong-zuo-shi-zhao-pian",
+      "download": "https://images.adsttc.com/media/images/603c/c87d/f91c/8152/2500/0054/large_jpg/19.%E4%BA%BA%E6%B0%91%E8%B7%AF%E9%B8%9F%E7%9E%B0%C2%A9%E6%A2%81%E5%B1%B1.jpg?1614596215",
+      "photographer": "梁山",
+      "license": "Copyright retained; public reference use only, no runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 446243,
+      "sha256": "cfaae6858e21685e3eb61d3c5fcbce46722f9395e0bde2e417a48ecace47c4fa",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Directly inspected local source image. NEO identity established by architect text and mapped location; visible neighbouring building parts still require individual geographic matching."
+      }
+    },
+    {
+      "id": "picc-fuyou-1",
+      "file": "assets/streets/loop-frontages/reference/picc-fuyou-1.jpg",
+      "source": "https://www.ulezu.com/building/detail/127347",
+      "download": "https://www.ulezu.com/Files/HouseBuilding/202305/754026d89b134a04_790_535.jpg",
+      "subject": "中国人保寿险大厦 福佑路8号",
+      "wayIds": [
+        250067019
+      ],
+      "date": "unknown; CDN directory 2023-05 not treated as capture date",
+      "license": "Copyright unknown, public reference-only; not permitted as runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 84400,
+      "sha256": "ee1d3898dfc1c61f7783d70317314eaed906c0a2ab6e47535263d603b34d8d01",
+      "visualInspection": {
+        "accepted": false,
+        "method": "view_image",
+        "reason": "Actual image inspected: circular curtain-wall China Life building with green sign conflicts with actual angular PICC facade. Rejected as property-mislabeled source or obsolete facade."
+      }
+    },
+    {
+      "id": "picc-fuyou-2",
+      "file": "assets/streets/loop-frontages/reference/picc-fuyou-2.jpg",
+      "source": "https://www.ulezu.com/building/detail/127347",
+      "download": "https://www.ulezu.com/Files/HouseBuilding/202305/d48d9007e689d48e_790_535.jpg",
+      "subject": "中国人保寿险大厦 福佑路8号",
+      "wayIds": [
+        250067019
+      ],
+      "date": "unknown; CDN directory 2023-05 not treated as capture date",
+      "license": "Copyright unknown, public reference-only; not permitted as runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 57998,
+      "sha256": "ef33bebfcd1170aa3635eea54fd9b5062463ac2d472a6425bbb1b2aa615b6fa5",
+      "visualInspection": {
+        "accepted": false,
+        "method": "view_image",
+        "reason": "Actual image inspected: circular curtain-wall China Life building with green sign conflicts with actual angular PICC facade. Rejected as property-mislabeled source or obsolete facade."
+      }
+    },
+    {
+      "id": "picc-fuyou-3",
+      "file": "assets/streets/loop-frontages/reference/picc-fuyou-3.jpg",
+      "source": "https://www.ulezu.com/building/detail/127347",
+      "download": "https://www.ulezu.com/Files/HouseBuilding/202305/f0f50b9fa7efe27d_790_535.jpg",
+      "subject": "中国人保寿险大厦 福佑路8号",
+      "wayIds": [
+        250067019
+      ],
+      "date": "unknown; CDN directory 2023-05 not treated as capture date",
+      "license": "Copyright unknown, public reference-only; not permitted as runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 64190,
+      "sha256": "8fef5114ef0e3c4e43a8c9fa7720627106c0412f15acf48c2583bb42942ac8f4",
+      "visualInspection": {
+        "accepted": false,
+        "method": "view_image",
+        "reason": "Actual image inspected: circular curtain-wall China Life building with green sign conflicts with actual angular PICC facade. Rejected as property-mislabeled source or obsolete facade."
+      }
+    },
+    {
+      "id": "picc-smart-1",
+      "file": "assets/streets/loop-frontages/reference/picc-smart-1.jpg",
+      "url": "https://images.smartshanghai.com.cn/uploads/repository/2020/07/21/f8c0680e-4279-40f8-b417-b4d83ca7478f.jpeg",
+      "sourcePage": "https://www.smartshanghai.com/venue/18534/picc_mansion_fuyou_lu",
+      "author": "SmartShanghai",
+      "date": "2020-07",
+      "license": "Copyright, reference only",
+      "usage": "modeling-reference-only; no runtime image textures",
+      "sha256": "afe39ab59e7383b2de3d3b2cfe96a824f0857efc1a48927d8fb114b644fca88d",
+      "bytes": 227740,
+      "visualInspection": {
+        "accepted": true,
+        "method": "view_image",
+        "observations": "Real street view dated July 2020; angular blue glazing building, bronze narrow vertical opaque strips, tall center recessed glass slot slants inward above sign, canopy hung by paired steel rods, stepped entry, revolving entrance; official current PICC address corroborates building identity."
+      },
+      "wayIds": [
+        250067019
+      ]
+    },
+    {
+      "id": "picc-smart-2",
+      "file": "assets/streets/loop-frontages/reference/picc-smart-2.jpg",
+      "url": "https://images.smartshanghai.com.cn/uploads/repository/2020/07/22/c036c663-5bb1-4e25-91b9-1a0bb47f3dee.jpeg",
+      "sourcePage": "https://www.smartshanghai.com/venue/18534/picc_mansion_fuyou_lu",
+      "author": "SmartShanghai",
+      "date": "2020-07",
+      "license": "Copyright, reference only",
+      "usage": "modeling-reference-only; no runtime image textures",
+      "sha256": "4de3b573a674a385f1d69644bf62eccfbce28b24fdc91d79878656144e982857",
+      "bytes": 262397,
+      "visualInspection": {
+        "accepted": true,
+        "method": "view_image",
+        "observations": "Real street view dated July 2020; angular blue glazing building, bronze narrow vertical opaque strips, tall center recessed glass slot slants inward above sign, canopy hung by paired steel rods, stepped entry, revolving entrance; official current PICC address corroborates building identity."
+      },
+      "wayIds": [
+        250067019
+      ]
+    },
+    {
+      "id": "picc-smart-3",
+      "file": "assets/streets/loop-frontages/reference/picc-smart-3.jpg",
+      "url": "https://images.smartshanghai.com.cn/uploads/repository/2020/07/31/41ac412e-18f4-4ff6-9701-7af93cd223fa.jpeg",
+      "sourcePage": "https://www.smartshanghai.com/venue/18534/picc_mansion_fuyou_lu",
+      "author": "SmartShanghai",
+      "date": "2020-07",
+      "license": "Copyright, reference only",
+      "usage": "modeling-reference-only; no runtime image textures",
+      "sha256": "d4a9b3044a7394000b7930d42e9fce66f130cc40d49d286e4a1adee7512dfdb7",
+      "bytes": 249037,
+      "visualInspection": {
+        "accepted": true,
+        "method": "view_image",
+        "observations": "Real street view dated July 2020; angular blue glazing building, bronze narrow vertical opaque strips, tall center recessed glass slot slants inward above sign, canopy hung by paired steel rods, stepped entry, revolving entrance; official current PICC address corroborates building identity."
+      },
+      "wayIds": [
+        250067019
+      ]
+    },
+    {
+      "id": "fuyoumen-broker",
+      "file": "assets/streets/loop-frontages/reference/fuyoumen-broker.jpg",
+      "url": "https://sh-linkpower.com/oldpic/upload/202103/04/202103041549412700.jpg",
+      "sourcePage": "https://www.sh-linkpower.com/office/1677.html",
+      "author": "Linkpower",
+      "date": "2021-03",
+      "license": "Copyright, reference only",
+      "usage": "modeling-reference-only; no runtime image textures",
+      "sha256": "040240e1ae720ec1f9e6d50ed0b644195c1f19a99ddbf2c3b3833e52d9c92a24",
+      "bytes": 56546,
+      "visualInspection": {
+        "accepted": true,
+        "method": "view_image",
+        "observations": "Photographed squat six-level white commercial block with tall corner pavilions, square paired windows, tan angular entrance surround and 福佑门小商品市场 vertical lettering. Ground partly bus/tree occluded."
+      },
+      "wayIds": [
+        300480894
+      ]
+    },
+    {
+      "id": "renmin-sichuan-2013",
+      "file": "assets/streets/loop-frontages/reference/renmin-sichuan-2013.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Renmin_Road_at_Sichuan_South_and_Lishui_roads%2C_Shanghai.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Renmin_Road_at_Sichuan_South_and_Lishui_roads%2C_Shanghai.jpg",
+      "author": "Daniel Case",
+      "date": "2013-08-03",
+      "license": "CC BY-SA 3.0",
+      "usage": "Modeling reference only, no runtime textures",
+      "bytes": 1056631,
+      "sha256": "f33a36a907210028738b8e49725c8976587ae5b6c6df843e6394dae01f1bcca6",
+      "visualInspection": {
+        "accepted": true,
+        "method": "view_image",
+        "observations": "August2013 southSichuan/Lishui facing westnorthwest; rounded white/green JIhotel tower visible left; historic lowhouses/towercontext not automatically assigned way identity."
+      },
+      "wayIds": [
+        369238001,
+        447021394
+      ]
+    },
+    {
+      "id": "renmin-henan-2012",
+      "file": "assets/streets/loop-frontages/reference/renmin-henan-2012.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/South_Henan_Road_-_Renmin_Road%2C_Shanghai.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:South_Henan_Road_-_Renmin_Road%2C_Shanghai.JPG",
+      "author": "Jack No1",
+      "date": "2012-06-21",
+      "license": "CC BY-SA 3.0",
+      "usage": "Modeling reference only, no runtime textures",
+      "bytes": 2104334,
+      "sha256": "fc9bc944724e03b099ca6fa078ec066c181e9e90129828f0ff18363d8a7feba8",
+      "visualInspection": {
+        "accepted": true,
+        "method": "view_image",
+        "observations": "June2012 northwest corner: cream three-storey long balcony block, tile attic dormers and arched central portal; roofline corroborated2024, lower facade restoration outcome unknown."
+      },
+      "wayIds": [
+        378107242
+      ]
+    },
+    {
+      "id": "renmin-2024-141",
+      "file": "assets/streets/loop-frontages/reference/renmin-2024-141.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Shanghai%2C_30_June_2024_%28141%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Shanghai,_30_June_2024_(141).jpg",
+      "author": "メイド理世",
+      "date": "2024-06-30",
+      "license": "CC BY-SA 4.0",
+      "usage": "Modeling reference only, no runtime texture",
+      "bytes": 3005586,
+      "sha256": "883da07c71e85d16e8847c647c41163b4cdef5dd17e9ec5d6b91e94a50b1d2bc",
+      "visualInspection": {
+        "accepted": true,
+        "method": "view_image",
+        "observations": "Geolocated June2024 intersection; 141 looks west to retained attic dormers under facade restoration scaffold; 142 looks north with same long cream historical block and round JIhotel base and white-green upper tower. Current scaffold status unknown."
+      },
+      "wayIds": [
+        369238001,
+        447021394,
+        378107242
+      ]
+    },
+    {
+      "id": "renmin-2024-142",
+      "file": "assets/streets/loop-frontages/reference/renmin-2024-142.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Shanghai%2C_30_June_2024_%28142%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Shanghai,_30_June_2024_(142).jpg",
+      "author": "メイド理世",
+      "date": "2024-06-30",
+      "license": "CC BY-SA 4.0",
+      "usage": "Modeling reference only, no runtime texture",
+      "bytes": 3307630,
+      "sha256": "7c0e8830dd2e574736195cb728374ea0a85c6a95e398854d5b9f7726a8eae4ba",
+      "visualInspection": {
+        "accepted": true,
+        "method": "view_image",
+        "observations": "Geolocated June2024 intersection; 141 looks west to retained attic dormers under facade restoration scaffold; 142 looks north with same long cream historical block and round JIhotel base and white-green upper tower. Current scaffold status unknown."
+      },
+      "wayIds": [
+        369238001,
+        447021394,
+        378107242
+      ]
+    },
+    {
+      "id": "fuyou-2025-1",
+      "file": "assets/streets/loop-frontages/reference/fuyou-2025-1.jpg",
+      "url": "https://imgpai.thepaper.cn/newpai/image/1737634774599_tGX7z3_1737634848893.jpg",
+      "sourcePage": "https://www.thepaper.cn/newsDetail_forward_30008429",
+      "author": "邹佳雯 / 澎湃新闻",
+      "date": "2025-01-23",
+      "license": "Copyright, reference only",
+      "usage": "Modeling reference only, no runtime texture",
+      "bytes": 5445234,
+      "sha256": "19128c2033e3dc4d52979c4083a731c07a2235c1d6752bdf350e2188e929a50c",
+      "visualInspection": {
+        "accepted": false,
+        "method": "view_image",
+        "reason": "Actual2025 scene but photograph dominated by indoor/shop stall merchandise; insufficient exterior building evidence. Preserve original, do not count facade coverage."
+      }
+    },
+    {
+      "id": "fuyou-2025-2",
+      "file": "assets/streets/loop-frontages/reference/fuyou-2025-2.jpg",
+      "url": "https://imgpai.thepaper.cn/newpai/image/1737634787064_JGGG11_1737634848863.jpg",
+      "sourcePage": "https://www.thepaper.cn/newsDetail_forward_30008429",
+      "author": "邹佳雯 / 澎湃新闻",
+      "date": "2025-01-23",
+      "license": "Copyright, reference only",
+      "usage": "Modeling reference only, no runtime texture",
+      "bytes": 9227362,
+      "sha256": "21520b9a435ea0decaa7bad6b52806274b03c610aa8bbc2f4e1068fce2d9ca44",
+      "visualInspection": {
+        "accepted": false,
+        "method": "not-yet-inspected"
+      }
+    },
+    {
+      "id": "fuyou-2025-3",
+      "file": "assets/streets/loop-frontages/reference/fuyou-2025-3.jpg",
+      "url": "https://imgpai.thepaper.cn/newpai/image/1737634798160_af252f_1737634848861.jpg",
+      "sourcePage": "https://www.thepaper.cn/newsDetail_forward_30008429",
+      "author": "邹佳雯 / 澎湃新闻",
+      "date": "2025-01-23",
+      "license": "Copyright, reference only",
+      "usage": "Modeling reference only, no runtime texture",
+      "bytes": 7211734,
+      "sha256": "8d2db12adc10bcfdcedeb034ba43fce4f560ef12de92a225f4644c1a53aab3e4",
+      "visualInspection": {
+        "accepted": false,
+        "method": "view_image",
+        "reason": "Actual2025 scene but photograph dominated by indoor/shop stall merchandise; insufficient exterior building evidence. Preserve original, do not count facade coverage."
+      }
+    },
+    {
+      "id": "fuyou-2016-street",
+      "file": "assets/streets/loop-frontages/reference/fuyou-2016-street.jpg",
+      "sourcePage": "https://4travel.jp/os_shisetsu/10528087",
+      "url": "https://cdn.4travel.jp/img/thumbnails/imk/tips_pict/13/82/11/650x450_13821119.jpg?updated_at=1463231946",
+      "author": "4travel / クワトロ",
+      "date": "2016-02",
+      "license": "Copyright reference-only",
+      "usage": "No runtime texture",
+      "bytes": 58638,
+      "sha256": "02a5d394c93c7c52e922e36cf236233775988810fc55e710dd0b49ed19e2bd1f",
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Read the original preserved photo directly. Storefront-specific framed openings, roof/eave shape and lettering/pylon/lift features match the explicit builder; hidden sides remain inferred."
+      },
+      "wayIds": [
+        389702034
+      ]
+    },
+    {
+      "id": "zijin-2012",
+      "wayIds": [
+        389701905
+      ],
+      "title": "紫锦城正门双玻璃电梯与仿木石立面",
+      "file": "assets/streets/loop-frontages/reference/zijin-2012.png",
+      "source": "https://www.zbsqw.com/news/hy/201810/309.htm",
+      "download": "https://www.zbsqw.com/res/ueup/img/201810/p153898081617468995.png",
+      "date": "Photo banner 2010-05-08 to 2012-05-08 second anniversary; article2018, capture date unconfirmed",
+      "license": "Copyright retained; public modeling reference only, no runtime texture",
+      "usage": "geometry-reference-only",
+      "bytes": 927374,
+      "sha256": "981f7973ef7d654acbde4eeddf6053a557e520b12bdf065d7799c3bdf26f8ba8",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Read the original preserved photo directly. Storefront-specific framed openings, roof/eave shape and lettering/pylon/lift features match the explicit builder; hidden sides remain inferred."
+      }
+    },
+    {
+      "id": "xinshanghai-smart",
+      "wayIds": [],
+      "title": "xinshanghai-smart",
+      "source": "https://www.smartshanghai.com/venue/18574/new_shanghai_city_building_henan_nan_lu",
+      "download": "https://images.smartshanghai.com.cn/uploads/repository/2020/07/31/b78c0516-7032-4a9b-af6f-f9cec6058d68.jpeg",
+      "file": "assets/streets/loop-frontages/reference/xinshanghai-smart.jpg",
+      "bytes": 224657,
+      "sha256": "316820f3673b4871282255f33e1295f5b28d19409f979ed37cabc56d747457b9",
+      "license": "Copyright retained; geometry reference only, no runtime texture",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "not-yet-inspected",
+        "accepted": false
+      }
+    },
+    {
+      "id": "renmin-gov-2024-3",
+      "wayIds": [],
+      "title": "renmin-gov-2024-3",
+      "source": "https://lhsr.sh.gov.cn/ywdt/20241206/9b079c2d-7ea5-4c55-a0cd-2052074593cc.html",
+      "download": "https://lhsr.sh.gov.cn/cmsres/4d/4d22f938ce5b4e21945dcc00d07b90f0/5f4c7bbc5200fa3ea5170869e71ab4bc.png",
+      "file": "assets/streets/loop-frontages/reference/renmin-gov-2024-3.png",
+      "bytes": 506759,
+      "sha256": "89d351b2e74398977af6db7b7f1b24386d0df1f876b71db69380da0ec96bb76c",
+      "license": "Copyright retained; geometry reference only, no runtime texture",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "not-yet-inspected",
+        "accepted": false
+      }
+    },
+    {
+      "id": "renmin-gov-2024-4",
+      "wayIds": [],
+      "title": "renmin-gov-2024-4",
+      "source": "https://lhsr.sh.gov.cn/ywdt/20241206/9b079c2d-7ea5-4c55-a0cd-2052074593cc.html",
+      "download": "https://lhsr.sh.gov.cn/cmsres/d0/d0d665e41c7f4fa584fe3205584462f0/548352ce4f67c7b3026b3322d32fdcd9.png",
+      "file": "assets/streets/loop-frontages/reference/renmin-gov-2024-4.png",
+      "bytes": 572220,
+      "sha256": "16b10a9d65d0e7b427cfe6c681b09b228f48e0a4bd7beb5397378801a6770abd",
+      "license": "Copyright retained; geometry reference only, no runtime texture",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "not-yet-inspected",
+        "accepted": false
+      }
+    },
+    {
+      "id": "henan-ship-cns2023",
+      "wayIds": [],
+      "title": "henan-ship-cns2023",
+      "source": "https://www.citynewsservice.cn/articles/cns/shanghai-living/what-and-where-are-paper-buildings-in-shanghai-dmjb0e6n",
+      "download": "https://obj.shine.cn/files/2023/03/03/89ae1d94-e7cd-4271-a0e2-de84b3163b2e_0.png?x-image-process=style%2Fstyle-cns",
+      "file": "assets/streets/loop-frontages/reference/henan-ship-cns2023.png",
+      "bytes": 171454,
+      "sha256": "d56ef00a2bd24c3f846bb3943e3c8ea8f56a21767ec3b205424b27b6e414a1d5",
+      "license": "Copyright retained; geometry reference only, no runtime texture",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "not-yet-inspected",
+        "accepted": false
+      }
+    },
+    {
+      "id": "bfc-b22e",
+      "wayIds": [],
+      "title": "581_Aerial_drone_photo_Bund_Finance_Centre_CREDIT_Foster___Partners_and_Heatherwick_Studio.jpg",
+      "file": "assets/streets/loop-frontages/reference/bfc-b22e.jpg",
+      "source": "https://www.archdaily.com/881511/bund-finance-centre-foster-plus-partners-plus-heatherwick-studio",
+      "download": "https://images.adsttc.com/media/images/59df/adbb/b22e/3805/c300/00b7/large_jpg/581_Aerial_drone_photo_Bund_Finance_Centre_CREDIT_Foster___Partners_and_Heatherwick_Studio.jpg?1507831197",
+      "license": "Copyright retained; archived modeling observation only; not a runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 2635933,
+      "sha256": "ee5c0648e3d1b96fdfddc1670e1aafef0a309b870b4a8161035f35a713704815",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "not-yet-inspected",
+        "accepted": false
+      }
+    },
+    {
+      "id": "bfc-adbb-00b7",
+      "wayIds": [
+        447024815,
+        515758765,
+        520214802
+      ],
+      "title": "581_Aerial_drone_photo_Bund_Finance_Centre_CREDIT_Foster___Partners_and_Heatherwick_Studio.jpg",
+      "file": "assets/streets/loop-frontages/reference/bfc-adbb-00b7.jpg",
+      "source": "https://www.archdaily.com/881511/bund-finance-centre-foster-plus-partners-plus-heatherwick-studio",
+      "download": "https://images.adsttc.com/media/images/59df/adbb/b22e/3805/c300/00b7/large_jpg/581_Aerial_drone_photo_Bund_Finance_Centre_CREDIT_Foster___Partners_and_Heatherwick_Studio.jpg?1507831197",
+      "license": "Copyright retained; archived modeling observation only; not a runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 2635933,
+      "sha256": "ee5c0648e3d1b96fdfddc1670e1aafef0a309b870b4a8161035f35a713704815",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Architect north elevation and floor plan cross-match OSM hotel footprint. A tall rear block rises above lower river volume, granite picture frames, bronze mullions and deep triple-height entrance. Current photo confirms ST REGIS lettering. Height scaled from architect 10m drawing scale; unseen rear wall joints and roof plant inferred. Designer N3 designation is hotel; nearby OSM N3 way not silently conflated."
+      }
+    },
+    {
+      "id": "bfc-aeee-00c3",
+      "wayIds": [
+        447024815
+      ],
+      "title": "581_North_Plot_level_01__CREDIT_Foster___Partners_and_Heatherwick_Studio.jpg",
+      "file": "assets/streets/loop-frontages/reference/bfc-aeee-00c3.jpg",
+      "source": "https://www.archdaily.com/881511/bund-finance-centre-foster-plus-partners-plus-heatherwick-studio",
+      "download": "https://images.adsttc.com/media/images/59df/aeee/b22e/3805/c300/00c3/large_jpg/581_North_Plot_level_01__CREDIT_Foster___Partners_and_Heatherwick_Studio.jpg?1507831527",
+      "license": "Copyright retained; archived modeling observation only; not a runtime texture",
+      "usage": "designer-plan-or-elevation-reference-only",
+      "bytes": 514990,
+      "sha256": "edb09e0d841f0794d43218cdba9f19a22381eabd8219a6f64623f5cf594bdccc",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Exact long four-part footprint matches architect north plot plan river row between hotel and arts centre. Four distinct roof levels and deep granite perimeter frames with bronze two-storey storefronts visible in aerial. Building number N3 in OSM conflicts with architect N3 hotel usage. No hotel/tenant identity is asserted on this model. Roof height subdivisions inferred from OSM51m and photograph proportions; rear details inferred."
+      }
+    },
+    {
+      "id": "bfc-aefa-019c",
+      "wayIds": [
+        447024815
+      ],
+      "title": "581_Site_Plan_with_Podium_Level_Grid__CREDIT_Foster___Partners_and_Heatherwick_Studio.jpg",
+      "file": "assets/streets/loop-frontages/reference/bfc-aefa-019c.jpg",
+      "source": "https://www.archdaily.com/881511/bund-finance-centre-foster-plus-partners-plus-heatherwick-studio",
+      "download": "https://images.adsttc.com/media/images/59df/aefa/b22e/3832/8500/019c/large_jpg/581_Site_Plan_with_Podium_Level_Grid__CREDIT_Foster___Partners_and_Heatherwick_Studio.jpg?1507831539",
+      "license": "Copyright retained; archived modeling observation only; not a runtime texture",
+      "usage": "designer-site-plan-reference-only",
+      "bytes": 450740,
+      "sha256": "f5f691b259065949b6e260f5402d3d7eec5c65dbdabea4aff0032564b5f7aff3",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Full masterplan directly inspected; north riverside strip with four adjacent blocks between hotel and cultural centre. Scale20m and north arrow permit relation to mapped footprint; tenant numbering ambiguity remains."
+      }
+    },
+    {
+      "id": "bfc-ae4e-00bc",
+      "wayIds": [],
+      "title": "581_Aerial_Perspective_Masterplan__CREDIT_Foster___Partners_and_Heatherwick_Studio.jpg",
+      "file": "assets/streets/loop-frontages/reference/bfc-ae4e-00bc.jpg",
+      "source": "https://www.archdaily.com/881511/bund-finance-centre-foster-plus-partners-plus-heatherwick-studio",
+      "download": "https://images.adsttc.com/media/images/59df/ae4e/b22e/3805/c300/00bc/large_jpg/581_Aerial_Perspective_Masterplan__CREDIT_Foster___Partners_and_Heatherwick_Studio.jpg?1507831357",
+      "license": "Copyright retained; archived modeling observation only; not a runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 1103656,
+      "sha256": "b49c4364e18ee8e6ff75ebd5b53fc4d672a633b2e1083db97ee059d9eed8a57b",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "not-yet-inspected",
+        "accepted": false
+      }
+    },
+    {
+      "id": "bfc-ae9d-0199",
+      "wayIds": [
+        520214802
+      ],
+      "title": "581_N3_Wanda_Hotel_level_01__CREDIT_Foster___Partners_and_Heatherwick_Studio.jpg",
+      "file": "assets/streets/loop-frontages/reference/bfc-ae9d-0199.jpg",
+      "source": "https://www.archdaily.com/881511/bund-finance-centre-foster-plus-partners-plus-heatherwick-studio",
+      "download": "https://images.adsttc.com/media/images/59df/ae9d/b22e/3832/8500/0199/large_jpg/581_N3_Wanda_Hotel_level_01__CREDIT_Foster___Partners_and_Heatherwick_Studio.jpg?1507831443",
+      "license": "Copyright retained; archived modeling observation only; not a runtime texture",
+      "usage": "designer-plan-or-elevation-reference-only",
+      "bytes": 485369,
+      "sha256": "531d61ee4d52dea46ed4bcc9d931ff1355b2cd3527e11a26196ca8c8b497c4e5",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Architect north elevation and floor plan cross-match OSM hotel footprint. A tall rear block rises above lower river volume, granite picture frames, bronze mullions and deep triple-height entrance. Current photo confirms ST REGIS lettering. Height scaled from architect 10m drawing scale; unseen rear wall joints and roof plant inferred. Designer N3 designation is hotel; nearby OSM N3 way not silently conflated."
+      }
+    },
+    {
+      "id": "bfc-aea9-019a",
+      "wayIds": [
+        520214802
+      ],
+      "title": "581_N3_Wanda_Hotel_North_Elevation__CREDIT_Foster___Partners_and_Heatherwick_Studio.jpg",
+      "file": "assets/streets/loop-frontages/reference/bfc-aea9-019a.jpg",
+      "source": "https://www.archdaily.com/881511/bund-finance-centre-foster-plus-partners-plus-heatherwick-studio",
+      "download": "https://images.adsttc.com/media/images/59df/aea9/b22e/3832/8500/019a/large_jpg/581_N3_Wanda_Hotel_North_Elevation__CREDIT_Foster___Partners_and_Heatherwick_Studio.jpg?1507831458",
+      "license": "Copyright retained; archived modeling observation only; not a runtime texture",
+      "usage": "designer-plan-or-elevation-reference-only",
+      "bytes": 477026,
+      "sha256": "10068e9031c86c234215520fc7597aa36606dca3c1e0e31f2975386ec3f18f6f",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Architect north elevation and floor plan cross-match OSM hotel footprint. A tall rear block rises above lower river volume, granite picture frames, bronze mullions and deep triple-height entrance. Current photo confirms ST REGIS lettering. Height scaled from architect 10m drawing scale; unseen rear wall joints and roof plant inferred. Designer N3 designation is hotel; nearby OSM N3 way not silently conflated."
+      }
+    },
+    {
+      "id": "stregis-ctrip-current",
+      "wayIds": [
+        447024815,
+        520214802
+      ],
+      "title": "stregis-ctrip-current",
+      "file": "assets/streets/loop-frontages/reference/stregis-ctrip-current.jpg",
+      "source": "https://hotels.ctrip.com/hotels/4889292.html",
+      "download": "https://dimg04.c-ctrip.com/images/1mc0r12000hdnir5i4972_R_960_660_R5_D.jpg",
+      "license": "Copyright retained; exterior modeling observation only; no runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 116595,
+      "sha256": "90ae636ad986c7466c8decd2403dd8f23cfa2f2f5817d53c9cd66550ac911fd1",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Architect north elevation and floor plan cross-match OSM hotel footprint. A tall rear block rises above lower river volume, granite picture frames, bronze mullions and deep triple-height entrance. Current photo confirms ST REGIS lettering. Height scaled from architect 10m drawing scale; unseen rear wall joints and roof plant inferred. Designer N3 designation is hotel; nearby OSM N3 way not silently conflated."
+      }
+    },
+    {
+      "id": "riviera-smart",
+      "wayIds": [
+        515758765
+      ],
+      "title": "riviera-smart",
+      "file": "assets/streets/loop-frontages/reference/riviera-smart.png",
+      "source": "https://www.smartshanghai.com/listings/dining/good-view/",
+      "download": "https://images.smartshanghai.com.cn/uploads/repository/2025/07/03/1873f01d-bd5e-47bc-a4fc-d15e48d16b66.png?image_process=resize",
+      "license": "Copyright retained; exterior modeling observation only; no runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 1706709,
+      "sha256": "2681f70b2b765c21e470a2a8549772a9cdaf3c33e780a55b515b78409b43d6b7",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Building matched by river-side location, elongated two-storey stone-clad outline, rooftop terrace and photographed RIVIERA 松鹤楼 sign. Square stone panels, dark continuous frame, asymmetric entry stairs/ramp, glass terrace rail and pergola. Back elevation openings and hidden rooftop dimensions inferred; photos are dated and current tenant graphics not independently surveyed."
+      }
+    },
+    {
+      "id": "riviera-qunar",
+      "wayIds": [
+        515758765
+      ],
+      "title": "riviera-qunar",
+      "file": "assets/streets/loop-frontages/reference/riviera-qunar.jpg",
+      "source": "https://touch.travel.qunar.com/comment/10161212455",
+      "download": "https://youimg1.c-ctrip.com/target/100l180000015czuh00D2.jpg",
+      "license": "Copyright retained; exterior modeling observation only; no runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 96172,
+      "sha256": "955283513be1bb996fa4b6c00109db4a6b9f129b155cb6bed9b99f0fd58ec6ef",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Building matched by river-side location, elongated two-storey stone-clad outline, rooftop terrace and photographed RIVIERA 松鹤楼 sign. Square stone panels, dark continuous frame, asymmetric entry stairs/ramp, glass terrace rail and pergola. Back elevation openings and hidden rooftop dimensions inferred; photos are dated and current tenant graphics not independently surveyed."
+      }
+    },
+    {
+      "id": "one-step-1",
+      "wayIds": [],
+      "title": "古城公园一尺花园候选资料",
+      "file": "assets/streets/loop-frontages/reference/one-step-1.jpg",
+      "source": "https://www.yichizhijian.com/NewsDetail/3769341.html",
+      "download": "https://gcdn.meidianbang.cn/comdata/83439/202206/202206081828447663c0.jpg",
+      "license": "Copyright retained, observation only; no runtime texture",
+      "usage": "candidate-exterior-reference-only",
+      "bytes": 30634,
+      "sha256": "5609e04cfbeec00a41df4274d661ea330f991527e84f2a691bc346bab03f216e",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "accepted": false,
+        "method": "not-yet-inspected"
+      }
+    },
+    {
+      "id": "one-step-2",
+      "wayIds": [
+        694630313
+      ],
+      "title": "古城公园一尺花园候选资料",
+      "file": "assets/streets/loop-frontages/reference/one-step-2.jpg",
+      "source": "https://www.yichizhijian.com/NewsDetail/3769341.html",
+      "download": "https://gcdn.meidianbang.cn/comdata/83439/202302/202302081659076885ff.jpg",
+      "license": "Copyright retained, observation only; no runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 1081119,
+      "sha256": "9eb2782f71623fa9d2a82bc71563096276465c776340c51299d5118bed79e6d9",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Matched by exact bent raised outline, park eastern watercourse, PICC and BFC backdrop. Official2023 photo and independent2024 building report agree: red steel raised glazed gallery, open lower structure, round grey masonry room with circular porthole, grey marker wall, exterior roof stair and thin roof railing. OSM club name is stale or spatially broad; official current source calls cafe One Step Garden at Gucheng Park Danfeng building. No measured dimensions; hidden foundations, inaccessible rear and plinth-curvature scale inferred. Model does not assert club still operates."
+      }
+    },
+    {
+      "id": "one-step-3",
+      "wayIds": [
+        694630313
+      ],
+      "title": "古城公园一尺花园候选资料",
+      "file": "assets/streets/loop-frontages/reference/one-step-3.jpg",
+      "source": "https://www.yichizhijian.com/NewsDetail/3769341.html",
+      "download": "https://gcdn.meidianbang.cn/comdata/83439/202302/202302081658515eae0b.jpg",
+      "license": "Copyright retained, observation only; no runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 735242,
+      "sha256": "84315579cee69be282c6e90514ba5216057656277f503b3dfd03aeffd69b4a6a",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Matched by exact bent raised outline, park eastern watercourse, PICC and BFC backdrop. Official2023 photo and independent2024 building report agree: red steel raised glazed gallery, open lower structure, round grey masonry room with circular porthole, grey marker wall, exterior roof stair and thin roof railing. OSM club name is stale or spatially broad; official current source calls cafe One Step Garden at Gucheng Park Danfeng building. No measured dimensions; hidden foundations, inaccessible rear and plinth-curvature scale inferred. Model does not assert club still operates."
+      }
+    },
+    {
+      "id": "one-step-4",
+      "wayIds": [
+        694630313
+      ],
+      "title": "古城公园一尺花园候选资料",
+      "file": "assets/streets/loop-frontages/reference/one-step-4.jpg",
+      "source": "https://www.yichizhijian.com/NewsDetail/3769341.html",
+      "download": "https://gcdn.meidianbang.cn/comdata/83439/202302/202302081658542dda52.jpg",
+      "license": "Copyright retained, observation only; no runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 695800,
+      "sha256": "95df8ef34e91d1b4c297e7286d67c434128540a21522ffc4cd68376e732473e1",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Matched by exact bent raised outline, park eastern watercourse, PICC and BFC backdrop. Official2023 photo and independent2024 building report agree: red steel raised glazed gallery, open lower structure, round grey masonry room with circular porthole, grey marker wall, exterior roof stair and thin roof railing. OSM club name is stale or spatially broad; official current source calls cafe One Step Garden at Gucheng Park Danfeng building. No measured dimensions; hidden foundations, inaccessible rear and plinth-curvature scale inferred. Model does not assert club still operates."
+      }
+    },
+    {
+      "id": "one-step-5",
+      "wayIds": [
+        694630313
+      ],
+      "title": "古城公园一尺花园候选资料",
+      "file": "assets/streets/loop-frontages/reference/one-step-5.jpg",
+      "source": "https://blog.livedoor.jp/camsa/archives/5903985.html",
+      "download": "https://livedoor.blogimg.jp/camsa/imgs/e/4/e45e37d9.jpg",
+      "license": "Copyright retained, observation only; no runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 550749,
+      "sha256": "94a1be2e87111d1b787b71890ba54ece0153adf8fabadb24014673e65bdeb7e8",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "Matched by exact bent raised outline, park eastern watercourse, PICC and BFC backdrop. Official2023 photo and independent2024 building report agree: red steel raised glazed gallery, open lower structure, round grey masonry room with circular porthole, grey marker wall, exterior roof stair and thin roof railing. OSM club name is stale or spatially broad; official current source calls cafe One Step Garden at Gucheng Park Danfeng building. No measured dimensions; hidden foundations, inaccessible rear and plinth-curvature scale inferred. Model does not assert club still operates."
+      }
+    },
+    {
+      "id": "gucheng-gov-911",
+      "wayIds": [
+        694630319
+      ],
+      "title": "古城公园开放地图",
+      "file": "assets/streets/loop-frontages/reference/gucheng-gov-911.jpg",
+      "source": "https://www.thepaper.cn/newsDetail_forward_27956883",
+      "download": "https://imagepphcloud.thepaper.cn/pph/image/312/382/911.jpg",
+      "license": "Copyright retained; observation-only reference, no runtime texture",
+      "usage": "geolocation-map-reference-only",
+      "bytes": 56626,
+      "sha256": "fd47cb8da7281cc62fc475dc7db16587bb906c640173ac7b11104e080f3a554d",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "2024 government photograph shows west entrance with grey tile brick, dark straight lintels, shallow tiled roof with raised coping, steel double doors, grille transom, two upper open casements, blue WC sign and333 number plate. Official park diagram places this toilet by northwest gate8, matching OSM694630319. Rear/south wall windows inferred.2025 reports service refurbishment but do not show a contradictory exterior; present-day minor fittings unverified. Photo not reused for southeast toilet."
+      }
+    },
+    {
+      "id": "gucheng-gov-917",
+      "wayIds": [
+        694630319
+      ],
+      "title": "古城公园8号门公共厕所2024",
+      "file": "assets/streets/loop-frontages/reference/gucheng-gov-917.jpg",
+      "source": "https://www.thepaper.cn/newsDetail_forward_27956883",
+      "download": "https://imagepphcloud.thepaper.cn/pph/image/312/382/917.jpg",
+      "license": "Copyright retained; observation-only reference, no runtime texture",
+      "usage": "exterior-modeling-reference-only",
+      "bytes": 219430,
+      "sha256": "be90fc3b4dd80ec9a400eb5a0b646f5655062c804748a804b6584a192f5af5a0",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "view_image",
+        "accepted": true,
+        "observations": "2024 government photograph shows west entrance with grey tile brick, dark straight lintels, shallow tiled roof with raised coping, steel double doors, grille transom, two upper open casements, blue WC sign and333 number plate. Official park diagram places this toilet by northwest gate8, matching OSM694630319. Rear/south wall windows inferred.2025 reports service refurbishment but do not show a contradictory exterior; present-day minor fittings unverified. Photo not reused for southeast toilet."
+      }
+    },
+    {
+      "id": "erdos-entrance-2021",
+      "wayIds": [],
+      "file": "assets/streets/loop-frontages/reference/erdos-entrance-2021.jpg",
+      "source": "https://ameblo.jp/puki2018/entry-12697116227.html",
+      "download": "https://stat.ameba.jp/user_images/20210913/15/puki2018/35/69/j/o0500066715000449463.jpg",
+      "license": "Copyright retained; observation only; no runtime texture",
+      "usage": "candidate-source-unmatched-building",
+      "bytes": 81073,
+      "sha256": "45be3079df687825dc36beaf048630af88e14f4a699ea839f00fcb1a68b323a5",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "actual local view_image",
+        "accepted": false,
+        "observations": "Sign confirms 333 Fuyou Road ERDOS Plaza; image only shows a two-storey plaza entrance/overpass and cannot match all sides of OSM389702099 six-level L footprint. Held as partial site evidence; not used for a generic full model."
+      }
+    },
+    {
+      "id": "renmin-lishui-fototerra-2013",
+      "wayIds": [],
+      "file": "assets/streets/loop-frontages/reference/renmin-lishui-fototerra-2013.jpg",
+      "source": "https://fototerra.ru/photo-page/Kitaj/Shanhaj/231851",
+      "download": "https://fototerra.ru/photo/Kitaj/Shanhaj/image231851.jpg",
+      "license": "Copyright retained; observation only; no runtime texture",
+      "usage": "candidate-source-unmatched-building",
+      "bytes": 73226,
+      "sha256": "6243f09c7ebb75986e4c929732184ed2aaa82f1e1f73cdf5ce1c34ee528858fe",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "actual local view_image",
+        "accepted": false,
+        "observations": "Photograph shows Gu Le Zhai at corner, old low housing with terracotta roofs and Westin/Lansheng background. Exact target way is not determined, so excluded as building geometry evidence."
+      }
+    },
+    {
+      "id": "renmin-sichuan-whb-2020",
+      "wayIds": [],
+      "file": "assets/streets/loop-frontages/reference/renmin-sichuan-whb-2020.jpg",
+      "source": "https://www.whb.cn/zhuzhan/rd/20201228/385363.html",
+      "download": "https://wenhui.whb.cn/u/cms/www/202012/24140759w494.JPG",
+      "license": "Copyright retained; observation only; no runtime texture",
+      "usage": "candidate-source-unmatched-building",
+      "bytes": 1372752,
+      "sha256": "26b97ecfb2c0559de9a2e3cc51af542f5f194cb9087c61ceda3793179a13a650",
+      "imageEdited": false,
+      "originalDownloadPreserved": true,
+      "visualInspection": {
+        "method": "actual local view_image",
+        "accepted": false,
+        "observations": "Actual photo is along Jinling Road arcade, as read from Henan Road junction/Sichuan Road sign and east-facing skyline. Search phrase Renmin Road refers to direction sign, not the target street facade; excluded from scope-way match."
+      }
+    }
+  ]
+}

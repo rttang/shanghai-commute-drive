@@ -1,0 +1,4429 @@
+{
+  "updatedAt": "2026-09-09T13:23:44.707914+00:00",
+  "state": "geometry-exported-photo-acceptance-incomplete",
+  "scope": "Continuous-loop Pudong first row, 5800-9260 m; all legacy models retained",
+  "continuousLoopExpectedWays": 57,
+  "continuousLoopModeledWays": 57,
+  "geometryGaps": [],
+  "sourceReferenceCount": 76,
+  "sourcePhotoCount": 69,
+  "viewedSourceCount": 76,
+  "usablePhotoCount": 61,
+  "sourcePhotoBytes": 61634306,
+  "preparedModelCount": 108,
+  "totalModelBytes": 437546128,
+  "totalModelTriangles": 7659897,
+  "notAFullVisualAcceptance": true,
+  "remainingNoPhotoLoopWays": [
+    {
+      "wayId": 965047353,
+      "name": "OSM building 965047353",
+      "routeDistanceM": 5809.521,
+      "modelId": "pudong-way-965047353",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 415667888,
+      "name": "OSM building 415667888",
+      "routeDistanceM": 6275.065,
+      "modelId": "pudong-way-415667888",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 957456631,
+      "name": "OSM building 957456631",
+      "routeDistanceM": 6284.258,
+      "modelId": "pudong-way-957456631",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": -128762950,
+      "name": "OSM building -128762950",
+      "routeDistanceM": 6312.598,
+      "modelId": "pudong-way-r128762950",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": -128762951,
+      "name": "OSM building -128762951",
+      "routeDistanceM": 6321.231,
+      "modelId": "pudong-way-r128762951",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 415667808,
+      "name": "OSM building 415667808",
+      "routeDistanceM": 6332.049,
+      "modelId": "pudong-way-415667808",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 957456630,
+      "name": "OSM building 957456630",
+      "routeDistanceM": 6370.654,
+      "modelId": "pudong-way-957456630",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 948045836,
+      "name": "OSM building 948045836",
+      "routeDistanceM": 6443.298,
+      "modelId": "pudong-way-948045836",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 957451695,
+      "name": "OSM building 957451695",
+      "routeDistanceM": 6455.13,
+      "modelId": "pudong-way-957451695",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 956369950,
+      "name": "OSM building 956369950",
+      "routeDistanceM": 6465.631,
+      "modelId": "pudong-way-956369950",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 956369947,
+      "name": "OSM building 956369947",
+      "routeDistanceM": 6467.842,
+      "modelId": "pudong-way-956369947",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 956369949,
+      "name": "OSM building 956369949",
+      "routeDistanceM": 6491.316,
+      "modelId": "pudong-way-956369949",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 956369946,
+      "name": "OSM building 956369946",
+      "routeDistanceM": 6493.524,
+      "modelId": "pudong-way-956369946",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 956369945,
+      "name": "OSM building 956369945",
+      "routeDistanceM": 6517.545,
+      "modelId": "pudong-way-956369945",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 956369948,
+      "name": "OSM building 956369948",
+      "routeDistanceM": 6521.409,
+      "modelId": "pudong-way-956369948",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 956369951,
+      "name": "OSM building 956369951",
+      "routeDistanceM": 6546.31,
+      "modelId": "pudong-way-956369951",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 957451684,
+      "name": "OSM building 957451684",
+      "routeDistanceM": 6564.262,
+      "modelId": "pudong-way-957451684",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 957451686,
+      "name": "OSM building 957451686",
+      "routeDistanceM": 6578.417,
+      "modelId": "pudong-way-957451686",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 957451683,
+      "name": "OSM building 957451683",
+      "routeDistanceM": 6592.122,
+      "modelId": "pudong-way-957451683",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 165168179,
+      "name": "OSM building 165168179",
+      "routeDistanceM": 7217.323,
+      "modelId": "pudong-way-165168179",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 165168178,
+      "name": "OSM building 165168178",
+      "routeDistanceM": 7244.62,
+      "modelId": "pudong-way-165168178",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 166545281,
+      "name": "OSM building 166545281",
+      "routeDistanceM": 7309.769,
+      "modelId": "pudong-way-166545281",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": -129813070,
+      "name": "恒生银行大厦",
+      "routeDistanceM": 7434.969,
+      "modelId": "hang-seng",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 203.4,
+      "heightSource": "height",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 166544770,
+      "name": "OSM building 166544770",
+      "routeDistanceM": 7685.843,
+      "modelId": "pudong-way-166544770",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": -129809230,
+      "name": "上海银行大厦",
+      "routeDistanceM": 7798.527,
+      "modelId": "pudong-way-r129809231",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 252,
+      "heightSource": "Tange Architects: 230 m building; 252 m tip from CTBUH historical listing",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 965004773,
+      "name": "OSM building 965004773",
+      "routeDistanceM": 7860.955,
+      "modelId": "pudong-way-965004773",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 1533181378,
+      "name": "上海海洋水族馆管理楼",
+      "routeDistanceM": 7990.254,
+      "modelId": "ocean-aquarium",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 36,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 165168434,
+      "name": "OSM building 165168434",
+      "routeDistanceM": 8173.696,
+      "modelId": "pudong-way-165168434",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 10.2,
+      "heightSource": "levels",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 166125932,
+      "name": "OSM building 166125932",
+      "routeDistanceM": 8201.818,
+      "modelId": "pudong-way-166125932",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 1211163026,
+      "name": "OSM building 1211163026",
+      "routeDistanceM": 8224.372,
+      "modelId": "pudong-way-1211163026",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 166125926,
+      "name": "OSM building 166125926",
+      "routeDistanceM": 8229.538,
+      "modelId": "pudong-way-166125926",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 1211163027,
+      "name": "OSM building 1211163027",
+      "routeDistanceM": 8314.549,
+      "modelId": "pudong-way-1211163027",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 160165834,
+      "name": "OSM building 160165834",
+      "routeDistanceM": 8549.08,
+      "modelId": "pudong-way-160165834",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "levels",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 961656405,
+      "name": "OSM building 961656405",
+      "routeDistanceM": 8822.228,
+      "modelId": "pudong-way-961656405",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    },
+    {
+      "wayId": 167061959,
+      "name": "OSM building 167061959",
+      "routeDistanceM": 8888.387,
+      "modelId": "pudong-way-167061959",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "levels",
+      "status": "no-direct-matched-exterior-photo",
+      "reason": "Nearby tower or community images cannot establish this mapped part."
+    }
+  ],
+  "continuousLoopRows": [
+    {
+      "wayId": 965047353,
+      "name": "OSM building 965047353",
+      "routeDistanceM": 5809.521,
+      "modelId": "pudong-way-965047353",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 957451688,
+      "name": "自由贸易试验区览海国际广场",
+      "routeDistanceM": 6072.212,
+      "modelId": "pudong-way-957451688",
+      "sourcePhotoIds": [
+        "lanhai-street"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 17.43,
+      "heightSource": "OSM five-storey / 17 m estimate retained; fascia height inferred by photo proportions"
+    },
+    {
+      "wayId": 165591946,
+      "name": "OSM building 165591946",
+      "routeDistanceM": 6073.194,
+      "modelId": "pudong-way-165591946",
+      "sourcePhotoIds": [
+        "lanhai-street",
+        "swfc-entrance-traveler"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 17.0,
+      "heightSource": "levels"
+    },
+    {
+      "wayId": 415667888,
+      "name": "OSM building 415667888",
+      "routeDistanceM": 6275.065,
+      "modelId": "pudong-way-415667888",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 957456631,
+      "name": "OSM building 957456631",
+      "routeDistanceM": 6284.258,
+      "modelId": "pudong-way-957456631",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": -128762950,
+      "name": "OSM building -128762950",
+      "routeDistanceM": 6312.598,
+      "modelId": "pudong-way-r128762950",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": -128762951,
+      "name": "OSM building -128762951",
+      "routeDistanceM": 6321.231,
+      "modelId": "pudong-way-r128762951",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 415667808,
+      "name": "OSM building 415667808",
+      "routeDistanceM": 6332.049,
+      "modelId": "pudong-way-415667808",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 957456630,
+      "name": "OSM building 957456630",
+      "routeDistanceM": 6370.654,
+      "modelId": "pudong-way-957456630",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 948045836,
+      "name": "OSM building 948045836",
+      "routeDistanceM": 6443.298,
+      "modelId": "pudong-way-948045836",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 957451695,
+      "name": "OSM building 957451695",
+      "routeDistanceM": 6455.13,
+      "modelId": "pudong-way-957451695",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 956369950,
+      "name": "OSM building 956369950",
+      "routeDistanceM": 6465.631,
+      "modelId": "pudong-way-956369950",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 956369947,
+      "name": "OSM building 956369947",
+      "routeDistanceM": 6467.842,
+      "modelId": "pudong-way-956369947",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 956369949,
+      "name": "OSM building 956369949",
+      "routeDistanceM": 6491.316,
+      "modelId": "pudong-way-956369949",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 956369946,
+      "name": "OSM building 956369946",
+      "routeDistanceM": 6493.524,
+      "modelId": "pudong-way-956369946",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 956369945,
+      "name": "OSM building 956369945",
+      "routeDistanceM": 6517.545,
+      "modelId": "pudong-way-956369945",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 956369948,
+      "name": "OSM building 956369948",
+      "routeDistanceM": 6521.409,
+      "modelId": "pudong-way-956369948",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 956369951,
+      "name": "OSM building 956369951",
+      "routeDistanceM": 6546.31,
+      "modelId": "pudong-way-956369951",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 957451684,
+      "name": "OSM building 957451684",
+      "routeDistanceM": 6564.262,
+      "modelId": "pudong-way-957451684",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 957451686,
+      "name": "OSM building 957451686",
+      "routeDistanceM": 6578.417,
+      "modelId": "pudong-way-957451686",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 957451683,
+      "name": "OSM building 957451683",
+      "routeDistanceM": 6592.122,
+      "modelId": "pudong-way-957451683",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 164972436,
+      "name": "招商局大厦",
+      "routeDistanceM": 7102.822,
+      "modelId": "pudong-way-164972436",
+      "sourcePhotoIds": [
+        "lujiazui-insurance-merchants",
+        "merchants-full",
+        "park-2022-1",
+        "park-2024-39"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 186,
+      "heightSource": "CVU / CTBUH architectural height 186 m / 38 floors"
+    },
+    {
+      "wayId": -129813030,
+      "name": "世界金融大厦",
+      "routeDistanceM": 7166.567,
+      "modelId": "pudong-way-r129813030",
+      "sourcePhotoIds": [
+        "world-finance-full",
+        "park-2024-39"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 193,
+      "heightSource": "CTBUH 212 m architectural top for whole building; component massing inferred from photo"
+    },
+    {
+      "wayId": -129813031,
+      "name": "世界金融大厦",
+      "routeDistanceM": 7166.567,
+      "modelId": "pudong-way-r129813031",
+      "sourcePhotoIds": [
+        "world-finance-full",
+        "park-2024-39"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 212,
+      "heightSource": "CTBUH 212 m architectural top for whole building; component massing inferred from photo"
+    },
+    {
+      "wayId": 165168179,
+      "name": "OSM building 165168179",
+      "routeDistanceM": 7217.323,
+      "modelId": "pudong-way-165168179",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 165168178,
+      "name": "OSM building 165168178",
+      "routeDistanceM": 7244.62,
+      "modelId": "pudong-way-165168178",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 166545281,
+      "name": "OSM building 166545281",
+      "routeDistanceM": 7309.769,
+      "modelId": "pudong-way-166545281",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": -129813020,
+      "name": "华能联合大厦",
+      "routeDistanceM": 7311.704,
+      "modelId": "pudong-way-r129813020",
+      "sourcePhotoIds": [
+        "huaneng-full"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 188,
+      "heightSource": "OSM explicit tower height 188 m; podium 21 m photo proportion estimate"
+    },
+    {
+      "wayId": -129813072,
+      "name": "恒生银行大厦",
+      "routeDistanceM": 7393.896,
+      "modelId": "hang-seng",
+      "sourcePhotoIds": [
+        "hang-seng-original-rechecked"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 203.4,
+      "heightSource": "height"
+    },
+    {
+      "wayId": -129813071,
+      "name": "恒生银行大厦",
+      "routeDistanceM": 7424.958,
+      "modelId": "hang-seng",
+      "sourcePhotoIds": [
+        "hang-seng-original-rechecked"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 203.4,
+      "heightSource": "height"
+    },
+    {
+      "wayId": -129813070,
+      "name": "恒生银行大厦",
+      "routeDistanceM": 7434.969,
+      "modelId": "hang-seng",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 203.4,
+      "heightSource": "height"
+    },
+    {
+      "wayId": 164903482,
+      "name": "黄金置地大厦",
+      "routeDistanceM": 7584.357,
+      "modelId": "pudong-way-164903482",
+      "sourcePhotoIds": [
+        "golden-bank-shanghai"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 206,
+      "heightSource": "CTBUH 2008 published architectural height 206 m / 41 floors"
+    },
+    {
+      "wayId": 166544770,
+      "name": "OSM building 166544770",
+      "routeDistanceM": 7685.843,
+      "modelId": "pudong-way-166544770",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": -129809231,
+      "name": "上海银行大厦",
+      "routeDistanceM": 7728.303,
+      "modelId": "pudong-way-r129809231",
+      "sourcePhotoIds": [
+        "bank-shanghai-architect-1",
+        "bank-shanghai-architect-2"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 252,
+      "heightSource": "Tange Architects: 230 m building; 252 m tip from CTBUH historical listing"
+    },
+    {
+      "wayId": 164957811,
+      "name": "中银大厦",
+      "routeDistanceM": 7730.031,
+      "modelId": "pudong-way-164957811",
+      "sourcePhotoIds": [
+        "boc-architect-2",
+        "boc-architect-3",
+        "boc-architect-4",
+        "boc-architect-5",
+        "boc-architect-6",
+        "boc-architect-7"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 258,
+      "heightSource": "Nikken 226.10 m building; CTBUH 258 m tip"
+    },
+    {
+      "wayId": -129809230,
+      "name": "上海银行大厦",
+      "routeDistanceM": 7798.527,
+      "modelId": "pudong-way-r129809231",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 252,
+      "heightSource": "Tange Architects: 230 m building; 252 m tip from CTBUH historical listing"
+    },
+    {
+      "wayId": 164971470,
+      "name": "交银金融大厦",
+      "routeDistanceM": 7815.848,
+      "modelId": "pudong-way-164971470",
+      "sourcePhotoIds": [
+        "bocom-close",
+        "bocom-full",
+        "bocom-aerial"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 265,
+      "heightSource": "CTBUH north230.4 m; contractor south198 m; mast tip265 m"
+    },
+    {
+      "wayId": -129809240,
+      "name": "汇亚大厦",
+      "routeDistanceM": 7860.883,
+      "modelId": "pudong-way-r129809240",
+      "sourcePhotoIds": [
+        "azia-02",
+        "azia-03",
+        "azia-04"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 168.8,
+      "heightSource": "CTBUH Skyscraper Center"
+    },
+    {
+      "wayId": 965004773,
+      "name": "OSM building 965004773",
+      "routeDistanceM": 7860.955,
+      "modelId": "pudong-way-965004773",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 1533181378,
+      "name": "上海海洋水族馆管理楼",
+      "routeDistanceM": 7990.254,
+      "modelId": "ocean-aquarium",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 36,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 520990201,
+      "name": "中国平安金融大厦",
+      "routeDistanceM": 7996.209,
+      "modelId": "pudong-way-520990201",
+      "sourcePhotoIds": [
+        "pingan-bank-3"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 203,
+      "heightSource": "Ping An Shanghai Branch supplied article and construction contractor: body170 m / dome203 m"
+    },
+    {
+      "wayId": 404676268,
+      "name": "上海海洋水族馆",
+      "routeDistanceM": 8065.322,
+      "modelId": "ocean-aquarium",
+      "sourcePhotoIds": [
+        "aquarium-owner"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 36,
+      "heightSource": "height"
+    },
+    {
+      "wayId": 165168434,
+      "name": "OSM building 165168434",
+      "routeDistanceM": 8173.696,
+      "modelId": "pudong-way-165168434",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 10.2,
+      "heightSource": "levels"
+    },
+    {
+      "wayId": 166125932,
+      "name": "OSM building 166125932",
+      "routeDistanceM": 8201.818,
+      "modelId": "pudong-way-166125932",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 1211163026,
+      "name": "OSM building 1211163026",
+      "routeDistanceM": 8224.372,
+      "modelId": "pudong-way-1211163026",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 166125926,
+      "name": "OSM building 166125926",
+      "routeDistanceM": 8229.538,
+      "modelId": "pudong-way-166125926",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 1211163027,
+      "name": "OSM building 1211163027",
+      "routeDistanceM": 8314.549,
+      "modelId": "pudong-way-1211163027",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 427786590,
+      "name": "迪士尼旗舰店",
+      "routeDistanceM": 8361.049,
+      "modelId": "pudong-way-427786590",
+      "sourcePhotoIds": [
+        "disney-clock",
+        "disney-clock-detail",
+        "disney-store-01",
+        "disney-store-02",
+        "disney-store-04"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 18,
+      "heightSource": "OSM shop6.8m; Disney official clock18m"
+    },
+    {
+      "wayId": 40779113,
+      "name": "正大广场",
+      "routeDistanceM": 8384.976,
+      "modelId": "super-brand-mall",
+      "sourcePhotoIds": [
+        "super-brand-original-rechecked"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 45,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 255624910,
+      "name": "Apple 浦东",
+      "routeDistanceM": 8500.269,
+      "modelId": "apple-pudong",
+      "sourcePhotoIds": [
+        "ifc-apple"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 12.8,
+      "heightSource": "supplier report via Shanghai Songjiang government, 12.8 m glass panels"
+    },
+    {
+      "wayId": 160165834,
+      "name": "OSM building 160165834",
+      "routeDistanceM": 8549.08,
+      "modelId": "pudong-way-160165834",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "levels"
+    },
+    {
+      "wayId": 423304682,
+      "name": "国金中心二期",
+      "routeDistanceM": 8595.972,
+      "modelId": "ifc-south",
+      "sourcePhotoIds": [
+        "ifc-apple"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 259.9,
+      "heightSource": "OSM explicit height"
+    },
+    {
+      "wayId": 526005642,
+      "name": "上海国金中心商场",
+      "routeDistanceM": 8648.824,
+      "modelId": "pudong-way-526005642",
+      "sourcePhotoIds": [
+        "ifc-apple"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 23.8,
+      "heightSource": "levels"
+    },
+    {
+      "wayId": 961656405,
+      "name": "OSM building 961656405",
+      "routeDistanceM": 8822.228,
+      "modelId": "pudong-way-961656405",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "estimated"
+    },
+    {
+      "wayId": 167061959,
+      "name": "OSM building 167061959",
+      "routeDistanceM": 8888.387,
+      "modelId": "pudong-way-167061959",
+      "sourcePhotoIds": [],
+      "geometryPresent": true,
+      "photoVerified": false,
+      "height": 17.0,
+      "heightSource": "levels"
+    },
+    {
+      "wayId": 376075961,
+      "name": "金茂大厦",
+      "routeDistanceM": 8957.929,
+      "modelId": "jinmao",
+      "sourcePhotoIds": [
+        "jinmao-front",
+        "jinmao-detail",
+        "jinmao-owner-0",
+        "jinmao-owner-1",
+        "jinmao-owner-2",
+        "jinmao-owner-3",
+        "jinmao-owner-4",
+        "jinmao-owner-5",
+        "jinmao-owner-6",
+        "jinmao-owner-7",
+        "jinmao-owner-8",
+        "jinmao-owner-9",
+        "jinmao-entrance-traveler"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 420.5,
+      "heightSource": "height"
+    },
+    {
+      "wayId": 165168180,
+      "name": "陈桂春住宅",
+      "routeDistanceM": 9041.809,
+      "modelId": "pudong-way-165168180",
+      "sourcePhotoIds": [
+        "chen-mansion",
+        "chen-traveler-0",
+        "chen-traveler-5",
+        "chen-traveler-6"
+      ],
+      "geometryPresent": true,
+      "photoVerified": true,
+      "height": 8.8,
+      "heightSource": "8.8 m photo-proportioned gable estimate; rejected OSM 17 m default"
+    }
+  ],
+  "models": [
+    {
+      "id": "apple-pudong",
+      "name": "Apple 浦东",
+      "ways": [
+        255624910
+      ],
+      "currentGlbSha256": "9e2079cf89c91d5df07606cb13bab74357b4b3244de9de6453e8066a3d7ec05a",
+      "bytes": 1536396,
+      "triangles": 31104,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "255624910": [
+          "ifc-apple"
+        ]
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 8500.269,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "bea-tower",
+      "name": "东亚银行金融大厦",
+      "ways": [
+        446935274
+      ],
+      "currentGlbSha256": "490edd6afd0c567aaa0455c82e226fd2d6d0dd4c5001e7987aa4750792ee5ffc",
+      "bytes": 2246016,
+      "triangles": 27098,
+      "embeddedImages": 1,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "446935274": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "financial-center",
+      "name": "上海环球金融中心",
+      "ways": [
+        10691100
+      ],
+      "currentGlbSha256": "377202f6f8dba0ddaf581dbf9378e328010b08d966d7fa4ea57da0e708a3000c",
+      "bytes": 21693520,
+      "triangles": 382244,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "10691100": [
+          "swfc-front",
+          "swfc-ground"
+        ]
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "hang-seng",
+      "name": "恒生银行大厦",
+      "ways": [
+        -129813070,
+        -129813071,
+        -129813072
+      ],
+      "currentGlbSha256": "94a73e20e2849ac7b3a8604c36f96abcb6aeabd92f4c03b507b423f7a1c8b41b",
+      "bytes": 4388440,
+      "triangles": 52266,
+      "embeddedImages": 1,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "-129813070": [],
+        "-129813071": [
+          "hang-seng-original-rechecked"
+        ],
+        "-129813072": [
+          "hang-seng-original-rechecked"
+        ]
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 7393.896,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [
+        "hang-seng-original-rechecked"
+      ],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "ifc-north",
+      "name": "汇丰银行大楼",
+      "ways": [
+        164968674
+      ],
+      "currentGlbSha256": "5031be38b3d63bdf67ed8be73aaa7ddf99966eff1b78892acc0cee541a7c793c",
+      "bytes": 1706264,
+      "triangles": 31648,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "164968674": [
+          "ifc-apple"
+        ]
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "ifc-south",
+      "name": "国金中心二期",
+      "ways": [
+        423304682
+      ],
+      "currentGlbSha256": "2e1c6b86ec8cf6ec2d3ca243f3af5630e3af57baa896e4092fbfd8e82a7698d5",
+      "bytes": 1990560,
+      "triangles": 36940,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "423304682": [
+          "ifc-apple"
+        ]
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 8595.972,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "jinmao",
+      "name": "金茂大厦",
+      "ways": [
+        376075961
+      ],
+      "currentGlbSha256": "c2dd822591c37ec6f7050523ad21fba5e6d3aab74d2f8a0ac5089c0fb258ba93",
+      "bytes": 20504996,
+      "triangles": 363074,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "376075961": [
+          "jinmao-front",
+          "jinmao-detail",
+          "jinmao-owner-0",
+          "jinmao-owner-1",
+          "jinmao-owner-2",
+          "jinmao-owner-3",
+          "jinmao-owner-4",
+          "jinmao-owner-5",
+          "jinmao-owner-6",
+          "jinmao-owner-7",
+          "jinmao-owner-8",
+          "jinmao-owner-9",
+          "jinmao-entrance-traveler"
+        ]
+      },
+      "changes": [
+        "north main entrance canopy and its ribbed soffit",
+        "side covered passage",
+        "circular entry motif",
+        "close upper mullions and shelf profiles"
+      ],
+      "unverified": [
+        "unphotographed south/east canopy detail inferred from north photo",
+        "precise roof and bracket dimensions"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 8957.929,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/loop-render-verification-2026-09-09T123914185Z.json",
+        "image": "public/streets/districts/pudong/review/loop-jinmao-2026-09-09T123914185Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "jinmao-owner-0",
+        "jinmao-owner-1",
+        "jinmao-owner-2",
+        "jinmao-owner-3",
+        "jinmao-owner-4",
+        "jinmao-owner-5",
+        "jinmao-owner-6",
+        "jinmao-owner-7",
+        "jinmao-owner-8",
+        "jinmao-owner-9",
+        "jinmao-entrance-traveler"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "ocean-aquarium",
+      "name": "上海海洋水族馆",
+      "ways": [
+        404676268,
+        1533181378
+      ],
+      "currentGlbSha256": "17966fd248765ac40d7af98bc7ec6c82cb18ac4aa98a4e96db1b77bca375355c",
+      "bytes": 1779788,
+      "triangles": 19288,
+      "embeddedImages": 1,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "404676268": [
+          "aquarium-owner"
+        ],
+        "1533181378": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 7990.254,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [
+        "aquarium-owner"
+      ],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pearl",
+      "name": "东方明珠电视塔",
+      "ways": [
+        40778038
+      ],
+      "currentGlbSha256": "d87ec5c883d1c4163325e20cebf40ba41d5718da91123f46d2f0f18d21a32ae6",
+      "bytes": 18666620,
+      "triangles": 281928,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "40778038": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-113520430",
+      "name": "21世纪大厦",
+      "ways": [
+        113520430
+      ],
+      "currentGlbSha256": "ce4970c3e1f362f1ee5c7533891c6a3fa7b8003f9468c951344a50c492af9408",
+      "bytes": 1402340,
+      "triangles": 26286,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "113520430": [
+          "century-hines-corner"
+        ]
+      },
+      "changes": [
+        "three-storey clear glass ground facade",
+        "black pane frames",
+        "slender canopy blades and columns"
+      ],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/loop-render-verification-2026-09-09T095834058Z.json",
+        "image": "public/streets/districts/pudong/review/loop-pudong-way-113520430-2026-09-09T095834058Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "century-hines-corner"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-1211163026",
+      "name": "OSM building 1211163026",
+      "ways": [
+        1211163026
+      ],
+      "currentGlbSha256": "0444bec21906c9c2d9a0ad8e1d67d0af167fc3e0b6a2e5bb29054e93eb2d3115",
+      "bytes": 1145776,
+      "triangles": 21199,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "1211163026": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 8224.372,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-1211163027",
+      "name": "OSM building 1211163027",
+      "ways": [
+        1211163027
+      ],
+      "currentGlbSha256": "0de0e442c5327fb4ccf173468bde583a1c9bcc5cdb8a4d39f17d03e35f0f690a",
+      "bytes": 1133072,
+      "triangles": 20964,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "1211163027": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 8314.549,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-135840678",
+      "name": "中国保险大厦",
+      "ways": [
+        135840678
+      ],
+      "currentGlbSha256": "dd0d3c9b09e9b66de8cb61e397a1d19adaa4e4ff6d26c51cd388f6869c5e874d",
+      "bytes": 24775248,
+      "triangles": 413788,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "135840678": [
+          "lujiazui-insurance-merchants",
+          "merchants-full",
+          "park-2022-1",
+          "park-2024-39"
+        ]
+      },
+      "changes": [
+        "pale stone piers",
+        "vertical glazing strips",
+        "opaque broad upper cornice"
+      ],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/loop-render-verification-2026-09-09T095834058Z.json",
+        "image": "public/streets/districts/pudong/review/loop-pudong-way-135840678-2026-09-09T095834058Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "lujiazui-insurance-merchants",
+        "merchants-full",
+        "park-2022-1",
+        "park-2024-39"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-160165834",
+      "name": "OSM building 160165834",
+      "ways": [
+        160165834
+      ],
+      "currentGlbSha256": "2dee697c25afc27111074e6ef2abbde940be5b2245de280ee0c33ec25d752849",
+      "bytes": 3446984,
+      "triangles": 59844,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "160165834": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 8549.08,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-164903482",
+      "name": "黄金置地大厦",
+      "ways": [
+        164903482
+      ],
+      "currentGlbSha256": "a51a9997ad31929c3a0fd7685e4b58430fe4fabc765e79a6b49ee6637e9ecc6f",
+      "bytes": 13320872,
+      "triangles": 226156,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "164903482": [
+          "golden-bank-shanghai"
+        ]
+      },
+      "changes": [
+        "stone piers",
+        "upper arches",
+        "roof silhouette"
+      ],
+      "unverified": [
+        "ground entrance hidden in photo",
+        "side and rear window counts",
+        "exact crown tier heights"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 7584.357,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/loop-render-verification-2026-09-09T095834058Z.json",
+        "image": "public/streets/districts/pudong/review/loop-pudong-way-164903482-2026-09-09T095834058Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "golden-bank-shanghai"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-164905211",
+      "name": "星展银行大厦",
+      "ways": [
+        164905211
+      ],
+      "currentGlbSha256": "d14f844f8b07945d97743dd033d6c6605bf135da624f3591250f184b8aad2fcb",
+      "bytes": 961356,
+      "triangles": 18835,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "164905211": [
+          "foxconn-01",
+          "foxconn-06",
+          "foxconn-10"
+        ]
+      },
+      "changes": [
+        "dark broad continuous spandrels",
+        "paired shallow metal rails",
+        "DBS rooftop lettering"
+      ],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/loop-render-verification-2026-09-09T095834058Z.json",
+        "image": "public/streets/districts/pudong/review/loop-pudong-way-164905211-2026-09-09T095834058Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "foxconn-01",
+        "foxconn-06",
+        "foxconn-10"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-164957811",
+      "name": "中银大厦",
+      "ways": [
+        164957811
+      ],
+      "currentGlbSha256": "c437e7e742d055bd213a6eb4c09f787b0c94f75a1b41963d3dcd017e73c4c919",
+      "bytes": 25036596,
+      "triangles": 448336,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "164957811": [
+          "boc-architect-2",
+          "boc-architect-3",
+          "boc-architect-4",
+          "boc-architect-5",
+          "boc-architect-6",
+          "boc-architect-7"
+        ]
+      },
+      "changes": [
+        "curved tower",
+        "open crown ribs",
+        "side aerial",
+        "sloping silver sleeve",
+        "curved entrance curtain wall and black columns"
+      ],
+      "unverified": [
+        "tower and hall position inside single undivided map polygon",
+        "exact ellipse radii and sleeve slope",
+        "concealed doors",
+        "rear lobby elevation"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 7730.031,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-164957811-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "boc-architect-2",
+        "boc-architect-3",
+        "boc-architect-4",
+        "boc-architect-5",
+        "boc-architect-6",
+        "boc-architect-7"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-164971470",
+      "name": "交银金融大厦",
+      "ways": [
+        164971470
+      ],
+      "currentGlbSha256": "de5740ef0320fd3c2246e6e8fae4fc5bc4a09433dd696df2caf3d54bb417e914",
+      "bytes": 17156144,
+      "triangles": 313248,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "164971470": [
+          "bocom-close",
+          "bocom-full",
+          "bocom-aerial"
+        ]
+      },
+      "changes": [
+        "paired unequal towers",
+        "diagonal roof glass",
+        "stone side walls",
+        "horizontal floor lips",
+        "connecting glass",
+        "low round annex"
+      ],
+      "unverified": [
+        "tower positions within undivided mapped outline",
+        "ground entry mostly obscured",
+        "annex facade exact bay count"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 7815.848,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-164971470-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "bocom-close",
+        "bocom-full",
+        "bocom-aerial"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-164972436",
+      "name": "招商局大厦",
+      "ways": [
+        164972436
+      ],
+      "currentGlbSha256": "9a7f02f0173b1b8f2eab5c89f6bd759444b43fa153d6f5973df90b37bbcce997",
+      "bytes": 8729708,
+      "triangles": 153676,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "164972436": [
+          "lujiazui-insurance-merchants",
+          "merchants-full",
+          "park-2022-1",
+          "park-2024-39"
+        ]
+      },
+      "changes": [
+        "turquoise body",
+        "silver bands",
+        "central facade fields",
+        "round crown and lattice pyramid"
+      ],
+      "unverified": [
+        "precise recessed-field depths",
+        "ground doors obscured by trees",
+        "rear facade arrangement"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 7102.822,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/loop-render-verification-2026-09-09T095834058Z.json",
+        "image": "public/streets/districts/pudong/review/loop-pudong-way-164972436-2026-09-09T095834058Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "lujiazui-insurance-merchants",
+        "merchants-full",
+        "park-2022-1",
+        "park-2024-39"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-165166877",
+      "name": "OSM building 165166877",
+      "ways": [
+        165166877
+      ],
+      "currentGlbSha256": "54abdf5a425113b3ae7210910b7d24f637e8740904fb04523eac52e255acaa6f",
+      "bytes": 1696164,
+      "triangles": 31402,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "165166877": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-165166879",
+      "name": "浦东海关大楼",
+      "ways": [
+        165166879
+      ],
+      "currentGlbSha256": "a8608b5dd4e8159538721d2a189317fa321ce959bdf4c2796c1d9c075c6cc48f",
+      "bytes": 3254572,
+      "triangles": 56474,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "165166879": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-165168178",
+      "name": "OSM building 165168178",
+      "ways": [
+        165168178
+      ],
+      "currentGlbSha256": "0ef27d6c050e90df7a8dd97e300f592bcb3db69e76d3acacfee8dae2d4020122",
+      "bytes": 877448,
+      "triangles": 16214,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "165168178": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 7244.62,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-165168179",
+      "name": "OSM building 165168179",
+      "ways": [
+        165168179
+      ],
+      "currentGlbSha256": "abcde9bfeedfa05b7ca2b6a5362c25cd4d215c7a70990d7da3cfe2091277e5bc",
+      "bytes": 1017224,
+      "triangles": 18814,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "165168179": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 7217.323,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-165168180",
+      "name": "陈桂春住宅",
+      "ways": [
+        165168180
+      ],
+      "currentGlbSha256": "46458cfe58a610d499267a365d5603f6fbc17dd8626ae6b839f87c65e8af2743",
+      "bytes": 1411848,
+      "triangles": 28490,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "165168180": [
+          "chen-mansion",
+          "chen-traveler-0",
+          "chen-traveler-5",
+          "chen-traveler-6"
+        ]
+      },
+      "changes": [
+        "red and grey brick",
+        "stepped end gable",
+        "paired arched openings",
+        "timber lattice",
+        "tiled eaves",
+        "plastered rear and timber shutters"
+      ],
+      "unverified": [
+        "courtyard dimensions inferred within mapped rectangle",
+        "roof pitch and ridge elevations estimated",
+        "eastern end wall decoration"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 9041.809,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-165168180-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "chen-mansion",
+        "chen-traveler-0",
+        "chen-traveler-5",
+        "chen-traveler-6"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-165168434",
+      "name": "OSM building 165168434",
+      "ways": [
+        165168434
+      ],
+      "currentGlbSha256": "a362471ce927cf7053badc6fec9a25df4fd7d37fcaaf67d492fe06e561bbc5f5",
+      "bytes": 1181596,
+      "triangles": 21839,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "165168434": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 8173.696,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-165591946",
+      "name": "Shanghai World Financial Center podium",
+      "ways": [
+        165591946
+      ],
+      "currentGlbSha256": "46dbcd2708a87b7fb6a0f7202353a69d9c2d5d8e7def637553aa33ac6859bb44",
+      "bytes": 1411360,
+      "triangles": 29189,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "165591946": [
+          "lanhai-street",
+          "swfc-entrance-traveler"
+        ]
+      },
+      "changes": [
+        "black projecting entry portal",
+        "slender silver glazing frames",
+        "SWFC metal letters",
+        "three revolving exterior doors"
+      ],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 6073.194,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-165591946-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "lanhai-street",
+        "swfc-entrance-traveler"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-165985305",
+      "name": "富士康大厦",
+      "ways": [
+        165985305
+      ],
+      "currentGlbSha256": "77caf86970e45eecf7baa46d7a6192776a7fd64b3a7e07f2ae2c36240b2edc45",
+      "bytes": 17208636,
+      "triangles": 304534,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "165985305": [
+          "foxconn-01",
+          "foxconn-02",
+          "foxconn-04",
+          "foxconn-06",
+          "foxconn-07",
+          "foxconn-08",
+          "foxconn-10",
+          "foxconn-12"
+        ]
+      },
+      "changes": [
+        "four volumes",
+        "folded outer skin",
+        "recessed center slots",
+        "south entry",
+        "podium terrace"
+      ],
+      "unverified": [
+        "precise tower/podium cadastral split",
+        "concealed doors and planting species"
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/loop-render-verification-2026-09-09T095834058Z.json",
+        "image": "public/streets/districts/pudong/review/loop-pudong-way-165985305-2026-09-09T095834058Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "foxconn-01",
+        "foxconn-02",
+        "foxconn-04",
+        "foxconn-06",
+        "foxconn-07",
+        "foxconn-08",
+        "foxconn-10",
+        "foxconn-12"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-165985306",
+      "name": "OSM building 165985306",
+      "ways": [
+        165985306
+      ],
+      "currentGlbSha256": "e0375619cd68da28b17116f77b9cf782d0b4d78434d8a80f48a04e7f190fd726",
+      "bytes": 3475580,
+      "triangles": 60408,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "165985306": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-166125926",
+      "name": "OSM building 166125926",
+      "ways": [
+        166125926
+      ],
+      "currentGlbSha256": "50d6772904cbcf8ee123bd101ad7a545b6603c50f6dc14fc1bcfe00a0311b9a0",
+      "bytes": 956196,
+      "triangles": 17684,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "166125926": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 8229.538,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-166125932",
+      "name": "OSM building 166125932",
+      "ways": [
+        166125932
+      ],
+      "currentGlbSha256": "b8385fc0d6c1ae9f8e96676bf48ab8aa2dd62e260da5a455b8ef91f039b51d4b",
+      "bytes": 377824,
+      "triangles": 6860,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "166125932": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 8201.818,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-166544770",
+      "name": "OSM building 166544770",
+      "ways": [
+        166544770
+      ],
+      "currentGlbSha256": "e13e26fcfacdb8aa7d3a789c35f95e281d87487ca85811f0b2f5d0f39516119f",
+      "bytes": 1704684,
+      "triangles": 31549,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "166544770": []
+      },
+      "changes": [],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 7685.843,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-166544770-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-166545281",
+      "name": "OSM building 166545281",
+      "ways": [
+        166545281
+      ],
+      "currentGlbSha256": "af20159bd14f5cfd07b15e82149dfe39e7e4af08f7bdba44ffe66d12c14a477a",
+      "bytes": 303444,
+      "triangles": 5475,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "166545281": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 7309.769,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-167061959",
+      "name": "Mapped landmark podium 167061959",
+      "ways": [
+        167061959
+      ],
+      "currentGlbSha256": "c0b518dbbf7d6b4ca4fedcb02ac2e2315e81d37bb25407fc0e5f3619fdf2cf4c",
+      "bytes": 3450240,
+      "triangles": 59909,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "167061959": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 8888.387,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-281583582",
+      "name": "香格里拉酒店",
+      "ways": [
+        281583582
+      ],
+      "currentGlbSha256": "949e30cd07e39644372e6d59388cf3a70fb1d9652f4b74d64f1d913e66447cd6",
+      "bytes": 1114028,
+      "triangles": 20845,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "281583582": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-375966620",
+      "name": "金砖大厦",
+      "ways": [
+        375966620
+      ],
+      "currentGlbSha256": "a7ffa0641adfa864c1f796a815f4680401671f59ec3a9363e444be4ed89a0009",
+      "bytes": 1342128,
+      "triangles": 25058,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "375966620": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-415667808",
+      "name": "OSM building 415667808",
+      "ways": [
+        415667808
+      ],
+      "currentGlbSha256": "3464cb26103779816513ec712bb392c52e008106ee17ed66e9a3a153b33dd561",
+      "bytes": 1280728,
+      "triangles": 23714,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "415667808": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 6332.049,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-415667888",
+      "name": "OSM building 415667888",
+      "ways": [
+        415667888
+      ],
+      "currentGlbSha256": "29d504927180def181f4f92997d012cffb94411201fc9e568317a703f24abfb2",
+      "bytes": 858088,
+      "triangles": 15874,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "415667888": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 6275.065,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-427786590",
+      "name": "迪士尼旗舰店",
+      "ways": [
+        427786590
+      ],
+      "currentGlbSha256": "6361b435d2d9da3f706b90e9340b81736c5b71020300c31babfa17b7c9e7dcf2",
+      "bytes": 2662488,
+      "triangles": 53646,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "427786590": [
+          "disney-clock",
+          "disney-clock-detail",
+          "disney-store-01",
+          "disney-store-02",
+          "disney-store-04"
+        ]
+      },
+      "changes": [
+        "bronze ribs",
+        "curved facade",
+        "canopy",
+        "clock silhouette and dials"
+      ],
+      "unverified": [
+        "exact clock cadastral position",
+        "Disney script lettering simplified",
+        "character figurines and mechanical animation not modeled",
+        "rear shop facade"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 8361.049,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-427786590-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "disney-clock",
+        "disney-clock-detail",
+        "disney-store-01",
+        "disney-store-02",
+        "disney-store-04"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-448242492",
+      "name": "未来资产大厦",
+      "ways": [
+        448242492
+      ],
+      "currentGlbSha256": "2fd62b79bf7aa39d10e2043ce8da8c6915f91aff1dd35aeeca77463e02271092",
+      "bytes": 16879968,
+      "triangles": 292597,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "448242492": [
+          "mirae-044",
+          "mirae-008",
+          "mirae-003"
+        ]
+      },
+      "changes": [
+        "rounded tower skin",
+        "jade glazing",
+        "paired belts",
+        "pale cap"
+      ],
+      "unverified": [
+        "tower placement inside combined OSM footprint",
+        "concealed ground entries",
+        "podium bay spacing"
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/loop-render-verification-2026-09-09T095834058Z.json",
+        "image": "public/streets/districts/pudong/review/loop-pudong-way-448242492-2026-09-09T095834058Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "mirae-044",
+        "mirae-008",
+        "mirae-003"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-520990201",
+      "name": "中国平安金融大厦",
+      "ways": [
+        520990201
+      ],
+      "currentGlbSha256": "601b633101c13015bee2978f71d1083c721fdd70748706cba3a13935da4cd4da",
+      "bytes": 20964716,
+      "triangles": 361212,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "520990201": [
+          "pingan-bank-3"
+        ]
+      },
+      "changes": [
+        "stone tower",
+        "cornices",
+        "central slot",
+        "colonnaded dome drum",
+        "ribbed dome"
+      ],
+      "unverified": [
+        "tower position inside single combined OSM outline",
+        "low podium elevation not visible",
+        "ground entrance hidden by trees"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 7996.209,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/loop-render-verification-2026-09-09T095834058Z.json",
+        "image": "public/streets/districts/pudong/review/loop-pudong-way-520990201-2026-09-09T095834058Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "pingan-bank-3"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-520990202",
+      "name": "花旗集团大厦",
+      "ways": [
+        520990202
+      ],
+      "currentGlbSha256": "c44db0f7718fe11bc4a10a20e7380d3903c47cb85040311c7fd0406eb4c99c27",
+      "bytes": 1905472,
+      "triangles": 37414,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "520990202": [
+          "citigroup"
+        ]
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-526005642",
+      "name": "上海国金中心商场",
+      "ways": [
+        526005642
+      ],
+      "currentGlbSha256": "a469154b0eeb9520b8fb70736f0804ae7b0c72df4aed69446afbe743e1b80e1e",
+      "bytes": 1054976,
+      "triangles": 19465,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "526005642": [
+          "ifc-apple"
+        ]
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 8648.824,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-948045836",
+      "name": "OSM building 948045836",
+      "ways": [
+        948045836
+      ],
+      "currentGlbSha256": "bc86e9c1ccfd00d7327ef3a657e1bdd9851f168fc45733eed73b95f7d2da4346",
+      "bytes": 842312,
+      "triangles": 15574,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "948045836": []
+      },
+      "changes": [],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 6443.298,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-948045836-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-956369929",
+      "name": "上海浦东丽晶酒店",
+      "ways": [
+        956369929
+      ],
+      "currentGlbSha256": "9ce35839d6591b6f17387eadf33a314eb62c8ebb3e9089089aa743a4aa9285e4",
+      "bytes": 2115800,
+      "triangles": 39602,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "956369929": [
+          "century-hines-corner"
+        ]
+      },
+      "changes": [
+        "three-storey clear glass ground facade",
+        "black pane frames",
+        "slender canopy blades and columns"
+      ],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/loop-render-verification-2026-09-09T095834058Z.json",
+        "image": "public/streets/districts/pudong/review/loop-pudong-way-956369929-2026-09-09T095834058Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "century-hines-corner"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-956369945",
+      "name": "OSM building 956369945",
+      "ways": [
+        956369945
+      ],
+      "currentGlbSha256": "79d9cf81a749428eedd8524bfa780b893d0bcd641fdd903f9696cdbc90ef1a9e",
+      "bytes": 858084,
+      "triangles": 15874,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "956369945": []
+      },
+      "changes": [],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 6517.545,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-956369945-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-956369946",
+      "name": "OSM building 956369946",
+      "ways": [
+        956369946
+      ],
+      "currentGlbSha256": "80efa84950452950ae110a1a0a21d63713fba5448e30cf8c5662aafbdde9167d",
+      "bytes": 805772,
+      "triangles": 14894,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "956369946": []
+      },
+      "changes": [],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 6493.524,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-956369946-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-956369947",
+      "name": "OSM building 956369947",
+      "ways": [
+        956369947
+      ],
+      "currentGlbSha256": "d9f3de54faf739cf71c0f29927b3a322d5fe54b397a2c3299a4df0c80ca47246",
+      "bytes": 646756,
+      "triangles": 11954,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "956369947": []
+      },
+      "changes": [],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 6467.842,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-956369947-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-956369948",
+      "name": "OSM building 956369948",
+      "ways": [
+        956369948
+      ],
+      "currentGlbSha256": "732c0f481f61ce283d8916048e7c1715f2113efed33690b9e34d62c314957d15",
+      "bytes": 646760,
+      "triangles": 11954,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "956369948": []
+      },
+      "changes": [],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 6521.409,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-956369948-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-956369949",
+      "name": "OSM building 956369949",
+      "ways": [
+        956369949
+      ],
+      "currentGlbSha256": "5158a03eefd8ec230f45e772999a67042126272d7899dee2e417e8747d6e2a36",
+      "bytes": 911512,
+      "triangles": 16854,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "956369949": []
+      },
+      "changes": [],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 6491.316,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-956369949-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-956369950",
+      "name": "OSM building 956369950",
+      "ways": [
+        956369950
+      ],
+      "currentGlbSha256": "1931dfd2e6174a5968ebd3f40c32cfba96cc65bc8030beef45eda693495ee087",
+      "bytes": 911500,
+      "triangles": 16854,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "956369950": []
+      },
+      "changes": [],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 6465.631,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-956369950-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-956369951",
+      "name": "OSM building 956369951",
+      "ways": [
+        956369951
+      ],
+      "currentGlbSha256": "e0695c715f3ca04492df743f4c09aab4cb2eebcc279d5eaff8c0b8d5ad48a3cc",
+      "bytes": 1141224,
+      "triangles": 21114,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "956369951": []
+      },
+      "changes": [],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 6546.31,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-956369951-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-957451683",
+      "name": "OSM building 957451683",
+      "ways": [
+        957451683
+      ],
+      "currentGlbSha256": "92124e40a1d7033e11a00adaddfc92903afb9971e163f4e023db4359a64bd2da",
+      "bytes": 805788,
+      "triangles": 14894,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "957451683": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 6592.122,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-957451684",
+      "name": "OSM building 957451684",
+      "ways": [
+        957451684
+      ],
+      "currentGlbSha256": "4db63b7242a862d48e2d20e6fa3cab372b8a759d3c5715ac05c5880ffe8698ed",
+      "bytes": 1052784,
+      "triangles": 19474,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "957451684": []
+      },
+      "changes": [],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 6564.262,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-957451684-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-957451686",
+      "name": "OSM building 957451686",
+      "ways": [
+        957451686
+      ],
+      "currentGlbSha256": "5befaa0891912d8b3aecaa63e18f47755216cf0783f100909ded525a00afc6e5",
+      "bytes": 351412,
+      "triangles": 6370,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "957451686": []
+      },
+      "changes": [],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 6578.417,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-957451686-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-957451688",
+      "name": "览海国际广场",
+      "ways": [
+        957451688
+      ],
+      "currentGlbSha256": "a394092409ab36e11a12627f3437c0530aa98eb4f93093dab1f40fcf648d3b6b",
+      "bytes": 1200504,
+      "triangles": 23568,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "957451688": [
+          "lanhai-street"
+        ]
+      },
+      "changes": [
+        "round arrival pavilion",
+        "pale name fascia",
+        "roof rim and dark slot",
+        "glass entrance",
+        "public stair"
+      ],
+      "unverified": [
+        "precise fascia elevation",
+        "unphotographed wraparound shop fronts",
+        "advertisement contents omitted",
+        "stair bearing inferred within footprint"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 6072.212,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/loop-render-verification-2026-09-09T095834058Z.json",
+        "image": "public/streets/districts/pudong/review/loop-pudong-way-957451688-2026-09-09T095834058Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "lanhai-street"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-957451695",
+      "name": "OSM building 957451695",
+      "ways": [
+        957451695
+      ],
+      "currentGlbSha256": "7ed7450a013224c869becfb474ad7042654ee77ba933c950b9c734ce364f7683",
+      "bytes": 2585188,
+      "triangles": 47914,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "957451695": []
+      },
+      "changes": [],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 6455.13,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-957451695-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-957456630",
+      "name": "OSM building 957456630",
+      "ways": [
+        957456630
+      ],
+      "currentGlbSha256": "e253d71ddff06145ed5fc64cfe110c8cd8e39482766a61c485edf231dd948e9d",
+      "bytes": 1770964,
+      "triangles": 32789,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "957456630": []
+      },
+      "changes": [],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 6370.654,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-957456630-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-957456631",
+      "name": "OSM building 957456631",
+      "ways": [
+        957456631
+      ],
+      "currentGlbSha256": "2f9fd778c9dad5c6f6842d65dd68e4ba92614a65defafe18a85def0ecf4a718e",
+      "bytes": 762536,
+      "triangles": 14084,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "957456631": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 6284.258,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-959649120",
+      "name": "OSM building 959649120",
+      "ways": [
+        959649120
+      ],
+      "currentGlbSha256": "549e62ebccde7601fb41fc96bc3dde20940abaa27bf9b25a1629a039c6fbc18c",
+      "bytes": 2373828,
+      "triangles": 43994,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "959649120": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-961322834",
+      "name": "OSM building 961322834",
+      "ways": [
+        961322834
+      ],
+      "currentGlbSha256": "640d3bc8455c325995fc27e561957bfb274804c320f812e731afb49032db1af4",
+      "bytes": 1597040,
+      "triangles": 29569,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "961322834": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-961322837",
+      "name": "OSM building 961322837",
+      "ways": [
+        961322837
+      ],
+      "currentGlbSha256": "f842c8ef5395cfeed4641782c8ed1e3b6bae8b6409254e3ba6de0d04435cdb30",
+      "bytes": 1195996,
+      "triangles": 22134,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "961322837": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-961322841",
+      "name": "上海中粮海景壹号酒店公寓",
+      "ways": [
+        961322841
+      ],
+      "currentGlbSha256": "563fa588a9b8dad6d4275bbd49394a7de482bac2c0160585de0b6c0fd88d650e",
+      "bytes": 1752124,
+      "triangles": 32404,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "961322841": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-961322843",
+      "name": "OSM building 961322843",
+      "ways": [
+        961322843
+      ],
+      "currentGlbSha256": "c580540eda750b2dfd39ed35faa1d3a7c647a58065a5daba84e3fe14251de2b4",
+      "bytes": 1445648,
+      "triangles": 26759,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "961322843": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-961634158",
+      "name": "OSM building 961634158",
+      "ways": [
+        961634158
+      ],
+      "currentGlbSha256": "8f6fca7416020a41a9a278d9a6f9aad3ff2019de389474e7d44e018c183b5bda",
+      "bytes": 1342816,
+      "triangles": 24859,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "961634158": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-961656405",
+      "name": "OSM building 961656405",
+      "ways": [
+        961656405
+      ],
+      "currentGlbSha256": "2ae202e29cd3488fcd4b5c3cc6fb6c86c634f6f93bf717c1975e9499484413dc",
+      "bytes": 334416,
+      "triangles": 6050,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "961656405": []
+      },
+      "changes": [],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 8822.228,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-961656405-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-964405391",
+      "name": "OSM building 964405391",
+      "ways": [
+        964405391
+      ],
+      "currentGlbSha256": "6826121593c12536ba67ea6b3f64bb521316e71356f774523e4a8f04eebcefdd",
+      "bytes": 1474956,
+      "triangles": 27309,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "964405391": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-964405392",
+      "name": "OSM building 964405392",
+      "ways": [
+        964405392
+      ],
+      "currentGlbSha256": "fb61ff37206598a0b55fd995d52527fb15e2e4634beb869c99d067f09582c7f4",
+      "bytes": 1509664,
+      "triangles": 27969,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "964405392": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-964405396",
+      "name": "OSM building 964405396",
+      "ways": [
+        964405396
+      ],
+      "currentGlbSha256": "429d38ec122acb5f95aa4bf29bec08cc65194b25ad1fa872a544a1cb9031af40",
+      "bytes": 1259664,
+      "triangles": 23309,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "964405396": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-964405397",
+      "name": "OSM building 964405397",
+      "ways": [
+        964405397
+      ],
+      "currentGlbSha256": "d01df927510fd52b806c469c04bddbcb4f5ec19c014811857069b3ab10db5ee7",
+      "bytes": 541068,
+      "triangles": 9994,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "964405397": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-964405398",
+      "name": "OSM building 964405398",
+      "ways": [
+        964405398
+      ],
+      "currentGlbSha256": "24ae2a1e46864f9c238507e2f4821fa673f15be03f60945b999880959a1a48d8",
+      "bytes": 1407436,
+      "triangles": 26054,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "964405398": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-964405399",
+      "name": "OSM building 964405399",
+      "ways": [
+        964405399
+      ],
+      "currentGlbSha256": "a7fd3b1df5ebc73a29e96c9972e6f0ae2518c2b6786edb880806ba05a12086b8",
+      "bytes": 1741228,
+      "triangles": 32209,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "964405399": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-964446742",
+      "name": "OSM building 964446742",
+      "ways": [
+        964446742
+      ],
+      "currentGlbSha256": "366e5446481bca5731a0d28233a00440a008dc75ce81f0378bc9d7cb6b05e206",
+      "bytes": 960740,
+      "triangles": 17769,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "964446742": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-964446750",
+      "name": "OSM building 964446750",
+      "ways": [
+        964446750
+      ],
+      "currentGlbSha256": "c98f982f5ce859f314a56fafac273db257361e7a59c29c7ebc6f8d0d82e4da97",
+      "bytes": 1370796,
+      "triangles": 25354,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "964446750": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-964446762",
+      "name": "OSM building 964446762",
+      "ways": [
+        964446762
+      ],
+      "currentGlbSha256": "b881a232d500cbd5e87a40c5b45fc6c129ba38586d8b35a33cff5e75a6d93b17",
+      "bytes": 4586104,
+      "triangles": 79634,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "964446762": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-965004744",
+      "name": "OSM building 965004744",
+      "ways": [
+        965004744
+      ],
+      "currentGlbSha256": "f6a3ecf93c412613eb369f16441e6d60194fbee6882ed57195a976125e34fd0c",
+      "bytes": 646764,
+      "triangles": 11954,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "965004744": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-965004773",
+      "name": "OSM building 965004773",
+      "ways": [
+        965004773
+      ],
+      "currentGlbSha256": "04f8428747291a3aeaf5bfd8867f3c39a48d53c2f002339dd7680b292f8adb0b",
+      "bytes": 1492052,
+      "triangles": 27634,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "965004773": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 7860.955,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-965047353",
+      "name": "OSM building 965047353",
+      "ways": [
+        965047353
+      ],
+      "currentGlbSha256": "4574ade8ced1567d62924eab880fbf3369426beffe7ffc2e3476e72ba04ebeae",
+      "bytes": 1122936,
+      "triangles": 20774,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "965047353": []
+      },
+      "changes": [],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 5809.521,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-965047353-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-965081037",
+      "name": "OSM building 965081037",
+      "ways": [
+        965081037
+      ],
+      "currentGlbSha256": "414a2148fdcd7032edda46f7013028252652310739b17f3a9e314c2b75bdf904",
+      "bytes": 594320,
+      "triangles": 10974,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "965081037": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-967281056",
+      "name": "上海凯宾斯基大酒店",
+      "ways": [
+        967281056
+      ],
+      "currentGlbSha256": "eeecd3380765e7bfe164650da05fb57b74589619dd3ca8c7c5c325deaa376de8",
+      "bytes": 2111736,
+      "triangles": 39737,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "967281056": [
+          "golden-bank-shanghai",
+          "foxconn-01",
+          "foxconn-10"
+        ]
+      },
+      "changes": [
+        "concave curved facade",
+        "narrow horizontal metal bands",
+        "KEMPINSKI rooftop name"
+      ],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/loop-render-verification-2026-09-09T095834058Z.json",
+        "image": "public/streets/districts/pudong/review/loop-pudong-way-967281056-2026-09-09T095834058Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "golden-bank-shanghai",
+        "foxconn-01",
+        "foxconn-10"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-967281057",
+      "name": "OSM building 967281057",
+      "ways": [
+        967281057
+      ],
+      "currentGlbSha256": "3a448ea9f8db3ff90e62cbe321923db6b8abe2db9de11370da23781883bead55",
+      "bytes": 2620144,
+      "triangles": 48509,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "967281057": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-967281058",
+      "name": "Mapped landmark podium 967281058",
+      "ways": [
+        967281058
+      ],
+      "currentGlbSha256": "87a45771fcbabe53d6f992f3c6c9ea220c7c4204b4b96a9d7575f51eb4af4402",
+      "bytes": 1186620,
+      "triangles": 21944,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "967281058": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-r128762950",
+      "name": "OSM building -128762950",
+      "ways": [
+        -128762950
+      ],
+      "currentGlbSha256": "e8f76281f92668ca58a737258556c92a6953774c3bef21a75a69fe95bc090a24",
+      "bytes": 968336,
+      "triangles": 17919,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "-128762950": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 6312.598,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-r128762951",
+      "name": "OSM building -128762951",
+      "ways": [
+        -128762951
+      ],
+      "currentGlbSha256": "6facaeba75b6b21e5d52f15e24555854d61669a7a223008a52f5022f595ba386",
+      "bytes": 1485724,
+      "triangles": 27484,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "-128762951": []
+      },
+      "changes": [],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 6321.231,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-r128762951-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-r128762960",
+      "name": "OSM building -128762960",
+      "ways": [
+        -128762960
+      ],
+      "currentGlbSha256": "71747f8288e7984975f8d78f3f3688697891668ea016fb003d51d4f46458a973",
+      "bytes": 1021100,
+      "triangles": 18894,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "-128762960": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-r128762961",
+      "name": "OSM building -128762961",
+      "ways": [
+        -128762961
+      ],
+      "currentGlbSha256": "898313fea88fa65cda1f0987d783ba6db95f286811ed51b06565da5c1fcedabd",
+      "bytes": 695376,
+      "triangles": 12740,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "-128762961": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-r128821600",
+      "name": "渣打银行大厦",
+      "ways": [
+        -128821600
+      ],
+      "currentGlbSha256": "a98acdce2841b48dd433a86012c94b11f584c9ee3aa816abdabc71524071458b",
+      "bytes": 187404,
+      "triangles": 3397,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "-128821600": [
+          "standard-chartered"
+        ]
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-r128821601",
+      "name": "渣打银行大厦",
+      "ways": [
+        -128821601
+      ],
+      "currentGlbSha256": "cbbb1c416da8b7f7999ca795f22699d44ce63b6bdf35b50db4e53eefd9833f74",
+      "bytes": 10812208,
+      "triangles": 180882,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "-128821601": [
+          "standard-chartered",
+          "lujiazui-insurance-merchants"
+        ]
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [
+        "lujiazui-insurance-merchants"
+      ],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-r129181910",
+      "name": "OSM building -129181910",
+      "ways": [
+        -129181910
+      ],
+      "currentGlbSha256": "c1f1369d1fb735421c409f89bde5f55a940fbff25ec714d59a85e960359a3e80",
+      "bytes": 1226060,
+      "triangles": 22689,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "-129181910": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-r129181911",
+      "name": "OSM building -129181911",
+      "ways": [
+        -129181911
+      ],
+      "currentGlbSha256": "936944d4f17a0f0a6f500e20db639cfe8b2c054e72e297faf641f3fda8d9ca24",
+      "bytes": 1226780,
+      "triangles": 22689,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "-129181911": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-r129181920",
+      "name": "上海新帝豪酒店式服务公寓",
+      "ways": [
+        -129181920
+      ],
+      "currentGlbSha256": "b2a9608784f053ee073f6720f069dcb41fad5b417df5af4d6863d1c697de64b4",
+      "bytes": 1226052,
+      "triangles": 22689,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "-129181920": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-r129181921",
+      "name": "上海新帝豪酒店式服务公寓",
+      "ways": [
+        -129181921
+      ],
+      "currentGlbSha256": "c0956d7da39b1110a06b3030a3f6c57485a75ed2efee593a8ef0c7f6464c99a4",
+      "bytes": 1226796,
+      "triangles": 22689,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "-129181921": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-r129181922",
+      "name": "上海新帝豪酒店式服务公寓",
+      "ways": [
+        -129181922
+      ],
+      "currentGlbSha256": "54d303e37d31614eb85a35d01bd76d3476143d9b2a96104222806e56d9f9b5f6",
+      "bytes": 594832,
+      "triangles": 10923,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "-129181922": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-r129181923",
+      "name": "上海新帝豪酒店式服务公寓",
+      "ways": [
+        -129181923
+      ],
+      "currentGlbSha256": "1128628c5ea12ccd9054bf0a95b8e738ac9354bccbe1bfffd94eac1ae92742ad",
+      "bytes": 594832,
+      "triangles": 10923,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "-129181923": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-r129667600",
+      "name": "OSM building -129667600",
+      "ways": [
+        -129667600
+      ],
+      "currentGlbSha256": "562ecbdf25662fb950e4f892b6778d62e5c61c0f86d6da8f6938594271f904dd",
+      "bytes": 245756,
+      "triangles": 4410,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "-129667600": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-r129667601",
+      "name": "OSM building -129667601",
+      "ways": [
+        -129667601
+      ],
+      "currentGlbSha256": "a570b1e1ef6587e271c935c7caff86f8c37ae6373d005c617977c1c4da0f0faf",
+      "bytes": 1091584,
+      "triangles": 20174,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "-129667601": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-r129672740",
+      "name": "OSM building -129672740",
+      "ways": [
+        -129672740
+      ],
+      "currentGlbSha256": "d5f7cd3e20c5136e41acb27721cb39bfcb5c6b7fab1aaa118bfb67ef6b4375ae",
+      "bytes": 989224,
+      "triangles": 18272,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "-129672740": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-r129672741",
+      "name": "OSM building -129672741",
+      "ways": [
+        -129672741
+      ],
+      "currentGlbSha256": "19d89f6903023584acbc7cf65f080bc46c272e3c6dbef6c296bf1083964fbba2",
+      "bytes": 1649812,
+      "triangles": 30523,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "-129672741": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-r129809231",
+      "name": "上海银行大厦",
+      "ways": [
+        -129809231,
+        -129809230
+      ],
+      "currentGlbSha256": "93d5f53c14764fd721fb6174ecf8f9fe11ecc1826fb7f5d729264e43ddb131ce",
+      "bytes": 3786868,
+      "triangles": 72598,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "-129809231": [
+          "bank-shanghai-architect-1",
+          "bank-shanghai-architect-2"
+        ],
+        "-129809230": []
+      },
+      "changes": [
+        "tower front",
+        "stone shoulder piers",
+        "concave upper glazing",
+        "crown louvres",
+        "aerials"
+      ],
+      "unverified": [
+        "podium entrance hidden by trees in actual photographs",
+        "rear facade exact bays",
+        "north-west podium height estimated from facade proportions"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 7728.303,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/detail-render-verification-2026-09-09T132124719Z.json",
+        "image": "public/streets/districts/pudong/review/detail-pudong-way-r129809231-2026-09-09T132124719Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "bank-shanghai-architect-1",
+        "bank-shanghai-architect-2"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-r129809240",
+      "name": "汇亚大厦",
+      "ways": [
+        -129809240
+      ],
+      "currentGlbSha256": "2aaf5cfdfc47aa70729ee61c6e440267eb619841733857220d795432dd9b9a05",
+      "bytes": 1143924,
+      "triangles": 22112,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "-129809240": [
+          "azia-02",
+          "azia-03",
+          "azia-04"
+        ]
+      },
+      "changes": [
+        "AZIA entry letters",
+        "low granite name plinth",
+        "sloping glass recess",
+        "supported entry canopy"
+      ],
+      "unverified": [
+        "unphotographed elevations and roof plant",
+        "exact bay count and entrance bearing outside matched image"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 7860.883,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/loop-render-verification-2026-09-09T095834058Z.json",
+        "image": "public/streets/districts/pudong/review/loop-pudong-way-r129809240-2026-09-09T095834058Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "azia-02",
+        "azia-03",
+        "azia-04"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-r129809241",
+      "name": "汇亚大厦",
+      "ways": [
+        -129809241
+      ],
+      "currentGlbSha256": "1fab4bd0bf8cb8a2bb28bd4235fee70834ec6a23eb9e57537e1f8106dd6e7b3a",
+      "bytes": 805808,
+      "triangles": 14894,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": false,
+      "photoEvidenceByWay": {
+        "-129809241": []
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-r129810530",
+      "name": "时代金融中心",
+      "ways": [
+        -129810530
+      ],
+      "currentGlbSha256": "1ce249020f931a75936636311b9c1579f530dcbc709d1aee98dd27f03a3943c0",
+      "bytes": 17070124,
+      "triangles": 301042,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "-129810530": [
+          "one-lujiazui-front",
+          "one-lujiazui-back"
+        ]
+      },
+      "changes": [
+        "sloped roof wings",
+        "recessed top",
+        "horizontal shelves"
+      ],
+      "unverified": [
+        "exact crown slope bearing",
+        "unphotographed rear facade",
+        "measured shelf depth"
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/loop-render-verification-2026-09-09T095834058Z.json",
+        "image": "public/streets/districts/pudong/review/loop-pudong-way-r129810530-2026-09-09T095834058Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "one-lujiazui-front",
+        "one-lujiazui-back"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-r129810531",
+      "name": "时代金融中心",
+      "ways": [
+        -129810531
+      ],
+      "currentGlbSha256": "3fa3e0d1786e45a8c66d580b1e38c03451a7535b2973a99475eb9eac13ebd2ab",
+      "bytes": 307160,
+      "triangles": 5633,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "-129810531": [
+          "one-lujiazui-back"
+        ]
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [
+        "one-lujiazui-back"
+      ],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-r129810532",
+      "name": "时代金融中心",
+      "ways": [
+        -129810532
+      ],
+      "currentGlbSha256": "e7f0f1ac8aac801d9fb2a97c0f6aec89f6ffbba61bc606cf2b6893afc26122a5",
+      "bytes": 202848,
+      "triangles": 3698,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "-129810532": [
+          "one-lujiazui-back"
+        ]
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [
+        "one-lujiazui-back"
+      ],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "pudong-way-r129813020",
+      "name": "华能联合大厦",
+      "ways": [
+        -129813020,
+        -129813021
+      ],
+      "currentGlbSha256": "aeefa3bd9438c12ff2dd42e01cb05bea63bbc20145daecf1d5cad772371fe5a7",
+      "bytes": 13935724,
+      "triangles": 238333,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "-129813020": [
+          "huaneng-full"
+        ],
+        "-129813021": [
+          "huaneng-full"
+        ]
+      },
+      "changes": [
+        "tower color and central glazing",
+        "upper fins",
+        "arched entrance",
+        "low podium"
+      ],
+      "unverified": [
+        "exact podium height",
+        "entrance bearing selected by longest cadastral edge",
+        "unseen rear bays"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 7311.704,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/loop-render-verification-2026-09-09T095834058Z.json",
+        "image": "public/streets/districts/pudong/review/loop-pudong-way-r129813020-2026-09-09T095834058Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "huaneng-full"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-r129813030",
+      "name": "世界金融大厦",
+      "ways": [
+        -129813030
+      ],
+      "currentGlbSha256": "afe6ee9419fb486c740d4047568c72ad786db38fe01ae2839f005e73a8e9c77d",
+      "bytes": 14450084,
+      "triangles": 254601,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "-129813030": [
+          "world-finance-full",
+          "park-2024-39"
+        ]
+      },
+      "changes": [
+        "curved body",
+        "warm continuous bands",
+        "fan crown",
+        "mast"
+      ],
+      "unverified": [
+        "relative heights of OSM component roofs",
+        "rear elevations",
+        "exact entry bearing"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 7166.567,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/loop-render-verification-2026-09-09T095834058Z.json",
+        "image": "public/streets/districts/pudong/review/loop-pudong-way-r129813030-2026-09-09T095834058Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "world-finance-full",
+        "park-2024-39"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "pudong-way-r129813031",
+      "name": "世界金融大厦",
+      "ways": [
+        -129813031
+      ],
+      "currentGlbSha256": "1538d2da0331aca5917a6fb30243c54deb3891f8135b378eeb00e6e617d7722f",
+      "bytes": 9257348,
+      "triangles": 163202,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "-129813031": [
+          "world-finance-full",
+          "park-2024-39"
+        ]
+      },
+      "changes": [
+        "curved body",
+        "warm continuous bands",
+        "fan crown",
+        "mast"
+      ],
+      "unverified": [
+        "relative heights of OSM component roofs",
+        "rear elevations",
+        "exact entry bearing"
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 7166.567,
+      "renderEvidence": {
+        "file": "public/streets/districts/pudong/review/loop-render-verification-2026-09-09T095834058Z.json",
+        "image": "public/streets/districts/pudong/review/loop-pudong-way-r129813031-2026-09-09T095834058Z.png"
+      },
+      "newViewedPhotoReferences": [
+        "world-finance-full",
+        "park-2024-39"
+      ],
+      "acceptance": "GLB readback rendered; not full photo acceptance"
+    },
+    {
+      "id": "shanghai-tower",
+      "name": "上海中心大厦",
+      "ways": [
+        165792123
+      ],
+      "currentGlbSha256": "0f096b817abd8bfeda7b12dde6bd81e55a82cabcb4dc4f9cbbc4a2c62b55acdf",
+      "bytes": 37718760,
+      "triangles": 669296,
+      "embeddedImages": 0,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "165792123": [
+          "shanghai-tower-base",
+          "shanghai-tower-full"
+        ]
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": false,
+      "nearestRouteDistanceM": null,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    },
+    {
+      "id": "super-brand-mall",
+      "name": "正大广场",
+      "ways": [
+        40779113
+      ],
+      "currentGlbSha256": "27f602dee351156deda458f7b3a308fb4f5cf657906d5e55d3deefd67a174d0b",
+      "bytes": 3538508,
+      "triangles": 39940,
+      "embeddedImages": 1,
+      "draco": false,
+      "photoVerified": true,
+      "photoEvidenceByWay": {
+        "40779113": [
+          "super-brand-original-rechecked"
+        ]
+      },
+      "changes": [],
+      "unverified": [
+        "Rear elevations, roof equipment and unphotographed bay arrangements are inferred from mapped massing and local construction vocabulary."
+      ],
+      "loopFirstRow": true,
+      "nearestRouteDistanceM": 8384.976,
+      "renderEvidence": null,
+      "newViewedPhotoReferences": [
+        "super-brand-original-rechecked"
+      ],
+      "acceptance": "retained asset; not rerendered in finish pass"
+    }
+  ],
+  "manualReviewFile": "references/tourism/pudong-loop-manual-review.json",
+  "finalRenderedAndViewedModels": 22,
+  "finalReadbackErrors": [],
+  "ownProcesses": "Both Blender jobs and all owned browser review contexts exited; no child agents spawned."
+}

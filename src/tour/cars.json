@@ -1,0 +1,197 @@
+[
+  {
+    "source": "https://www.dongchedi.com/auto/params-carIds-x-4363",
+    "dimensions": [
+      4797,
+      1920,
+      1624
+    ],
+    "model": "Model Y 2026款 后轮驱动版",
+    "tire": "255/45 R19",
+    "wheelbase": 2890,
+    "id": "model-y",
+    "name": "Model Y",
+    "rank": 3,
+    "sales": 29260,
+    "color": "#62666e",
+    "gallery": "https://www.dongchedi.com/auto/series/4363/images-wg",
+    "category": "城市 SUV"
+  },
+  {
+    "source": "https://www.dongchedi.com/auto/params-carIds-x-9689",
+    "dimensions": [
+      4310,
+      1830,
+      1675
+    ],
+    "model": "元UP 2025款 301KM领航型",
+    "tire": "215/65 R16",
+    "wheelbase": 2620,
+    "id": "yuan-up",
+    "name": "元UP",
+    "rank": 4,
+    "sales": 22958,
+    "color": "#bdd0c2",
+    "gallery": "https://www.dongchedi.com/auto/series/9689/images-wg",
+    "category": "城市 SUV"
+  },
+  {
+    "source": "https://www.dongchedi.com/auto/params-carIds-x-3762",
+    "dimensions": [
+      4720,
+      1848,
+      1442
+    ],
+    "model": "Model 3 2025款 改款 后轮驱动版",
+    "tire": "235/45 R18",
+    "wheelbase": 2875,
+    "id": "model-3",
+    "name": "Model 3",
+    "rank": 5,
+    "sales": 20787,
+    "color": "#d8dce1",
+    "gallery": "https://www.dongchedi.com/auto/series/3762/images-wg",
+    "category": "城市轿车"
+  },
+  {
+    "source": "https://www.dongchedi.com/auto/params-carIds-x-5008",
+    "dimensions": [
+      4280,
+      1770,
+      1570
+    ],
+    "model": "海豚 2025款 智驾版 420KM自由版",
+    "tire": "195/60 R16",
+    "wheelbase": 2700,
+    "id": "dolphin",
+    "name": "海豚",
+    "rank": 8,
+    "sales": 16829,
+    "color": "#b9b0bd",
+    "gallery": "https://www.dongchedi.com/auto/series/5008/images-wg",
+    "category": "城市轿车"
+  },
+  {
+    "source": "https://www.dongchedi.com/auto/params-carIds-x-6187",
+    "dimensions": [
+      4997,
+      1963,
+      1460
+    ],
+    "model": "小米SU7 2026款 后驱标准版",
+    "tire": "245/45 R19",
+    "wheelbase": 3000,
+    "id": "su7",
+    "name": "小米SU7",
+    "rank": 9,
+    "sales": 16518,
+    "color": "#7aafb4",
+    "gallery": "https://www.dongchedi.com/auto/series/6187/images-wg",
+    "category": "城市轿车"
+  },
+  {
+    "id": "g63",
+    "name": "奔驰 AMG G 63",
+    "category": "豪华越野 SUV",
+    "model": "2020 G 63 外观",
+    "color": "#3b3e42",
+    "tire": "275/50 R20",
+    "source": "https://sketchfab.com/3d-models/2020-mercedes-benz-g-class-amg-g63-52296f1a65d54a85a2ed7cb67604e554",
+    "gallery": "https://sketchfab.com/3d-models/2020-mercedes-benz-g-class-amg-g63-52296f1a65d54a85a2ed7cb67604e554",
+    "dimensions": [
+      4873,
+      1984,
+      1966
+    ],
+    "wheelbase": 2890,
+    "collisionDimensions": [
+      4873,
+      2156,
+      1934
+    ]
+  },
+  {
+    "id": "urus",
+    "name": "兰博基尼 Urus",
+    "category": "高性能 SUV",
+    "model": "2018 Urus 外观",
+    "color": "#d8b23a",
+    "tire": "285/45 R21",
+    "source": "https://sketchfab.com/3d-models/lamborghini-urus-2018-32964087f5d24c3e90482724ddfc2fef",
+    "gallery": "https://sketchfab.com/3d-models/lamborghini-urus-2018-32964087f5d24c3e90482724ddfc2fef",
+    "dimensions": [
+      5112,
+      2016,
+      1638
+    ],
+    "wheelbase": 3003,
+    "collisionDimensions": [
+      5112,
+      2259,
+      1651
+    ]
+  },
+  {
+    "id": "porsche-911",
+    "name": "保时捷 911 Turbo S",
+    "category": "豪华跑车",
+    "model": "2020 992.1 Turbo S 外观",
+    "color": "#9a9eab",
+    "tire": "255/35 R20",
+    "source": "https://sketchfab.com/3d-models/68d8ef218d7e42adbd4425dc43629705",
+    "gallery": "https://sketchfab.com/3d-models/68d8ef218d7e42adbd4425dc43629705",
+    "dimensions": [
+      4535,
+      1900,
+      1303
+    ],
+    "wheelbase": 2450,
+    "collisionDimensions": [
+      4535,
+      2035,
+      1268
+    ]
+  },
+  {
+    "id": "ferrari-488",
+    "name": "法拉利 488 GTB",
+    "category": "中置引擎跑车",
+    "model": "2015–2019 488 GTB 外观",
+    "color": "#b72d24",
+    "tire": "245/35 R20",
+    "source": "https://sketchfab.com/3d-models/ferrari-488-gtb-c2bca88f04044daaa7c0274a9c0f2cc1",
+    "gallery": "https://sketchfab.com/3d-models/ferrari-488-gtb-c2bca88f04044daaa7c0274a9c0f2cc1",
+    "dimensions": [
+      4568,
+      1952,
+      1213
+    ],
+    "wheelbase": 2650,
+    "collisionDimensions": [
+      4568,
+      2241,
+      1182
+    ]
+  },
+  {
+    "id": "alphard",
+    "name": "丰田 埃尔法",
+    "category": "豪华 MPV",
+    "model": "2015 第三代 Alphard 外观",
+    "color": "#ece9e0",
+    "tire": "235/50 R18",
+    "source": "https://sketchfab.com/3d-models/toyota-alphard-iii-2015-c3b0c9b6363945e0b27d020404198b0f",
+    "gallery": "https://sketchfab.com/3d-models/toyota-alphard-iii-2015-c3b0c9b6363945e0b27d020404198b0f",
+    "dimensions": [
+      4935,
+      1850,
+      1880
+    ],
+    "wheelbase": 3000,
+    "collisionDimensions": [
+      4935,
+      2220,
+      1824
+    ]
+  }
+]

@@ -1,0 +1,840 @@
+{
+  "createdAt": "2026-09-09T09:02:11.907137+00:00",
+  "photos": [
+    {
+      "id": "magnolia-context",
+      "file": "assets/streets/north-bund/magnolia-context-reference.jpg",
+      "source": "https://megaconstrucciones.net/?construccion=white-magnolia-plaza",
+      "download": "https://megaconstrucciones.net/images/rascacielos/foto3/white-magnolia-plaza-10.jpg",
+      "license": "Unverified: archive for visual reference only; not embedded in GLB or published UI",
+      "author": "Not established on indexed page",
+      "usage": "exterior-reference-only",
+      "bytes": 304896,
+      "sha256": "29439af79cbec941ac2f7e1ad25afe9db935350f044611b4b23ea7e850bc15b7",
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "observations": "Actual completed skyline showing scalloped crown, curved blue-grey tower facade, horizontal projecting ledges, 39-storey curved W hotel and glazed pebble pavilion. Site-wide podium mostly occluded by trees."
+      },
+      "embeddedInRuntime": false
+    },
+    {
+      "id": "russian-consulate-front-side",
+      "file": "assets/streets/north-bund/russian-consulate-front-side.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Russian_consulate_in_Shanghai,_side_and_front_view.jpg",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/0/01/Russian_consulate_in_Shanghai%2C_side_and_front_view.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Daniel Case",
+      "date": "2013-08-02",
+      "usage": "exterior-reference-only",
+      "bytes": 4849218,
+      "sha256": "3b3b87e2344863664e5703fca4e119be7d7797998fad6923930a6236686e292d",
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "observations": "Viewed front/side: grey-white stone, narrow paired rectangular and round-head windows, pronounced banded cornice, red mansard/hipped roof, green copper octagonal lantern, paired gables, white tall chimneys. Front low annex partially obscures lower elevation."
+      },
+      "embeddedInRuntime": false
+    },
+    {
+      "id": "magnolia-construction-rejected",
+      "file": "assets/streets/north-bund/magnolia-cvu-reference.jpg",
+      "source": "https://www.skyscrapercenter.com/building/sinar-mas-center-1/419",
+      "download": "https://s3.amazonaws.com/images.skyscrapercenter.com/thumbs/34358_500x650.jpg",
+      "license": "Copyright photo; not licensed for redistribution; retained reference archive only",
+      "author": "Not established",
+      "usage": "rejected-unfinished-construction",
+      "bytes": 95870,
+      "sha256": "c8049db84722b6b76093f7ac3ad6bc8e3266c914c87c06e088672870bcb02029",
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "observations": "Viewed: upper tower is still under construction. Excluded from finished crown/material inference; retained as originally downloaded."
+      },
+      "embeddedInRuntime": false
+    },
+    {
+      "id": "yesong-arcplus-55",
+      "file": "assets/streets/north-bund/yesong-arcplus-55.jpg",
+      "source": "https://m.thepaper.cn/baijiahao_30245919",
+      "download": "https://imagepphcloud.thepaper.cn/pph/image/341/341/55.jpg",
+      "author": "华建集团华东院 / 华建集团Arcplus (restoration design publisher)",
+      "license": "Copyright retained by publisher; archived reference only, no runtime pixel redistribution",
+      "date": "2025-02-25 article showing 2024 restoration",
+      "usage": "exterior-reference-only",
+      "bytes": 125987,
+      "sha256": "6aebf98565ea16cbcf6b646af0cd1b5e5089b68b1320a004f7d074d9f5709026",
+      "embeddedInRuntime": false,
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "observations": "View from road: five-story red brick mass, three upper stepped hip roofs, pale continuous balcony and green turret."
+      }
+    },
+    {
+      "id": "yesong-arcplus-56",
+      "file": "assets/streets/north-bund/yesong-arcplus-56.jpg",
+      "source": "https://m.thepaper.cn/baijiahao_30245919",
+      "download": "https://imagepphcloud.thepaper.cn/pph/image/341/341/56.jpg",
+      "author": "华建集团华东院 / 华建集团Arcplus (restoration design publisher)",
+      "license": "Copyright retained by publisher; archived reference only, no runtime pixel redistribution",
+      "date": "2025-02-25 article showing 2024 restoration",
+      "usage": "exterior-reference-only",
+      "bytes": 156914,
+      "sha256": "4bd928dc091f9e006b314b4fecb76c83ba2fd321b231c5b028e46c9defbbf989",
+      "embeddedInRuntime": false,
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "observations": "Oblique from above: west projecting tower, square footprint, tower position, roof terrace depths and neighboring road are visible."
+      }
+    },
+    {
+      "id": "yesong-arcplus-59",
+      "file": "assets/streets/north-bund/yesong-arcplus-59.jpg",
+      "source": "https://m.thepaper.cn/baijiahao_30245919",
+      "download": "https://imagepphcloud.thepaper.cn/pph/image/341/341/59.jpg",
+      "author": "华建集团华东院 / 华建集团Arcplus (restoration design publisher)",
+      "license": "Copyright retained by publisher; archived reference only, no runtime pixel redistribution",
+      "date": "2025-02-25 article showing 2024 restoration",
+      "usage": "exterior-reference-only",
+      "bytes": 326319,
+      "sha256": "703c3f572fa6fad818809978490783f606c3935411d8211cae7e8fc41b8277f2",
+      "embeddedInRuntime": false,
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "observations": "Near tower: restored red brick, dense metal window grid, green glazed tiled upturned square pyramid and pale window surround."
+      }
+    },
+    {
+      "id": "yesong-arcplus-60",
+      "file": "assets/streets/north-bund/yesong-arcplus-60.jpg",
+      "source": "https://m.thepaper.cn/baijiahao_30245919",
+      "download": "https://imagepphcloud.thepaper.cn/pph/image/341/341/60.jpg",
+      "author": "华建集团华东院 / 华建集团Arcplus (restoration design publisher)",
+      "license": "Copyright retained by publisher; archived reference only, no runtime pixel redistribution",
+      "date": "2025-02-25 article showing 2024 restoration",
+      "usage": "exterior-reference-only",
+      "bytes": 261366,
+      "sha256": "15ed5b95a7274381da3ad2437a7500491c947d4de9e46b6fc254dafb1775135d",
+      "embeddedInRuntime": false,
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "observations": "Front entrance: moon gate, upturned green tiled canopy, continuous open pale-stone balcony and stepped dark slate roofs."
+      }
+    },
+    {
+      "id": "yesong-arcplus-81",
+      "file": "assets/streets/north-bund/yesong-arcplus-81.jpg",
+      "source": "https://m.thepaper.cn/baijiahao_30245919",
+      "download": "https://imagepphcloud.thepaper.cn/pph/image/341/341/81.jpg",
+      "author": "华建集团华东院 / 华建集团Arcplus (restoration design publisher)",
+      "license": "Copyright retained by publisher; archived reference only, no runtime pixel redistribution",
+      "date": "2025-02-25 article showing 2024 restoration",
+      "usage": "exterior-reference-only",
+      "bytes": 278103,
+      "sha256": "08f6a08cd0ddbdbc688cf49c54d3810ec1ed3f134f7eed96f0ded26fc02e4719",
+      "embeddedInRuntime": false,
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "observations": "Close physical tile/cornice/masonry details: rounded green tile courses, floral tile ends, green/red bracket set, brick bond, recessed metal windows."
+      }
+    },
+    {
+      "id": "loop-magnolia-2024",
+      "title": "Sinar Mas Center 20240113.jpg",
+      "wayIds": [
+        442978949
+      ],
+      "subject": "白玉兰广场金光中心主塔外景",
+      "categories": [
+        "north-bund",
+        "landmark"
+      ],
+      "thumbnail": true,
+      "file": "assets/streets/loop-reference-catalog/loop-magnolia-2024.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sinar_Mas_Center_20240113.jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Sinar_Mas_Center_20240113.jpg/1920px-Sinar_Mas_Center_20240113.jpg",
+      "author": "Nat4Eben",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2024-01-13 16:36:46",
+      "description": "Sinar Mas Center on the North Bund, Shanghai.",
+      "cameraCoordinates": {
+        "latitude": "31.252747",
+        "longitude": "121.492614"
+      },
+      "originalWidth": 3024,
+      "originalHeight": 4032,
+      "isOriginal": false,
+      "bytes": 840998,
+      "sha256": "20cc2835dcef4dbfef30ed5985915e7a53132dd8b66c2413614889e9ffebc802",
+      "usage": "pending-visual-inspection",
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "observations": "Viewed: completed scalloped crown and closely spaced metal facade frames; no podium in frame."
+      },
+      "embeddedInRuntime": false
+    },
+    {
+      "id": "loop-magnolia-shangqiu",
+      "title": "White Magnolia Plaza, view from Shangqiu road.jpg",
+      "wayIds": [
+        442978949
+      ],
+      "subject": "从商丘路看白玉兰主塔及街道关系",
+      "categories": [
+        "north-bund",
+        "landmark"
+      ],
+      "thumbnail": true,
+      "file": "assets/streets/loop-reference-catalog/loop-magnolia-shangqiu.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:White_Magnolia_Plaza,_view_from_Shangqiu_road.jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/White_Magnolia_Plaza%2C_view_from_Shangqiu_road.jpg/1920px-White_Magnolia_Plaza%2C_view_from_Shangqiu_road.jpg",
+      "author": "DmitryKvasov",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2024-05-05 15:26:11",
+      "description": "White Magnolia Plaza, view from Shangqiu road",
+      "cameraCoordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "originalWidth": 2288,
+      "originalHeight": 4080,
+      "isOriginal": false,
+      "bytes": 1578473,
+      "sha256": "1eced89a923ac05d170c11b602ca6472e3d7f5161faa2980c330bbd86fc51db5",
+      "usage": "pending-visual-inspection",
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "observations": "Viewed: full office tower and three-storey pale-clad curved podium from Shangqiu Road, base glazing and large diagonal support visible."
+      },
+      "embeddedInRuntime": false
+    },
+    {
+      "id": "loop-magnolia-w",
+      "title": "Baiyulan Plaza and W Hotel, Hongkou, Shanghai.jpg",
+      "wayIds": [
+        442978949,
+        442978944,
+        1318376929,
+        1318376930
+      ],
+      "subject": "白玉兰主塔、W酒店与裙楼组合外景",
+      "categories": [
+        "north-bund",
+        "landmark"
+      ],
+      "thumbnail": true,
+      "file": "assets/streets/loop-reference-catalog/loop-magnolia-w.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Baiyulan_Plaza_and_W_Hotel,_Hongkou,_Shanghai.jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Baiyulan_Plaza_and_W_Hotel%2C_Hongkou%2C_Shanghai.jpg/1920px-Baiyulan_Plaza_and_W_Hotel%2C_Hongkou%2C_Shanghai.jpg",
+      "author": "冰纪",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2017-09-23",
+      "description": "​Baiyulan Plaza and W Hotel, Hongkou, Shanghai",
+      "cameraCoordinates": {
+        "latitude": "31.246317",
+        "longitude": "121.495261"
+      },
+      "originalWidth": 3264,
+      "originalHeight": 2448,
+      "isOriginal": false,
+      "bytes": 491828,
+      "sha256": "eacc37058694c9bd37f72f8befbea3acbb903a605991f8af14b3a94fb530d8bd",
+      "usage": "pending-visual-inspection",
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "observations": "Viewed: night W hotel, white W sign and river pedestrian bridge; podium facade not visible enough for colour measurement."
+      },
+      "embeddedInRuntime": false
+    },
+    {
+      "id": "loop-consulate-river",
+      "title": "Russian consulate, Shanghai, from across Suzhou Creek.jpg",
+      "wayIds": [
+        24476069
+      ],
+      "subject": "俄罗斯领事馆苏州河侧外观",
+      "categories": [
+        "north-bund",
+        "landmark"
+      ],
+      "thumbnail": true,
+      "file": "assets/streets/loop-reference-catalog/loop-consulate-river.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Russian_consulate,_Shanghai,_from_across_Suzhou_Creek.jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Russian_consulate%2C_Shanghai%2C_from_across_Suzhou_Creek.jpg/1920px-Russian_consulate%2C_Shanghai%2C_from_across_Suzhou_Creek.jpg",
+      "author": "Daniel Case",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2013-08-02",
+      "description": "Russian consulate in Shanghai, from across Suzhou Creek",
+      "cameraCoordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "originalWidth": 3316,
+      "originalHeight": 2564,
+      "isOriginal": false,
+      "bytes": 814615,
+      "sha256": "aab5e489362e90657362ac36fe544322c0552a01bcea6fd641c04b456259a3d9",
+      "usage": "pending-visual-inspection",
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "observations": "Viewed: river facade with one asymmetric curved gable left, columned shallow curved balcony, broad arched windows, red mansard dormers, chimneys and green lantern."
+      },
+      "embeddedInRuntime": false
+    },
+    {
+      "id": "hailun-loupan-1",
+      "file": "assets/streets/north-bund/hailun-loupan-1.jpg",
+      "download": "https://static.loupan.com/upfile/communityimage/images/20171017/59e5aab1a1045.jpg",
+      "source": "https://sh.loupan.com/community/realphotos/198148.html",
+      "bytes": 47476,
+      "sha256": "e6d727e62c61ae5db4dbd9813b11dc7e668d0e2e7bf5139df560c948ae49441d",
+      "author": "Published by Loupan; photographer unspecified",
+      "date": "2017-10-17 upload path; capture date not independently verified",
+      "license": "Copyright retained by original photographer/publisher; local reference only; no photo pixels redistributed",
+      "usage": "exterior-reference-only",
+      "wayIds": [
+        610923103
+      ],
+      "embeddedInRuntime": false,
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "acceptedIdentity": true,
+        "observations": "Viewed 600x450. Hailun Road 75 gate/address, beige plaster, red stone base, exterior condensers and white drainpipes. Confirms site, not complete street elevation."
+      }
+    },
+    {
+      "id": "hailun-loupan-2",
+      "file": "assets/streets/north-bund/hailun-loupan-2.jpg",
+      "download": "https://static.loupan.com/upfile/communityimage/images/20171017/59e5aab24e38d.jpg",
+      "source": "https://sh.loupan.com/community/realphotos/198148.html",
+      "bytes": 29488,
+      "sha256": "4903f2645d4722b88c1b7a9d500401eeb0be66be74e007fa1acf09cd76bf7a99",
+      "author": "Published by Loupan; photographer unspecified",
+      "date": "2017-10-17 upload path; capture date not independently verified",
+      "license": "Copyright retained by original photographer/publisher; local reference only; no photo pixels redistributed",
+      "usage": "exterior-reference-only",
+      "wayIds": [
+        610923103
+      ],
+      "embeddedInRuntime": false,
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "acceptedIdentity": true,
+        "observations": "Viewed 600x450. Historic Hailun Road 75 plaque and wall detail; photographed lower wall, metal security grille and condenser bracket."
+      }
+    },
+    {
+      "id": "hailun-loupan-3",
+      "file": "assets/streets/north-bund/hailun-loupan-3.jpg",
+      "download": "https://static.loupan.com/upfile/communityimage/images/20171017/59e5aab2b5c0e.jpg",
+      "source": "https://sh.loupan.com/community/realphotos/198148.html",
+      "bytes": 52644,
+      "sha256": "38d2f1a8274158429bff7a6d37f42992a3bde71826354063a573c4a785ed7d2f",
+      "author": "Published by Loupan; photographer unspecified",
+      "date": "2017-10-17 upload path; capture date not independently verified",
+      "license": "Copyright retained by original photographer/publisher; local reference only; no photo pixels redistributed",
+      "usage": "exterior-reference-only",
+      "wayIds": [
+        610923103
+      ],
+      "embeddedInRuntime": false,
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "acceptedIdentity": true,
+        "observations": "Viewed 600x450. Hailun Road 75 entrance guardhouse and main building side, pavement gate and red-brown stone base."
+      }
+    },
+    {
+      "id": "hailun-loupan-4",
+      "file": "assets/streets/north-bund/hailun-loupan-4.jpg",
+      "download": "https://static.loupan.com/upfile/communityimage/images/20171017/59e5aab31f965.jpg",
+      "source": "https://sh.loupan.com/community/realphotos/198148.html",
+      "bytes": 49443,
+      "sha256": "0aedeb7f64330092fd7d64412c636c4676677b880f2a92cf25b1a98ce545ea83",
+      "author": "Published by Loupan; photographer unspecified",
+      "date": "2017-10-17 upload path; capture date not independently verified",
+      "license": "Copyright retained by original photographer/publisher; local reference only; no photo pixels redistributed",
+      "usage": "exterior-reference-only",
+      "wayIds": [
+        610923103
+      ],
+      "embeddedInRuntime": false,
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "acceptedIdentity": true,
+        "observations": "Viewed 600x450. Upward close photo showing pairs of stacked projecting glazed balconies, beige stucco, smaller center windows, security rails, white downpipes and exterior condensers; roof cropped."
+      }
+    },
+    {
+      "id": "hailun-loupan-5",
+      "file": "assets/streets/north-bund/hailun-loupan-5.jpg",
+      "download": "https://static.loupan.com/upfile/communityimage/images/20171017/59e5aab3bed37.jpg",
+      "source": "https://sh.loupan.com/community/realphotos/198148.html",
+      "bytes": 47879,
+      "sha256": "e3976c832a1fc93ae3d3af832b5b049149731644819709acc64af88cf2807465",
+      "author": "Published by Loupan; photographer unspecified",
+      "date": "2017-10-17 upload path; capture date not independently verified",
+      "license": "Copyright retained by original photographer/publisher; local reference only; no photo pixels redistributed",
+      "usage": "exterior-reference-only",
+      "wayIds": [
+        610923103
+      ],
+      "embeddedInRuntime": false,
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "acceptedIdentity": true,
+        "observations": "Viewed 600x450. Courtyard context; not enough exposed exterior to establish independent facade layout."
+      }
+    },
+    {
+      "id": "hailun-loupan-6",
+      "file": "assets/streets/north-bund/hailun-loupan-6.jpg",
+      "download": "https://static.loupan.com/upfile/communityimage/images/20171017/59e5aab41b1bd.jpg",
+      "source": "https://sh.loupan.com/community/realphotos/198148.html",
+      "bytes": 52976,
+      "sha256": "52163c42dbc4fad7753f6e310230d61c15f6809567bfdf8730aac7609643fe4a",
+      "author": "Published by Loupan; photographer unspecified",
+      "date": "2017-10-17 upload path; capture date not independently verified",
+      "license": "Copyright retained by original photographer/publisher; local reference only; no photo pixels redistributed",
+      "usage": "exterior-reference-only",
+      "wayIds": [
+        610923103
+      ],
+      "embeddedInRuntime": false,
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "acceptedIdentity": true,
+        "observations": "Viewed 600x450. Courtyard and obscured building background; not used for facade modeling."
+      }
+    },
+    {
+      "id": "hailun-loupan-7",
+      "file": "assets/streets/north-bund/hailun-loupan-7.jpg",
+      "download": "https://static.loupan.com/upfile/communityimage/images/20171017/59e5aab4b51c6.jpg",
+      "source": "https://sh.loupan.com/community/realphotos/198148.html",
+      "bytes": 63499,
+      "sha256": "5ed1f0e13b0c55ea0cca08b1b84e7119546385b4ba113c8910c7fff3ed9f443f",
+      "author": "Published by Loupan; photographer unspecified",
+      "date": "2017-10-17 upload path; capture date not independently verified",
+      "license": "Copyright retained by original photographer/publisher; local reference only; no photo pixels redistributed",
+      "usage": "exterior-reference-only",
+      "wayIds": [
+        610923103
+      ],
+      "embeddedInRuntime": false,
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "acceptedIdentity": true,
+        "observations": "Viewed 600x450. Green street shop fascia, glazed doors and exposed column line under Hailun apartment building; date-specific tenancy only."
+      }
+    },
+    {
+      "id": "jinshan-gov-front",
+      "file": "assets/streets/north-bund/jinshan-gov-front.jpg",
+      "download": "https://www.shhk.gov.cn/shhk/b9e38353-13c8-479f-9ff0-d6003fec728d/79ebdbb2-2ca8-404e-815c-5fd7256d4ce6/20230509140217047722.jpg",
+      "source": "https://www.shhk.gov.cn/xwzx/002008/002008040/20230509/b9e38353-13c8-479f-9ff0-d6003fec728d.html",
+      "bytes": 96200,
+      "sha256": "6e94abae80f7b2e3fdbf69328f51bb7ca5f0016c28918f028bc7ac8551e94944",
+      "author": "Shanghai Hongkou government publisher",
+      "date": "2023 government article, exact capture date not given",
+      "license": "Copyright retained by original photographer/publisher; local reference only; no photo pixels redistributed",
+      "usage": "rejected-identity-mismatch",
+      "wayIds": [],
+      "embeddedInRuntime": false,
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "acceptedIdentity": false,
+        "observations": "REJECTED after direct view: image shows an 8-storey Art Deco residential block, inconsistent with Jinshan V-shaped 5+1-storey facade. Government article image is not accepted as matching the named building."
+      }
+    },
+    {
+      "id": "jinshan-gov-side",
+      "file": "assets/streets/north-bund/jinshan-gov-side.jpg",
+      "download": "https://www.shhk.gov.cn/shhk/120972e3-ae79-4420-b022-093ba0da8881/8d43d78b-5782-4243-8151-e5b4e462e085/20230807080523035440.jpg",
+      "source": "https://www.shhk.gov.cn/xwzx/002008/002008040/20230807/120972e3-ae79-4420-b022-093ba0da8881.html",
+      "bytes": 247596,
+      "sha256": "92376009ef9a565e274eeba92b691875d06c285b378b71062c13f546f86eacbf",
+      "author": "Shanghai Hongkou government publisher",
+      "date": "2023 government article, exact capture date not given",
+      "license": "Copyright retained by original photographer/publisher; local reference only; no photo pixels redistributed",
+      "usage": "rejected-identity-mismatch",
+      "wayIds": [],
+      "embeddedInRuntime": false,
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "acceptedIdentity": false,
+        "observations": "REJECTED after direct view: image is Golden Tulip New Asia Hotel with visible name; adjacent article illustration was not Jinshan. Retained original download for audit."
+      }
+    },
+    {
+      "id": "jinshan-gov-matched",
+      "source": "https://www.shhk.gov.cn/xwzx/002008/002008040/20230807/120972e3-ae79-4420-b022-093ba0da8881.html",
+      "download": "https://www.shhk.gov.cn/shhk/120972e3-ae79-4420-b022-093ba0da8881/44cb9648-478b-4380-ba71-e2fe13f9ef8d/20230807080529050288.jpg",
+      "file": "assets/streets/north-bund/jinshan-gov-matched.jpg",
+      "bytes": 461214,
+      "sha256": "0b29e1fc7fbd5b8bd81bbfde91c5523089d1fd6224dc62fc542c6be305e990d8",
+      "author": "Shanghai Hongkou government publisher",
+      "date": "2023 government article, exact capture date not given",
+      "license": "Copyright retained by original photographer/publisher; local reference only; no photo pixels redistributed",
+      "usage": "exterior-reference-only",
+      "wayIds": [
+        292818817
+      ],
+      "embeddedInRuntime": false,
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "acceptedIdentity": true,
+        "observations": "Viewed original 1080x1620 photograph positioned directly above Jinshan caption in government HTML. V-shaped street wings, grey brick with salmon brick segmental window heads, white stringcourses, narrow green divided windows, exterior condensers, blue metal sixth storey and shallow hipped standing-seam roof."
+      }
+    },
+    {
+      "id": "sipg-hanne-2010",
+      "file": "assets/streets/north-bund/sipg-hanne-2010.jpg",
+      "source": "https://www.flickr.com/photos/hanneorla/4561479264",
+      "download": "https://live.staticflickr.com/3057/4561479264_c3f6787f7a_b.jpg",
+      "author": "Hanne Therkildsen",
+      "date": "2010-04-03",
+      "bytes": 114978,
+      "sha256": "8b33557e89d5434ffd40612f03025f17b178d9f2a816a3f28f96a711e62807b9",
+      "license": "Copyright retained by original photographer/publisher; local reference only; no photo pixels redistributed",
+      "usage": "exterior-reference-only",
+      "wayIds": [
+        177714724
+      ],
+      "embeddedInRuntime": false,
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "acceptedIdentity": true,
+        "observations": "Viewed original downloaded 768x1024 photograph. Recognizable triangular rounded SIPG tower; diagonal dark exoskeleton, horizontal glazing rails, sloping top and upper vertical grille. Base and main entry are hidden by other waterfront buildings."
+      }
+    },
+    {
+      "id": "ocean-linkpower",
+      "file": "assets/streets/north-bund/ocean-linkpower.jpg",
+      "source": "https://www.sh-linkpower.com/office/237.html",
+      "download": "https://sh-linkpower.com/oldpic/upload/old/20151009171834.jpg",
+      "author": "Published by Linkpower; photographer unspecified",
+      "date": "2015 upload path, exact capture date unverified",
+      "bytes": 21346,
+      "sha256": "afd36ee2370d1de471e1680abfd5d4aea66280f3cb5baa00586b628c28355c30",
+      "license": "Copyright retained by original photographer/publisher; local reference only; no photo pixels redistributed",
+      "usage": "exterior-reference-only",
+      "wayIds": [
+        446937832
+      ],
+      "embeddedInRuntime": false,
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "acceptedIdentity": true,
+        "observations": "Viewed original 360x480 photograph. Pink granite vertical ribs around blue glass window strips; elliptical glazed crown with rear projecting stone service fin. Photo resolution insufficient to survey precise door leaves or roof signage."
+      }
+    },
+    {
+      "id": "jiantang-loupan-1",
+      "file": "assets/streets/north-bund/jiantang-loupan-1.jpg",
+      "source": "https://sh.loupan.com/community/208249.html",
+      "download": "https://static.loupan.com/upfile/communityimage/images/20171019/59e87fbd012f8.jpg",
+      "author": "Published by Loupan; photographer unspecified",
+      "date": "2017-10-19 upload path",
+      "bytes": 46128,
+      "sha256": "be7e628ad953a05c3724ae792ea66789fadb3d62efee1644bea6f35f6ac54147",
+      "license": "Copyright retained by original photographer/publisher; local reference only; no photo pixels redistributed",
+      "usage": "exterior-reference-only",
+      "wayIds": [
+        611335628
+      ],
+      "embeddedInRuntime": false,
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "acceptedIdentity": true,
+        "observations": "Viewed 600x450. Address plaque 490 Donghanyang Road at the residential gate; pale stucco, metal gate, green frame and blue awning. Local street identity confirmation, not full tower silhouette."
+      }
+    },
+    {
+      "id": "jiantang-loupan-2",
+      "file": "assets/streets/north-bund/jiantang-loupan-2.jpg",
+      "source": "https://sh.loupan.com/community/208249.html",
+      "download": "https://static.loupan.com/upfile/communityimage/images/20171019/59e87fc1d545e.jpg",
+      "author": "Published by Loupan; photographer unspecified",
+      "date": "2017-10-19 upload path",
+      "bytes": 64920,
+      "sha256": "50d433515d10c0062ec23e709a2a7e3079528ecea62f97d0947ab7e9cb7677f4",
+      "license": "Copyright retained by original photographer/publisher; local reference only; no photo pixels redistributed",
+      "usage": "exterior-reference-only",
+      "wayIds": [
+        611335628
+      ],
+      "embeddedInRuntime": false,
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "acceptedIdentity": true,
+        "observations": "Viewed 600x450. Low street shops with grey brick piers, recessed glass doors, ribbed green/red/yellow fascia, upper window security grilles and exterior condensers."
+      }
+    },
+    {
+      "id": "jiantang-loupan-3",
+      "file": "assets/streets/north-bund/jiantang-loupan-3.jpg",
+      "source": "https://sh.loupan.com/community/208249.html",
+      "download": "https://static.loupan.com/upfile/communityimage/images/20171019/59e87fc14c525.jpg",
+      "author": "Published by Loupan; photographer unspecified",
+      "date": "2017-10-19 upload path",
+      "bytes": 48855,
+      "sha256": "49cc05dc925425db2da3fe75d9de62cd80be05b350677c44012dab30bdf7888a",
+      "license": "Copyright retained by original photographer/publisher; local reference only; no photo pixels redistributed",
+      "usage": "exterior-reference-only",
+      "wayIds": [
+        611335628
+      ],
+      "embeddedInRuntime": false,
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "acceptedIdentity": true,
+        "observations": "Viewed 600x450. Rounded convenience-shop corner canopy with white/orange/red stripe fascia, grey brick piers and tall glass storefront. Upper residential part has stucco, window grilles and condensers."
+      }
+    },
+    {
+      "id": "hyatt-daniel-2013",
+      "title": "Hyatt on the Bund hotel, Shanghai.jpg",
+      "author": "Daniel Case",
+      "date": "2013-08-02",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyatt_on_the_Bund_hotel,_Shanghai.jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Hyatt_on_the_Bund_hotel%2C_Shanghai.jpg/1920px-Hyatt_on_the_Bund_hotel%2C_Shanghai.jpg",
+      "file": "assets/streets/north-bund/hyatt-daniel-2013.jpg",
+      "bytes": 1132198,
+      "sha256": "d5e9bcb5bc5ff4d4cc5a65e88d29c8c0405c29413911c7fe9620a3bf08ed9a43",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "usage": "exterior-reference-only",
+      "embeddedInRuntime": false,
+      "wayIds": [
+        446937834,
+        446937836
+      ],
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "acceptedIdentity": true,
+        "observations": "Viewed 1920x2232. Beige stone five-tooth rear facade, glazed rounded vertical corner, pale turquoise top and dark bronze slatted roof frame. Podium fully obscured by trees; no podium verification from this photo."
+      },
+      "isOriginalResolution": false,
+      "originalPreservedAs": "hyatt-daniel-2013-original"
+    },
+    {
+      "id": "hyatt-james-2007",
+      "title": "Hyattonthebund20071220161043.jpg",
+      "author": "James Yu",
+      "date": "2007-12-20",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyattonthebund20071220161043.jpg",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/2/24/Hyattonthebund20071220161043.jpg",
+      "file": "assets/streets/north-bund/hyatt-james-2007.jpg",
+      "bytes": 462925,
+      "sha256": "5a301c863a291a8c6012bc6a7e5efe6a800ae1fa5e8eb07b625bab9682c04e64",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "usage": "exterior-reference-only",
+      "embeddedInRuntime": false,
+      "wayIds": [
+        446937834,
+        446937836,
+        189037696
+      ],
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "acceptedIdentity": true,
+        "observations": "Viewed original 1772x2470. Both towers with rounded broad blue glass facade, thin floor rails, open crown ring and mid-height service stripe. Four-floor stone/glass podium, paired massive columns and wide glass/steel entry canopy visible. Historical 2007 photograph, current tenancy/landscape not asserted."
+      }
+    },
+    {
+      "index": 3,
+      "file": "assets/streets/north-bund/daming-shobserver-2024-3.jpg",
+      "source": "https://sghexport.shobserver.com/html/baijiahao/2024/01/21/1238605.html",
+      "download": "https://sghimages.shobserver.com/img/catch/2024/01/21/2afdde50-e4bf-4897-b0e6-de48ad7a62aa.jpg",
+      "bytes": 275867,
+      "sha256": "63f6d7c56f636ac8e4565b398ddad2c5f5d22185efb3aacc9c4dd277c1fae190",
+      "id": "daming-shobserver-2024-3",
+      "date": "2024-01-21 article; image capture dates unspecified",
+      "author": "Shanghai Hongkou / Shanghai Observer publisher",
+      "license": "Copyright retained by publisher; archived reference only",
+      "usage": "exterior-context-reference",
+      "embeddedInRuntime": false,
+      "wayIds": [],
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "observations": "Directly viewed 1080x1620. Street view toward Yesong shipyard facade; street signs and W grounds identify context. Neighboring low-rise at right only partially appears and cannot confirm all four grouped ways."
+      }
+    },
+    {
+      "index": 7,
+      "file": "assets/streets/north-bund/daming-shobserver-2024-7.jpg",
+      "source": "https://sghexport.shobserver.com/html/baijiahao/2024/01/21/1238605.html",
+      "download": "https://sghimages.shobserver.com/img/catch/2024/01/21/c627589f-1896-487f-8f8b-c7f8f2a44da5.jpg",
+      "bytes": 100765,
+      "sha256": "df2e7b731fdc2656a95fe10ab610363373c50279788f94266991aa8f9645cebb",
+      "id": "daming-shobserver-2024-7",
+      "date": "2024-01-21 article; image capture dates unspecified",
+      "author": "Shanghai Hongkou / Shanghai Observer publisher",
+      "license": "Copyright retained by publisher; archived reference only",
+      "usage": "excluded-current-facade-reference",
+      "embeddedInRuntime": false,
+      "wayIds": [],
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "observations": "Historic street scene; not used as current 2026 facade evidence."
+      }
+    },
+    {
+      "index": 8,
+      "file": "assets/streets/north-bund/daming-shobserver-2024-8.jpg",
+      "source": "https://sghexport.shobserver.com/html/baijiahao/2024/01/21/1238605.html",
+      "download": "https://sghimages.shobserver.com/img/catch/2024/01/21/4cf2c319-7c81-4aec-8046-3e3a583ad7d6.jpg",
+      "bytes": 392925,
+      "sha256": "c34964c38542cfb01b116a0a161cbd02e54fa7d66e9b07d9b26ec9a125240365",
+      "id": "daming-shobserver-2024-8",
+      "date": "2024-01-21 article; image capture dates unspecified",
+      "author": "Shanghai Hongkou / Shanghai Observer publisher",
+      "license": "Copyright retained by publisher; archived reference only",
+      "usage": "exterior-context-reference",
+      "embeddedInRuntime": false,
+      "wayIds": [],
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "observations": "Directly viewed 1080 square. Yesong street facade with stepped terraces, green upturned tower roof, white balcony balustrade and 388 entrance. Supports building identity; 2024 article predates the final restoration photographs already in the archive."
+      }
+    },
+    {
+      "index": 9,
+      "file": "assets/streets/north-bund/daming-shobserver-2024-9.jpg",
+      "source": "https://sghexport.shobserver.com/html/baijiahao/2024/01/21/1238605.html",
+      "download": "https://sghimages.shobserver.com/img/catch/2024/01/21/2954bab1-1cab-47d9-aaa2-b8f126273606.jpg",
+      "bytes": 62430,
+      "sha256": "d662a3d330bedfe0eee1d9636d08736d1ca7083d194e631d24551bd9dea84a6c",
+      "id": "daming-shobserver-2024-9",
+      "date": "2024-01-21 article; image capture dates unspecified",
+      "author": "Shanghai Hongkou / Shanghai Observer publisher",
+      "license": "Copyright retained by publisher; archived reference only",
+      "usage": "excluded-current-facade-reference",
+      "embeddedInRuntime": false,
+      "wayIds": [],
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "observations": "Historic shipyard waterfront image; not used for current facade modeling."
+      }
+    },
+    {
+      "index": 10,
+      "file": "assets/streets/north-bund/daming-shobserver-2024-10.jpg",
+      "source": "https://sghexport.shobserver.com/html/baijiahao/2024/01/21/1238605.html",
+      "download": "https://sghimages.shobserver.com/img/catch/2024/01/21/6030d609-a452-416f-9a57-a532701bcfd1.jpg",
+      "bytes": 89882,
+      "sha256": "b96a7e7b6d7be690209d06bc0b502e118cbb6ba73846034e1686b5a5fdd1aa2c",
+      "id": "daming-shobserver-2024-10",
+      "date": "2024-01-21 article; image capture dates unspecified",
+      "author": "Shanghai Hongkou / Shanghai Observer publisher",
+      "license": "Copyright retained by publisher; archived reference only",
+      "usage": "excluded-current-facade-reference",
+      "embeddedInRuntime": false,
+      "wayIds": [],
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "observations": "Historic dockyard photograph; not used for current facade modeling."
+      }
+    },
+    {
+      "index": 11,
+      "file": "assets/streets/north-bund/daming-shobserver-2024-11.jpg",
+      "source": "https://sghexport.shobserver.com/html/baijiahao/2024/01/21/1238605.html",
+      "download": "https://sghimages.shobserver.com/img/catch/2024/01/21/4b2b6915-51fa-482c-8ce4-b058932574dd.jpg",
+      "bytes": 242756,
+      "sha256": "ff9c84fe2bd2f4bd231393cbe91d59f58da1ae968b1ae0b3d71c58078173c4ea",
+      "id": "daming-shobserver-2024-11",
+      "date": "2024-01-21 article; image capture dates unspecified",
+      "author": "Shanghai Hongkou / Shanghai Observer publisher",
+      "license": "Copyright retained by publisher; archived reference only",
+      "usage": "excluded-current-facade-reference",
+      "embeddedInRuntime": false,
+      "wayIds": [],
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "observations": "Gaoyang Building exterior beyond assigned modeled road segment; no matching way assigned in this package."
+      }
+    },
+    {
+      "id": "hyatt-daniel-2013-original",
+      "title": "Hyatt on the Bund hotel, Shanghai.jpg",
+      "author": "Daniel Case",
+      "date": "2013-08-02",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyatt_on_the_Bund_hotel,_Shanghai.jpg",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/7/70/Hyatt_on_the_Bund_hotel%2C_Shanghai.jpg",
+      "file": "assets/streets/north-bund/hyatt-daniel-2013-original.jpg",
+      "bytes": 7400857,
+      "sha256": "5a75f9ee75b3be7a67ee11f55a420b6e4159a8252d1959bc4b14b086e56fba82",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "usage": "exterior-reference-only",
+      "embeddedInRuntime": false,
+      "wayIds": [
+        446937834,
+        446937836
+      ],
+      "visualInspection": {
+        "method": "view_image",
+        "checkedAt": "2026-09-09",
+        "acceptedIdentity": true,
+        "observations": "Original 3216x3738 pixels viewed. Five sandstone sawtooth bays with short-return windows, broad opaque stone flanks, turquoise curved corner, upper glass and HYATT sign on roof lattice over the sawtooth elevation. Trees obscure podium. Original SHA1 matches Wikimedia file metadata."
+      },
+      "isOriginalResolution": true,
+      "sha1": "b838b111db78bb0dac1800674bb2364ba164377d",
+      "width": 3216,
+      "height": 3738
+    }
+  ],
+  "facts": [
+    {
+      "source": "https://www.som.com/projects/sinar-mas-centre-formerly-white-magnolia-plaza/",
+      "publisher": "SOM architect",
+      "fact": "Office tower 319.5 metres and 66 storeys; curved surfaces with perforated metal light shelves; hotel tower and smaller mixed use buildings."
+    },
+    {
+      "source": "https://www.skyscrapercenter.com/shanghai/sipg-tower/15150",
+      "publisher": "Council on Vertical Urbanism / Skyscraper Center",
+      "fact": "SIPG Tower address 358 Daming Road; 29 floors; 127 m is explicitly estimated, not a measured height."
+    }
+  ],
+  "preservation": "Original downloaded files preserved. No image edits, generation or upsampling. Unverified/copyright photographs are not GLB textures or public UI assets."
+}

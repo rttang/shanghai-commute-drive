@@ -1,0 +1,549 @@
+{
+  "date": "2026-09-09",
+  "scope": "星愿 2025 与缤果 Pro 2026 外观曲面重建；不含内饰；参考图不嵌入运行时模型。",
+  "models": [
+    {
+      "id": "starwish",
+      "version": "2025 外观，天真蓝/黑色车顶，205/60 R16 四叶草轮圈",
+      "officialPage": "https://global.geely.com/en/corporate-fleet-sales/xingyuan",
+      "currentOfficialPage": "https://galaxy.geely.com/xingyuan",
+      "dimensionsMm": [
+        4135,
+        1805,
+        1570
+      ],
+      "wheelbaseMm": 2650,
+      "referenceFeatures": [
+        "前灯为斜向圆角三角形，上沿向翼子板延伸",
+        "机盖两端收窄，前沿呈宽 U 形",
+        "前保险杠两侧细窄纵向风道，下部中央黑色梯形开口",
+        "黑色悬浮车顶、窄 B 柱、C 柱横向细纹",
+        "腰线接近水平、车门下部黑色饰板上缘缓升",
+        "尾灯从后角延伸到侧面，内部羽状灯带",
+        "半隐藏门把手、后翼子板充电口",
+        "四叶草轮圈分片亮面与黑色间隔"
+      ],
+      "sourceNotes": "官方 fleet Photo.zip 覆盖前方/侧方/车顶/尾灯；2025-04 吉利天真蓝官方图片经 IT之家转载，保留水印。2026 官方比例图仅辅证基础车身轮廓；不混入新款轮圈和传感器。"
+    },
+    {
+      "id": "bingo-pro",
+      "version": "2026 缤果 Pro 330km 尊享款，赫本绿/黑色套顶",
+      "officialPage": "https://www.sgmw.com.cn/carDetail?id=326",
+      "dimensionsMm": [
+        4050,
+        1758,
+        1580
+      ],
+      "wheelbaseMm": 2560,
+      "tyre": "195/60 R16",
+      "referenceFeatures": [
+        "椭圆前大灯，分段近圆形白色光环，中央投射器",
+        "复古圆润前脸、闭合面板，底部细长黑色开口及亮条",
+        "圆润拱形黑色车顶与宽 C 柱，窗下沿接近水平",
+        "前翼子板充电盖、半隐藏门把手",
+        "黑色轮眉以及车门下缘长镀铬条",
+        "六瓣封闭式旋叶轮圈",
+        "竖向圆角矩形尾灯，红色环状矩光灯组",
+        "独立扰流板位于后玻璃上方"
+      ],
+      "sourceNotes": "SGMW 官网 2026-05-15/22 宣传图原件，包含纯侧面、前斜俯视、正前方和灯组/轮圈细节；原图引用仅用作审校参考，不作为开放许可纹理。"
+    }
+  ],
+  "modelSourceSearch": {
+    "starwish": "只找到原先已否决的 MimmoLagonigro CC-BY-4.0 模型；本次未使用其任何几何或贴图。",
+    "bingo-pro": "公开搜索未找到可核实车型版本及许可的免费可下载模型。"
+  },
+  "photoRights": "Geely / SGMW 厂商图片保留版权，仅作为本地模型比例和特征对照。模型为任务内独立编写曲面网格；未宣称 CAD、扫描精度或照片级验收。",
+  "files": [
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-22/fdf96ad6aadbaf8827f7e76b969d2dd7.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-01.jpg",
+      "bytes": 975681,
+      "sha256": "e2cfcaa4670fbb6e4480b1d0596af1ab1c1ec17bf0c4881eb5fb95359776a123"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-22/8ed0cacae05fed1477ab7f39717af892.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-02.jpg",
+      "bytes": 758044,
+      "sha256": "529904adc4012960d1ec51dc926c80a90f7bde941c67bdb702b55492edc7d5be"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-15/cbc725f978123ada1e30cc81168125c1.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-03.jpg",
+      "bytes": 817249,
+      "sha256": "e85c8ceed4d0067f98359837c13ca4702fbb4406774e1802ee8cda1ef1f5af19"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-15/e712bce97b8d9266d5535f5d0a735100.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-04.jpg",
+      "bytes": 663392,
+      "sha256": "3d17f2d909c2338805ee50061638f943abad6dc99481c66160018675d93758dd"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-15/64463cda3f9442f3e6f131804f36c897.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-05.jpg",
+      "bytes": 914604,
+      "sha256": "0bd2524e978aff13a1bfaffafed25fc9df19d305be6418a798eba91afa761581"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-15/cb0719d10de977fb68cf70c2fbc0935d.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-06.jpg",
+      "bytes": 797721,
+      "sha256": "84296e42f68e5da73b44da25acb3a674c9127d09651a8af4512b35028337b30c"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-15/49ae1a29e91ebc88dbe1e0201c74ab6d.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-07.jpg",
+      "bytes": 821751,
+      "sha256": "d61e6e923dbbc9c8a8a725e3dd65dc9176aa77202325cd340c4f8ec2fbf2229b"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-15/6d269e9f491292a3a70923b2737719e4.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-08.jpg",
+      "bytes": 1097909,
+      "sha256": "0da675cb15903125aa322b20d10048d7a2555c933069f123232cf43d24f616ee"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-15/9f4f18b3cb1c080926bab35d89c0c369.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-09.jpg",
+      "bytes": 909180,
+      "sha256": "6eb90a3fe7a3400b09f650433e9de9039728043d0fe8309f31c687918316ba33"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-15/c5a0446750b9c5277c70b9903b4954c7.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-10.jpg",
+      "bytes": 943919,
+      "sha256": "25ec5a6f7e85b9f499b2346892669ca39080a51c9f3a7d326d6125d3231108c7"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-15/fc970cb4d779b2929710be86aaad6d58.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-11.jpg",
+      "bytes": 821915,
+      "sha256": "ea8a79c926d0900ed612d94f7c0ee5e7a939e9c9e51fe1d3ed0bca705a25b7c7"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-15/2733fbb7ec3ac799140c4989aa721742.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-12.jpg",
+      "bytes": 737125,
+      "sha256": "e1f2c7daeb97ebf0ba27c9cd67cfdbcaf61ff1777e29705bd8d0cdbf530e842d"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-2025-01.jpg",
+      "url": "https://img.ithome.com/newsuploadfiles/2025/4/991f4168-752d-4b8e-9513-cc9d5c99bd5f.jpg",
+      "bytes": 194096,
+      "sha256": "012ec268e76f8435438aa58da914860ed738a12cb3a6e3e686370f952d4e233b"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-2025-02.jpg",
+      "url": "https://img.ithome.com/newsuploadfiles/2025/4/98afab8b-659d-414e-adf8-7109db557446.jpg",
+      "bytes": 174282,
+      "sha256": "69a6fa91e01f319ac191570f020bdcba964a40d13fe58c2d84186219d05b0d2b"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-2025-03.jpg",
+      "url": "https://img.ithome.com/newsuploadfiles/2025/4/d14c6279-5bf0-4586-9d7b-6b9c054e2110.jpg",
+      "bytes": 152322,
+      "sha256": "c3dd3ec28ebb7fea4e6381cf5062b9114510f330542b5d2bb6462ee9fd0e2e04"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-2025-04.jpg",
+      "url": "https://img.ithome.com/newsuploadfiles/2025/4/e5a58e60-6f3c-4f5f-b787-9d606ef48dd6.jpg",
+      "bytes": 269987,
+      "sha256": "c66e1f84cee597ec33c3e32a2cc71c5f4b1135b8a34dcb083de55a2d083e77ea"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-2025-05.jpg",
+      "url": "https://img.ithome.com/newsuploadfiles/2025/4/491df8a8-e5b7-47fd-89e5-cfb142ba03c3.jpg",
+      "bytes": 242341,
+      "sha256": "6e5631a67f530136f0af802979c5d495f2280925e09b39d283926ac7f3f4702d"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-official-proportions.jpg",
+      "url": "https://dm30webimages.geely.com/GeelyPromotion/ANEW2/E22H/2026/0527/4.4pc.jpg",
+      "bytes": 452709,
+      "sha256": "41c3d589928547d2fbaee4161470ae722a448cde6ee7f3f2d7c6d16055e9208e"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-official-photo.zip",
+      "url": "https://global.geely.com/-/media/project/web-portal/parallel-car/xingyuan-01/photo.zip",
+      "bytes": 2603044,
+      "sha256": "d2ddb4c5f3845ebcb105774908e44035112d7f943fde717ae615c717ec2a3fca"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-detail-01.jpg",
+      "url": "https://img.ithome.com/newsuploadfiles/2026/3/5210308d-3430-4b56-ac44-152c7d5ced51.jpg",
+      "bytes": 54323,
+      "sha256": "2663e855d20902a9f5ecae15f1725a5c93f1c7edaabd61d48ea84efde737ca5a"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-detail-02.jpg",
+      "url": "https://img.ithome.com/newsuploadfiles/2026/3/50345f2f-1a36-4829-80f2-ed3521d011c0.jpg",
+      "bytes": 66608,
+      "sha256": "2c3b558e1aa568c75bb7857d283a7577f6eff64142d767476cd2ed57c5358d9c"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-detail-03.jpg",
+      "url": "https://img.ithome.com/newsuploadfiles/2026/3/9ff8aa6e-29f1-45ae-bb21-cb6578e82103.jpg",
+      "bytes": 93794,
+      "sha256": "7a3d2c39be99301e68db51b58abc5fef167b6706dde7b74e930a091bc0efb6b2"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-detail-04.jpg",
+      "url": "https://img.ithome.com/newsuploadfiles/2026/3/0bfa1729-dd61-431f-881d-870aa534de69.jpg",
+      "bytes": 75999,
+      "sha256": "7a8537f67e5797ecdcfc35d8482c1f45a8fd3806dcb89927127e615cb67203f1"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-detail-05.jpg",
+      "url": "https://img.ithome.com/newsuploadfiles/2026/3/6e8134d6-1c4c-4c92-83bf-684e308fe2a1.jpg",
+      "bytes": 70066,
+      "sha256": "51970b1fcb919b44c7797e6be5de720bc303ff3bf097898f7d5f5b3799ba35f9"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-launch-0.png",
+      "url": "https://img4.pcauto.com.cn/pcauto/images/auto_cms/20260326/48745190_800.png",
+      "bytes": 254247,
+      "sha256": "646dac9e03309e96e3b3918bc218cb5bd200045aec09d6aa7552c851430eccbe"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-launch-3.png",
+      "url": "https://img4.pcauto.com.cn/pcauto/images/auto_cms/20260326/48745180_800.png",
+      "bytes": 207016,
+      "sha256": "5fa99f1c4e1379fa7ea3acd3e349d2968dc25511139a9f1523df6aff595baf0a"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-launch-5.png",
+      "url": "https://img4.pcauto.com.cn/pcauto/images/auto_cms/20260326/48745142_800.png",
+      "bytes": 264929,
+      "sha256": "8e5f234f1a49fd2f42edcac0faf15d5ea8d5c73b38e53accc4250c9a9da4c8ca"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-launch-7.png",
+      "url": "https://img4.pcauto.com.cn/pcauto/images/auto_cms/20260326/48745108_800.png",
+      "bytes": 225105,
+      "sha256": "e1964d92354ca5b71aa313d5c5fe619acfd278e0ad56f8adffefaca584a9a510"
+    },
+    {
+      "url": "https://wuling.id/assets/images/cortez-new-2022/features/exterior/04_new-silver-5-diamond-logo.png",
+      "file": "assets/vehicles/compact-exteriors/references/wuling-silver-emblem-official.png",
+      "bytes": 411710,
+      "sha256": "6a864a714a43b3e7d52f8f00ddeb0e0a90603d45993fd6601c467609f9a681c9",
+      "note": "Manufacturer close-up used only to trace current silver Wuling emblem facets. Exterior body references remain domestic Bingo Pro 2026.",
+      "rights": "Manufacturer image for comparison only; no image embedded in GLB"
+    },
+    {
+      "url": "https://www.sgmw.com.cn/_nuxt/logo.Bdztb2Mm.png",
+      "file": "assets/vehicles/compact-exteriors/references/wuling-official-logo.png",
+      "bytes": 22826,
+      "sha256": "1e90e927677d76474bf32ac0b4e381d688dc2e227f6fa94e2fead6ac86913fea",
+      "note": "Archived corporate SGMW logo; not the Wuling vehicle badge and not used in runtime geometry.",
+      "rights": "Manufacturer image for comparison only; no image embedded in GLB"
+    }
+  ],
+  "paidSourceCandidatesNotAcquired": [
+    {
+      "model": "Geely EX2 2025",
+      "author": "Zifir3D",
+      "url": "https://zifir3d.com/product/geely-ex2-2025",
+      "listedPriceUSD": 59,
+      "polygons": 175547,
+      "action": "仅搜索确认，未购买、未下载付费内容"
+    },
+    {
+      "model": "Geely Xingyuan 2025",
+      "author": "3DModels.org",
+      "url": "https://3dmodels.org/3d-models/geely-xingyuan-2025/",
+      "polygons": 914000,
+      "action": "仅搜索确认，未购买、未下载付费内容"
+    },
+    {
+      "model": "Geely EX2 2025",
+      "author": "Zifir3D",
+      "url": "https://www.blenderkit.com/asset-gallery-detail/36f7b97e-287c-442d-a5f5-7b5a462c61bf/",
+      "plan": "Full Plan",
+      "action": "页面标为付费计划，未下载"
+    }
+  ],
+  "additionalVerifiedViews": {
+    "bingo-pro": [
+      "assets/vehicles/compact-exteriors/references/bingo-pro-miit-02.jpg",
+      "assets/vehicles/compact-exteriors/references/bingo-pro-sina-06.jpg"
+    ],
+    "note": "MIIT rear filing and Sina rear-right real photograph now inspected; sources archived without pixel edits"
+  },
+  "referenceFiles": [
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-22/fdf96ad6aadbaf8827f7e76b969d2dd7.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-01.jpg",
+      "bytes": 975681,
+      "sha256": "e2cfcaa4670fbb6e4480b1d0596af1ab1c1ec17bf0c4881eb5fb95359776a123"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-22/8ed0cacae05fed1477ab7f39717af892.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-02.jpg",
+      "bytes": 758044,
+      "sha256": "529904adc4012960d1ec51dc926c80a90f7bde941c67bdb702b55492edc7d5be"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-15/cbc725f978123ada1e30cc81168125c1.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-03.jpg",
+      "bytes": 817249,
+      "sha256": "e85c8ceed4d0067f98359837c13ca4702fbb4406774e1802ee8cda1ef1f5af19"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-15/e712bce97b8d9266d5535f5d0a735100.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-04.jpg",
+      "bytes": 663392,
+      "sha256": "3d17f2d909c2338805ee50061638f943abad6dc99481c66160018675d93758dd"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-15/64463cda3f9442f3e6f131804f36c897.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-05.jpg",
+      "bytes": 914604,
+      "sha256": "0bd2524e978aff13a1bfaffafed25fc9df19d305be6418a798eba91afa761581"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-15/cb0719d10de977fb68cf70c2fbc0935d.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-06.jpg",
+      "bytes": 797721,
+      "sha256": "84296e42f68e5da73b44da25acb3a674c9127d09651a8af4512b35028337b30c"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-15/49ae1a29e91ebc88dbe1e0201c74ab6d.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-07.jpg",
+      "bytes": 821751,
+      "sha256": "d61e6e923dbbc9c8a8a725e3dd65dc9176aa77202325cd340c4f8ec2fbf2229b"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-15/6d269e9f491292a3a70923b2737719e4.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-08.jpg",
+      "bytes": 1097909,
+      "sha256": "0da675cb15903125aa322b20d10048d7a2555c933069f123232cf43d24f616ee"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-15/9f4f18b3cb1c080926bab35d89c0c369.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-09.jpg",
+      "bytes": 909180,
+      "sha256": "6eb90a3fe7a3400b09f650433e9de9039728043d0fe8309f31c687918316ba33"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-15/c5a0446750b9c5277c70b9903b4954c7.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-10.jpg",
+      "bytes": 943919,
+      "sha256": "25ec5a6f7e85b9f499b2346892669ca39080a51c9f3a7d326d6125d3231108c7"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-15/fc970cb4d779b2929710be86aaad6d58.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-11.jpg",
+      "bytes": 821915,
+      "sha256": "ea8a79c926d0900ed612d94f7c0ee5e7a939e9c9e51fe1d3ed0bca705a25b7c7"
+    },
+    {
+      "url": "https://ow-img.sgmwsales.com/ow/2026-05-15/2733fbb7ec3ac799140c4989aa721742.jpg",
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-12.jpg",
+      "bytes": 737125,
+      "sha256": "e1f2c7daeb97ebf0ba27c9cd67cfdbcaf61ff1777e29705bd8d0cdbf530e842d"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-2025-01.jpg",
+      "url": "https://img.ithome.com/newsuploadfiles/2025/4/991f4168-752d-4b8e-9513-cc9d5c99bd5f.jpg",
+      "bytes": 194096,
+      "sha256": "012ec268e76f8435438aa58da914860ed738a12cb3a6e3e686370f952d4e233b"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-2025-02.jpg",
+      "url": "https://img.ithome.com/newsuploadfiles/2025/4/98afab8b-659d-414e-adf8-7109db557446.jpg",
+      "bytes": 174282,
+      "sha256": "69a6fa91e01f319ac191570f020bdcba964a40d13fe58c2d84186219d05b0d2b"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-2025-03.jpg",
+      "url": "https://img.ithome.com/newsuploadfiles/2025/4/d14c6279-5bf0-4586-9d7b-6b9c054e2110.jpg",
+      "bytes": 152322,
+      "sha256": "c3dd3ec28ebb7fea4e6381cf5062b9114510f330542b5d2bb6462ee9fd0e2e04"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-2025-04.jpg",
+      "url": "https://img.ithome.com/newsuploadfiles/2025/4/e5a58e60-6f3c-4f5f-b787-9d606ef48dd6.jpg",
+      "bytes": 269987,
+      "sha256": "c66e1f84cee597ec33c3e32a2cc71c5f4b1135b8a34dcb083de55a2d083e77ea"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-2025-05.jpg",
+      "url": "https://img.ithome.com/newsuploadfiles/2025/4/491df8a8-e5b7-47fd-89e5-cfb142ba03c3.jpg",
+      "bytes": 242341,
+      "sha256": "6e5631a67f530136f0af802979c5d495f2280925e09b39d283926ac7f3f4702d"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-official-proportions.jpg",
+      "url": "https://dm30webimages.geely.com/GeelyPromotion/ANEW2/E22H/2026/0527/4.4pc.jpg",
+      "bytes": 452709,
+      "sha256": "41c3d589928547d2fbaee4161470ae722a448cde6ee7f3f2d7c6d16055e9208e"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/starwish-official-photo.zip",
+      "url": "https://global.geely.com/-/media/project/web-portal/parallel-car/xingyuan-01/photo.zip",
+      "bytes": 2603044,
+      "sha256": "d2ddb4c5f3845ebcb105774908e44035112d7f943fde717ae615c717ec2a3fca"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-detail-01.jpg",
+      "url": "https://img.ithome.com/newsuploadfiles/2026/3/5210308d-3430-4b56-ac44-152c7d5ced51.jpg",
+      "bytes": 54323,
+      "sha256": "2663e855d20902a9f5ecae15f1725a5c93f1c7edaabd61d48ea84efde737ca5a"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-detail-02.jpg",
+      "url": "https://img.ithome.com/newsuploadfiles/2026/3/50345f2f-1a36-4829-80f2-ed3521d011c0.jpg",
+      "bytes": 66608,
+      "sha256": "2c3b558e1aa568c75bb7857d283a7577f6eff64142d767476cd2ed57c5358d9c"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-detail-03.jpg",
+      "url": "https://img.ithome.com/newsuploadfiles/2026/3/9ff8aa6e-29f1-45ae-bb21-cb6578e82103.jpg",
+      "bytes": 93794,
+      "sha256": "7a3d2c39be99301e68db51b58abc5fef167b6706dde7b74e930a091bc0efb6b2"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-detail-04.jpg",
+      "url": "https://img.ithome.com/newsuploadfiles/2026/3/0bfa1729-dd61-431f-881d-870aa534de69.jpg",
+      "bytes": 75999,
+      "sha256": "7a8537f67e5797ecdcfc35d8482c1f45a8fd3806dcb89927127e615cb67203f1"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-detail-05.jpg",
+      "url": "https://img.ithome.com/newsuploadfiles/2026/3/6e8134d6-1c4c-4c92-83bf-684e308fe2a1.jpg",
+      "bytes": 70066,
+      "sha256": "51970b1fcb919b44c7797e6be5de720bc303ff3bf097898f7d5f5b3799ba35f9"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-launch-0.png",
+      "url": "https://img4.pcauto.com.cn/pcauto/images/auto_cms/20260326/48745190_800.png",
+      "bytes": 254247,
+      "sha256": "646dac9e03309e96e3b3918bc218cb5bd200045aec09d6aa7552c851430eccbe"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-launch-3.png",
+      "url": "https://img4.pcauto.com.cn/pcauto/images/auto_cms/20260326/48745180_800.png",
+      "bytes": 207016,
+      "sha256": "5fa99f1c4e1379fa7ea3acd3e349d2968dc25511139a9f1523df6aff595baf0a"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-launch-5.png",
+      "url": "https://img4.pcauto.com.cn/pcauto/images/auto_cms/20260326/48745142_800.png",
+      "bytes": 264929,
+      "sha256": "8e5f234f1a49fd2f42edcac0faf15d5ea8d5c73b38e53accc4250c9a9da4c8ca"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-launch-7.png",
+      "url": "https://img4.pcauto.com.cn/pcauto/images/auto_cms/20260326/48745108_800.png",
+      "bytes": 225105,
+      "sha256": "e1964d92354ca5b71aa313d5c5fe619acfd278e0ad56f8adffefaca584a9a510"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-miit-01.jpg",
+      "url": "https://carnewschina.com/wp-content/uploads/2025/12/c5442c4ff09e0183ca4161454caeedca.jpg",
+      "sourcePage": "https://carnewschina.com/2025/12/05/wuling-binguo-pro-hatchback-filing-reveals-a-smaller-sibling-to-the-binguo-s-with-65-kw-motor/",
+      "bytes": 473712,
+      "sha256": "e600d6539730da03af21b7db4001bac5c3e0545b5ac5d85047fb8841b9c6b257",
+      "rights": "MIIT filing images as republished by CarNewsChina; reference only, not embedded in GLB"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-miit-02.jpg",
+      "url": "https://carnewschina.com/wp-content/uploads/2025/12/ad7097c4351d8a673a4581ef90f6eb3f-2048x1152.jpg",
+      "sourcePage": "https://carnewschina.com/2025/12/05/wuling-binguo-pro-hatchback-filing-reveals-a-smaller-sibling-to-the-binguo-s-with-65-kw-motor/",
+      "bytes": 501002,
+      "sha256": "24a915a3f6271e6929e4ef5bc5c36bdd3403d185505411863a8815454c6b5425",
+      "rights": "MIIT filing images as republished by CarNewsChina; reference only, not embedded in GLB"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-sina-01.jpg",
+      "url": "https://n.sinaimg.cn/www/transform/324/w660h464/20260414/39f8-b9153a6307aaccebf3920b7c17ec8d28.jpg",
+      "sourcePage": "https://auto.sina.cn/review/2026-04-14/detail-inhunpmy4082895.d.html?oid=5_htlm&vt=4",
+      "bytes": 115156,
+      "sha256": "e3eb11d4e3b0546bcdf2e9f6254fe8957aaaac15284442398007295abfb4106d",
+      "rights": "Sina original review photographs, reference only; no redistribution license established, not embedded in GLB"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-sina-02.jpg",
+      "url": "https://n.sinaimg.cn/www/transform/355/w660h495/20260414/4087-d05020a43f06a7e741c1e8480574bdb9.jpg",
+      "sourcePage": "https://auto.sina.cn/review/2026-04-14/detail-inhunpmy4082895.d.html?oid=5_htlm&vt=4",
+      "bytes": 76046,
+      "sha256": "236504c1664f9b9d2381dba147a88539dbe4f539b1b8054e1f8cabd2faefde88",
+      "rights": "Sina original review photographs, reference only; no redistribution license established, not embedded in GLB"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-sina-03.jpg",
+      "url": "https://n.sinaimg.cn/www/transform/355/w660h495/20260414/5cf9-ec295e5449b34e2e9fc93c1c46195b93.jpg",
+      "sourcePage": "https://auto.sina.cn/review/2026-04-14/detail-inhunpmy4082895.d.html?oid=5_htlm&vt=4",
+      "bytes": 92744,
+      "sha256": "cfbc9b15d399ed90c1dab1ae00e4367b497cc25b266f3db0e0db1067e82f3749",
+      "rights": "Sina original review photographs, reference only; no redistribution license established, not embedded in GLB"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-sina-04.jpg",
+      "url": "https://n.sinaimg.cn/www/transform/355/w660h495/20260414/557a-705097a2a6b06467545f39746dcb79c9.jpg",
+      "sourcePage": "https://auto.sina.cn/review/2026-04-14/detail-inhunpmy4082895.d.html?oid=5_htlm&vt=4",
+      "bytes": 93032,
+      "sha256": "54141be293a2ad381ad20da279a52650aa63838036b20c8f048594e1738858e7",
+      "rights": "Sina original review photographs, reference only; no redistribution license established, not embedded in GLB"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-sina-05.jpg",
+      "url": "https://n.sinaimg.cn/www/transform/355/w660h495/20260414/a119-251dee089caa18188d31536a30930a72.jpg",
+      "sourcePage": "https://auto.sina.cn/review/2026-04-14/detail-inhunpmy4082895.d.html?oid=5_htlm&vt=4",
+      "bytes": 118958,
+      "sha256": "c8631cd1034d281a2b18e282518aef2203067ad07f1d8224a344d2c8fc78ae64",
+      "rights": "Sina original review photographs, reference only; no redistribution license established, not embedded in GLB"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-sina-06.jpg",
+      "url": "https://n.sinaimg.cn/www/transform/355/w660h495/20260414/7fb6-ed119c88669ddf57001db0692380a41f.jpg",
+      "sourcePage": "https://auto.sina.cn/review/2026-04-14/detail-inhunpmy4082895.d.html?oid=5_htlm&vt=4",
+      "bytes": 81640,
+      "sha256": "b95544b00df7ec0fac313bf17bb2a2275b789426318303aa384cf2b27c052b44",
+      "rights": "Sina original review photographs, reference only; no redistribution license established, not embedded in GLB"
+    },
+    {
+      "file": "assets/vehicles/compact-exteriors/references/bingo-pro-sina-07.jpg",
+      "url": "https://n.sinaimg.cn/www/transform/355/w660h495/20260414/083f-bdc1c59e0e5e79ca3d885add5fef8f8a.jpg",
+      "sourcePage": "https://auto.sina.cn/review/2026-04-14/detail-inhunpmy4082895.d.html?oid=5_htlm&vt=4",
+      "bytes": 74210,
+      "sha256": "c2e428a05c89b8abf67d67dafe22894eeaf95de0f83e17a68bb7e609311a2e1f",
+      "rights": "Sina original review photographs, reference only; no redistribution license established, not embedded in GLB"
+    }
+  ],
+  "modelSourceSearchRefresh": {
+    "checkedAt": "2026-09-09T12:47:56.240392+00:00",
+    "queries": [
+      "Geely EX2 3D model free download",
+      "Geely Xingyuan 3D model download",
+      "Wuling Bingo Pro 3d model download",
+      "缤果Pro 3D模型",
+      "site.sketchfab.com Wuling Bingo"
+    ],
+    "freeDetailedReplacementFound": false,
+    "findings": [
+      {
+        "url": "https://sketchfab.com/3d-models/geely-geome-xingyuan-2025-c0df6e44217641eea9d6e07e8475d666",
+        "decision": "Same previously rejected AI-generated CC-BY source; no reuse"
+      },
+      {
+        "url": "https://zifir3d.com/product/geely-ex2-2025",
+        "decision": "Paid source still requires acquisition; no purchase or geometry download"
+      },
+      {
+        "url": "https://3dmodels.org/nl/3d-models/geely-xingyuan-2025/",
+        "decision": "Author detailed exterior exists but is paid; no purchase or geometry download"
+      },
+      {
+        "url": "https://sketchfab.com/models/fe89dcd537dc4505b047b79cbf2ecc46/embed",
+        "decision": "Wuling Bingo 2023, not domestic 2026 Bingo Pro; no replacement"
+      },
+      {
+        "url": "https://studio.tripo3d.ai/3d-model/carro-geely-ex2-408f46de-d6dc-4c3f-bb55-81bff86ceb4a",
+        "decision": "Generated-model listing without a verified detailed geometry / usable license acceptance; no download"
+      }
+    ]
+  }
+}

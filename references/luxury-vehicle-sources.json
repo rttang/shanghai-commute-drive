@@ -1,0 +1,283 @@
+{
+  "updatedAt": "2026-09-09T15:58:06.111453+00:00",
+  "scope": "Five luxury vehicle source acquisition only; no shape refinement and no paid acquisition",
+  "status": "five-official-source-files-acquired-awaiting-runtime-conversion",
+  "sources": [
+    {
+      "id": "g63",
+      "title": "2020 Mercedes-Benz G-Class AMG G63",
+      "sourceUid": "52296f1a65d54a85a2ed7cb67604e554",
+      "sourceUrl": "https://sketchfab.com/3d-models/2020-mercedes-benz-g-class-amg-g63-52296f1a65d54a85a2ed7cb67604e554",
+      "author": {
+        "displayName": "Outlaw Games™",
+        "username": "Outlaw_Games"
+      },
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "versionVerified": true,
+        "evidenceMethod": "Logged-in official download modal read 2026-09-09; credit attribution and licensing link observed"
+      },
+      "status": "official-source-downloaded",
+      "conversionAllowed": true,
+      "officialObjaverseV1IndexMatch": false,
+      "blockers": [
+        "This sub-agent CUA has no Chrome or IAB browser provider; native app entry also reports Sky service startup failure",
+        "Direct public Sketchfab page fetch returned 403; not bypassed",
+        "Exact UID absent from official Objaverse v1 object index"
+      ],
+      "downloadedFile": null,
+      "provenanceReview": {
+        "status": "requires-source-clarification",
+        "facts": [
+          "Page explicitly prohibits commercial use under its noncommercial license",
+          "A different uploader has a 2020 G63 with the same displayed 230.3k triangle / 146k vertex totals and explicitly credits a CSR2 model"
+        ],
+        "inference": "Identical displayed mesh totals suggest possible shared extracted geometry, but do not prove it; the requested candidate is not being treated as independently authored/rights-cleared",
+        "comparisonUrl": "https://sketchfab.com/3d-models/2020-mercedes-benz-g-class-amg-g-63-64db1862be754722bbf4f23695bf06a5"
+      },
+      "file": "assets/vehicles/luxury-source/g63/original.glb",
+      "bytes": 15525460,
+      "sha256": "8b53404fb9ddd0ae918c26056a9adecb4cd13dbb528219c0319f092e3dd226f4",
+      "acquisition": "Logged-in Sketchfab official Download action; browser temporary file copied to external disk, SHA-256 verified and temporary copy removed",
+      "currentSourceDescription": "Credits: @myself; no explicit extraction disclosure; matching mesh counts from another upload remains unresolved",
+      "usageScope": "Existing local noncommercial project only; preserve CC-BY-NC-4.0 credit. Do not claim original ownership independently audited; unresolved provenance inference remains recorded."
+    },
+    {
+      "id": "urus",
+      "title": "Lamborghini Urus 2018",
+      "sourceUid": "32964087f5d24c3e90482724ddfc2fef",
+      "sourceUrl": "https://sketchfab.com/3d-models/32964087f5d24c3e90482724ddfc2fef",
+      "author": {
+        "uid": "83b780876cc84a78b60105507a7fe034",
+        "username": "kirikom9000",
+        "displayName": "Kai Xiang",
+        "profileUrl": "https://sketchfab.com/kirikom9000"
+      },
+      "licenseRaw": "by",
+      "license": {
+        "id": "CC-BY-4.0",
+        "label": "Creative Commons Attribution 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "versionVerified": true,
+        "rawMetadataValue": "by",
+        "evidence": [
+          "Original GLB asset.extras.license",
+          "assets/vehicles/luxury-source/urus/source-metadata.json",
+          "https://huggingface.co/datasets/allenai/objaverse"
+        ]
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseMappingEvidence": "https://huggingface.co/datasets/allenai/objaverse",
+      "acquisition": "Official allenai/objaverse v1 public mirror, exact Sketchfab UID",
+      "downloadUrl": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-022/32964087f5d24c3e90482724ddfc2fef.glb",
+      "sourceMetadata": "assets/vehicles/luxury-source/urus/source-metadata.json",
+      "file": "assets/vehicles/luxury-source/urus/original.glb",
+      "bytes": 9533868,
+      "sha256": "d20b1a1642fc36641bcfb7b426fc81531a918ed735f7b027f9c6175bb9574198",
+      "downloadedAt": "2026-09-09T15:30:08.898268+00:00",
+      "archiveMetadataGlbBytes": 9533868,
+      "glTFAsset": {
+        "extras": {
+          "author": "Kai Xiang (https://sketchfab.com/kirikom9000)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/lamborghini-urus-2018-32964087f5d24c3e90482724ddfc2fef",
+          "title": "Lamborghini Urus 2018"
+        },
+        "generator": "Sketchfab-12.68.0",
+        "version": "2.0"
+      },
+      "meshCount": 10,
+      "nodeCount": 25,
+      "embeddedImages": 9,
+      "sourceDescription": "- update with a more refined texture in the future? before the Sun dies I guess",
+      "sourcePublishedAt": "2019-03-18T15:42:33.112054",
+      "provenanceCaveat": "Author and CC-BY license are recorded by official dataset metadata; current Sketchfab live page cannot be fetched (403). No indication of extraction from another game appears in archived description. Metadata itself is not an independent copyright ownership audit.",
+      "status": "source-downloaded-awaiting-conversion",
+      "conversionAllowed": true,
+      "modelYear": 2018,
+      "currentPageVerification": {
+        "method": "Search-indexed public Sketchfab page read on 2026-09-09",
+        "authorAndLicenseMatch": true,
+        "livePageDirectFetch": "403 Forbidden"
+      },
+      "integrityValidation": {
+        "glbDeclaredLengthMatches": true,
+        "metadataArchiveByteCountMatches": true,
+        "sha256MatchesRecorded": true,
+        "sourceUidMatchesEmbeddedSource": true,
+        "authorAccountMatchesEmbeddedAttribution": true,
+        "licenseMatchesEmbeddedAttribution": true,
+        "allTexturesEmbedded": true,
+        "externalBuffers": 0,
+        "validatedAt": "2026-09-09T15:41:41.450092+00:00"
+      }
+    },
+    {
+      "id": "porsche-911",
+      "title": "Porsche 911 Turbo S 2020",
+      "sourceUid": "68d8ef218d7e42adbd4425dc43629705",
+      "sourceUrl": "https://sketchfab.com/3d-models/68d8ef218d7e42adbd4425dc43629705",
+      "author": {
+        "uid": "7f29dff330224cdc971bc03cc82ccd0a",
+        "username": "zh.200.c",
+        "displayName": "SeKali",
+        "profileUrl": "https://sketchfab.com/zh.200.c",
+        "archivedDisplayName": "fewdd",
+        "displayNameEvidence": "https://sketchfab.com/3d-models/porsche-911-turbo-s-68d8ef218d7e42adbd4425dc43629705",
+        "nameNote": "Official dataset and GLB archive display name fewdd; current indexed Sketchfab page shows SeKali under the same zh.200.c account and UID."
+      },
+      "licenseRaw": "by",
+      "license": {
+        "id": "CC-BY-4.0",
+        "label": "Creative Commons Attribution 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "versionVerified": true,
+        "rawMetadataValue": "by",
+        "evidence": [
+          "Original GLB asset.extras.license",
+          "assets/vehicles/luxury-source/porsche-911/source-metadata.json",
+          "https://huggingface.co/datasets/allenai/objaverse"
+        ]
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseMappingEvidence": "https://huggingface.co/datasets/allenai/objaverse",
+      "acquisition": "Official allenai/objaverse v1 public mirror, exact Sketchfab UID",
+      "downloadUrl": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-023/68d8ef218d7e42adbd4425dc43629705.glb",
+      "sourceMetadata": "assets/vehicles/luxury-source/porsche-911/source-metadata.json",
+      "file": "assets/vehicles/luxury-source/porsche-911/original.glb",
+      "bytes": 57937820,
+      "sha256": "92be2f317ac1c919c64dc31aabc051c672b0d1a95387a7a9fafd1c6bd891fa00",
+      "downloadedAt": "2026-09-09T15:33:59.761138+00:00",
+      "archiveMetadataGlbBytes": 57937820,
+      "glTFAsset": {
+        "extras": {
+          "author": "fewdd (https://sketchfab.com/zh.200.c)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/porsche-911-turbo-s-2020-68d8ef218d7e42adbd4425dc43629705",
+          "title": "Porsche 911 Turbo S 2020"
+        },
+        "generator": "Sketchfab-12.67.0",
+        "version": "2.0"
+      },
+      "meshCount": 148,
+      "nodeCount": 249,
+      "embeddedImages": 1,
+      "sourceDescription": "**Blender Car Model**\n- without interior\n- very low poly tires\n- car on sketchfab a little bit different(textures)",
+      "sourcePublishedAt": "2021-07-28T18:18:21.100064",
+      "provenanceCaveat": "Author and CC-BY license are recorded by official dataset metadata; current Sketchfab live page cannot be fetched (403). No indication of extraction from another game appears in archived description. Metadata itself is not an independent copyright ownership audit.",
+      "status": "source-downloaded-awaiting-conversion",
+      "modelYear": 2020,
+      "publicationYear": 2021,
+      "sourceLimitations": [
+        "Author explicitly states no interior",
+        "Author explicitly describes very low-poly tires"
+      ],
+      "conversionAllowed": true,
+      "currentPageVerification": {
+        "method": "Search-indexed public Sketchfab page read on 2026-09-09",
+        "authorAndLicenseMatch": true,
+        "livePageDirectFetch": "403 Forbidden"
+      },
+      "integrityValidation": {
+        "glbDeclaredLengthMatches": true,
+        "metadataArchiveByteCountMatches": true,
+        "sha256MatchesRecorded": true,
+        "sourceUidMatchesEmbeddedSource": true,
+        "authorAccountMatchesEmbeddedAttribution": true,
+        "licenseMatchesEmbeddedAttribution": true,
+        "allTexturesEmbedded": true,
+        "externalBuffers": 0,
+        "validatedAt": "2026-09-09T15:41:41.665083+00:00"
+      }
+    },
+    {
+      "id": "ferrari-488",
+      "title": "Ferrari 488 gtb",
+      "sourceUid": "c2bca88f04044daaa7c0274a9c0f2cc1",
+      "sourceUrl": "https://sketchfab.com/3d-models/ferrari-488-gtb-c2bca88f04044daaa7c0274a9c0f2cc1",
+      "author": {
+        "displayName": "Turbostuart",
+        "username": "Turbostuart"
+      },
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "versionVerified": true,
+        "evidenceMethod": "Logged-in official download modal read 2026-09-09; credit attribution and licensing link observed"
+      },
+      "status": "official-source-downloaded",
+      "conversionAllowed": true,
+      "officialObjaverseV1IndexMatch": false,
+      "blockers": [
+        "This sub-agent CUA has no Chrome or IAB browser provider; native app entry also reports Sky service startup failure",
+        "Direct public Sketchfab page fetch returned 403; not bypassed",
+        "Exact UID absent from official Objaverse v1 object index"
+      ],
+      "downloadedFile": null,
+      "file": "assets/vehicles/luxury-source/ferrari-488/original.glb",
+      "bytes": 16640460,
+      "sha256": "aec457c172214788e56201f65c891c88a17d238ac9dd3b90bca4f1f69828d2e0",
+      "acquisition": "Logged-in Sketchfab official Download action; browser temporary file copied to external disk, SHA-256 verified and temporary copy removed"
+    },
+    {
+      "id": "alphard",
+      "title": "Toyota Alphard III 2015",
+      "sourceUid": "c3b0c9b6363945e0b27d020404198b0f",
+      "sourceUrl": "https://sketchfab.com/3d-models/toyota-alphard-iii-2015-c3b0c9b6363945e0b27d020404198b0f",
+      "author": {
+        "displayName": "Nieve5677",
+        "username": "niev"
+      },
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "versionVerified": true,
+        "evidenceMethod": "Logged-in official download modal read 2026-09-09; credit attribution and licensing link observed"
+      },
+      "status": "official-source-downloaded",
+      "conversionAllowed": true,
+      "officialObjaverseV1IndexMatch": false,
+      "blockers": [
+        "This sub-agent CUA has no Chrome or IAB browser provider; native app entry also reports Sky service startup failure",
+        "Direct public Sketchfab page fetch returned 403; not bypassed",
+        "Exact UID absent from official Objaverse v1 object index"
+      ],
+      "downloadedFile": null,
+      "modelYear": 2015,
+      "publicationYear": 2025,
+      "file": "assets/vehicles/luxury-source/alphard/unpacked/source/Toyota Alphard III 2015.glb",
+      "bytes": 45191784,
+      "sha256": "abb3c0836ec386f2ddf172b2c592362d68349eb9ba9ff8ed674995413cdfc85f",
+      "acquisition": "Logged-in Sketchfab official Download action; browser temporary file copied to external disk, SHA-256 verified and temporary copy removed"
+    }
+  ],
+  "datasetEvidence": {
+    "officialDataset": "https://huggingface.co/datasets/allenai/objaverse",
+    "datasetLicense": "ODC-By v1.0 applies to the collection; every model retains its separately recorded license",
+    "objectIndexFile": "assets/vehicles/luxury-source/_catalog/object-paths.json.gz",
+    "objectIndexSha256": "db88ff78942613f10566ec4723fb8b8f558c37ffe8e78a8fc5428a20b93886a0",
+    "officialIndexPointer": "https://huggingface.co/datasets/allenai/objaverse/blob/main/object-paths.json.gz"
+  },
+  "browserCleanup": {
+    "ownedTabsCreated": 0,
+    "existingUserTabsModified": false,
+    "providerFailureAppliesTo": "This sub-agent CUA session; root IAB availability is separately confirmed"
+  },
+  "sourceFilesPreserved": true,
+  "handoff": {
+    "readyForFamily": [
+      "urus",
+      "porsche-911"
+    ],
+    "rootBrowserHandling": [
+      "g63",
+      "ferrari-488",
+      "alphard"
+    ],
+    "downloadWorkStoppedInThisSubagent": true,
+    "ownBrowserTabsCreated": 0,
+    "centralManifestWriteOwnership": "root after this handoff"
+  },
+  "schemaVersion": 1
+}

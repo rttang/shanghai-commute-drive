@@ -1,0 +1,68 @@
+{
+  "period": "2026-08",
+  "scope": "全国 全部车系 零售量",
+  "source": "https://www.dongchedi.com/sales",
+  "observedAt": "2026-09-08",
+  "cars": [
+    {
+      "name": "星愿",
+      "rank": 1,
+      "sales": 39651,
+      "source": "https://www.dongchedi.com/auto/params-carIds-x-20154"
+    },
+    {
+      "name": "零跑A10",
+      "rank": 2,
+      "sales": 30652,
+      "source": "https://www.dongchedi.com/auto/params-carIds-x-9267"
+    },
+    {
+      "name": "Model Y",
+      "rank": 3,
+      "sales": 29260,
+      "source": "https://www.dongchedi.com/auto/params-carIds-x-4363"
+    },
+    {
+      "name": "元UP",
+      "rank": 4,
+      "sales": 22958,
+      "source": "https://www.dongchedi.com/auto/params-carIds-x-9689"
+    },
+    {
+      "name": "Model 3",
+      "rank": 5,
+      "sales": 20787,
+      "source": "https://www.dongchedi.com/auto/params-carIds-x-3762"
+    },
+    {
+      "name": "长安启源Q05",
+      "rank": 6,
+      "sales": 17349,
+      "source": "https://www.dongchedi.com/auto/params-carIds-x-25634"
+    },
+    {
+      "name": "理想i6",
+      "rank": 7,
+      "sales": 16979,
+      "source": "https://www.dongchedi.com/auto/params-carIds-x-25557"
+    },
+    {
+      "name": "海豚",
+      "rank": 8,
+      "sales": 16829,
+      "source": "https://www.dongchedi.com/auto/params-carIds-x-5008"
+    },
+    {
+      "name": "小米SU7",
+      "rank": 9,
+      "sales": 16518,
+      "source": "https://www.dongchedi.com/auto/params-carIds-x-6187"
+    },
+    {
+      "name": "缤果Pro",
+      "rank": 10,
+      "sales": 14695,
+      "source": "https://www.dongchedi.com/auto/params-carIds-x-26039"
+    }
+  ]
+}

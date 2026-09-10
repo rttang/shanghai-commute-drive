@@ -1,0 +1,8 @@
+{
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "query": "[out:json][timeout:45];(way[building](31.224,121.482,31.249,121.514);way[\"building:part\"](31.224,121.482,31.249,121.514);way[highway](31.224,121.482,31.249,121.514);way[natural=water](31.224,121.482,31.249,121.514);way[waterway=riverbank](31.224,121.482,31.249,121.514);relation[natural=water](31.224,121.482,31.249,121.514););out geom;",
+  "bbox": "31.224,121.482,31.249,121.514",
+  "retrievedAt": "2026-09-08T14:52:25.310166+00:00",
+  "license": "ODbL-1.0",
+  "elements": 4340
+}

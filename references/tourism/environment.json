@@ -1,0 +1,18 @@
+{
+  "license": "CC0",
+  "sources": [
+    "https://polyhaven.com/a/kloppenheim_05_puresky",
+    "https://polyhaven.com/a/asphalt_02"
+  ],
+  "authors": [
+    "Greg Zaal",
+    "Jarod Guest",
+    "Rob Tuytel"
+  ],
+  "files": {
+    "sky.hdr": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/kloppenheim_05_puresky_2k.hdr",
+    "asphalt-diff.jpg": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_02/asphalt_02_diff_1k.jpg",
+    "asphalt-nor_gl.jpg": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_02/asphalt_02_nor_gl_1k.jpg",
+    "asphalt-rough.jpg": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_02/asphalt_02_rough_1k.jpg"
+  }
+}

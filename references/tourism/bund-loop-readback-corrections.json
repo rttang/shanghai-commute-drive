@@ -1,0 +1,23 @@
+{
+  "status": "reviewed-with-explicit-fidelity-limitations",
+  "reason": "Observed first GLB pass: veranda and portal missing; arcade backs incorrectly continuous glazing; crown too boxlike; pediment only outline; narrow/tall review views clipped. These are targeted corrections, not optional polish.",
+  "buildIds": [
+    "bund-frontage-160152535",
+    "bund-frontage-177929888",
+    "bund-frontage-493784117",
+    "bund-frontage-1156865543",
+    "bund-frontage-446933508",
+    "bund-frontage-446933528",
+    "bund-frontage-1198568466",
+    "bund-frontage-495105937"
+  ],
+  "reviewExtraIds": [
+    "bund-frontage-177929849",
+    "bund-frontage-1156865544",
+    "bund-frontage-446933545",
+    "bund-frontage-1198569402"
+  ],
+  "readbackFile": "public/streets/districts/bund/review/bund-loop-readback-review.json",
+  "finalReadbackRecord": "references/tourism/bund-loop-binary-verification.json",
+  "remainingMainFacadeRegistrationIssue": "bund-frontage-1156865542"
+}

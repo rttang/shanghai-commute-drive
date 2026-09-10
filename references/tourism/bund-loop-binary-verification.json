@@ -1,0 +1,916 @@
+{
+  "status": "completed-targeted-asset-work-with-explicit-fidelity-limitations",
+  "generatedAt": "2026-09-09T13:43:22.130036+00:00",
+  "districtModelCount": 57,
+  "districtRuntimeGlbBytes": 171567392,
+  "districtTriangles": 3958941,
+  "changedModelCount": 21,
+  "changedBytes": 18717904,
+  "changedAverageBytes": 891328.7619047619,
+  "changedMaximumBytes": 5180840,
+  "unchangedModelCount": 36,
+  "sameWayMappingsAndCenters": true,
+  "peninsulaFootprintPairwiseOverlapM2": [
+    0,
+    0,
+    0
+  ],
+  "sourcePhotosEmbeddedInChangedGlb": false,
+  "verifiedCurrentReadbackViews": 42,
+  "allCurrentReadbackViewsIndividuallyViewed": true,
+  "photoAssociatedModelCount": 44,
+  "notFullPhotoVerifiedCount": 13,
+  "fullDistrictHighFidelityAcceptance": false,
+  "limits": [
+    "Photo verification means identity and listed visible features, not complete building acceptance.",
+    "Jinyan way1156865542 remains unresolved between a flat photographed main facade and a step-shaped OSM footprint. Its model distributes elements over existing edges; this is not a correct measured facade registration.",
+    "Twelve anonymous objects still lack matched exterior photographs; the long platform way160033736 has only a partial storefront photo.",
+    "Secondary elevations without photographs preserve closed massing; window spacing, heights except the stated public-center height, fine relief and roof construction remain approximate.",
+    "Eight of the 21 updated object identities, plus thirteen unresolved candidates, received an independent source-research pass from parent-owned bund_identity. Geometry and rendered-image review were performed by bund_finish itself; no independent geometry-review claim."
+  ],
+  "editableSource": {
+    "file": "assets/blender/streets/bund-detailed.blend",
+    "bytes": 207737321,
+    "sha256": "b5a63ce33769b7f0c7c4f5437f275eca3283856445cf7923eae7c5c7c17b5c50"
+  },
+  "buildRuns": [
+    {
+      "log": "assets/streets/bund-loop-observed-build.log",
+      "exitCode": 0
+    },
+    {
+      "log": "assets/streets/bund-loop-observed-refine.log",
+      "exitCode": 0
+    },
+    {
+      "log": "assets/streets/bund-loop-observed-arcades.log",
+      "exitCode": 1,
+      "failure": "UnboundLocalError before first export; no generated outputs overwritten in that attempt"
+    },
+    {
+      "log": "assets/streets/bund-loop-observed-arcades-recovery.log",
+      "exitCode": 0
+    }
+  ],
+  "remainingUnverified": [
+    {
+      "id": "bund-frontage-178564468",
+      "way": 178564468,
+      "name": "OSM building 178564468",
+      "scope": "OSM footprint is authoritative at map precision; heightSource retained. No matched exterior photo: all facade bays, materials, opening types and roof details are inferred, not a high-fidelity photo reconstruction."
+    },
+    {
+      "id": "bund-frontage-177930863",
+      "way": 177930863,
+      "name": "OSM building 177930863",
+      "scope": "OSM footprint is authoritative at map precision; heightSource retained. No matched exterior photo: all facade bays, materials, opening types and roof details are inferred, not a high-fidelity photo reconstruction."
+    },
+    {
+      "id": "bund-frontage-160033736",
+      "way": 160033736,
+      "name": "外滩观景平台下商业空间（365号局部已核）",
+      "scope": "Partial frontage only: address365 photograph; full 120m outline is not photo-verified"
+    },
+    {
+      "id": "bund-frontage-178406075",
+      "way": 178406075,
+      "name": "OSM building 178406075",
+      "scope": "OSM footprint is authoritative at map precision; heightSource retained. No matched exterior photo: all facade bays, materials, opening types and roof details are inferred, not a high-fidelity photo reconstruction."
+    },
+    {
+      "id": "bund-frontage-380339914",
+      "way": 380339914,
+      "name": "OSM building 380339914",
+      "scope": "OSM footprint is authoritative at map precision; heightSource retained. No matched exterior photo: all facade bays, materials, opening types and roof details are inferred, not a high-fidelity photo reconstruction."
+    },
+    {
+      "id": "bund-frontage-1197725294",
+      "way": 1197725294,
+      "name": "OSM building 1197725294",
+      "scope": "OSM footprint is authoritative at map precision; heightSource retained. No matched exterior photo: all facade bays, materials, opening types and roof details are inferred, not a high-fidelity photo reconstruction."
+    },
+    {
+      "id": "bund-frontage-380339857",
+      "way": 380339857,
+      "name": "OSM building 380339857",
+      "scope": "OSM footprint is authoritative at map precision; heightSource retained. No matched exterior photo: all facade bays, materials, opening types and roof details are inferred, not a high-fidelity photo reconstruction."
+    },
+    {
+      "id": "bund-frontage-1197674361",
+      "way": 1197674361,
+      "name": "OSM building 1197674361",
+      "scope": "OSM footprint is authoritative at map precision; heightSource retained. No matched exterior photo: all facade bays, materials, opening types and roof details are inferred, not a high-fidelity photo reconstruction."
+    },
+    {
+      "id": "bund-frontage-446933537",
+      "way": 446933537,
+      "name": "OSM building 446933537",
+      "scope": "OSM footprint is authoritative at map precision; heightSource retained. No matched exterior photo: all facade bays, materials, opening types and roof details are inferred, not a high-fidelity photo reconstruction."
+    },
+    {
+      "id": "bund-frontage-1198569401",
+      "way": 1198569401,
+      "name": "OSM building 1198569401",
+      "scope": "OSM footprint is authoritative at map precision; heightSource retained. No matched exterior photo: all facade bays, materials, opening types and roof details are inferred, not a high-fidelity photo reconstruction."
+    },
+    {
+      "id": "bund-frontage-1287050300",
+      "way": 1287050300,
+      "name": "OSM building 1287050300",
+      "scope": "OSM footprint is authoritative at map precision; heightSource retained. No matched exterior photo: all facade bays, materials, opening types and roof details are inferred, not a high-fidelity photo reconstruction."
+    },
+    {
+      "id": "bund-frontage-1287050298",
+      "way": 1287050298,
+      "name": "OSM building 1287050298",
+      "scope": "OSM footprint is authoritative at map precision; heightSource retained. No matched exterior photo: all facade bays, materials, opening types and roof details are inferred, not a high-fidelity photo reconstruction."
+    },
+    {
+      "id": "bund-frontage-1287050297",
+      "way": 1287050297,
+      "name": "OSM building 1287050297",
+      "scope": "OSM footprint is authoritative at map precision; heightSource retained. No matched exterior photo: all facade bays, materials, opening types and roof details are inferred, not a high-fidelity photo reconstruction."
+    }
+  ],
+  "changedModels": [
+    {
+      "id": "bund-frontage-160152535",
+      "name": "原英国驻上海总领事馆",
+      "ways": [
+        160152535
+      ],
+      "bytes": 1206824,
+      "sha256": "92b0d291596e72fffd902e4c307e12b96956bbbd55fe483f444200ab694186ef",
+      "triangles": 71524,
+      "photoIdentityAndVisibleFeaturesVerified": true,
+      "referenceIds": [
+        "bund-loop-british-consulate"
+      ],
+      "photoVerificationScope": "Building identity and listed visible exterior features only; unobserved elevations remain inferred",
+      "geometryConfidence": "Source-observed feature layout, estimated metric geometry",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-160152535-observed-front.png",
+          "sha256": "96a242fca48f94332d4b7d085b39bff0d6e088307e3d19d0c3a145df4286216c",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-160152535-observed-side.png",
+          "sha256": "0d268c39490995a7ac93f39fdc23e8cdde1f0372b0e9635304161afc4e4709ec",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    },
+    {
+      "id": "bund-frontage-177929846",
+      "name": "上海半岛酒店·西侧主楼",
+      "ways": [
+        177929846
+      ],
+      "bytes": 1540052,
+      "sha256": "096907fd3a0509dfde3b3aad70820b53e0429c4006c1c8109252b823fcfd2c8b",
+      "triangles": 103426,
+      "photoIdentityAndVisibleFeaturesVerified": true,
+      "referenceIds": [
+        "bund-loop-5ebf27238e",
+        "bund-loop-british-consulate"
+      ],
+      "photoVerificationScope": "Building identity and listed visible exterior features only; unobserved elevations remain inferred",
+      "geometryConfidence": "Source-observed feature layout, estimated metric geometry",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-177929846-observed-front.png",
+          "sha256": "b94512ec2a6496d8234cbe553ec17d4e21cc7f0aa1a4f4236f6dcf4ad30c5021",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-177929846-observed-side.png",
+          "sha256": "bc1f2fa9b4b8c373b1a9ea113bf20aa4664352828c858c9551a2145aba8f18a7",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    },
+    {
+      "id": "bund-frontage-177929849",
+      "name": "上海半岛酒店·中央楼体",
+      "ways": [
+        177929849
+      ],
+      "bytes": 1097756,
+      "sha256": "0c7d02bbd2019d42834f2cb7f55a7f3056b442aa7edf0d356a81674582582bce",
+      "triangles": 71666,
+      "photoIdentityAndVisibleFeaturesVerified": true,
+      "referenceIds": [
+        "bund-loop-5ebf27238e",
+        "bund-loop-british-consulate"
+      ],
+      "photoVerificationScope": "Building identity and listed visible exterior features only; unobserved elevations remain inferred",
+      "geometryConfidence": "Source-observed feature layout, estimated metric geometry",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-177929849-observed-front.png",
+          "sha256": "bf7ce5b32121c8c88928b0b248ec93125a1f7d5e9b28069afe043f582309aa0d",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-177929849-observed-side.png",
+          "sha256": "cac9dc05157baee649ce9e399550866d444d9bcd08c6bf6d1e34fe719dcf3af1",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    },
+    {
+      "id": "bund-frontage-177929888",
+      "name": "上海半岛酒店·临江裙楼",
+      "ways": [
+        177929888
+      ],
+      "bytes": 761072,
+      "sha256": "b0ee2d0f89129530136b6aa122482f32051c7f47ac6216dc2eaf967b15862e49",
+      "triangles": 50664,
+      "photoIdentityAndVisibleFeaturesVerified": true,
+      "referenceIds": [
+        "bund-loop-5ebf27238e",
+        "bund-loop-british-consulate"
+      ],
+      "photoVerificationScope": "Building identity and listed visible exterior features only; unobserved elevations remain inferred",
+      "geometryConfidence": "Source-observed feature layout, estimated metric geometry",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-177929888-observed-front.png",
+          "sha256": "3f41fea47a355226ed11a4ffbe7845653bcf24054005dce10ece9400266a505b",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-177929888-observed-side.png",
+          "sha256": "d798c71a219d61ae15d14fdda2c50410b89cb5d74ba8e7634dafbfed4baa51a2",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    },
+    {
+      "id": "bund-frontage-160033736",
+      "name": "外滩观景平台下商业空间（365号局部已核）",
+      "ways": [
+        160033736
+      ],
+      "bytes": 111308,
+      "sha256": "0c60bf8b43d2b4d16472b59fdd0eb69a09d4eb47147940c25f6b24a40a34f1e0",
+      "triangles": 7156,
+      "photoIdentityAndVisibleFeaturesVerified": false,
+      "referenceIds": [
+        "subway365-6"
+      ],
+      "photoVerificationScope": "Partial frontage only: address365 photograph; full 120m outline is not photo-verified",
+      "geometryConfidence": "Source-observed feature layout, estimated metric geometry",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-160033736-observed-front.png",
+          "sha256": "fd57e6615e541ea2d1ac6c2f58cd817349d7f24c9e2250ae2e38cee6c1443243",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-160033736-observed-side.png",
+          "sha256": "1b568609f8907b7880985fa137ddf182b217748e7e8bb9a905fe0ca08cc9cacf",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    },
+    {
+      "id": "bund-frontage-493784117",
+      "name": "中华邮政储金汇业局旧址（九江路36号）",
+      "ways": [
+        493784117
+      ],
+      "bytes": 197444,
+      "sha256": "9e37a0b1c3fafefaddc4698bd0d084cd4c68720e1ac487a9e0119e96dd3914d7",
+      "triangles": 11428,
+      "photoIdentityAndVisibleFeaturesVerified": true,
+      "referenceIds": [
+        "bund-loop-postal-jiujiang",
+        "bund-loop-postal-door"
+      ],
+      "photoVerificationScope": "Building identity and listed visible exterior features only; unobserved elevations remain inferred",
+      "geometryConfidence": "Source-observed feature layout, estimated metric geometry",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-493784117-observed-front.png",
+          "sha256": "5f0adf2b531f43552782249df1b13637e98aa42be7c018a43097b2933df73796",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-493784117-observed-side.png",
+          "sha256": "74c9d9aaa3ba2b87a6491591165e3669e7edb8e8b62bfde5c260b2e23230075a",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    },
+    {
+      "id": "bund-frontage-178405874",
+      "name": "外滩国际大楼（原公共服务中心）",
+      "ways": [
+        178405874
+      ],
+      "bytes": 186632,
+      "sha256": "a42c4e8e4892a95ccfe2ff542e4e6995d66509b1cd57f601d5cbe618aa3e6259",
+      "triangles": 11492,
+      "photoIdentityAndVisibleFeaturesVerified": true,
+      "referenceIds": [
+        "bund-loop-public-service"
+      ],
+      "photoVerificationScope": "Building identity and listed visible exterior features only; unobserved elevations remain inferred",
+      "geometryConfidence": "Source-observed feature layout, estimated metric geometry",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-178405874-observed-front.png",
+          "sha256": "d306ea04a291ba0faf58a791269c4383d7aaa9e94a1cb83c23adea271cc16db4",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-178405874-observed-side.png",
+          "sha256": "dbff5f21057d4409ea21d70daf9064fea51b432959c5e75388e3170cad176193",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    },
+    {
+      "id": "bund-frontage-380340030",
+      "name": "旗昌洋行旧址（福州路17、19号）",
+      "ways": [
+        380340030
+      ],
+      "bytes": 214424,
+      "sha256": "cc3633961d299ba2ffc3152335e5b43f4b12273c9487d74f8051f50744bccc8d",
+      "triangles": 13153,
+      "photoIdentityAndVisibleFeaturesVerified": true,
+      "referenceIds": [
+        "bund-loop-0f46ef8bcd"
+      ],
+      "photoVerificationScope": "Building identity and listed visible exterior features only; unobserved elevations remain inferred",
+      "geometryConfidence": "Source-observed feature layout, estimated metric geometry",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-380340030-observed-front.png",
+          "sha256": "9c690b0ca2d40534063fede5708379e5a7af23ae15334de188ac63a9a3544397",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-380340030-observed-side.png",
+          "sha256": "5c3f27e98c8f836e20d5ef96aa7c2a649bc515486bf11a2ab7b0e2a5e6d5a8c3",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    },
+    {
+      "id": "bund-frontage-178408827",
+      "name": "中国通商银行旧址（外滩六号）",
+      "ways": [
+        178408827
+      ],
+      "bytes": 570936,
+      "sha256": "7bbbe23b7db20b922b8f9eb813c198430f589a1401a14ab2fdbb89ff48b1fa22",
+      "triangles": 36242,
+      "photoIdentityAndVisibleFeaturesVerified": true,
+      "referenceIds": [
+        "bund-loop-bund6"
+      ],
+      "photoVerificationScope": "Building identity and listed visible exterior features only; unobserved elevations remain inferred",
+      "geometryConfidence": "Source-observed feature layout, estimated metric geometry",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-178408827-observed-front.png",
+          "sha256": "7a40cc67fd24b6697ad46786ed3f97fb042e6c00473c75ad04cd6e5521e3f7c3",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-178408827-observed-side.png",
+          "sha256": "6d518d8eae7b5accfa056c4fd847722ae3387a8ca72cc96ea36f65fabb65736f",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    },
+    {
+      "id": "bund-frontage-439877627",
+      "name": "仟宸大厦",
+      "ways": [
+        439877627
+      ],
+      "bytes": 284160,
+      "sha256": "c8318ce6833f3dc5366e65df61924f3a9b9b261482640cecc98fa636aef3b576",
+      "triangles": 17086,
+      "photoIdentityAndVisibleFeaturesVerified": true,
+      "referenceIds": [
+        "kaishi-xufei"
+      ],
+      "photoVerificationScope": "Building identity and listed visible exterior features only; unobserved elevations remain inferred",
+      "geometryConfidence": "Source-observed feature layout, estimated metric geometry",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-439877627-observed-front.png",
+          "sha256": "9197d1fdb8ac678593747dc68924d7d1843f9506ca79aaf7fd7a23803c26af8a",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-439877627-observed-side.png",
+          "sha256": "60d2c6617fcb112a099ec3cfbee1e0a16afea870acb375071770d710a54bad91",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    },
+    {
+      "id": "bund-frontage-439877626",
+      "name": "凯石大厦",
+      "ways": [
+        439877626
+      ],
+      "bytes": 744872,
+      "sha256": "8fc772751fb78f8e3ed23744c6147b5b2f6b5af4c47506489e60b52f951ea493",
+      "triangles": 45594,
+      "photoIdentityAndVisibleFeaturesVerified": true,
+      "referenceIds": [
+        "kaishi-xufei"
+      ],
+      "photoVerificationScope": "Building identity and listed visible exterior features only; unobserved elevations remain inferred",
+      "geometryConfidence": "Source-observed feature layout, estimated metric geometry",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-439877626-observed-front.png",
+          "sha256": "ff031086f133362c4a0d302b4407d277c682f6d0755b3a9953fd0bc471db6c2b",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-439877626-observed-side.png",
+          "sha256": "9c63c0521057a77c631e747b4d0917083d12741d0c8f15211a7aee399f12b60e",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    },
+    {
+      "id": "bund-frontage-1156865542",
+      "name": "金延大楼（德必外滩8号）",
+      "ways": [
+        1156865542
+      ],
+      "bytes": 296264,
+      "sha256": "146b9c54cc5668245a96f6a0d874a578fc78e69d7fef80fd99249ec3158e9b09",
+      "triangles": 17904,
+      "photoIdentityAndVisibleFeaturesVerified": true,
+      "referenceIds": [
+        "jinyan-xufei"
+      ],
+      "photoVerificationScope": "Identity and visible facade components verified; precise front-footprint correspondence unresolved",
+      "geometryConfidence": "Approximate: existing OSM stepped footprint does not determine the photographed flat facade plane",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-1156865542-observed-front.png",
+          "sha256": "7f2f36d397f6c8c2aa52e39a7441de2e4bac18f7abe63d30aac3f487efa35bb2",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-1156865542-observed-side.png",
+          "sha256": "3821bb282c363782e073d25686ec7a611d7d265cf2e25d54318c7cd63f6529ea",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    },
+    {
+      "id": "bund-frontage-1156865544",
+      "name": "法国邮船公司大楼（法邮大楼）",
+      "ways": [
+        1156865544
+      ],
+      "bytes": 1572508,
+      "sha256": "58d0b4b271ba8a360bff45dfcee86d804072a39ddabcf5b23a5e377490735002",
+      "triangles": 101641,
+      "photoIdentityAndVisibleFeaturesVerified": true,
+      "referenceIds": [
+        "bund-loop-fayou"
+      ],
+      "photoVerificationScope": "Building identity and listed visible exterior features only; unobserved elevations remain inferred",
+      "geometryConfidence": "Source-observed feature layout, estimated metric geometry",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-1156865544-observed-front.png",
+          "sha256": "3b95eb1f43590e6b0143df51b1d2639f3a1d5b6c38e289dd11177fa425891603",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-1156865544-observed-side.png",
+          "sha256": "351a48b4d96360eed7c61d6c470668f01b92d97f7eed37c66c7ff89ba50b4630",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    },
+    {
+      "id": "bund-frontage-1156865543",
+      "name": "光明金融大厦",
+      "ways": [
+        1156865543
+      ],
+      "bytes": 5180840,
+      "sha256": "cd11a0e8253b96aa22d96241a9bef71dfd705cc2f1ec986eb4c1cdf4eb19929e",
+      "triangles": 364742,
+      "photoIdentityAndVisibleFeaturesVerified": true,
+      "referenceIds": [
+        "bund-loop-guangming-tower",
+        "bund-loop-dc51a73214"
+      ],
+      "photoVerificationScope": "Building identity and listed visible exterior features only; unobserved elevations remain inferred",
+      "geometryConfidence": "Source-observed feature layout, estimated metric geometry",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-1156865543-observed-front.png",
+          "sha256": "fd36e690975a3b905211af0a061468bb4047b81c4d4d92718b1a1ef9d7908ea6",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-1156865543-observed-side.png",
+          "sha256": "5d82da74ce30da79c4f49fa55ade8bef35c492c39be90ae2600f25a48d21a5a9",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    },
+    {
+      "id": "bund-frontage-446933508",
+      "name": "金陵东路25–41号（圣亚纳／紫金公寓）",
+      "ways": [
+        446933508
+      ],
+      "bytes": 391024,
+      "sha256": "2af2a12742ee6910a3b719c67df7f6d88214a832d03c82ddff25249449b4f81e",
+      "triangles": 25276,
+      "photoIdentityAndVisibleFeaturesVerified": true,
+      "referenceIds": [
+        "jinling-frontage-33",
+        "jinling-frontage-34"
+      ],
+      "photoVerificationScope": "Building identity and listed visible exterior features only; unobserved elevations remain inferred",
+      "geometryConfidence": "Source-observed feature layout, estimated metric geometry",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-446933508-observed-front.png",
+          "sha256": "bc11df12acd245f36d8a7fa7b1502d44db36e7a31f890fb0ec2cd4b8ab541f1e",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-446933508-observed-side.png",
+          "sha256": "1047a9db0a4b925625138ed695e259e0c43c2bca2d416597459497490bec65d0",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    },
+    {
+      "id": "bund-frontage-446933528",
+      "name": "金陵东路21–23号骑楼",
+      "ways": [
+        446933528
+      ],
+      "bytes": 94428,
+      "sha256": "f6b2422ff8def13bca50be797b927cce8a351d941c0c5a0de53eab325b873d8c",
+      "triangles": 4944,
+      "photoIdentityAndVisibleFeaturesVerified": true,
+      "referenceIds": [
+        "jinling-frontage-30",
+        "jinling-frontage-33"
+      ],
+      "photoVerificationScope": "Building identity and listed visible exterior features only; unobserved elevations remain inferred",
+      "geometryConfidence": "Source-observed feature layout, estimated metric geometry",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-446933528-observed-front.png",
+          "sha256": "51caf53e33e1e3ae2bb30a8a5f921606e21261bdfa6e1a583d6117a4f98a4dab",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-446933528-observed-side.png",
+          "sha256": "e1fa217c7fddd3bbbfd2a2d2e3aab6df99777c08fed59371244fe37d42a8b6b2",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    },
+    {
+      "id": "bund-frontage-1198568466",
+      "name": "金陵东路17–19号骑楼",
+      "ways": [
+        1198568466
+      ],
+      "bytes": 48012,
+      "sha256": "2734d7b53fd814c66761d1cd3dd922b96ad5bde939d9a4799c891034cdd6c3ad",
+      "triangles": 2154,
+      "photoIdentityAndVisibleFeaturesVerified": true,
+      "referenceIds": [
+        "jinling-frontage-29",
+        "jinling-frontage-33"
+      ],
+      "photoVerificationScope": "Building identity and listed visible exterior features only; unobserved elevations remain inferred",
+      "geometryConfidence": "Source-observed feature layout, estimated metric geometry",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-1198568466-observed-front.png",
+          "sha256": "74ca42a9d6226de0d0af73c7fcabc7a3d1cd0b9e43c25b5cdc66c954bbaac54c",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-1198568466-observed-side.png",
+          "sha256": "904414a11b48b0052293524013047e0acc24928c7ea1df0893bb5aa612806194",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    },
+    {
+      "id": "bund-frontage-446933545",
+      "name": "东方商旅酒店（原东方饭店）",
+      "ways": [
+        446933545
+      ],
+      "bytes": 2706268,
+      "sha256": "5240af2a169890c3c55a0220637ba6ddcf9676fc4ab89e03389ad401ecfe9017",
+      "triangles": 180402,
+      "photoIdentityAndVisibleFeaturesVerified": true,
+      "referenceIds": [
+        "bund-loop-523cdb834d",
+        "bund-loop-guangming-tower"
+      ],
+      "photoVerificationScope": "Building identity and listed visible exterior features only; unobserved elevations remain inferred",
+      "geometryConfidence": "Source-observed feature layout, estimated metric geometry",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-446933545-observed-front.png",
+          "sha256": "742db4c8ad869afc304a98052e40b4f897d9bc7f0f5d4fabb14b383e574cabfb",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-446933545-observed-side.png",
+          "sha256": "07ddcedfb5b2f20ade670d2ba19815131481b8e191ba2c489d216cc07fa36a02",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    },
+    {
+      "id": "bund-frontage-446933520",
+      "name": "外滩华融大厦（中山东二路15号）",
+      "ways": [
+        446933520
+      ],
+      "bytes": 374680,
+      "sha256": "83a9cd95e5753877205138f930dd61a14cae6ba8ce296e558228eb4ee219a83d",
+      "triangles": 24266,
+      "photoIdentityAndVisibleFeaturesVerified": true,
+      "referenceIds": [
+        "huarong-xufei"
+      ],
+      "photoVerificationScope": "Building identity and listed visible exterior features only; unobserved elevations remain inferred",
+      "geometryConfidence": "Source-observed feature layout, estimated metric geometry",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-446933520-observed-front.png",
+          "sha256": "2be06aa67f2acba1ef8f007d8c26236155ffeffa4ff0dcb37485cfa49d1bd7c2",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-446933520-observed-side.png",
+          "sha256": "9ef6b06ef36107dbe6451d6d1d91d932c0061a7675546f8f82d28fbfe6a2f48a",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    },
+    {
+      "id": "bund-frontage-1198569402",
+      "name": "新永安路北侧玻璃圆筒分体（功能未确认）",
+      "ways": [
+        1198569402
+      ],
+      "bytes": 188664,
+      "sha256": "2b3aefedb8c6f3396768dc4afc7ee96f4738e96973c12a5c7c494f7f72ee5945",
+      "triangles": 10070,
+      "photoIdentityAndVisibleFeaturesVerified": true,
+      "referenceIds": [
+        "bund22-2020-3"
+      ],
+      "photoVerificationScope": "Building identity and listed visible exterior features only; unobserved elevations remain inferred",
+      "geometryConfidence": "Source-observed feature layout, estimated metric geometry",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-1198569402-observed-front.png",
+          "sha256": "b602eaf98653c6fd329789c163f7f92e2bdeef377104b5224da221e642db7599",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-1198569402-observed-side.png",
+          "sha256": "b44aa69c66a6f5b20e18ac8fb825c124be343b72fd011c0b0dec39dd96857df8",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    },
+    {
+      "id": "bund-frontage-495105937",
+      "name": "太古洋行旧址（丰华大楼、外滩22号）",
+      "ways": [
+        495105937
+      ],
+      "bytes": 949736,
+      "sha256": "27126a9877f0dd79f2b87e0d324271b6291d7cf9cdeca8cc0f15a306c3a46315",
+      "triangles": 62198,
+      "photoIdentityAndVisibleFeaturesVerified": true,
+      "referenceIds": [
+        "bund-loop-33ebcb5655"
+      ],
+      "photoVerificationScope": "Building identity and listed visible exterior features only; unobserved elevations remain inferred",
+      "geometryConfidence": "Source-observed feature layout, estimated metric geometry",
+      "views": [
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-495105937-observed-front.png",
+          "sha256": "3eb71dbd13cebb2677247137801ea2af0f031fa083cd69b785e3706ae2e7e798",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        },
+        {
+          "file": "public/streets/districts/bund/review/bund-frontage-495105937-observed-side.png",
+          "sha256": "a5c75a70d68a3d258c2abdfb1ad073eedd7e84c20b0727e820da212a80ab8f4b",
+          "dimensions": [
+            1280,
+            960
+          ],
+          "individuallyViewed": true
+        }
+      ]
+    }
+  ],
+  "processStatus": {
+    "initialBuildExited": true,
+    "targetedRefineExited": true,
+    "failedArcadeAttemptExited": true,
+    "recoveryBuildExited": true,
+    "verifiedAbsentPids": [
+      13578,
+      21682,
+      25374,
+      26432,
+      29781
+    ],
+    "threadCloseApiAvailable": false
+  }
+}

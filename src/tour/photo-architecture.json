@@ -1,0 +1,360 @@
+[
+  {
+    "id": "bund-18",
+    "name": "外滩18号",
+    "ways": [
+      1196704498
+    ],
+    "front": [
+      [
+        -827.78,
+        -172.18
+      ],
+      [
+        -825.4,
+        -142.3
+      ]
+    ],
+    "height": 25,
+    "depth": 49,
+    "bodyTop": 0.17,
+    "reference": "bund-18",
+    "backShift": 11.7
+  },
+  {
+    "id": "aia-building",
+    "name": "友邦大厦",
+    "ways": [
+      1196704497
+    ],
+    "front": [
+      [
+        -823.15,
+        -137.19
+      ],
+      [
+        -819.79,
+        -120.1
+      ]
+    ],
+    "height": 40,
+    "depth": 49,
+    "bodyTop": 0.235,
+    "reference": "aia-building",
+    "backShift": 5.1
+  },
+  {
+    "id": "russo-chinese-bank",
+    "name": "俄华道胜银行旧址",
+    "ways": [
+      178405875
+    ],
+    "front": [
+      [
+        -817.29,
+        -85.72
+      ],
+      [
+        -811.48,
+        -51.52
+      ]
+    ],
+    "height": 22,
+    "depth": 39,
+    "bodyTop": 0.125,
+    "reference": "russo-chinese-bank",
+    "backShift": 3.5
+  },
+  {
+    "id": "hsbc-bund",
+    "name": "原汇丰银行大楼",
+    "ways": [
+      -23809960
+    ],
+    "front": [
+      [
+        -797.24,
+        71.95
+      ],
+      [
+        -786.9,
+        154.68
+      ]
+    ],
+    "height": 52,
+    "depth": 55,
+    "bodyTop": 0.36,
+    "reference": "hsbc-bund",
+    "backShift": -5
+  },
+  {
+    "id": "customs-house",
+    "name": "江海关大楼",
+    "ways": [
+      178407318,
+      178407323,
+      178407326,
+      178407328,
+      178407330,
+      178407333
+    ],
+    "front": [
+      [
+        -805.6,
+        21.3
+      ],
+      [
+        -800.7,
+        61.1
+      ]
+    ],
+    "height": 79.2,
+    "depth": 26,
+    "bodyTop": 0.354,
+    "reference": "customs-house",
+    "facadeHeight": 57,
+    "backShift": 0
+  },
+  {
+    "id": "peace-hotel",
+    "name": "和平饭店",
+    "ways": [
+      -23763660
+    ],
+    "front": [
+      [
+        -828.4,
+        -251.6
+      ],
+      [
+        -826.8,
+        -221.5
+      ]
+    ],
+    "height": 77,
+    "depth": 132,
+    "bodyTop": 0.33,
+    "reference": "peace-hotel",
+    "side": "peace-side",
+    "backShift": -7
+  },
+  {
+    "id": "palace-hotel",
+    "name": "和平饭店南楼",
+    "ways": [
+      177998982
+    ],
+    "front": [
+      [
+        -830.1,
+        -200.1
+      ],
+      [
+        -828.45,
+        -181.38
+      ]
+    ],
+    "height": 35,
+    "depth": 80,
+    "bodyTop": 0.17,
+    "reference": "palace-hotel",
+    "side": "palace-side",
+    "backShift": 9
+  },
+  {
+    "id": "bank-china",
+    "name": "中国银行大楼",
+    "ways": [
+      177995050
+    ],
+    "front": [
+      [
+        -819.57,
+        -290.75
+      ],
+      [
+        -822.95,
+        -262.85
+      ]
+    ],
+    "height": 69,
+    "depth": 24,
+    "bodyTop": 0.254,
+    "reference": "bank-china",
+    "backShift": 0
+  },
+  {
+    "id": "bank-taiwan",
+    "name": "台湾银行旧址（外滩16号）",
+    "ways": [
+      1196704496
+    ],
+    "front": [
+      [
+        -819.49,
+        -115.38
+      ],
+      [
+        -816.26,
+        -97.68
+      ]
+    ],
+    "height": 26.5,
+    "depth": 47,
+    "bodyTop": 0.28,
+    "reference": "bank-taiwan",
+    "backShift": 5
+  },
+  {
+    "id": "bank-communications",
+    "name": "交通银行旧址（外滩14号）",
+    "ways": [
+      178405872
+    ],
+    "front": [
+      [
+        -805.87,
+        -20.92
+      ],
+      [
+        -802.68,
+        2.04
+      ]
+    ],
+    "height": 33,
+    "depth": 50,
+    "bodyTop": 0.23,
+    "reference": "bank-communications",
+    "backShift": -4
+  },
+  {
+    "id": "china-merchants",
+    "name": "轮船招商局大楼",
+    "ways": [
+      178408820
+    ],
+    "front": [
+      [
+        -777.62,
+        167.05
+      ],
+      [
+        -771.23,
+        191.89
+      ]
+    ],
+    "height": 16.5,
+    "depth": 15,
+    "bodyTop": 0.2,
+    "reference": "china-merchants"
+  },
+  {
+    "id": "asia-building",
+    "name": "亚细亚大楼",
+    "ways": [
+      178410323
+    ],
+    "front": [
+      [
+        -676.37,
+        369.59
+      ],
+      [
+        -664.72,
+        408.25
+      ]
+    ],
+    "height": 31,
+    "depth": 40,
+    "bodyTop": 0.15,
+    "reference": "asia-building"
+  },
+  {
+    "id": "super-brand-mall",
+    "name": "正大广场",
+    "ways": [
+      40779113
+    ],
+    "front": [
+      [
+        140.23,
+        56.61
+      ],
+      [
+        -11.31,
+        133.08
+      ]
+    ],
+    "height": 45,
+    "depth": 84,
+    "bodyTop": 0.16,
+    "reference": "super-brand-exterior",
+    "curve": 9
+  },
+  {
+    "id": "ocean-aquarium",
+    "name": "上海海洋水族馆",
+    "ways": [
+      404676268,
+      1533181378
+    ],
+    "front": [
+      [
+        380.79,
+        -437.96
+      ],
+      [
+        307.66,
+        -360.52
+      ]
+    ],
+    "height": 36,
+    "depth": 40,
+    "bodyTop": 0.55,
+    "reference": "ocean-aquarium"
+  },
+  {
+    "id": "hang-seng",
+    "name": "恒生银行大厦",
+    "ways": [
+      -129813070,
+      -129813071,
+      -129813072
+    ],
+    "front": [
+      [
+        824.99,
+        -349.63
+      ],
+      [
+        854.96,
+        -302.77
+      ]
+    ],
+    "height": 203.4,
+    "depth": 43,
+    "bodyTop": 0.036,
+    "reference": "hang-seng"
+  },
+  {
+    "id": "bea-tower",
+    "name": "东亚银行金融大厦",
+    "ways": [
+      446935274
+    ],
+    "front": [
+      [
+        329.7,
+        320.03
+      ],
+      [
+        357.1,
+        358.96
+      ]
+    ],
+    "height": 197.7,
+    "depth": 35,
+    "bodyTop": 0.185,
+    "reference": "bea-tower"
+  }
+]

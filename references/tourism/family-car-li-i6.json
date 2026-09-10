@@ -1,0 +1,53 @@
+{
+  "car": "li-i6",
+  "sourceYear": 2025,
+  "modelIdentity": "Li Auto i6 production electric SUV",
+  "references": [
+    {
+      "path": "assets/vehicles/family-exteriors/references/li-i6-002.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Li_Auto_i6_002.jpg",
+      "license": "CC0 1.0",
+      "author": "JustAnotherCarDesigner",
+      "view": "rear three-quarter",
+      "actuallyViewed": true,
+      "bytes": 1573920,
+      "sha256": "c330de9d4b70daad190b61994fd74fcb9812e4ff2049c0fbe2b6057c6552a595"
+    },
+    {
+      "path": "assets/vehicles/family-exteriors/references/li-i6-003.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Li_Auto_i6_003.jpg",
+      "license": "CC0 1.0",
+      "author": "JustAnotherCarDesigner",
+      "view": "front three-quarter",
+      "actuallyViewed": true,
+      "bytes": 1953361,
+      "sha256": "fd5fbd6b1f4a467f27b77db6fbc8f449a0bdf0aafca376b7399a598196e44b1c"
+    },
+    {
+      "path": "assets/vehicles/family-exteriors/references/li-i6-004.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Li_Auto_i6_004.jpg",
+      "license": "CC0 1.0",
+      "author": "JustAnotherCarDesigner",
+      "view": "front three-quarter and side",
+      "actuallyViewed": true,
+      "bytes": 2027830,
+      "sha256": "b55ed9f6c3d18eddf8327cea3d7b367ae5e346019fab7a9a4f815b54c5d4a8cf"
+    },
+    {
+      "path": "assets/vehicles/family-exteriors/references/li-i6-006.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Li_Auto_i6_006.jpg",
+      "license": "CC0 1.0",
+      "author": "JustAnotherCarDesigner",
+      "view": "near-side profile, photographed 2026-05-02; wheel option differs and is not used for wheel design",
+      "actuallyViewed": true,
+      "bytes": 1205208,
+      "sha256": "7fd8de6a9c4e3892da13d896737d22401d10859cd5ec20618f6215e9c3f7cbf3"
+    }
+  ],
+  "referenceUse": "Visual proportion and feature study only; photographs are never used as vehicle textures",
+  "cadSource": null,
+  "construction": "Original body sections, roof sections, cut wheel arches, fitted window/lighting surfaces and manufactured wheel geometry; no prototype asset loaded",
+  "observedFeatures": [
+    "Unbroken black arched upper cabin, long sloping hood, elevated star ring at windshield base, vertical stacked bumper lamps, 10 swept aero wheel blades, continuous narrow rear LED"
+  ]
+}

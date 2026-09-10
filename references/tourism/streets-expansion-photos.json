@@ -1,0 +1,1676 @@
+[
+  {
+    "id": "astor-front",
+    "title": "Astor House Hotel (Shanghai) 20250501-1.jpg",
+    "wayIds": [
+      293504494
+    ],
+    "categories": [
+      "bund",
+      "landmarks"
+    ],
+    "subject": "浦江饭店桥头正立面",
+    "file": "assets/streets/reference-expansion/astor-front.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Astor_House_Hotel_(Shanghai)_20250501-1.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Astor_House_Hotel_%28Shanghai%29_20250501-1.jpg",
+    "author": "Suicasmo",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "date": "2025-05-01 08:30:05",
+    "description": "Astor House Hotel (Shanghai)",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 5184,
+    "originalHeight": 3456,
+    "isOriginal": true,
+    "bytes": 5909495,
+    "sha256": "db4217a6c6b786ae7852251e767f041ab6ae437494f67b030e27ef4b3c81f33b",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "真实浦江饭店街角外景；五层左右灰米色石墙、圆角塔、尖/弧山花、拱窗、二层黑铁栏杆、红色雨篷。背后高层不是同一建筑。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 293504494,
+        "latitude": 31.2462409,
+        "longitude": 121.4864952,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "astor-side",
+    "title": "Astor House Hotel (Shanghai) 20250501-2.jpg",
+    "wayIds": [
+      293504494
+    ],
+    "categories": [
+      "bund",
+      "landmarks"
+    ],
+    "subject": "Astor House Hotel ballroom interior (excluded from exterior modeling)",
+    "file": "assets/streets/reference-expansion/astor-side.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Astor_House_Hotel_(Shanghai)_20250501-2.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/5/53/Astor_House_Hotel_%28Shanghai%29_20250501-2.jpg",
+    "author": "Suicasmo",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "date": "2025-05-01 15:37:50",
+    "description": "Astor House Hotel (Shanghai)",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 5184,
+    "originalHeight": 3456,
+    "isOriginal": true,
+    "bytes": 7549791,
+    "sha256": "326f0d6a4160a05b41b87a29e2d40524033107d4117c74b78f3e2d7cec1a2cb2",
+    "usage": "rejected-interior",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": false,
+      "observations": "实际为室内舞厅、吊灯和拱顶，不能用于外墙或作为街景外观证据。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 293504494,
+        "latitude": 31.2462409,
+        "longitude": 121.4864952,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "jardine-front",
+    "title": "Jardine Matheson Building Shanghai 20250501.jpg",
+    "wayIds": [
+      177930855
+    ],
+    "categories": [
+      "bund",
+      "landmarks"
+    ],
+    "subject": "怡和洋行/外滩27号",
+    "file": "assets/streets/reference-expansion/jardine-front.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jardine_Matheson_Building_Shanghai_20250501.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Jardine_Matheson_Building_Shanghai_20250501.jpg",
+    "author": "Suicasmo",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "date": "2025-05-01 08:39:15",
+    "description": "Jardine Matheson Building Shanghai",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 5184,
+    "originalHeight": 3456,
+    "isOriginal": true,
+    "bytes": 7944171,
+    "sha256": "73ff84a39dbcf822d3f5486b12f93983fa5f2737f762d32a568793cc745d5e57",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "怡和洋行街道正侧立面；七层退台体量，底层粗面石券洞，中央巨柱跨三层，上部两层退台，石栏杆与深出檐。树叶遮挡左侧，不应烘焙为立面。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 177930855,
+        "latitude": 31.2423724,
+        "longitude": 121.4853442,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "great-northern",
+    "title": "Great Northern Telegraph Building 20250501.jpg",
+    "wayIds": [
+      178408810
+    ],
+    "categories": [
+      "bund",
+      "landmarks"
+    ],
+    "subject": "大北电报/盘谷银行",
+    "file": "assets/streets/reference-expansion/great-northern.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Great_Northern_Telegraph_Building_20250501.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Great_Northern_Telegraph_Building_20250501.jpg",
+    "author": "Suicasmo",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "date": "2025-05-01 08:54:36",
+    "description": "Great Northern Telegraph Building",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 5184,
+    "originalHeight": 3456,
+    "isOriginal": true,
+    "bytes": 6600834,
+    "sha256": "4cce7f5272e949eff1f874a8f10a9c44f0e61085322cc1f2fb5174d802c7cfe9",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "大北电报/盘谷银行完整外景；四层主立面，两角低圆屋顶与弧山花，二三层成对柱，窗上三角/弧形窗楣，底层券洞；浅米石材。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 178408810,
+        "latitude": 31.2370614,
+        "longitude": 121.485951,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "nissin",
+    "title": "Nissin Building 20250501.jpg",
+    "wayIds": [
+      178408821
+    ],
+    "categories": [
+      "bund",
+      "landmarks"
+    ],
+    "subject": "日清大楼/外滩五号",
+    "file": "assets/streets/reference-expansion/nissin.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Nissin_Building_20250501.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nissin_Building_20250501.jpg",
+    "author": "Suicasmo",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "date": "2025-05-01 08:56:33",
+    "description": "Nissin Building",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 3456,
+    "originalHeight": 5184,
+    "isOriginal": true,
+    "bytes": 5675385,
+    "sha256": "3cff1c24a4762a0c099d8b96d663fc704871421853b8904a95327f5352f574b3",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "日清大楼完整外景；六层左右，左右高起山花与顶部弧窗，中部三层窄格窗和浅凸窗，两侧底层大门；HF恒丰银行招牌为2025照片状态。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 178408821,
+        "latitude": 31.236374,
+        "longitude": 121.4861165,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "yokohama",
+    "title": "Former Yokohama Specie Bank Building Shanghai 20250501.jpg",
+    "wayIds": [
+      177993356
+    ],
+    "categories": [
+      "bund",
+      "landmarks"
+    ],
+    "subject": "横滨正金银行/中国工商银行外滩24号",
+    "file": "assets/streets/reference-expansion/yokohama.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Former_Yokohama_Specie_Bank_Building_Shanghai_20250501.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Former_Yokohama_Specie_Bank_Building_Shanghai_20250501.jpg",
+    "author": "Suicasmo",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "date": "2025-05-01 08:40:21",
+    "description": "Former Yokohama Specie Bank Building Shanghai",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 3456,
+    "originalHeight": 5184,
+    "isOriginal": true,
+    "bytes": 7277209,
+    "sha256": "5547914ac8884f3aa3e5f58f8b90adcf66d272d5251275e6e695166cf3d5c0d1",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "横滨正金/ICBC外滩24号外景；两根中央巨型爱奥尼柱、顶部退台露台/栏板、两侧小阳台，深色底层三门。背后左侧中国银行不可合并入本楼。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 177993356,
+        "latitude": 31.2418741,
+        "longitude": 121.4850226,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "yangtze-insurance",
+    "title": "Yangtze Insurance Building 20250501.jpg",
+    "wayIds": [
+      177931019
+    ],
+    "categories": [
+      "bund",
+      "landmarks"
+    ],
+    "subject": "扬子保险/中国农业银行",
+    "file": "assets/streets/reference-expansion/yangtze-insurance.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Yangtze_Insurance_Building_20250501.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Yangtze_Insurance_Building_20250501.jpg",
+    "author": "Suicasmo",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "date": "2025-05-01 08:40:15",
+    "description": "Yangtze Insurance Building",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 3456,
+    "originalHeight": 5184,
+    "isOriginal": true,
+    "bytes": 7513549,
+    "sha256": "a0af0744fc86b75453ea239ff30c7b9624d910313ce658e76e93655fa63565aa",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "扬子保险/ABC外滩26号；窄长立面，底层三门、二层五组拱窗并有连续铁阳台，中部细长方窗，顶层双柱内凹露台与两侧方顶。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 177931019,
+        "latitude": 31.2420131,
+        "longitude": 121.4853318,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "union-building",
+    "title": "Union Building, Shanghai 20250501.jpg",
+    "wayIds": [
+      178408816
+    ],
+    "categories": [
+      "bund",
+      "landmarks"
+    ],
+    "subject": "有利大楼/外滩3号",
+    "file": "assets/streets/reference-expansion/union-building.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Union_Building,_Shanghai_20250501.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Union_Building%2C_Shanghai_20250501.jpg",
+    "author": "Suicasmo",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "date": "2025-05-01 08:56:46",
+    "description": "Union Building, Shanghai",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 3456,
+    "originalHeight": 5184,
+    "isOriginal": true,
+    "bytes": 6180441,
+    "sha256": "1650425436106e4f128f0e3aecbd42afbaef359250b794184d51c7c243e80091",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "有利大楼街角外景；六层主楼与角部独立高塔、塔冠绿色小穹顶、主楼上层拱窗、中间层方窗、角部多层铁阳台。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 178408816,
+        "latitude": 31.2360763,
+        "longitude": 121.4863059,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "banque-indochine",
+    "title": "Banque de l'Indochine Building, Shanghai 20250501.jpg",
+    "wayIds": [
+      177930859
+    ],
+    "categories": [
+      "bund",
+      "landmarks"
+    ],
+    "subject": "东方汇理银行/中国光大银行外滩29号",
+    "file": "assets/streets/reference-expansion/banque-indochine.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Banque_de_l%27Indochine_Building,_Shanghai_20250501.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Banque_de_l%27Indochine_Building%2C_Shanghai_20250501.jpg",
+    "author": "Suicasmo",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "date": "2025-05-01 08:38:11",
+    "description": "Banque de l'Indochine Building, Shanghai",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 3456,
+    "originalHeight": 5184,
+    "isOriginal": true,
+    "bytes": 7205785,
+    "sha256": "2fda7a98167a993423a2e0dec67ca721d46a6720367180f2a068a4ccd0e08d59",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "东方汇理/光大外滩29号三层主立面，中央两根巨柱、底层拱窗与华丽门头、上层半圆窗楣、顶部栏杆与两角石栏板。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 177930859,
+        "latitude": 31.2430551,
+        "longitude": 121.4853393,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "bund-street-wide",
+    "title": "The Bund 20250501.jpg",
+    "wayIds": [],
+    "categories": [
+      "bund",
+      "furniture"
+    ],
+    "subject": "外滩街道与道路侧绿化",
+    "file": "assets/streets/reference-expansion/bund-street-wide.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Bund_20250501.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/5/59/The_Bund_20250501.jpg",
+    "author": "Suicasmo",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "date": "2025-05-01 08:47:51",
+    "description": "The Bund",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 5184,
+    "originalHeight": 3456,
+    "isOriginal": true,
+    "bytes": 6755992,
+    "sha256": "c56f1a5b5d8d3c5cb391d5fa6d5b246a7edb4fd8dba5c2cc573de2aad134368c",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "沿外滩16-20号向北的外景；石质宽人行道、黄色路缘、独立木条花桶、黑色弯臂路灯/信号杆、路口斑马线。建筑紧密相邻且高低差显著。"
+    },
+    "subjectCoordinates": [],
+    "photoRole": "streetscape-context",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "waibaidu-side",
+    "title": "Waibaidu Bridge 20250501-1.jpg",
+    "wayIds": [],
+    "categories": [
+      "bund",
+      "furniture"
+    ],
+    "subject": "外白渡桥桁架与桥头",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/waibaidu-side.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Waibaidu_Bridge_20250501-1.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Waibaidu_Bridge_20250501-1.jpg/1920px-Waibaidu_Bridge_20250501-1.jpg",
+    "author": "Suicasmo",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "date": "2025-05-01 15:32:34",
+    "description": "Waibaidu Bridge",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 5184,
+    "originalHeight": 3456,
+    "isOriginal": false,
+    "bytes": 502475,
+    "sha256": "a4ca5061d4b355e1b80707fb0955eda3ef4180dd3c743a7964b388522c822e55",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "真实两跨钢桁架桥全景，浅灰色双侧上弦轻弧，两端斜腹杆落到桥面，内格为双X网，中央实体桥墩、外侧密竖杆步道护栏；桥两端不可加低横梁穿道路。远处楼群只作比例与视线背景。"
+    },
+    "subjectCoordinates": [],
+    "photoRole": "streetscape-context",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "waibaidu-deck",
+    "title": "Waibaidu Bridge 20250501-2.jpg",
+    "wayIds": [],
+    "categories": [
+      "bund",
+      "furniture"
+    ],
+    "subject": "Waibaidu Bridge closer side view and truss connection details",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/waibaidu-deck.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Waibaidu_Bridge_20250501-2.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Waibaidu_Bridge_20250501-2.jpg/1920px-Waibaidu_Bridge_20250501-2.jpg",
+    "author": "Suicasmo",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "date": "2025-05-01 15:33:07",
+    "description": "Waibaidu Bridge",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 5184,
+    "originalHeight": 3456,
+    "isOriginal": false,
+    "bytes": 602587,
+    "sha256": "031e17f1ba6ba876e3aa8aad7f572c0cc8bc74dfc82b101aae31bddc3ad102f6",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "实际是桥另一侧向下游的侧视，不是路面行车视角；可见横向上弦X连接、铆钉节点板、白灰密竖杆步道栏杆、桥下菱形孔边板和中央分跨处。"
+    },
+    "subjectCoordinates": [],
+    "photoRole": "streetscape-context",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "bund-russo-front",
+    "title": "Former Russo-Chinese Bank Building, Shanghai 20250501.jpg",
+    "wayIds": [
+      178405875
+    ],
+    "categories": [
+      "bund",
+      "landmarks"
+    ],
+    "subject": "俄华道胜银行外立面补充",
+    "file": "assets/streets/reference-expansion/bund-russo-front.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Former_Russo-Chinese_Bank_Building,_Shanghai_20250501.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Former_Russo-Chinese_Bank_Building%2C_Shanghai_20250501.jpg/1920px-Former_Russo-Chinese_Bank_Building%2C_Shanghai_20250501.jpg",
+    "author": "Suicasmo",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "date": "2025-05-01 08:47:35",
+    "description": "Former Russo-Chinese Bank Building, Shanghai",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 5184,
+    "originalHeight": 3456,
+    "isOriginal": false,
+    "bytes": 552608,
+    "sha256": "d30a1ce3f3dffedf7d2ce9520a031107c6a4960168df3852b23e14058434c253",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "俄华道胜银行2025正面，中央两根贯通二三层圆柱、下层三券窗、上层三平窗、人物与翼纹浅浮雕、顶层石栏板。真实三维细节应按此近景补充，底层行人与灯杆不是立面。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 178405875,
+        "latitude": 31.2395742,
+        "longitude": 121.485235,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "hsbc-side-detail",
+    "title": "HSBC Building, Shanghai 20250501-2.jpg",
+    "wayIds": [
+      -23809960
+    ],
+    "categories": [
+      "bund",
+      "landmarks"
+    ],
+    "subject": "汇丰侧立面与柱廊补充",
+    "file": "assets/streets/reference-expansion/hsbc-side-detail.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:HSBC_Building,_Shanghai_20250501-2.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/HSBC_Building%2C_Shanghai_20250501-2.jpg/1920px-HSBC_Building%2C_Shanghai_20250501-2.jpg",
+    "author": "Suicasmo",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "date": "2025-05-01 08:52:46",
+    "description": "HSBC Building, Shanghai",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 5184,
+    "originalHeight": 3456,
+    "isOriginal": false,
+    "bytes": 673118,
+    "sha256": "4c16afe22d26e38e28a967b7970f22184ec1a967b324d27ce6c49f200c8b3d7b",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "汇丰大楼左前侧真实外景；六根中央科林斯巨柱跨三层、三券入口、粗面石墙、细密窗框、上部中央鼓座与圆顶。海关钟楼是相邻建筑。可见球灯壁灯、独立花箱与路面信号杆，不能烘焙为墙体。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": -23809960,
+        "latitude": 31.2379648,
+        "longitude": 121.4853612,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "lujiazui-intersection",
+    "title": "2014.11.16.165410 Lujiazui Intersection Shanghai.jpg",
+    "wayIds": [],
+    "categories": [
+      "pudong",
+      "furniture"
+    ],
+    "subject": "陆家嘴路与环路路口；环形天桥/斑马线/道路设施",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/lujiazui-intersection.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2014.11.16.165410_Lujiazui_Intersection_Shanghai.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/2014.11.16.165410_Lujiazui_Intersection_Shanghai.jpg/1920px-2014.11.16.165410_Lujiazui_Intersection_Shanghai.jpg",
+    "author": "Hermann Luyken",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "date": "2014-11-16 16:54:10",
+    "description": "Lujiazui Road and Lujazui Ring Road intersection in Pudong at sunset - Shanghai, China, 16.22.2014",
+    "cameraCoordinates": {
+      "latitude": "31.240553",
+      "longitude": "121.495710"
+    },
+    "originalWidth": 2736,
+    "originalHeight": 1824,
+    "isOriginal": false,
+    "bytes": 467115,
+    "sha256": "12f59f1086dee1242e35e70047b7a88b1c0162263ca812305ef8441af0740e46",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "2014陆家嘴天桥与绿岛近景，细银色柱玻璃栏杆、圆弧金属包边、厚箱梁、T形包板桥墩、绿岛低矮多色花坛、弯曲支臂现代路灯。仅作设施形体与道路关系参考；交通和广告为当年状态。"
+    },
+    "subjectCoordinates": [],
+    "photoRole": "streetscape-context",
+    "cameraCoordinateStatus": "provided-in-Commons-metadata"
+  },
+  {
+    "id": "broadway-front",
+    "title": "Broadway Mansions Shanghai (2024) - img 01.jpg",
+    "wayIds": [
+      488961017
+    ],
+    "categories": [
+      "bund",
+      "landmarks"
+    ],
+    "subject": "上海大厦完整塔楼",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/broadway-front.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Broadway_Mansions_Shanghai_(2024)_-_img_01.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Broadway_Mansions_Shanghai_%282024%29_-_img_01.jpg/1920px-Broadway_Mansions_Shanghai_%282024%29_-_img_01.jpg",
+    "author": "Chainwit.",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "date": "2024-04-24 19:03:45",
+    "description": "Broadway Mansions, Shanghai at night",
+    "cameraCoordinates": {
+      "latitude": "31.245900",
+      "longitude": "121.485733"
+    },
+    "originalWidth": 3024,
+    "originalHeight": 4032,
+    "isOriginal": false,
+    "bytes": 1351386,
+    "sha256": "0c0e89d288cf6e5be396625727f066c610f1a0e440af72b47553feb40dec0e60",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "上海大厦夜景正侧面；中央高起竖向窗带、数级退台翼楼，砖石细分明显。暖色泛光改变墙面颜色，不能据此设定白天的橙色材质。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 488961017,
+        "latitude": 31.246321,
+        "longitude": 121.4854927,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "provided-in-Commons-metadata"
+  },
+  {
+    "id": "broadway-bridge",
+    "title": "Broadway Mansions Shanghai (2024) - img 04.jpg",
+    "wayIds": [
+      488961017
+    ],
+    "categories": [
+      "bund",
+      "landmarks"
+    ],
+    "subject": "上海大厦桥头外景",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/broadway-bridge.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Broadway_Mansions_Shanghai_(2024)_-_img_04.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Broadway_Mansions_Shanghai_%282024%29_-_img_04.jpg/1920px-Broadway_Mansions_Shanghai_%282024%29_-_img_04.jpg",
+    "author": "Chainwit.",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "date": "2024-04-24 19:07:20",
+    "description": "Broadway Mansions, Shanghai at night",
+    "cameraCoordinates": {
+      "latitude": "31.245258",
+      "longitude": "121.485619"
+    },
+    "originalWidth": 4032,
+    "originalHeight": 3024,
+    "isOriginal": false,
+    "bytes": 797940,
+    "sha256": "d02b27cbc6d91a27a9fd2dc0fcbfd7f215054c082ca565b5d241e7666caac6c1",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "从桥边看上海大厦夜间全体量；中央较高矩形主塔、三段不同高度翼楼、低裙房与河岸关系清楚。可作总体轮廓参考，不作日间材质色准。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 488961017,
+        "latitude": 31.246321,
+        "longitude": 121.4854927,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "provided-in-Commons-metadata"
+  },
+  {
+    "id": "glen-line",
+    "title": "Glen Line Building, Shanghai.jpg",
+    "wayIds": [
+      177930858
+    ],
+    "categories": [
+      "bund",
+      "landmarks"
+    ],
+    "subject": "格林邮船/上海清算所外滩28号",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/glen-line.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Glen_Line_Building,_Shanghai.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Glen_Line_Building%2C_Shanghai.jpg/1920px-Glen_Line_Building%2C_Shanghai.jpg",
+    "author": "钉钉",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2022-08-28",
+    "description": "Glen Line Building, Shanghai",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 3000,
+    "originalHeight": 4000,
+    "isOriginal": false,
+    "bytes": 1218044,
+    "sha256": "d6883f9779e61fb0a8c85eb5c65eb468da7998eaf576762cd58a8a8af6fe1efe",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "格林邮船/上海清算所外滩28号，七层主楼加中部屋顶小亭，圆弧街角、竖向凸窗、灰色风化石墙、强水平檐口、底部拱窗与三门门廊。人行道可见黑色双分类垃圾桶。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 177930858,
+        "latitude": 31.2428449,
+        "longitude": 121.4852425,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "shanghai-club",
+    "title": "Shanghai Club Dec 2017.jpg",
+    "wayIds": [
+      178410325
+    ],
+    "categories": [
+      "bund",
+      "landmarks"
+    ],
+    "subject": "上海总会/华尔道夫外滩2号",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/shanghai-club.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Club_Dec_2017.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Shanghai_Club_Dec_2017.jpg/1920px-Shanghai_Club_Dec_2017.jpg",
+    "author": "ScareCriterion12",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2017-12-24 10:57:50",
+    "description": "Shanghai Club, 2 The Bund",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 6000,
+    "originalHeight": 4000,
+    "isOriginal": false,
+    "bytes": 640163,
+    "sha256": "008e5b5ded4d5039100290d2a8713d8969951afca1ce47ddadf9dcfea5760cd1",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "上海总会外景，左右对称屋顶钟形小亭，上部三拱窗组、中央六根爱奥尼巨柱、交替三角和弧形窗楣、玻璃入口雨篷。圣诞装饰和人物为临时对象。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 178410325,
+        "latitude": 31.2357915,
+        "longitude": 121.4865459,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "signal-tower",
+    "title": "Gutzlaff Signal Tower.jpg",
+    "wayIds": [
+      440730276
+    ],
+    "categories": [
+      "bund",
+      "landmarks"
+    ],
+    "subject": "外滩信号台/气象信号台",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/signal-tower.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Gutzlaff_Signal_Tower.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Gutzlaff_Signal_Tower.jpg/1920px-Gutzlaff_Signal_Tower.jpg",
+    "author": "钉钉",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2022-08-28",
+    "description": "Gutzlaff Signal Tower",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 3000,
+    "originalHeight": 4000,
+    "isOriginal": false,
+    "bytes": 1190842,
+    "sha256": "798dc8675abacaeeecaa8d8538a6838447766bf176d01817954ed584dadb6bbb",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "外滩信号台近景，红白石水平分层两层底座、细长米色圆柱塔、三圈红色带、顶端环形栏杆与钢信号杆。塔位于道路和滨江步行空间之间，不能直接放到水边。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 440730276,
+        "latitude": 31.2351596,
+        "longitude": 121.4877833,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "signal-riverside",
+    "title": "Gutzlaff Signal Tower & The Bund.jpg",
+    "wayIds": [
+      440730276
+    ],
+    "categories": [
+      "bund",
+      "landmarks"
+    ],
+    "subject": "信号台与滨江步道关系",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/signal-riverside.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Gutzlaff_Signal_Tower_%26_The_Bund.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Gutzlaff_Signal_Tower_%26_The_Bund.jpg/1920px-Gutzlaff_Signal_Tower_%26_The_Bund.jpg",
+    "author": "钉钉",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2022-08-28",
+    "description": "Gutzlaff Signal Tower & The Bund",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 3929,
+    "originalHeight": 2697,
+    "isOriginal": false,
+    "bytes": 527622,
+    "sha256": "7db7a9bee89998840baede66910844f48067efbde4a24fec49ab6a9b070ff3ec",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "信号台旁滨江人行空间；灰色方石立柱加深色圆扶手，多道细横杆及斜撑，宽灰色石板铺地和深色拼缝、下街楼梯、细杆长方灯头路灯。可作为滨江栏杆与铺装近景依据。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 440730276,
+        "latitude": 31.2351596,
+        "longitude": 121.4877833,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "union-door",
+    "title": "有利大楼正门.jpg",
+    "wayIds": [
+      178408816
+    ],
+    "categories": [
+      "bund",
+      "landmarks"
+    ],
+    "subject": "有利大楼门头细节",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/union-door.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%E6%9C%89%E5%88%A9%E5%A4%A7%E6%A5%BC%E6%AD%A3%E9%97%A8.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/%E6%9C%89%E5%88%A9%E5%A4%A7%E6%A5%BC%E6%AD%A3%E9%97%A8.jpg/1920px-%E6%9C%89%E5%88%A9%E5%A4%A7%E6%A5%BC%E6%AD%A3%E9%97%A8.jpg",
+    "author": "Legolas1024",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "date": "2013-12-29 16:09:39",
+    "description": "​有利大楼正门",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 3456,
+    "originalHeight": 5184,
+    "isOriginal": false,
+    "bytes": 1275066,
+    "sha256": "526c01c748dd5682d04b7f020343861ba91125384e58c90ac5a214f72a67837b",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "外滩3号有利大楼正门特写；三角山花、中央圆拱、花叶浮雕、两根爱奥尼柱与分段粗面柱脚、黑色玻璃分格门、绿色玻璃金属雨篷。电线、行人、圣诞树不属于永久建筑。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 178408816,
+        "latitude": 31.2360763,
+        "longitude": 121.4863059,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-detail-only",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "union-tower",
+    "title": "有利大楼塔楼.jpg",
+    "wayIds": [
+      178408816
+    ],
+    "categories": [
+      "bund",
+      "landmarks"
+    ],
+    "subject": "有利大楼角塔细节",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/union-tower.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%E6%9C%89%E5%88%A9%E5%A4%A7%E6%A5%BC%E5%A1%94%E6%A5%BC.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/%E6%9C%89%E5%88%A9%E5%A4%A7%E6%A5%BC%E5%A1%94%E6%A5%BC.jpg/1920px-%E6%9C%89%E5%88%A9%E5%A4%A7%E6%A5%BC%E5%A1%94%E6%A5%BC.jpg",
+    "author": "Legolas1024",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "date": "2013-12-29 16:16:41",
+    "description": "​有利大楼塔楼",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 3456,
+    "originalHeight": 5184,
+    "isOriginal": false,
+    "bytes": 912409,
+    "sha256": "9bb068c6a23d736b87061dab6e3c6a19f68f9bee5fb423813c517831516b91b9",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "有利大楼角塔特写；四面长窗加巨柱、上方小洋葱穹顶、下方圆眼窗带花环浮雕、铁栏角阳台、两侧连续弧窗。只证明角塔和上层细部，不代表全楼轮廓。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 178408816,
+        "latitude": 31.2360763,
+        "longitude": 121.4863059,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-detail-only",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "shanghai-tower-base",
+    "title": "Shanghai Tower bottom view (October 1st 2022).jpg",
+    "wayIds": [
+      165792123
+    ],
+    "categories": [
+      "pudong",
+      "landmarks"
+    ],
+    "subject": "上海中心底部与双层玻璃幕墙",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/shanghai-tower-base.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Tower_bottom_view_(October_1st_2022).jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Shanghai_Tower_bottom_view_%28October_1st_2022%29.jpg/1920px-Shanghai_Tower_bottom_view_%28October_1st_2022%29.jpg",
+    "author": "Bechology",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "date": "2022-10-01",
+    "description": "​上海中心大厦仰视图。拍摄日期2022年10月1日。",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 2268,
+    "originalHeight": 4032,
+    "isOriginal": false,
+    "bytes": 1045857,
+    "sha256": "b058a30116ff6ab32583dacc9e78582fbd9542c646d121afc517e99f9ca30976",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "上海中心自街道仰视，连续扭转玻璃外皮、密水平分层带、底部双层幕墙内的支撑斜杆、非对称顶部清楚。树木遮挡、广角透视和倒影不能当作立面尺寸。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 165792123,
+        "latitude": 31.2355553,
+        "longitude": 121.5012685,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "shanghai-tower-full",
+    "title": "Shanghai Tower, August 2023.jpg",
+    "wayIds": [
+      165792123
+    ],
+    "categories": [
+      "pudong",
+      "landmarks"
+    ],
+    "subject": "上海中心整体扭转轮廓",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/shanghai-tower-full.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Tower,_August_2023.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Shanghai_Tower%2C_August_2023.jpg/1920px-Shanghai_Tower%2C_August_2023.jpg",
+    "author": "Francisco Javier PB",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2023-08-14",
+    "description": "Shanghai Tower, August 2023.",
+    "cameraCoordinates": {
+      "latitude": "31.234230",
+      "longitude": "121.506320"
+    },
+    "originalWidth": 3024,
+    "originalHeight": 4032,
+    "isOriginal": false,
+    "bytes": 1064183,
+    "sha256": "4be19e3874143ee8e7f1678f72c263816f1f17f388b75f37e2f9cc4a39179e30",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "上海中心从基座仰视的近景；蓝灰矩形玻璃格、水平圆边梁、扭转的竖向接缝，前景低矮金色弯曲入口体。属于透视细节图，不是正投影测绘全立面。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 165792123,
+        "latitude": 31.2355553,
+        "longitude": 121.5012685,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-detail-only",
+    "cameraCoordinateStatus": "provided-in-Commons-metadata"
+  },
+  {
+    "id": "jinmao-front",
+    "title": "20191114 Jin Mao Tower-1.jpg",
+    "wayIds": [
+      376075961
+    ],
+    "categories": [
+      "pudong",
+      "landmarks"
+    ],
+    "subject": "金茂大厦整体轮廓",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/jinmao-front.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:20191114_Jin_Mao_Tower-1.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/20191114_Jin_Mao_Tower-1.jpg/1920px-20191114_Jin_Mao_Tower-1.jpg",
+    "author": "Balon Greyjoy",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "date": "14 November 2019, 14:36",
+    "description": "The Jin Mao Tower in Shanghai.",
+    "cameraCoordinates": {
+      "latitude": "31.241550",
+      "longitude": "121.497100"
+    },
+    "originalWidth": 3840,
+    "originalHeight": 5760,
+    "isOriginal": false,
+    "bytes": 1568368,
+    "sha256": "fc69d77151d78cafd2b2db23212821167d98495cef8b8bad0723a0f6df0dcbed",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "金茂大厦街侧仰视；密集金属竖肋、八角倒角、层层收分的塔身和宝塔式水平挑檐清楚。建筑顶部/底部依照片画幅和透视有局限，不能单图量高。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 376075961,
+        "latitude": 31.2372508,
+        "longitude": 121.5014061,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "provided-in-Commons-metadata"
+  },
+  {
+    "id": "jinmao-detail",
+    "title": "Jin Mao Tower Close-Up.jpg",
+    "wayIds": [
+      376075961
+    ],
+    "categories": [
+      "pudong",
+      "landmarks"
+    ],
+    "subject": "金茂层级退台和塔冠细节",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/jinmao-detail.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jin_Mao_Tower_Close-Up.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Jin_Mao_Tower_Close-Up.jpg/1920px-Jin_Mao_Tower_Close-Up.jpg",
+    "author": "Jakob Montrasio",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "date": "2007-04-05 21:23:35",
+    "description": "Jin Mao Tower",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 3139,
+    "originalHeight": 2114,
+    "isOriginal": false,
+    "bytes": 799839,
+    "sha256": "ce26d182d45039e29d3be9abe892c65b73bd3a173e09333c6f81be6fc5a0340b",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "金茂塔身局部，细密竖向窗肋和逐级退台可参考；照片有强对比处理、黑边和作者签名，仅用于形体细节，不能作为真实日照材质色准或直接立面贴图。原签名保留。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 376075961,
+        "latitude": 31.2372508,
+        "longitude": 121.5014061,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-detail-only",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "swfc-front",
+    "title": "Shanghai World Financial Center (March 9th 2024).jpg",
+    "wayIds": [
+      10691100
+    ],
+    "categories": [
+      "pudong",
+      "landmarks"
+    ],
+    "subject": "环球金融中心全貌",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/swfc-front.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_World_Financial_Center_(March_9th_2024).jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Shanghai_World_Financial_Center_%28March_9th_2024%29.jpg/1920px-Shanghai_World_Financial_Center_%28March_9th_2024%29.jpg",
+    "author": "Bechology",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "date": "2024-03-09",
+    "description": "Shanghai World Financial Center with Jin Mao Tower and Shanghai Tower nearby.",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 2268,
+    "originalHeight": 4032,
+    "isOriginal": false,
+    "bytes": 1557845,
+    "sha256": "d908aeb9d896d9e0e17a15fe8c80d2a5fec8d15fcd144e58e14b8e34c7cbde1f",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "环球金融中心完整外形，顶部梯形通透开口、斜向收分侧缘、蓝色玻璃格网与数道深色设备带。右侧上海中心和金茂是独立建筑；前景公园、水面不证明路线首排平面。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 10691100,
+        "latitude": 31.2365768,
+        "longitude": 121.5030405,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "swfc-ground",
+    "title": "Shanghai World Financial Center from basement.JPG",
+    "wayIds": [
+      10691100
+    ],
+    "categories": [
+      "pudong",
+      "landmarks"
+    ],
+    "subject": "环球金融中心地面仰角",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/swfc-ground.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_World_Financial_Center_from_basement.JPG",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/5/59/Shanghai_World_Financial_Center_from_basement.JPG",
+    "author": "Popolon",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "date": "2009-07-31",
+    "description": "Shanghai World Financial Center from basement",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 1200,
+    "originalHeight": 1600,
+    "isOriginal": true,
+    "bytes": 326372,
+    "sha256": "39b366952d59e562bf5a22f65e3d627cc180679072d10e7091e71dd291918fa9",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "环球金融中心底部仰视，矩形玻璃细格、入口底部石饰面、台阶/绿植花池与低玻璃裙房。可补基座层次，不能从仰视直接量出高度。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 10691100,
+        "latitude": 31.2365768,
+        "longitude": 121.5030405,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-detail-only",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "ifc-apple",
+    "title": "Shanghai IFC and Apple Store Pudong 20251126.jpg",
+    "wayIds": [
+      164968674,
+      423304682,
+      526005642,
+      255624910
+    ],
+    "categories": [
+      "pudong",
+      "landmarks"
+    ],
+    "subject": "国金中心裙楼、双塔与Apple玻璃圆筒",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/ifc-apple.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_IFC_and_Apple_Store_Pudong_20251126.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Shanghai_IFC_and_Apple_Store_Pudong_20251126.jpg/1920px-Shanghai_IFC_and_Apple_Store_Pudong_20251126.jpg",
+    "author": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) \n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "date": "2025-11-26 15:32:22",
+    "description": "Shanghai International Finance Center', is a commercial building complex and a shopping center (branded Shanghai IFC mall) in Shanghai.",
+    "cameraCoordinates": {
+      "latitude": "31.239432",
+      "longitude": "121.497238"
+    },
+    "originalWidth": 6078,
+    "originalHeight": 6078,
+    "isOriginal": false,
+    "bytes": 1166925,
+    "sha256": "fe1f130c798c33c843403ed08f343ca78f8aaacfe16ee804abe10d580f9a6f97",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "2025国金中心双塔基座和Apple下沉广场，玻璃圆筒入口、弧形坡道/台阶与花坛、双塔方格幕墙、深色百叶设备层、连体裙房大V形斜撑清楚。两塔顶部不在画幅；上海中心在远处，不计为本图逐栋实测。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 164968674,
+        "latitude": 31.2385835,
+        "longitude": 121.4968159,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      },
+      {
+        "wayId": 423304682,
+        "latitude": 31.2390937,
+        "longitude": 121.4978002,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      },
+      {
+        "wayId": 526005642,
+        "latitude": 31.2382979,
+        "longitude": 121.497997,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      },
+      {
+        "wayId": 255624910,
+        "latitude": 31.2393356,
+        "longitude": 121.4969795,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "provided-in-Commons-metadata"
+  },
+  {
+    "id": "ifc-street",
+    "title": "Century Avenue, Pudong New Area, Shanghai.jpg",
+    "wayIds": [],
+    "categories": [
+      "pudong",
+      "landmarks"
+    ],
+    "subject": "世纪大道侧国金中心及街道横断面",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/ifc-street.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Century_Avenue,_Pudong_New_Area,_Shanghai.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Century_Avenue%2C_Pudong_New_Area%2C_Shanghai.jpg/1920px-Century_Avenue%2C_Pudong_New_Area%2C_Shanghai.jpg",
+    "author": "Federico",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2015-12-01 12:18:36",
+    "description": "A photo of century avenue in Shanghai",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 3264,
+    "originalHeight": 2448,
+    "isOriginal": false,
+    "bytes": 480422,
+    "sha256": "0d5c0ed1be1663d1ba83f1e7739afa9b2929894b74f5203b720e0c62049c57bf",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "世纪大道环形天桥底近景；灰色箱梁拼板、底部深色条格、T形包板桥墩、玻璃护栏、侧接楼梯/扶梯、双尖弧形支架街名牌、圆筒垃圾桶。IFC双塔仅远景，可证轮廓不证近景细部。"
+    },
+    "subjectCoordinates": [],
+    "photoRole": "streetscape-context",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "citigroup",
+    "title": "Citigroup - panoramio.jpg",
+    "wayIds": [
+      520990202
+    ],
+    "categories": [
+      "pudong",
+      "landmarks"
+    ],
+    "subject": "花旗集团大厦外立面",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/citigroup.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Citigroup_-_panoramio.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Citigroup_-_panoramio.jpg/1920px-Citigroup_-_panoramio.jpg",
+    "author": "zhanyoun",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "date": "26 November 2008 (original upload date)",
+    "description": "citigroup 浦东新区花园石桥路33号 花旗集团大厦",
+    "cameraCoordinates": {
+      "latitude": "31.235601",
+      "longitude": "121.495657"
+    },
+    "originalWidth": 2576,
+    "originalHeight": 1932,
+    "isOriginal": false,
+    "bytes": 965148,
+    "sha256": "a5e228be2b073c1e43bc85905fb39cc3591345fa401f7f01c31f75088ad30a4b",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "花旗大厦入口绿化与透明玻璃字牌特写；紫灰石块、地被灌木、玻璃入口和金属水平饰板。仅基座入口参考，不证明塔楼整体窗格或顶部形体。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": 520990202,
+        "latitude": 31.2360713,
+        "longitude": 121.4960744,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-detail-only",
+    "cameraCoordinateStatus": "provided-in-Commons-metadata"
+  },
+  {
+    "id": "lujiazui-square",
+    "title": "Lujiazui Square.jpg",
+    "wayIds": [],
+    "categories": [
+      "pudong",
+      "furniture"
+    ],
+    "subject": "Historical Lujiazui construction-state view (excluded from present streetscape)",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/lujiazui-square.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lujiazui_Square.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/b/be/Lujiazui_Square.jpg",
+    "author": "LosAngelesT",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "date": "2007-12",
+    "description": "Lujiazui Square, Shanghai",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "isOriginal": true,
+    "bytes": 624210,
+    "sha256": "d6e5f9a2885d5eb464a0ebf6ae59f2fddb97f0912ea9364fd75532491b8fd075",
+    "usage": "rejected-historical-construction-state",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": false,
+      "observations": "真实历史陆家嘴俯视，IFC仍在施工且今日环形天桥未出现，不能用于当前路线道路/建筑现状。保留原片只供历史对比，不计本轮有效现代外景。"
+    },
+    "subjectCoordinates": [],
+    "photoRole": "streetscape-context",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "lujiazui-ifc-pearl",
+    "title": "Lujiazui ifc mall and Oriental Pearl tower (18657758858).jpg",
+    "wayIds": [],
+    "categories": [
+      "pudong",
+      "furniture"
+    ],
+    "subject": "IFC night photograph with reflected duplicate geometry (excluded from modeling)",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/lujiazui-ifc-pearl.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lujiazui_ifc_mall_and_Oriental_Pearl_tower_(18657758858).jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Lujiazui_ifc_mall_and_Oriental_Pearl_tower_%2818657758858%29.jpg/1920px-Lujiazui_ifc_mall_and_Oriental_Pearl_tower_%2818657758858%29.jpg",
+    "author": "shutterstuman",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "date": "2015-05-24 08:24",
+    "description": "Picture taken by wedging camera between a handrail and the glass fence(So the reflection",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 3173,
+    "originalHeight": 4790,
+    "isOriginal": false,
+    "bytes": 1724939,
+    "sha256": "09bfbaa4cd847dbee7ea37fb0bd12c1a99f511d3afedcc0fde6aec05f7afd54f",
+    "usage": "rejected-reflection-distorted-geometry",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": false,
+      "observations": "真实夜景但栏板玻璃反射导致IFC楼体和东方明珠重影，不能按可见重复轮廓建几何。原签名保留，仅氛围备查，不计本轮可建模照片。"
+    },
+    "subjectCoordinates": [],
+    "photoRole": "streetscape-context",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "pearl-ifc-context",
+    "title": "Pudong Oriental Pearl Tower (18657707648).jpg",
+    "wayIds": [],
+    "categories": [
+      "pudong",
+      "furniture"
+    ],
+    "subject": "东方明珠近处街道场景",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/pearl-ifc-context.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pudong_Oriental_Pearl_Tower_(18657707648).jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Pudong_Oriental_Pearl_Tower_%2818657707648%29.jpg/1920px-Pudong_Oriental_Pearl_Tower_%2818657707648%29.jpg",
+    "author": "shutterstuman",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "date": "2015-05-24 08:13",
+    "description": "Shanghai, China. Oriental Pearl Tower on Pudong side",
+    "cameraCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "originalWidth": 4928,
+    "originalHeight": 3264,
+    "isOriginal": false,
+    "bytes": 666773,
+    "sha256": "492324e4b10c406563ffd98159157ceac96f3c09d99560594afeba070abcf895",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "IFC临街裙房与东方明珠夜景；玻璃竖缝、设备层百叶、底层商铺与大面积玻璃、东方明珠球体和三斜腿可见。夜灯改变颜色，只作夜景与空间关系参考；作者签名保留。"
+    },
+    "subjectCoordinates": [],
+    "photoRole": "streetscape-context",
+    "cameraCoordinateStatus": "unknown-not-inferred"
+  },
+  {
+    "id": "standard-chartered",
+    "title": "Standard Chartered Bank Tower.jpg",
+    "wayIds": [
+      -128821600,
+      -128821601
+    ],
+    "categories": [
+      "pudong",
+      "landmarks"
+    ],
+    "subject": "陆家嘴渣打银行大厦",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/standard-chartered.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Standard_Chartered_Bank_Tower.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/9/96/Standard_Chartered_Bank_Tower.jpg",
+    "author": "Baycrest",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "date": "2009-01",
+    "description": "Standard Chartered Bank Tower (f.k.a. Lujiazui Development Tower)",
+    "cameraCoordinates": {
+      "latitude": "31.237789",
+      "longitude": "121.504927"
+    },
+    "originalWidth": 1200,
+    "originalHeight": 1600,
+    "isOriginal": true,
+    "bytes": 519367,
+    "sha256": "58e59dd8a4ed65ff8acea9f6b98a5e441cf928b7453fb293101b32d8c73d5b90",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "渣打银行大厦完整街侧外景；米灰石饰面连续竖柱和窄玻璃带、矩形厚冠、冠下百叶、两层通透门厅、轻薄横向门廊。右侧电信塔和左侧圆塔为相邻独立建筑。"
+    },
+    "subjectCoordinates": [
+      {
+        "wayId": -128821600,
+        "latitude": 31.2376419,
+        "longitude": 121.5055598,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      },
+      {
+        "wayId": -128821601,
+        "latitude": 31.2378468,
+        "longitude": 121.5054205,
+        "authority": "OSM footprint area centroid projected from public/tour-city.json; subject location, not camera position"
+      }
+    ],
+    "photoRole": "building-exterior",
+    "cameraCoordinateStatus": "provided-in-Commons-metadata"
+  },
+  {
+    "id": "lujiazui-ring-context",
+    "title": "Minor skyscrapers in Lujiazui, Shanghai as seen from Lujiazui Pedestrian Bridge 20120602 1.jpg",
+    "wayIds": [],
+    "categories": [
+      "pudong",
+      "furniture"
+    ],
+    "subject": "陆家嘴环路楼群立面、草坪与天桥",
+    "thumbnail": true,
+    "file": "assets/streets/reference-expansion/lujiazui-ring-context.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Minor_skyscrapers_in_Lujiazui,_Shanghai_as_seen_from_Lujiazui_Pedestrian_Bridge_20120602_1.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Minor_skyscrapers_in_Lujiazui%2C_Shanghai_as_seen_from_Lujiazui_Pedestrian_Bridge_20120602_1.jpg/1920px-Minor_skyscrapers_in_Lujiazui%2C_Shanghai_as_seen_from_Lujiazui_Pedestrian_Bridge_20120602_1.jpg",
+    "author": "DXR",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2012-06-02",
+    "description": "Several minor skyscrapers in the Lujiazui area of Pudong, Shanghai. From left to right: World Financial Mansion, China Merchants Tower, China Development Bank Tower, China Development Bank Tower, Shanghai Stock Exchange Building, China Insurance Building, Standard Chartered Building, Pudong International Information Port",
+    "cameraCoordinates": {
+      "latitude": "31.239903",
+      "longitude": "121.496627"
+    },
+    "originalWidth": 4351,
+    "originalHeight": 3108,
+    "isOriginal": false,
+    "bytes": 746723,
+    "sha256": "99e4a726f55fb02c0ca3e11c00d7476994fc665cd4151e1205610072b9b2cd57",
+    "usage": "exterior-reference",
+    "visualInspection": {
+      "method": "view_image",
+      "checkedAt": "2026-09-09",
+      "accepted": true,
+      "observations": "2012陆家嘴天桥一线组合外景，渣打灰米色竖向塔与中国保险双圆顶部等高低、材质明显不同；近处天桥灰箱梁玻璃栏杆、双分叉白路灯和行道树。用于同一视域建筑关系与设施，不把所有背景楼宣称已单独实测。"
+    },
+    "subjectCoordinates": [],
+    "photoRole": "streetscape-context",
+    "cameraCoordinateStatus": "provided-in-Commons-metadata"
+  }
+]

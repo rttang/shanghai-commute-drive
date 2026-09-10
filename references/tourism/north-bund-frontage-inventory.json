@@ -1,0 +1,7052 @@
+{
+  "source": "references/tourism/loop-frontage-catalog.json",
+  "ownership": "north_bund agent; surface routeDistanceM > 11000; firstRow; no duplicate district models/reuse ways",
+  "count": 68,
+  "summaryByRoad": {
+    "海伦路": 13,
+    "新建路": 21,
+    "东大名路": 13,
+    "大名路": 21
+  },
+  "priorityRule": "Visible route length divided by 15 plus nearest footprint distance; named landmark priority may override.",
+  "buildings": [
+    {
+      "wayId": 1296293843,
+      "name": "OSM building 1296293843",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1255166890,
+      "nearestRoadName": "海伦路",
+      "routeDistanceM": 11778.957,
+      "minFootprintEdgeToSurfaceRouteM": 27.733,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -262.696,
+          -2174.013
+        ],
+        [
+          -263.858,
+          -2168.725
+        ],
+        [
+          -257.309,
+          -2167.289
+        ],
+        [
+          -258.09,
+          -2163.76
+        ],
+        [
+          -247.991,
+          -2161.545
+        ],
+        [
+          -246.944,
+          -2166.309
+        ],
+        [
+          -242.414,
+          -2165.308
+        ],
+        [
+          -241.034,
+          -2171.575
+        ],
+        [
+          -245.221,
+          -2172.499
+        ],
+        [
+          -247.125,
+          -2174.102
+        ],
+        [
+          -246.173,
+          -2178.421
+        ],
+        [
+          -250.894,
+          -2179.456
+        ],
+        [
+          -251.913,
+          -2174.825
+        ],
+        [
+          -259.251,
+          -2176.44
+        ],
+        [
+          -259.917,
+          -2173.401
+        ],
+        [
+          -262.696,
+          -2174.013
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -263.858,
+            -2168.725
+          ],
+          [
+            -257.309,
+            -2167.289
+          ]
+        ],
+        "sourceEdgeIndices": [
+          1
+        ],
+        "widthM": 6.705,
+        "visibleRoadLengthM": 28.709,
+        "side": "right",
+        "routeStartM": 11939.602,
+        "routeEndM": 11963.86
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.6718,
+      "rawTags": {
+        "building": "residential"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1296293843",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 1296293844,
+      "name": "OSM building 1296293844",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1255166890,
+      "nearestRoadName": "海伦路",
+      "routeDistanceM": 11778.957,
+      "minFootprintEdgeToSurfaceRouteM": 52.857,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -239.197,
+          -2175.504
+        ],
+        [
+          -237.893,
+          -2165.063
+        ],
+        [
+          -236.408,
+          -2165.252
+        ],
+        [
+          -235.932,
+          -2161.389
+        ],
+        [
+          -220.275,
+          -2163.348
+        ],
+        [
+          -220.446,
+          -2164.729
+        ],
+        [
+          -216.334,
+          -2165.241
+        ],
+        [
+          -216.706,
+          -2168.224
+        ],
+        [
+          -214.888,
+          -2168.458
+        ],
+        [
+          -216.125,
+          -2178.388
+        ],
+        [
+          -222.388,
+          -2177.597
+        ],
+        [
+          -223.14,
+          -2183.575
+        ],
+        [
+          -232.239,
+          -2182.429
+        ],
+        [
+          -231.487,
+          -2176.473
+        ],
+        [
+          -239.197,
+          -2175.504
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -235.932,
+            -2161.389
+          ],
+          [
+            -220.275,
+            -2163.348
+          ]
+        ],
+        "sourceEdgeIndices": [
+          3
+        ],
+        "widthM": 15.779,
+        "visibleRoadLengthM": 16.737,
+        "side": "right",
+        "routeStartM": 11968.045,
+        "routeEndM": 11980.598
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.2467,
+      "rawTags": {
+        "building": "residential"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1296293843",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 1296293842,
+      "name": "OSM building 1296293842",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1255166890,
+      "nearestRoadName": "海伦路",
+      "routeDistanceM": 11810.157,
+      "minFootprintEdgeToSurfaceRouteM": 22.436,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -308.059,
+          -2211.071
+        ],
+        [
+          -307.536,
+          -2206.04
+        ],
+        [
+          -310.905,
+          -2205.683
+        ],
+        [
+          -310.458,
+          -2201.42
+        ],
+        [
+          -308.25,
+          -2201.654
+        ],
+        [
+          -307.745,
+          -2196.811
+        ],
+        [
+          -304.585,
+          -2197.134
+        ],
+        [
+          -303.852,
+          -2196.11
+        ],
+        [
+          -290.679,
+          -2198.626
+        ],
+        [
+          -290.984,
+          -2200.24
+        ],
+        [
+          -278.049,
+          -2202.711
+        ],
+        [
+          -272.624,
+          -2201.832
+        ],
+        [
+          -268.807,
+          -2204.169
+        ],
+        [
+          -269.54,
+          -2206.808
+        ],
+        [
+          -268.369,
+          -2209.012
+        ],
+        [
+          -268.959,
+          -2211.505
+        ],
+        [
+          -270.425,
+          -2211.94
+        ],
+        [
+          -270.273,
+          -2217.517
+        ],
+        [
+          -271.834,
+          -2219.91
+        ],
+        [
+          -277.012,
+          -2219.365
+        ],
+        [
+          -278.649,
+          -2222.214
+        ],
+        [
+          -284.75,
+          -2221.046
+        ],
+        [
+          -284.121,
+          -2215.602
+        ],
+        [
+          -287.891,
+          -2214.856
+        ],
+        [
+          -287.567,
+          -2211.75
+        ],
+        [
+          -297.789,
+          -2210.682
+        ],
+        [
+          -298.341,
+          -2216.014
+        ],
+        [
+          -301.063,
+          -2215.736
+        ],
+        [
+          -300.445,
+          -2209.747
+        ],
+        [
+          -305.013,
+          -2209.268
+        ],
+        [
+          -305.223,
+          -2211.361
+        ],
+        [
+          -308.059,
+          -2211.071
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -303.852,
+            -2196.11
+          ],
+          [
+            -290.679,
+            -2198.626
+          ]
+        ],
+        "sourceEdgeIndices": [
+          7
+        ],
+        "widthM": 13.411,
+        "visibleRoadLengthM": 68.405,
+        "side": "left",
+        "routeStartM": 11780.709,
+        "routeEndM": 11920.916
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 1.8273,
+      "rawTags": {
+        "building": "residential"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1296293843",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 610349180,
+      "name": "OSM building 610349180",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1255166890,
+      "nearestRoadName": "海伦路",
+      "routeDistanceM": 11848.549,
+      "minFootprintEdgeToSurfaceRouteM": 54.115,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -418.563,
+          -2231.61
+        ],
+        [
+          -401.002,
+          -2223.617
+        ],
+        [
+          -397.119,
+          -2232.278
+        ],
+        [
+          -392.893,
+          -2230.608
+        ],
+        [
+          -388.448,
+          -2241.384
+        ],
+        [
+          -394.111,
+          -2242.72
+        ],
+        [
+          -390.666,
+          -2250.501
+        ],
+        [
+          -383.451,
+          -2247.94
+        ],
+        [
+          -379.111,
+          -2258.939
+        ],
+        [
+          -392.446,
+          -2264.16
+        ],
+        [
+          -407.341,
+          -2270.271
+        ],
+        [
+          -411.558,
+          -2261.499
+        ],
+        [
+          -404.0,
+          -2256.724
+        ],
+        [
+          -407.341,
+          -2250.723
+        ],
+        [
+          -412.338,
+          -2253.273
+        ],
+        [
+          -417.564,
+          -2242.274
+        ],
+        [
+          -412.557,
+          -2239.836
+        ],
+        [
+          -418.563,
+          -2231.61
+        ]
+      ],
+      "height": 42.0,
+      "heightSource": "height",
+      "frontage": {
+        "edge": [
+          [
+            -401.002,
+            -2223.617
+          ],
+          [
+            -397.119,
+            -2232.278
+          ]
+        ],
+        "sourceEdgeIndices": [
+          1
+        ],
+        "widthM": 9.492,
+        "visibleRoadLengthM": 4.924,
+        "side": "left",
+        "routeStartM": 11851.011,
+        "routeEndM": 11851.011
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.0712,
+      "rawTags": {
+        "building": "yes",
+        "building:levels": "14",
+        "height": "42"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1296293843",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 1339394908,
+      "name": "OSM building 1339394908",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 145007025,
+      "nearestRoadName": "海伦路",
+      "routeDistanceM": 11903.438,
+      "minFootprintEdgeToSurfaceRouteM": 38.143,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -396.148,
+          -2103.091
+        ],
+        [
+          -387.001,
+          -2092.048
+        ],
+        [
+          -368.851,
+          -2109.436
+        ],
+        [
+          -341.306,
+          -2116.293
+        ],
+        [
+          -345.37,
+          -2130.631
+        ],
+        [
+          -372.41,
+          -2124.409
+        ],
+        [
+          -371.135,
+          -2119.466
+        ],
+        [
+          -375.713,
+          -2117.184
+        ],
+        [
+          -379.006,
+          -2120.991
+        ],
+        [
+          -396.148,
+          -2103.091
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -345.37,
+            -2130.631
+          ],
+          [
+            -372.41,
+            -2124.409
+          ]
+        ],
+        "sourceEdgeIndices": [
+          4
+        ],
+        "widthM": 27.747,
+        "visibleRoadLengthM": 92.395,
+        "side": "left",
+        "routeStartM": 11805.586,
+        "routeEndM": 11925.451
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 1.7386,
+      "rawTags": {
+        "building": "apartments"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1339394908",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 1339394909,
+      "name": "OSM building 1339394909",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 145007025,
+      "nearestRoadName": "海伦路",
+      "routeDistanceM": 11952.951,
+      "minFootprintEdgeToSurfaceRouteM": 27.775,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -328.942,
+          -2105.106
+        ],
+        [
+          -325.991,
+          -2092.059
+        ],
+        [
+          -302.796,
+          -2097.302
+        ],
+        [
+          -305.756,
+          -2110.438
+        ],
+        [
+          -311.219,
+          -2109.202
+        ],
+        [
+          -311.904,
+          -2112.275
+        ],
+        [
+          -320.604,
+          -2110.316
+        ],
+        [
+          -319.89,
+          -2107.154
+        ],
+        [
+          -328.942,
+          -2105.106
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -319.89,
+            -2107.154
+          ],
+          [
+            -328.942,
+            -2105.106
+          ]
+        ],
+        "sourceEdgeIndices": [
+          7
+        ],
+        "widthM": 9.281,
+        "visibleRoadLengthM": 26.817,
+        "side": "left",
+        "routeStartM": 11780.709,
+        "routeEndM": 11959.881
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.6269,
+      "rawTags": {
+        "building": "apartments"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1339394908",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 1339394904,
+      "name": "OSM building 1339394904",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 145007025,
+      "nearestRoadName": "海伦路",
+      "routeDistanceM": 11985.249,
+      "minFootprintEdgeToSurfaceRouteM": 80.875,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -345.979,
+          -2029.519
+        ],
+        [
+          -348.625,
+          -2041.275
+        ],
+        [
+          -336.87,
+          -2043.913
+        ],
+        [
+          -338.022,
+          -2049.023
+        ],
+        [
+          -327.628,
+          -2051.36
+        ],
+        [
+          -327.048,
+          -2048.789
+        ],
+        [
+          -317.806,
+          -2050.871
+        ],
+        [
+          -314.589,
+          -2036.577
+        ],
+        [
+          -345.979,
+          -2029.519
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -327.048,
+            -2048.789
+          ],
+          [
+            -317.806,
+            -2050.871
+          ]
+        ],
+        "sourceEdgeIndices": [
+          5
+        ],
+        "widthM": 9.474,
+        "visibleRoadLengthM": 21.514,
+        "side": "left",
+        "routeStartM": 11968.045,
+        "routeEndM": 11985.078
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.2244,
+      "rawTags": {
+        "building": "apartments"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1339394908",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 1296293847,
+      "name": "OSM building 1296293847",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 145007025,
+      "nearestRoadName": "海伦路",
+      "routeDistanceM": 12024.269,
+      "minFootprintEdgeToSurfaceRouteM": 46.318,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -190.978,
+          -2106.174
+        ],
+        [
+          -179.014,
+          -2116.672
+        ],
+        [
+          -182.412,
+          -2120.546
+        ],
+        [
+          -179.842,
+          -2122.806
+        ],
+        [
+          -175.797,
+          -2118.208
+        ],
+        [
+          -167.669,
+          -2120.724
+        ],
+        [
+          -157.171,
+          -2126.68
+        ],
+        [
+          -165.784,
+          -2141.852
+        ],
+        [
+          -169.163,
+          -2139.938
+        ],
+        [
+          -171.6,
+          -2144.224
+        ],
+        [
+          -181.527,
+          -2138.591
+        ],
+        [
+          -177.91,
+          -2132.223
+        ],
+        [
+          -183.535,
+          -2129.04
+        ],
+        [
+          -185.077,
+          -2129.618
+        ],
+        [
+          -187.657,
+          -2127.359
+        ],
+        [
+          -188.666,
+          -2128.505
+        ],
+        [
+          -189.931,
+          -2127.392
+        ],
+        [
+          -187.58,
+          -2124.709
+        ],
+        [
+          -191.902,
+          -2120.913
+        ],
+        [
+          -196.699,
+          -2126.379
+        ],
+        [
+          -202.714,
+          -2121.102
+        ],
+        [
+          -200.858,
+          -2118.998
+        ],
+        [
+          -203.228,
+          -2116.917
+        ],
+        [
+          -196.461,
+          -2109.213
+        ],
+        [
+          -194.871,
+          -2110.605
+        ],
+        [
+          -190.978,
+          -2106.174
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -203.228,
+            -2116.917
+          ],
+          [
+            -196.461,
+            -2109.213
+          ]
+        ],
+        "sourceEdgeIndices": [
+          22
+        ],
+        "widthM": 10.254,
+        "visibleRoadLengthM": 20.776,
+        "side": "right",
+        "routeStartM": 12022.057,
+        "routeEndM": 12038.576
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.3388,
+      "rawTags": {
+        "building": "residential"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1296293847",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 610923103,
+      "name": "海伦大厦",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 145007025,
+      "nearestRoadName": "海伦路",
+      "routeDistanceM": 12027.562,
+      "minFootprintEdgeToSurfaceRouteM": 13.02,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -273.319,
+          -2094.196
+        ],
+        [
+          -242.918,
+          -2072.11
+        ],
+        [
+          -247.068,
+          -2066.411
+        ],
+        [
+          -256.548,
+          -2073.302
+        ],
+        [
+          -258.975,
+          -2069.962
+        ],
+        [
+          -251.465,
+          -2064.507
+        ],
+        [
+          -259.917,
+          -2052.897
+        ],
+        [
+          -285.911,
+          -2071.799
+        ],
+        [
+          -277.44,
+          -2083.454
+        ],
+        [
+          -269.854,
+          -2077.944
+        ],
+        [
+          -268.607,
+          -2079.647
+        ],
+        [
+          -278.611,
+          -2086.916
+        ],
+        [
+          -273.319,
+          -2094.196
+        ]
+      ],
+      "height": 54.0,
+      "heightSource": "height",
+      "frontage": {
+        "edge": [
+          [
+            -273.319,
+            -2094.196
+          ],
+          [
+            -242.918,
+            -2072.11
+          ]
+        ],
+        "sourceEdgeIndices": [
+          0
+        ],
+        "widthM": 37.577,
+        "visibleRoadLengthM": 44.979,
+        "side": "left",
+        "routeStartM": 11989.854,
+        "routeEndM": 12030.401
+      },
+      "photoReferences": [
+        "hailun-loupan-1",
+        "hailun-loupan-2",
+        "hailun-loupan-3",
+        "hailun-loupan-4",
+        "hailun-loupan-7"
+      ],
+      "existingPhotoArchitecture": null,
+      "confidence": "partial-photo-reference",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 1.6052,
+      "rawTags": {
+        "building": "apartments",
+        "building:levels": "18",
+        "height": "54",
+        "name": "海伦大厦"
+      },
+      "photoStatus": "Matched exterior photographs visually inspected; model roundtrip review pending",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "specific-photo-geometry-awaiting-runtime-review",
+      "modelId": "north-bund-frontage-610923103",
+      "photoIdentityVerified": true,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 1339394905,
+      "name": "OSM building 1339394905",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 145007025,
+      "nearestRoadName": "海伦路",
+      "routeDistanceM": 12052.685,
+      "minFootprintEdgeToSurfaceRouteM": 73.698,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -304.852,
+          -1995.778
+        ],
+        [
+          -307.498,
+          -2007.534
+        ],
+        [
+          -295.743,
+          -2010.183
+        ],
+        [
+          -296.895,
+          -2015.282
+        ],
+        [
+          -286.501,
+          -2017.619
+        ],
+        [
+          -285.92,
+          -2015.048
+        ],
+        [
+          -276.678,
+          -2017.13
+        ],
+        [
+          -273.461,
+          -2002.836
+        ],
+        [
+          -304.852,
+          -1995.778
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -276.678,
+            -2017.13
+          ],
+          [
+            -273.461,
+            -2002.836
+          ]
+        ],
+        "sourceEdgeIndices": [
+          6
+        ],
+        "widthM": 14.652,
+        "visibleRoadLengthM": 28.861,
+        "side": "left",
+        "routeStartM": 12038.576,
+        "routeEndM": 12062.916
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.3254,
+      "rawTags": {
+        "building": "apartments"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1339394905",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 1296293846,
+      "name": "OSM building 1296293846",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 145007025,
+      "nearestRoadName": "海伦路",
+      "routeDistanceM": 12065.598,
+      "minFootprintEdgeToSurfaceRouteM": 51.131,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -167.935,
+          -2085.836
+        ],
+        [
+          -168.564,
+          -2080.849
+        ],
+        [
+          -165.746,
+          -2080.504
+        ],
+        [
+          -166.06,
+          -2077.999
+        ],
+        [
+          -161.13,
+          -2077.387
+        ],
+        [
+          -161.615,
+          -2073.502
+        ],
+        [
+          -157.285,
+          -2072.968
+        ],
+        [
+          -157.913,
+          -2067.88
+        ],
+        [
+          -148.195,
+          -2066.667
+        ],
+        [
+          -147.681,
+          -2070.808
+        ],
+        [
+          -146.206,
+          -2068.904
+        ],
+        [
+          -117.757,
+          -2076.541
+        ],
+        [
+          -118.499,
+          -2079.313
+        ],
+        [
+          -111.313,
+          -2083.922
+        ],
+        [
+          -113.807,
+          -2087.818
+        ],
+        [
+          -112.303,
+          -2088.775
+        ],
+        [
+          -117.328,
+          -2096.612
+        ],
+        [
+          -123.401,
+          -2094.842
+        ],
+        [
+          -122.696,
+          -2092.449
+        ],
+        [
+          -124.609,
+          -2091.892
+        ],
+        [
+          -125.78,
+          -2095.9
+        ],
+        [
+          -132.291,
+          -2094.007
+        ],
+        [
+          -131.244,
+          -2090.423
+        ],
+        [
+          -151.793,
+          -2084.434
+        ],
+        [
+          -153.173,
+          -2089.165
+        ],
+        [
+          -157.799,
+          -2087.818
+        ],
+        [
+          -157.799,
+          -2086.204
+        ],
+        [
+          -158.532,
+          -2084.589
+        ],
+        [
+          -160.587,
+          -2084.857
+        ],
+        [
+          -160.388,
+          -2086.482
+        ],
+        [
+          -164.852,
+          -2087.038
+        ],
+        [
+          -165.042,
+          -2085.48
+        ],
+        [
+          -167.935,
+          -2085.836
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -146.206,
+            -2068.904
+          ],
+          [
+            -117.757,
+            -2076.541
+          ]
+        ],
+        "sourceEdgeIndices": [
+          10
+        ],
+        "widthM": 29.456,
+        "visibleRoadLengthM": 34.434,
+        "side": "right",
+        "routeStartM": 12062.916,
+        "routeEndM": 12092.421
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.5207,
+      "rawTags": {
+        "building": "residential"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1339394905",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 1339394907,
+      "name": "OSM building 1339394907",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 145007025,
+      "nearestRoadName": "海伦路",
+      "routeDistanceM": 12073.881,
+      "minFootprintEdgeToSurfaceRouteM": 26.292,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -242.652,
+          -2013.022
+        ],
+        [
+          -246.107,
+          -2024.477
+        ],
+        [
+          -239.492,
+          -2026.469
+        ],
+        [
+          -240.301,
+          -2029.152
+        ],
+        [
+          -234.228,
+          -2030.978
+        ],
+        [
+          -233.248,
+          -2027.749
+        ],
+        [
+          -227.175,
+          -2029.575
+        ],
+        [
+          -223.892,
+          -2018.677
+        ],
+        [
+          -242.652,
+          -2013.022
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -227.175,
+            -2029.575
+          ],
+          [
+            -223.892,
+            -2018.677
+          ]
+        ],
+        "sourceEdgeIndices": [
+          6
+        ],
+        "widthM": 11.382,
+        "visibleRoadLengthM": 19.669,
+        "side": "left",
+        "routeStartM": 12067.871,
+        "routeEndM": 12082.61
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.4763,
+      "rawTags": {
+        "building": "apartments"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1339394905",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 1339394906,
+      "name": "OSM building 1339394906",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 145007025,
+      "nearestRoadName": "海伦路",
+      "routeDistanceM": 12116.087,
+      "minFootprintEdgeToSurfaceRouteM": 48.986,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -268.817,
+          -1965.856
+        ],
+        [
+          -259.86,
+          -1968.282
+        ],
+        [
+          -260.707,
+          -1971.41
+        ],
+        [
+          -251.941,
+          -1973.782
+        ],
+        [
+          -250.485,
+          -1968.427
+        ],
+        [
+          -237.578,
+          -1971.911
+        ],
+        [
+          -240.643,
+          -1983.233
+        ],
+        [
+          -229.127,
+          -1986.338
+        ],
+        [
+          -227.851,
+          -1981.618
+        ],
+        [
+          -224.415,
+          -1982.542
+        ],
+        [
+          -222.112,
+          -1974.026
+        ],
+        [
+          -227.87,
+          -1966.991
+        ],
+        [
+          -237.645,
+          -1964.342
+        ],
+        [
+          -236.655,
+          -1960.668
+        ],
+        [
+          -265.304,
+          -1952.909
+        ],
+        [
+          -268.817,
+          -1965.856
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -227.851,
+            -1981.618
+          ],
+          [
+            -224.415,
+            -1982.542
+          ]
+        ],
+        "sourceEdgeIndices": [
+          8
+        ],
+        "widthM": 3.558,
+        "visibleRoadLengthM": 22.333,
+        "side": "left",
+        "routeStartM": 12106.916,
+        "routeEndM": 12124.783
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.349,
+      "rawTags": {
+        "building": "apartments"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1339394905",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 611987580,
+      "name": "OSM building 611987580",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1255166884,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12205.733,
+      "minFootprintEdgeToSurfaceRouteM": 23.776,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -182.06,
+          -1920.337
+        ],
+        [
+          -178.148,
+          -1917.365
+        ],
+        [
+          -176.111,
+          -1919.235
+        ],
+        [
+          -167.336,
+          -1917.988
+        ],
+        [
+          -166.393,
+          -1915.483
+        ],
+        [
+          -158.722,
+          -1918.3
+        ],
+        [
+          -151.041,
+          -1903.26
+        ],
+        [
+          -163.262,
+          -1896.37
+        ],
+        [
+          -165.927,
+          -1900.444
+        ],
+        [
+          -168.278,
+          -1900.911
+        ],
+        [
+          -168.116,
+          -1896.837
+        ],
+        [
+          -175.95,
+          -1897.316
+        ],
+        [
+          -175.797,
+          -1901.379
+        ],
+        [
+          -177.358,
+          -1902.014
+        ],
+        [
+          -181.432,
+          -1896.993
+        ],
+        [
+          -192.558,
+          -1907.179
+        ],
+        [
+          -182.06,
+          -1920.337
+        ]
+      ],
+      "height": 56.0,
+      "heightSource": "height",
+      "frontage": {
+        "edge": [
+          [
+            -158.722,
+            -1918.3
+          ],
+          [
+            -151.041,
+            -1903.26
+          ]
+        ],
+        "sourceEdgeIndices": [
+          5
+        ],
+        "widthM": 16.888,
+        "visibleRoadLengthM": 29.846,
+        "side": "left",
+        "routeStartM": 12193.147,
+        "routeEndM": 12218.018
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.7697,
+      "rawTags": {
+        "building": "apartments",
+        "building:levels": "18",
+        "height": "56"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-611987580",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 611987610,
+      "name": "Longmen Building",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1255166884,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12232.759,
+      "minFootprintEdgeToSurfaceRouteM": 64.205,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -209.129,
+          -1888.466
+        ],
+        [
+          -198.431,
+          -1897.115
+        ],
+        [
+          -180.347,
+          -1874.74
+        ],
+        [
+          -191.045,
+          -1866.091
+        ],
+        [
+          -209.129,
+          -1888.466
+        ]
+      ],
+      "height": 16.0,
+      "heightSource": "height",
+      "frontage": {
+        "edge": [
+          [
+            -198.431,
+            -1897.115
+          ],
+          [
+            -180.347,
+            -1874.74
+          ]
+        ],
+        "sourceEdgeIndices": [
+          1
+        ],
+        "widthM": 28.769,
+        "visibleRoadLengthM": 14.923,
+        "side": "left",
+        "routeStartM": 12222.992,
+        "routeEndM": 12232.941
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.1884,
+      "rawTags": {
+        "building": "retail",
+        "building:levels": "5",
+        "height": "16",
+        "name": "Longmen Building"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-611987610",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 1330539160,
+      "name": "OSM building 1330539160",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1255166884,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12244.674,
+      "minFootprintEdgeToSurfaceRouteM": 60.176,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -83.273,
+          -1957.161
+        ],
+        [
+          -77.676,
+          -1985.904
+        ],
+        [
+          -56.699,
+          -1997.27
+        ],
+        [
+          -29.182,
+          -1946.53
+        ],
+        [
+          -66.521,
+          -1926.281
+        ],
+        [
+          -83.273,
+          -1957.161
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -66.521,
+            -1926.281
+          ],
+          [
+            -83.273,
+            -1957.161
+          ]
+        ],
+        "sourceEdgeIndices": [
+          4
+        ],
+        "widthM": 35.131,
+        "visibleRoadLengthM": 59.691,
+        "side": "right",
+        "routeStartM": 12188.173,
+        "routeEndM": 12242.889
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.794,
+      "rawTags": {
+        "building": "commercial"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1330539160",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 611987579,
+      "name": "OSM building 611987579",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1255166884,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12256.56,
+      "minFootprintEdgeToSurfaceRouteM": 32.934,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -176.968,
+          -1873.605
+        ],
+        [
+          -141.38,
+          -1869.653
+        ],
+        [
+          -141.942,
+          -1862.584
+        ],
+        [
+          -144.769,
+          -1862.873
+        ],
+        [
+          -146.177,
+          -1852.71
+        ],
+        [
+          -149.851,
+          -1853.556
+        ],
+        [
+          -150.413,
+          -1847.055
+        ],
+        [
+          -155.219,
+          -1847.623
+        ],
+        [
+          -155.781,
+          -1845.363
+        ],
+        [
+          -166.793,
+          -1846.209
+        ],
+        [
+          -166.517,
+          -1849.315
+        ],
+        [
+          -172.161,
+          -1849.604
+        ],
+        [
+          -171.314,
+          -1855.816
+        ],
+        [
+          -176.121,
+          -1856.372
+        ],
+        [
+          -174.427,
+          -1864.844
+        ],
+        [
+          -178.091,
+          -1865.412
+        ],
+        [
+          -176.968,
+          -1873.605
+        ]
+      ],
+      "height": 56.0,
+      "heightSource": "height",
+      "frontage": {
+        "edge": [
+          [
+            -176.968,
+            -1873.605
+          ],
+          [
+            -141.38,
+            -1869.653
+          ]
+        ],
+        "sourceEdgeIndices": [
+          0
+        ],
+        "widthM": 35.807,
+        "visibleRoadLengthM": 34.82,
+        "side": "left",
+        "routeStartM": 12237.915,
+        "routeEndM": 12267.761
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.7264,
+      "rawTags": {
+        "building": "apartments",
+        "building:levels": "18",
+        "height": "56"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1330539160",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 1330539162,
+      "name": "OSM building 1330539162",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1255166884,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12258.298,
+      "minFootprintEdgeToSurfaceRouteM": 50.799,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -67.882,
+          -1909.806
+        ],
+        [
+          -39.271,
+          -1860.191
+        ],
+        [
+          -22.225,
+          -1870.009
+        ],
+        [
+          -20.159,
+          -1906.756
+        ],
+        [
+          -42.488,
+          -1924.444
+        ],
+        [
+          -67.882,
+          -1909.806
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -67.882,
+            -1909.806
+          ],
+          [
+            -39.271,
+            -1860.191
+          ]
+        ],
+        "sourceEdgeIndices": [
+          0
+        ],
+        "widthM": 57.273,
+        "visibleRoadLengthM": 64.977,
+        "side": "right",
+        "routeStartM": 12262.787,
+        "routeEndM": 12353.412
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.9875,
+      "rawTags": {
+        "building": "commercial"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1330539160",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 610345083,
+      "name": "OSM building 610345083",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1255166884,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12305.226,
+      "minFootprintEdgeToSurfaceRouteM": 24.074,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -142.161,
+          -1834.153
+        ],
+        [
+          -109.485,
+          -1831.849
+        ],
+        [
+          -110.247,
+          -1823.433
+        ],
+        [
+          -112.55,
+          -1823.689
+        ],
+        [
+          -113.445,
+          -1813.347
+        ],
+        [
+          -118.29,
+          -1813.347
+        ],
+        [
+          -118.68,
+          -1805.31
+        ],
+        [
+          -137.697,
+          -1806.579
+        ],
+        [
+          -137.316,
+          -1813.225
+        ],
+        [
+          -140.885,
+          -1813.603
+        ],
+        [
+          -140.124,
+          -1824.702
+        ],
+        [
+          -142.932,
+          -1824.702
+        ],
+        [
+          -142.161,
+          -1834.153
+        ]
+      ],
+      "height": 56.0,
+      "heightSource": "height",
+      "frontage": {
+        "edge": [
+          [
+            -142.161,
+            -1834.153
+          ],
+          [
+            -109.485,
+            -1831.849
+          ]
+        ],
+        "sourceEdgeIndices": [
+          0
+        ],
+        "widthM": 32.757,
+        "visibleRoadLengthM": 39.794,
+        "side": "left",
+        "routeStartM": 12287.658,
+        "routeEndM": 12322.478
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 1.0184,
+      "rawTags": {
+        "building": "apartments",
+        "building:levels": "18",
+        "height": "56"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1330539160",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 1330539161,
+      "name": "OSM building 1330539161",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1255166884,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12308.729,
+      "minFootprintEdgeToSurfaceRouteM": 90.335,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -0.276,
+          -1929.142
+        ],
+        [
+          -8.49,
+          -1885.716
+        ],
+        [
+          33.732,
+          -1877.735
+        ],
+        [
+          45.801,
+          -1892.462
+        ],
+        [
+          30.467,
+          -1923.331
+        ],
+        [
+          -0.276,
+          -1929.142
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -8.49,
+            -1885.716
+          ],
+          [
+            33.732,
+            -1877.735
+          ]
+        ],
+        "sourceEdgeIndices": [
+          1
+        ],
+        "widthM": 42.97,
+        "visibleRoadLengthM": 3.781,
+        "side": "right",
+        "routeStartM": 12357.012,
+        "routeEndM": 12357.012
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.0359,
+      "rawTags": {
+        "building": "commercial"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1330539161",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 1370784554,
+      "name": "OSM building 1370784554",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 145007015,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12380.236,
+      "minFootprintEdgeToSurfaceRouteM": 35.228,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -135.85,
+          -1760.559
+        ],
+        [
+          -106.297,
+          -1779.317
+        ],
+        [
+          -73.679,
+          -1768.997
+        ],
+        [
+          -64.998,
+          -1753.29
+        ],
+        [
+          -67.816,
+          -1747.19
+        ],
+        [
+          -86.119,
+          -1753.29
+        ],
+        [
+          -103.48,
+          -1759.145
+        ],
+        [
+          -125.057,
+          -1743.672
+        ],
+        [
+          -135.85,
+          -1760.559
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -106.297,
+            -1779.317
+          ],
+          [
+            -73.679,
+            -1768.997
+          ]
+        ],
+        "sourceEdgeIndices": [
+          1
+        ],
+        "widthM": 34.212,
+        "visibleRoadLengthM": 56.396,
+        "side": "left",
+        "routeStartM": 12346.572,
+        "routeEndM": 12398.782
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 1.1228,
+      "rawTags": {
+        "building": "school"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1330539161",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 611989001,
+      "name": "OSM building 611989001",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 145007015,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12409.735,
+      "minFootprintEdgeToSurfaceRouteM": 90.815,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -166.508,
+          -1687.133
+        ],
+        [
+          -139.991,
+          -1702.951
+        ],
+        [
+          -141.39,
+          -1705.3
+        ],
+        [
+          -136.155,
+          -1708.417
+        ],
+        [
+          -139.353,
+          -1713.771
+        ],
+        [
+          -114.901,
+          -1728.365
+        ],
+        [
+          -107.458,
+          -1715.898
+        ],
+        [
+          -125.59,
+          -1705.077
+        ],
+        [
+          -122.915,
+          -1700.591
+        ],
+        [
+          -128.141,
+          -1697.463
+        ],
+        [
+          -126.713,
+          -1695.081
+        ],
+        [
+          -134.651,
+          -1690.35
+        ],
+        [
+          -133.88,
+          -1689.058
+        ],
+        [
+          -158.779,
+          -1674.197
+        ],
+        [
+          -166.508,
+          -1687.133
+        ]
+      ],
+      "height": 21.0,
+      "heightSource": "height",
+      "frontage": {
+        "edge": [
+          [
+            -114.901,
+            -1728.365
+          ],
+          [
+            -107.458,
+            -1715.898
+          ]
+        ],
+        "sourceEdgeIndices": [
+          5
+        ],
+        "widthM": 14.52,
+        "visibleRoadLengthM": 9.904,
+        "side": "left",
+        "routeStartM": 12403.733,
+        "routeEndM": 12408.685
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.0936,
+      "rawTags": {
+        "building": "apartments",
+        "building:levels": "7",
+        "height": "21"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1330539161",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 611335628,
+      "name": "建唐大楼",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 145007015,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12428.408,
+      "minFootprintEdgeToSurfaceRouteM": 34.26,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -79.114,
+          -1678.483
+        ],
+        [
+          -41.203,
+          -1693.433
+        ],
+        [
+          -43.669,
+          -1699.756
+        ],
+        [
+          -37.501,
+          -1702.907
+        ],
+        [
+          -49.056,
+          -1727.575
+        ],
+        [
+          -60.078,
+          -1722.722
+        ],
+        [
+          -52.206,
+          -1703.563
+        ],
+        [
+          -83.701,
+          -1690.049
+        ],
+        [
+          -79.114,
+          -1678.483
+        ]
+      ],
+      "height": 6.8,
+      "heightSource": "levels",
+      "frontage": {
+        "edge": [
+          [
+            -37.501,
+            -1702.907
+          ],
+          [
+            -49.056,
+            -1727.575
+          ]
+        ],
+        "sourceEdgeIndices": [
+          3
+        ],
+        "widthM": 27.24,
+        "visibleRoadLengthM": 34.662,
+        "side": "left",
+        "routeStartM": 12428.492,
+        "routeEndM": 12458.202
+      },
+      "photoReferences": [
+        "jiantang-loupan-1",
+        "jiantang-loupan-2",
+        "jiantang-loupan-3"
+      ],
+      "existingPhotoArchitecture": null,
+      "confidence": "partial-photo-reference",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.7037,
+      "rawTags": {
+        "building": "yes",
+        "building:levels": "2",
+        "name": "建唐大楼",
+        "name:en": "Jiantang Building"
+      },
+      "photoStatus": "Matched exterior photographs visually inspected; model roundtrip review pending",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "specific-photo-geometry-awaiting-runtime-review",
+      "modelId": "north-bund-frontage-611335628",
+      "photoIdentityVerified": true,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 1004817060,
+      "name": "北外滩街道办事处",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 145007015,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12560.803,
+      "minFootprintEdgeToSurfaceRouteM": 36.599,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          71.889,
+          -1708.751
+        ],
+        [
+          96.522,
+          -1669.232
+        ],
+        [
+          74.878,
+          -1655.751
+        ],
+        [
+          85.862,
+          -1638.141
+        ],
+        [
+          116.177,
+          -1657.02
+        ],
+        [
+          106.735,
+          -1672.16
+        ],
+        [
+          109.657,
+          -1673.986
+        ],
+        [
+          83.482,
+          -1715.976
+        ],
+        [
+          71.889,
+          -1708.751
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            71.889,
+            -1708.751
+          ],
+          [
+            96.522,
+            -1669.232
+          ]
+        ],
+        "sourceEdgeIndices": [
+          0
+        ],
+        "widthM": 46.568,
+        "visibleRoadLengthM": 71.932,
+        "side": "right",
+        "routeStartM": 12504.318,
+        "routeEndM": 12571.855
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 1.3941,
+      "rawTags": {
+        "building": "yes",
+        "name": "北外滩街道办事处",
+        "office": "government"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1004817060",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 612410365,
+      "name": "OSM building 612410365",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 177714722,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12614.97,
+      "minFootprintEdgeToSurfaceRouteM": 86.775,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          139.667,
+          -1649.607
+        ],
+        [
+          147.605,
+          -1633.287
+        ],
+        [
+          198.916,
+          -1658.223
+        ],
+        [
+          190.997,
+          -1674.531
+        ],
+        [
+          139.667,
+          -1649.607
+        ]
+      ],
+      "height": 68.0,
+      "heightSource": "levels",
+      "frontage": {
+        "edge": [
+          [
+            139.667,
+            -1649.607
+          ],
+          [
+            147.605,
+            -1633.287
+          ]
+        ],
+        "sourceEdgeIndices": [
+          0
+        ],
+        "widthM": 18.148,
+        "visibleRoadLengthM": 26.427,
+        "side": "right",
+        "routeStartM": 12593.961,
+        "routeEndM": 12615.976
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.2597,
+      "rawTags": {
+        "building": "residential",
+        "building:levels": "20"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-612410365",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 611989032,
+      "name": "OSM building 611989032",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 177714722,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12631.471,
+      "minFootprintEdgeToSurfaceRouteM": 84.292,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -0.619,
+          -1518.383
+        ],
+        [
+          14.981,
+          -1523.971
+        ],
+        [
+          19.112,
+          -1513.674
+        ],
+        [
+          2.617,
+          -1508.965
+        ],
+        [
+          -0.619,
+          -1518.383
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            14.981,
+            -1523.971
+          ],
+          [
+            19.112,
+            -1513.674
+          ]
+        ],
+        "sourceEdgeIndices": [
+          1
+        ],
+        "widthM": 11.095,
+        "visibleRoadLengthM": 14.644,
+        "side": "left",
+        "routeStartM": 12629.9,
+        "routeEndM": 12639.662
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.1475,
+      "rawTags": {
+        "building": "hospital"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-612410365",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 612410366,
+      "name": "OSM building 612410366",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 177714722,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12659.803,
+      "minFootprintEdgeToSurfaceRouteM": 77.103,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          161.863,
+          -1598.934
+        ],
+        [
+          168.43,
+          -1582.436
+        ],
+        [
+          225.814,
+          -1605.279
+        ],
+        [
+          219.256,
+          -1621.765
+        ],
+        [
+          161.863,
+          -1598.934
+        ]
+      ],
+      "height": 68.0,
+      "heightSource": "levels",
+      "frontage": {
+        "edge": [
+          [
+            161.863,
+            -1598.934
+          ],
+          [
+            168.43,
+            -1582.436
+          ]
+        ],
+        "sourceEdgeIndices": [
+          0
+        ],
+        "widthM": 17.757,
+        "visibleRoadLengthM": 8.459,
+        "side": "right",
+        "routeStartM": 12653.98,
+        "routeEndM": 12658.21
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.0918,
+      "rawTags": {
+        "building": "residential",
+        "building:levels": "20"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-612410365",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 1323407616,
+      "name": "OSM building 1323407616",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1533388567,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12741.208,
+      "minFootprintEdgeToSurfaceRouteM": 18.695,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          82.959,
+          -1465.539
+        ],
+        [
+          90.04,
+          -1451.045
+        ],
+        [
+          119.908,
+          -1465.628
+        ],
+        [
+          112.817,
+          -1480.133
+        ],
+        [
+          82.959,
+          -1465.539
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            119.908,
+            -1465.628
+          ],
+          [
+            112.817,
+            -1480.133
+          ]
+        ],
+        "sourceEdgeIndices": [
+          2
+        ],
+        "widthM": 16.146,
+        "visibleRoadLengthM": 19.856,
+        "side": "left",
+        "routeStartM": 12726.001,
+        "routeEndM": 12740.893
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.5893,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1323407616",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 610343188,
+      "name": "OSM building 610343188",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1533388567,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12750.801,
+      "minFootprintEdgeToSurfaceRouteM": 47.143,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          85.576,
+          -1439.0
+        ],
+        [
+          98.502,
+          -1444.577
+        ],
+        [
+          103.337,
+          -1434.225
+        ],
+        [
+          90.554,
+          -1428.035
+        ],
+        [
+          85.576,
+          -1439.0
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            98.502,
+            -1444.577
+          ],
+          [
+            103.337,
+            -1434.225
+          ]
+        ],
+        "sourceEdgeIndices": [
+          1
+        ],
+        "widthM": 11.425,
+        "visibleRoadLengthM": 19.092,
+        "side": "left",
+        "routeStartM": 12750.821,
+        "routeEndM": 12912.14
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.3072,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1323407616",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 1323407618,
+      "name": "OSM building 1323407618",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1533388567,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12764.982,
+      "minFootprintEdgeToSurfaceRouteM": 49.74,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          96.084,
+          -1427.746
+        ],
+        [
+          105.44,
+          -1407.797
+        ],
+        [
+          111.703,
+          -1410.747
+        ],
+        [
+          102.356,
+          -1430.685
+        ],
+        [
+          96.084,
+          -1427.746
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            111.703,
+            -1410.747
+          ],
+          [
+            102.356,
+            -1430.685
+          ]
+        ],
+        "sourceEdgeIndices": [
+          2
+        ],
+        "widthM": 22.02,
+        "visibleRoadLengthM": 4.964,
+        "side": "left",
+        "routeStartM": 12785.571,
+        "routeEndM": 12785.571
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.0767,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1323407616",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 988162956,
+      "name": "OSM building 988162956",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1533388567,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12765.377,
+      "minFootprintEdgeToSurfaceRouteM": 28.169,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          112.855,
+          -1436.83
+        ],
+        [
+          121.935,
+          -1439.746
+        ],
+        [
+          128.093,
+          -1424.84
+        ],
+        [
+          120.631,
+          -1420.621
+        ],
+        [
+          112.855,
+          -1436.83
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            121.935,
+            -1439.746
+          ],
+          [
+            128.093,
+            -1424.84
+          ]
+        ],
+        "sourceEdgeIndices": [
+          1
+        ],
+        "widthM": 16.128,
+        "visibleRoadLengthM": 19.857,
+        "side": "left",
+        "routeStartM": 12765.714,
+        "routeEndM": 12780.607
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.46,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1323407616",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 1323408463,
+      "name": "OSM building 1323408463",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1533388567,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12803.745,
+      "minFootprintEdgeToSurfaceRouteM": 69.597,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          226.642,
+          -1447.906
+        ],
+        [
+          245.602,
+          -1408.833
+        ],
+        [
+          300.664,
+          -1432.944
+        ],
+        [
+          282.694,
+          -1473.031
+        ],
+        [
+          226.642,
+          -1447.906
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            226.642,
+            -1447.906
+          ],
+          [
+            245.602,
+            -1408.833
+          ]
+        ],
+        "sourceEdgeIndices": [
+          0
+        ],
+        "widthM": 43.43,
+        "visibleRoadLengthM": 44.677,
+        "side": "right",
+        "routeStartM": 12805.428,
+        "routeEndM": 12845.141
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.5281,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1323408463",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 1323407617,
+      "name": "OSM building 1323407617",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1533388567,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12819.68,
+      "minFootprintEdgeToSurfaceRouteM": 29.475,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          122.449,
+          -1410.513
+        ],
+        [
+          129.292,
+          -1396.944
+        ],
+        [
+          116.824,
+          -1390.654
+        ],
+        [
+          120.241,
+          -1383.897
+        ],
+        [
+          123.981,
+          -1385.778
+        ],
+        [
+          126.913,
+          -1379.967
+        ],
+        [
+          131.501,
+          -1382.283
+        ],
+        [
+          130.901,
+          -1383.474
+        ],
+        [
+          144.464,
+          -1390.32
+        ],
+        [
+          131.872,
+          -1415.267
+        ],
+        [
+          122.449,
+          -1410.513
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            144.464,
+            -1390.32
+          ],
+          [
+            131.872,
+            -1415.267
+          ]
+        ],
+        "sourceEdgeIndices": [
+          8
+        ],
+        "widthM": 27.945,
+        "visibleRoadLengthM": 55.504,
+        "side": "left",
+        "routeStartM": 12795.499,
+        "routeEndM": 12907.941
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 1.248,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1323408463",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 534041326,
+      "name": "OSM building 534041326",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1533388567,
+      "nearestRoadName": "新建路",
+      "routeDistanceM": 12857.552,
+      "minFootprintEdgeToSurfaceRouteM": 76.139,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          211.261,
+          -1295.464
+        ],
+        [
+          245.992,
+          -1314.055
+        ],
+        [
+          261.021,
+          -1285.134
+        ],
+        [
+          226.633,
+          -1266.733
+        ],
+        [
+          211.261,
+          -1295.464
+        ]
+      ],
+      "height": 27.2,
+      "heightSource": "levels",
+      "frontage": {
+        "edge": [
+          [
+            211.261,
+            -1295.464
+          ],
+          [
+            245.992,
+            -1314.055
+          ]
+        ],
+        "sourceEdgeIndices": [
+          0
+        ],
+        "widthM": 39.394,
+        "visibleRoadLengthM": 13.385,
+        "side": "right",
+        "routeStartM": 12859.782,
+        "routeEndM": 12868.706
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.1469,
+      "rawTags": {
+        "building": "yes",
+        "building:levels": "8",
+        "building:min_level": "7"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-1323408463",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 534041310,
+      "name": "OSM building 534041310",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 168993860,
+      "nearestRoadName": "东大名路",
+      "routeDistanceM": 12939.6,
+      "minFootprintEdgeToSurfaceRouteM": 21.502,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          126.056,
+          -1310.136
+        ],
+        [
+          126.561,
+          -1308.099
+        ],
+        [
+          133.328,
+          -1305.283
+        ],
+        [
+          147.12,
+          -1303.246
+        ],
+        [
+          160.902,
+          -1311.16
+        ],
+        [
+          164.861,
+          -1312.051
+        ],
+        [
+          179.024,
+          -1309.88
+        ],
+        [
+          190.255,
+          -1315.624
+        ],
+        [
+          192.939,
+          -1317.673
+        ],
+        [
+          193.71,
+          -1320.222
+        ],
+        [
+          193.32,
+          -1323.283
+        ],
+        [
+          183.24,
+          -1337.833
+        ],
+        [
+          181.07,
+          -1338.723
+        ],
+        [
+          178.129,
+          -1338.723
+        ],
+        [
+          166.136,
+          -1332.478
+        ],
+        [
+          127.198,
+          -1311.672
+        ],
+        [
+          126.056,
+          -1310.136
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            178.129,
+            -1338.723
+          ],
+          [
+            127.198,
+            -1311.672
+          ]
+        ],
+        "sourceEdgeIndices": [
+          13,
+          14
+        ],
+        "widthM": 57.669,
+        "visibleRoadLengthM": 69.448,
+        "side": "right",
+        "routeStartM": 12873.168,
+        "routeEndM": 12938.133
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 1.9026,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-534041310",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 534041358,
+      "name": "OSM building 534041358",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 168993860,
+      "nearestRoadName": "东大名路",
+      "routeDistanceM": 12977.857,
+      "minFootprintEdgeToSurfaceRouteM": 79.417,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          113.54,
+          -1222.205
+        ],
+        [
+          119.413,
+          -1235.474
+        ],
+        [
+          127.332,
+          -1242.877
+        ],
+        [
+          144.178,
+          -1253.085
+        ],
+        [
+          150.308,
+          -1255.89
+        ],
+        [
+          153.877,
+          -1255.133
+        ],
+        [
+          162.053,
+          -1241.853
+        ],
+        [
+          172.009,
+          -1227.047
+        ],
+        [
+          175.074,
+          -1221.436
+        ],
+        [
+          173.789,
+          -1217.607
+        ],
+        [
+          168.43,
+          -1214.546
+        ],
+        [
+          153.373,
+          -1209.436
+        ],
+        [
+          137.287,
+          -1207.399
+        ],
+        [
+          120.688,
+          -1208.412
+        ],
+        [
+          114.568,
+          -1211.228
+        ],
+        [
+          110.989,
+          -1215.815
+        ],
+        [
+          113.54,
+          -1222.205
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            144.178,
+            -1253.085
+          ],
+          [
+            150.308,
+            -1255.89
+          ]
+        ],
+        "sourceEdgeIndices": [
+          3
+        ],
+        "widthM": 6.741,
+        "visibleRoadLengthM": 4.503,
+        "side": "right",
+        "routeStartM": 12951.643,
+        "routeEndM": 12951.643
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.0477,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-534041310",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 534041306,
+      "name": "OSM building 534041306",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 168993860,
+      "nearestRoadName": "东大名路",
+      "routeDistanceM": 13005.504,
+      "minFootprintEdgeToSurfaceRouteM": 23.219,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          73.593,
+          -1255.133
+        ],
+        [
+          78.438,
+          -1253.975
+        ],
+        [
+          87.118,
+          -1255.645
+        ],
+        [
+          113.93,
+          -1264.194
+        ],
+        [
+          121.202,
+          -1268.146
+        ],
+        [
+          125.285,
+          -1271.341
+        ],
+        [
+          127.712,
+          -1275.293
+        ],
+        [
+          128.35,
+          -1280.269
+        ],
+        [
+          127.075,
+          -1284.744
+        ],
+        [
+          123.753,
+          -1287.416
+        ],
+        [
+          119.67,
+          -1288.952
+        ],
+        [
+          112.902,
+          -1288.574
+        ],
+        [
+          78.571,
+          -1277.464
+        ],
+        [
+          73.212,
+          -1274.402
+        ],
+        [
+          69.757,
+          -1271.085
+        ],
+        [
+          68.234,
+          -1267.512
+        ],
+        [
+          68.101,
+          -1263.805
+        ],
+        [
+          68.615,
+          -1260.877
+        ],
+        [
+          70.909,
+          -1257.17
+        ],
+        [
+          73.593,
+          -1255.133
+        ]
+      ],
+      "height": 61.199999999999996,
+      "heightSource": "levels",
+      "frontage": {
+        "edge": [
+          [
+            112.902,
+            -1288.574
+          ],
+          [
+            78.571,
+            -1277.464
+          ]
+        ],
+        "sourceEdgeIndices": [
+          11
+        ],
+        "widthM": 36.084,
+        "visibleRoadLengthM": 61.39,
+        "side": "right",
+        "routeStartM": 12956.146,
+        "routeEndM": 13012.855
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 1.6063,
+      "rawTags": {
+        "building": "tower",
+        "building:levels": "18"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-534041310",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446939508,
+      "name": "OSM building 446939508",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1068447144,
+      "nearestRoadName": "东大名路",
+      "routeDistanceM": 13286.806,
+      "minFootprintEdgeToSurfaceRouteM": 23.914,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -187.89,
+          -1108.79
+        ],
+        [
+          -195.46,
+          -1122.8
+        ],
+        [
+          -173.25,
+          -1134.8
+        ],
+        [
+          -165.68,
+          -1120.79
+        ],
+        [
+          -187.89,
+          -1108.79
+        ]
+      ],
+      "height": 34.0,
+      "heightSource": "levels",
+      "frontage": {
+        "edge": [
+          [
+            -195.46,
+            -1122.8
+          ],
+          [
+            -173.25,
+            -1134.8
+          ]
+        ],
+        "sourceEdgeIndices": [
+          1
+        ],
+        "widthM": 25.244,
+        "visibleRoadLengthM": 24.874,
+        "side": "right",
+        "routeStartM": 13290.704,
+        "routeEndM": 13310.603
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.6392,
+      "rawTags": {
+        "building": "yes",
+        "building:levels": "10"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446939508",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446939629,
+      "name": "OSM building 446939629",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1068447144,
+      "nearestRoadName": "东大名路",
+      "routeDistanceM": 13296.18,
+      "minFootprintEdgeToSurfaceRouteM": 84.729,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -249.038,
+          -1253.964
+        ],
+        [
+          -227.594,
+          -1266.477
+        ],
+        [
+          -211.366,
+          -1238.647
+        ],
+        [
+          -232.81,
+          -1226.145
+        ],
+        [
+          -249.038,
+          -1253.964
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -211.366,
+            -1238.647
+          ],
+          [
+            -232.81,
+            -1226.145
+          ]
+        ],
+        "sourceEdgeIndices": [
+          2
+        ],
+        "widthM": 24.822,
+        "visibleRoadLengthM": 24.874,
+        "side": "left",
+        "routeStartM": 13275.779,
+        "routeEndM": 13295.679
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.2494,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446939508",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 656626139,
+      "name": "OSM building 656626139",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1068447144,
+      "nearestRoadName": "东大名路",
+      "routeDistanceM": 13321.106,
+      "minFootprintEdgeToSurfaceRouteM": 72.813,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -180.62,
+          -1032.03
+        ],
+        [
+          -173.47,
+          -1032.84
+        ],
+        [
+          -166.33,
+          -1036.31
+        ],
+        [
+          -156.73,
+          -1043.76
+        ],
+        [
+          -148.37,
+          -1051.82
+        ],
+        [
+          -130.81,
+          -1073.66
+        ],
+        [
+          -127.95,
+          -1079.17
+        ],
+        [
+          -127.34,
+          -1083.67
+        ],
+        [
+          -128.56,
+          -1088.15
+        ],
+        [
+          -131.82,
+          -1091.01
+        ],
+        [
+          -136.94,
+          -1092.04
+        ],
+        [
+          -145.5,
+          -1090.5
+        ],
+        [
+          -154.9,
+          -1087.75
+        ],
+        [
+          -168.27,
+          -1081.83
+        ],
+        [
+          -180.41,
+          -1075.5
+        ],
+        [
+          -190.52,
+          -1069.37
+        ],
+        [
+          -199.19,
+          -1063.45
+        ],
+        [
+          -202.56,
+          -1058.45
+        ],
+        [
+          -203.89,
+          -1053.45
+        ],
+        [
+          -203.08,
+          -1047.74
+        ],
+        [
+          -200.22,
+          -1042.83
+        ],
+        [
+          -196.95,
+          -1038.55
+        ],
+        [
+          -192.66,
+          -1035.09
+        ],
+        [
+          -187.15,
+          -1032.84
+        ],
+        [
+          -180.62,
+          -1032.03
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -136.94,
+            -1092.04
+          ],
+          [
+            -145.5,
+            -1090.5
+          ]
+        ],
+        "sourceEdgeIndices": [
+          10
+        ],
+        "widthM": 8.697,
+        "visibleRoadLengthM": 24.829,
+        "side": "right",
+        "routeStartM": 13270.804,
+        "routeEndM": 13350.246
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.2827,
+      "rawTags": {
+        "building": "transportation"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446939508",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446939555,
+      "name": "OSM building 446939555",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1068447144,
+      "nearestRoadName": "东大名路",
+      "routeDistanceM": 13323.478,
+      "minFootprintEdgeToSurfaceRouteM": 85.429,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -260.355,
+          -1255.111
+        ],
+        [
+          -241.462,
+          -1223.195
+        ],
+        [
+          -257.186,
+          -1213.889
+        ],
+        [
+          -276.079,
+          -1245.804
+        ],
+        [
+          -260.355,
+          -1255.111
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -241.462,
+            -1223.195
+          ],
+          [
+            -257.186,
+            -1213.889
+          ]
+        ],
+        "sourceEdgeIndices": [
+          1
+        ],
+        "widthM": 18.271,
+        "visibleRoadLengthM": 9.95,
+        "side": "left",
+        "routeStartM": 13305.628,
+        "routeEndM": 13310.603
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.0991,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446939508",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446937839,
+      "name": "OSM building 446937839",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1068447144,
+      "nearestRoadName": "东大名路",
+      "routeDistanceM": 13328.971,
+      "minFootprintEdgeToSurfaceRouteM": 22.874,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -259.565,
+          -1173.38
+        ],
+        [
+          -255.986,
+          -1163.672
+        ],
+        [
+          -232.505,
+          -1156.147
+        ],
+        [
+          -226.757,
+          -1171.465
+        ],
+        [
+          -228.67,
+          -1179.246
+        ],
+        [
+          -234.162,
+          -1184.478
+        ],
+        [
+          -252.036,
+          -1190.99
+        ],
+        [
+          -259.565,
+          -1173.38
+        ]
+      ],
+      "height": 51.0,
+      "heightSource": "levels",
+      "frontage": {
+        "edge": [
+          [
+            -232.505,
+            -1156.147
+          ],
+          [
+            -226.757,
+            -1171.465
+          ]
+        ],
+        "sourceEdgeIndices": [
+          2
+        ],
+        "widthM": 16.361,
+        "visibleRoadLengthM": 24.83,
+        "side": "left",
+        "routeStartM": 13315.578,
+        "routeEndM": 13335.456
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.6556,
+      "rawTags": {
+        "building": "yes",
+        "building:levels": "15"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446937839",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446939503,
+      "name": "OSM building 446939503",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1068447144,
+      "nearestRoadName": "东大名路",
+      "routeDistanceM": 13337.029,
+      "minFootprintEdgeToSurfaceRouteM": 11.299,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -312.86,
+          -1122.77
+        ],
+        [
+          -240.61,
+          -1156.21
+        ],
+        [
+          -234.11,
+          -1142.18
+        ],
+        [
+          -306.36,
+          -1108.74
+        ],
+        [
+          -312.86,
+          -1122.77
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -234.11,
+            -1142.18
+          ],
+          [
+            -306.36,
+            -1108.74
+          ]
+        ],
+        "sourceEdgeIndices": [
+          2
+        ],
+        "widthM": 79.613,
+        "visibleRoadLengthM": 78.627,
+        "side": "left",
+        "routeStartM": 13340.385,
+        "routeEndM": 13414.093
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 2.9897,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446937839",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446937832,
+      "name": "远洋大厦",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1068447144,
+      "nearestRoadName": "东大名路",
+      "routeDistanceM": 13345.011,
+      "minFootprintEdgeToSurfaceRouteM": 19.892,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -198.23,
+          -1123.99
+        ],
+        [
+          -183.42,
+          -1091.95
+        ],
+        [
+          -211.77,
+          -1078.85
+        ],
+        [
+          -226.57,
+          -1110.88
+        ],
+        [
+          -198.23,
+          -1123.99
+        ]
+      ],
+      "height": 102.0,
+      "heightSource": "levels",
+      "frontage": {
+        "edge": [
+          [
+            -226.57,
+            -1110.88
+          ],
+          [
+            -198.23,
+            -1123.99
+          ]
+        ],
+        "sourceEdgeIndices": [
+          3
+        ],
+        "widthM": 31.225,
+        "visibleRoadLengthM": 34.69,
+        "side": "right",
+        "routeStartM": 13315.578,
+        "routeEndM": 13345.316
+      },
+      "photoReferences": [
+        "ocean-linkpower"
+      ],
+      "existingPhotoArchitecture": null,
+      "confidence": "partial-photo-reference",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.9942,
+      "rawTags": {
+        "building": "yes",
+        "building:levels": "30",
+        "name": "远洋大厦"
+      },
+      "photoStatus": "Matched exterior photographs visually inspected; model roundtrip review pending",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "specific-photo-geometry-awaiting-runtime-review",
+      "modelId": "north-bund-frontage-446937832",
+      "photoIdentityVerified": true,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 177714739,
+      "name": "OSM building 177714739",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1068447144,
+      "nearestRoadName": "东大名路",
+      "routeDistanceM": 13399.371,
+      "minFootprintEdgeToSurfaceRouteM": 37.779,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -265.32,
+          -1069.31
+        ],
+        [
+          -268.6,
+          -1065.17
+        ],
+        [
+          -269.08,
+          -1064.54
+        ],
+        [
+          -269.65,
+          -1062.42
+        ],
+        [
+          -263.02,
+          -1061.9
+        ],
+        [
+          -254.85,
+          -1060.12
+        ],
+        [
+          -243.87,
+          -1056.55
+        ],
+        [
+          -234.17,
+          -1051.44
+        ],
+        [
+          -232.79,
+          -1053.32
+        ],
+        [
+          -232.58,
+          -1053.57
+        ],
+        [
+          -233.41,
+          -1058.33
+        ],
+        [
+          -237.75,
+          -1061.14
+        ],
+        [
+          -244.13,
+          -1064.45
+        ],
+        [
+          -252.24,
+          -1066.85
+        ],
+        [
+          -260.66,
+          -1068.63
+        ],
+        [
+          -265.32,
+          -1069.31
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -252.24,
+            -1066.85
+          ],
+          [
+            -260.66,
+            -1068.63
+          ]
+        ],
+        "sourceEdgeIndices": [
+          13
+        ],
+        "widthM": 8.606,
+        "visibleRoadLengthM": 24.545,
+        "side": "right",
+        "routeStartM": 13379.731,
+        "routeEndM": 13399.366
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.4651,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-177714739",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 177714724,
+      "name": "国际港务大厦",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1068447144,
+      "nearestRoadName": "东大名路",
+      "routeDistanceM": 13408.2,
+      "minFootprintEdgeToSurfaceRouteM": 38.848,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -275.63,
+          -1053.18
+        ],
+        [
+          -275.34,
+          -1058.75
+        ],
+        [
+          -274.32,
+          -1061.81
+        ],
+        [
+          -272.53,
+          -1064.11
+        ],
+        [
+          -270.43,
+          -1065.22
+        ],
+        [
+          -268.6,
+          -1065.17
+        ],
+        [
+          -267.68,
+          -1065.13
+        ],
+        [
+          -260.78,
+          -1064.62
+        ],
+        [
+          -253.13,
+          -1063.09
+        ],
+        [
+          -240.61,
+          -1058.75
+        ],
+        [
+          -232.79,
+          -1053.32
+        ],
+        [
+          -231.43,
+          -1052.37
+        ],
+        [
+          -230.15,
+          -1049.81
+        ],
+        [
+          -229.57,
+          -1047.87
+        ],
+        [
+          -230.6,
+          -1045.57
+        ],
+        [
+          -232.38,
+          -1042.5
+        ],
+        [
+          -237.49,
+          -1036.12
+        ],
+        [
+          -246.17,
+          -1027.44
+        ],
+        [
+          -258.42,
+          -1019.02
+        ],
+        [
+          -261.49,
+          -1017.49
+        ],
+        [
+          -264.36,
+          -1017.4
+        ],
+        [
+          -266.6,
+          -1018.51
+        ],
+        [
+          -268.7,
+          -1020.72
+        ],
+        [
+          -271.0,
+          -1024.8
+        ],
+        [
+          -274.06,
+          -1037.83
+        ],
+        [
+          -275.63,
+          -1053.18
+        ]
+      ],
+      "height": 74.8,
+      "heightSource": "levels",
+      "frontage": {
+        "edge": [
+          [
+            -274.06,
+            -1037.83
+          ],
+          [
+            -275.63,
+            -1053.18
+          ]
+        ],
+        "sourceEdgeIndices": [
+          24
+        ],
+        "widthM": 15.43,
+        "visibleRoadLengthM": 28.776,
+        "side": "right",
+        "routeStartM": 13404.275,
+        "routeEndM": 13428.312
+      },
+      "photoReferences": [
+        "sipg-hanne-2010"
+      ],
+      "existingPhotoArchitecture": null,
+      "confidence": "partial-photo-reference",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.5344,
+      "rawTags": {
+        "building": "yes",
+        "building:levels": "22",
+        "name": "国际港务大厦"
+      },
+      "photoStatus": "Matched exterior photographs visually inspected; model roundtrip review pending",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "specific-photo-geometry-awaiting-runtime-review",
+      "modelId": "north-bund-frontage-177714724",
+      "photoIdentityVerified": true,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446939569,
+      "name": "OSM building 446939569",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1068447144,
+      "nearestRoadName": "东大名路",
+      "routeDistanceM": 13416.309,
+      "minFootprintEdgeToSurfaceRouteM": 71.121,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -348.339,
+          -1175.606
+        ],
+        [
+          -338.726,
+          -1183.432
+        ],
+        [
+          -323.155,
+          -1164.285
+        ],
+        [
+          -332.768,
+          -1156.47
+        ],
+        [
+          -348.339,
+          -1175.606
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -332.768,
+            -1156.47
+          ],
+          [
+            -348.339,
+            -1175.606
+          ]
+        ],
+        "sourceEdgeIndices": [
+          3
+        ],
+        "widthM": 24.671,
+        "visibleRoadLengthM": 4.909,
+        "side": "left",
+        "routeStartM": 13419.002,
+        "routeEndM": 13419.002
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.057,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446939569",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446939603,
+      "name": "OSM building 446939603",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 475437749,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13452.86,
+      "minFootprintEdgeToSurfaceRouteM": 30.277,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -358.76,
+          -1124.55
+        ],
+        [
+          -347.27,
+          -1101.58
+        ],
+        [
+          -358.91,
+          -1095.77
+        ],
+        [
+          -370.4,
+          -1118.73
+        ],
+        [
+          -358.76,
+          -1124.55
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -347.27,
+            -1101.58
+          ],
+          [
+            -358.91,
+            -1095.77
+          ]
+        ],
+        "sourceEdgeIndices": [
+          1
+        ],
+        "widthM": 13.009,
+        "visibleRoadLengthM": 10.965,
+        "side": "left",
+        "routeStartM": 13452.247,
+        "routeEndM": 13459.323
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.2422,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446939603",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446939627,
+      "name": "OSM building 446939627",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 475437749,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13496.209,
+      "minFootprintEdgeToSurfaceRouteM": 14.792,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -375.35,
+          -1068.91
+        ],
+        [
+          -381.97,
+          -1081.04
+        ],
+        [
+          -351.08,
+          -1097.88
+        ],
+        [
+          -344.47,
+          -1085.76
+        ],
+        [
+          -375.35,
+          -1068.91
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -344.47,
+            -1085.76
+          ],
+          [
+            -375.35,
+            -1068.91
+          ]
+        ],
+        "sourceEdgeIndices": [
+          3
+        ],
+        "widthM": 35.178,
+        "visibleRoadLengthM": 36.753,
+        "side": "left",
+        "routeStartM": 13463.917,
+        "routeEndM": 13496.075
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 1.2337,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446939603",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446939575,
+      "name": "OSM building 446939575",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 475437749,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13501.392,
+      "minFootprintEdgeToSurfaceRouteM": 28.504,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -393.48,
+          -1085.5
+        ],
+        [
+          -384.95,
+          -1094.35
+        ],
+        [
+          -377.8,
+          -1087.46
+        ],
+        [
+          -386.34,
+          -1078.61
+        ],
+        [
+          -393.48,
+          -1085.5
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -377.8,
+            -1087.46
+          ],
+          [
+            -386.34,
+            -1078.61
+          ]
+        ],
+        "sourceEdgeIndices": [
+          2
+        ],
+        "widthM": 12.299,
+        "visibleRoadLengthM": 4.594,
+        "side": "left",
+        "routeStartM": 13500.67,
+        "routeEndM": 13500.67
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.1056,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446939603",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446939640,
+      "name": "OSM building 446939640",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 475437749,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13506.905,
+      "minFootprintEdgeToSurfaceRouteM": 40.676,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -409.82,
+          -1101.83
+        ],
+        [
+          -399.3,
+          -1111.27
+        ],
+        [
+          -387.56,
+          -1098.19
+        ],
+        [
+          -386.02,
+          -1096.47
+        ],
+        [
+          -396.54,
+          -1087.03
+        ],
+        [
+          -409.82,
+          -1101.83
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -386.02,
+            -1096.47
+          ],
+          [
+            -396.54,
+            -1087.03
+          ]
+        ],
+        "sourceEdgeIndices": [
+          3
+        ],
+        "widthM": 14.134,
+        "visibleRoadLengthM": 7.982,
+        "side": "left",
+        "routeStartM": 13504.962,
+        "routeEndM": 13508.953
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.1434,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446939603",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446939476,
+      "name": "OSM building 446939476",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 475437749,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13613.407,
+      "minFootprintEdgeToSurfaceRouteM": 14.888,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -490.28,
+          -1049.89
+        ],
+        [
+          -483.13,
+          -1038.66
+        ],
+        [
+          -479.56,
+          -1038.03
+        ],
+        [
+          -438.97,
+          -1041.86
+        ],
+        [
+          -399.27,
+          -1059.08
+        ],
+        [
+          -392.64,
+          -1066.36
+        ],
+        [
+          -395.57,
+          -1072.61
+        ],
+        [
+          -400.55,
+          -1076.95
+        ],
+        [
+          -448.16,
+          -1060.36
+        ],
+        [
+          -470.11,
+          -1057.3
+        ],
+        [
+          -472.67,
+          -1058.7
+        ],
+        [
+          -490.28,
+          -1049.89
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -438.97,
+            -1041.86
+          ],
+          [
+            -399.27,
+            -1059.08
+          ]
+        ],
+        "sourceEdgeIndices": [
+          3
+        ],
+        "widthM": 43.274,
+        "visibleRoadLengthM": 113.714,
+        "side": "left",
+        "routeStartM": 13512.944,
+        "routeEndM": 13622.206
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 3.8047,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446939476",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 189037696,
+      "name": "上海外滩茂悦大酒店",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 475437749,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13632.471,
+      "minFootprintEdgeToSurfaceRouteM": 43.459,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -497.71,
+          -979.5
+        ],
+        [
+          -467.25,
+          -958.09
+        ],
+        [
+          -450.35,
+          -919.54
+        ],
+        [
+          -458.44,
+          -913.83
+        ],
+        [
+          -471.53,
+          -915.25
+        ],
+        [
+          -489.15,
+          -929.05
+        ],
+        [
+          -520.32,
+          -908.12
+        ],
+        [
+          -519.37,
+          -875.99
+        ],
+        [
+          -531.27,
+          -864.33
+        ],
+        [
+          -541.74,
+          -865.28
+        ],
+        [
+          -575.76,
+          -921.92
+        ],
+        [
+          -564.58,
+          -947.61
+        ],
+        [
+          -497.71,
+          -979.5
+        ]
+      ],
+      "height": 13.6,
+      "heightSource": "levels",
+      "frontage": {
+        "edge": [
+          [
+            -564.58,
+            -947.61
+          ],
+          [
+            -497.71,
+            -979.5
+          ]
+        ],
+        "sourceEdgeIndices": [
+          11
+        ],
+        "widthM": 74.085,
+        "visibleRoadLengthM": 176.149,
+        "side": "right",
+        "routeStartM": 13591.602,
+        "routeEndM": 13763.199
+      },
+      "photoReferences": [
+        "hyatt-james-2007"
+      ],
+      "existingPhotoArchitecture": null,
+      "confidence": "partial-photo-reference",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 3.0132,
+      "rawTags": {
+        "addr:city": "Shanghai",
+        "addr:housenumber": "199",
+        "addr:housenumber:en": "199",
+        "addr:postcode": "200080",
+        "addr:street": "黄浦路",
+        "addr:street:en": "Huangpu Road",
+        "brand": "Grand Hyatt",
+        "brand:wikidata": "Q1425063",
+        "building": "yes",
+        "building:levels": "4",
+        "built": "2007",
+        "contact:website": "http://shanghai.bund.hyatt.com/",
+        "name": "上海外滩茂悦大酒店",
+        "source": "survey",
+        "tourism": "hotel"
+      },
+      "photoStatus": "Central entrance only; side street incomplete",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "specific-photo-geometry-awaiting-runtime-review",
+      "modelId": "north-bund-frontage-189037696",
+      "photoIdentityVerified": true,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446939657,
+      "name": "OSM building 446939657",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 475437749,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13634.491,
+      "minFootprintEdgeToSurfaceRouteM": 11.797,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -507.38,
+          -1034.51
+        ],
+        [
+          -491.56,
+          -1035.02
+        ],
+        [
+          -500.75,
+          -1054.17
+        ],
+        [
+          -509.43,
+          -1049.31
+        ],
+        [
+          -506.11,
+          -1042.93
+        ],
+        [
+          -511.47,
+          -1042.12
+        ],
+        [
+          -507.38,
+          -1034.51
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -507.38,
+            -1034.51
+          ],
+          [
+            -491.56,
+            -1035.02
+          ]
+        ],
+        "sourceEdgeIndices": [
+          0
+        ],
+        "widthM": 15.828,
+        "visibleRoadLengthM": 18.082,
+        "side": "left",
+        "routeStartM": 13627.12,
+        "routeEndM": 13640.682
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.6748,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446939657",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446939653,
+      "name": "OSM building 446939653",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 475437749,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13650.999,
+      "minFootprintEdgeToSurfaceRouteM": 12.178,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -529.6,
+          -1031.96
+        ],
+        [
+          -531.26,
+          -1044.37
+        ],
+        [
+          -512.11,
+          -1046.92
+        ],
+        [
+          -511.47,
+          -1042.12
+        ],
+        [
+          -510.45,
+          -1034.51
+        ],
+        [
+          -529.6,
+          -1031.96
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -510.45,
+            -1034.51
+          ],
+          [
+            -529.6,
+            -1031.96
+          ]
+        ],
+        "sourceEdgeIndices": [
+          4
+        ],
+        "widthM": 19.319,
+        "visibleRoadLengthM": 17.862,
+        "side": "left",
+        "routeStartM": 13644.809,
+        "routeEndM": 13658.205
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.6572,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446939657",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446939628,
+      "name": "OSM building 446939628",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 475437749,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13664.361,
+      "minFootprintEdgeToSurfaceRouteM": 30.485,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -528.32,
+          -1070.0
+        ],
+        [
+          -520.76,
+          -1057.77
+        ],
+        [
+          -536.49,
+          -1048.04
+        ],
+        [
+          -544.06,
+          -1060.26
+        ],
+        [
+          -528.32,
+          -1070.0
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -520.76,
+            -1057.77
+          ],
+          [
+            -536.49,
+            -1048.04
+          ]
+        ],
+        "sourceEdgeIndices": [
+          1
+        ],
+        "widthM": 18.496,
+        "visibleRoadLengthM": 4.803,
+        "side": "left",
+        "routeStartM": 13663.008,
+        "routeEndM": 13663.008
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.1056,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446939657",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446939635,
+      "name": "OSM building 446939635",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 475437749,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13665.41,
+      "minFootprintEdgeToSurfaceRouteM": 13.287,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -551.04,
+          -1026.09
+        ],
+        [
+          -553.9,
+          -1036.1
+        ],
+        [
+          -536.03,
+          -1041.21
+        ],
+        [
+          -533.17,
+          -1031.19
+        ],
+        [
+          -551.04,
+          -1026.09
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -533.17,
+            -1031.19
+          ],
+          [
+            -551.04,
+            -1026.09
+          ]
+        ],
+        "sourceEdgeIndices": [
+          3
+        ],
+        "widthM": 18.584,
+        "visibleRoadLengthM": 17.509,
+        "side": "left",
+        "routeStartM": 13667.495,
+        "routeEndM": 13680.42
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.619,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446939657",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446939526,
+      "name": "OSM building 446939526",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 475437749,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13692.913,
+      "minFootprintEdgeToSurfaceRouteM": 13.771,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -564.32,
+          -1019.7
+        ],
+        [
+          -568.48,
+          -1028.5
+        ],
+        [
+          -558.78,
+          -1033.09
+        ],
+        [
+          -554.61,
+          -1024.3
+        ],
+        [
+          -564.32,
+          -1019.7
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -554.61,
+            -1024.3
+          ],
+          [
+            -564.32,
+            -1019.7
+          ]
+        ],
+        "sourceEdgeIndices": [
+          3
+        ],
+        "widthM": 10.744,
+        "visibleRoadLengthM": 13.753,
+        "side": "left",
+        "routeStartM": 13685.418,
+        "routeEndM": 13694.792
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.478,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446939526",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446939645,
+      "name": "OSM building 446939645",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 475437749,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13727.515,
+      "minFootprintEdgeToSurfaceRouteM": 10.848,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -591.64,
+          -999.8
+        ],
+        [
+          -599.46,
+          -1011.13
+        ],
+        [
+          -573.93,
+          -1028.74
+        ],
+        [
+          -566.1,
+          -1017.41
+        ],
+        [
+          -591.64,
+          -999.8
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -566.1,
+            -1017.41
+          ],
+          [
+            -591.64,
+            -999.8
+          ]
+        ],
+        "sourceEdgeIndices": [
+          3
+        ],
+        "widthM": 31.023,
+        "visibleRoadLengthM": 30.383,
+        "side": "left",
+        "routeStartM": 13698.551,
+        "routeEndM": 13724.836
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 1.1754,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446939526",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 744276671,
+      "name": "OSM building 744276671",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 1067804361,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13741.558,
+      "minFootprintEdgeToSurfaceRouteM": 8.717,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -656.79,
+          -991.24
+        ],
+        [
+          -639.61,
+          -970.35
+        ],
+        [
+          -632.37,
+          -969.85
+        ],
+        [
+          -602.56,
+          -989.56
+        ],
+        [
+          -601.71,
+          -997.64
+        ],
+        [
+          -613.67,
+          -1017.68
+        ],
+        [
+          -623.1,
+          -1012.29
+        ],
+        [
+          -617.71,
+          -1003.19
+        ],
+        [
+          -638.93,
+          -989.56
+        ],
+        [
+          -647.02,
+          -999.32
+        ],
+        [
+          -656.79,
+          -991.24
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -632.37,
+            -969.85
+          ],
+          [
+            -602.56,
+            -989.56
+          ]
+        ],
+        "sourceEdgeIndices": [
+          2
+        ],
+        "widthM": 35.737,
+        "visibleRoadLengthM": 53.659,
+        "side": "left",
+        "routeStartM": 13733.931,
+        "routeEndM": 13782.712
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 2.2625,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446939526",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446933531,
+      "name": "OSM building 446933531",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 177574794,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13797.853,
+      "minFootprintEdgeToSurfaceRouteM": 15.361,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -633.44,
+          -937.06
+        ],
+        [
+          -573.7,
+          -860.48
+        ],
+        [
+          -600.58,
+          -839.52
+        ],
+        [
+          -660.31,
+          -916.11
+        ],
+        [
+          -633.44,
+          -937.06
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -660.31,
+            -916.11
+          ],
+          [
+            -633.44,
+            -937.06
+          ]
+        ],
+        "sourceEdgeIndices": [
+          3
+        ],
+        "widthM": 34.072,
+        "visibleRoadLengthM": 37.906,
+        "side": "right",
+        "routeStartM": 13794.875,
+        "routeEndM": 13828.45
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 1.2485,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446939526",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 292818817,
+      "name": "金山大楼",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 177574794,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13848.239,
+      "minFootprintEdgeToSurfaceRouteM": 7.729,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -723.08,
+          -868.05
+        ],
+        [
+          -735.21,
+          -870.73
+        ],
+        [
+          -733.16,
+          -880.94
+        ],
+        [
+          -731.89,
+          -884.0
+        ],
+        [
+          -729.33,
+          -886.17
+        ],
+        [
+          -681.21,
+          -914.89
+        ],
+        [
+          -673.05,
+          -912.33
+        ],
+        [
+          -679.8,
+          -863.97
+        ],
+        [
+          -695.76,
+          -866.51
+        ],
+        [
+          -694.11,
+          -878.0
+        ],
+        [
+          -687.85,
+          -881.95
+        ],
+        [
+          -685.68,
+          -897.02
+        ],
+        [
+          -687.85,
+          -897.78
+        ],
+        [
+          -704.06,
+          -887.96
+        ],
+        [
+          -702.53,
+          -885.03
+        ],
+        [
+          -713.25,
+          -878.77
+        ],
+        [
+          -715.55,
+          -881.83
+        ],
+        [
+          -721.29,
+          -878.38
+        ],
+        [
+          -723.08,
+          -868.05
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -729.33,
+            -886.17
+          ],
+          [
+            -681.21,
+            -914.89
+          ]
+        ],
+        "sourceEdgeIndices": [
+          4
+        ],
+        "widthM": 56.039,
+        "visibleRoadLengthM": 89.97,
+        "side": "right",
+        "routeStartM": 13846.567,
+        "routeEndM": 13936.245
+      },
+      "photoReferences": [
+        "jinshan-gov-matched"
+      ],
+      "existingPhotoArchitecture": null,
+      "confidence": "partial-photo-reference",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 3.9584,
+      "rawTags": {
+        "building": "yes",
+        "name": "金山大楼"
+      },
+      "photoStatus": "Matched exterior photographs visually inspected; model roundtrip review pending",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "specific-photo-geometry-awaiting-runtime-review",
+      "modelId": "north-bund-frontage-292818817",
+      "photoIdentityVerified": true,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 293504473,
+      "name": "OSM building 293504473",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 177574794,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13848.716,
+      "minFootprintEdgeToSurfaceRouteM": 63.318,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -659.68,
+          -856.23
+        ],
+        [
+          -658.53,
+          -861.73
+        ],
+        [
+          -655.33,
+          -865.69
+        ],
+        [
+          -649.71,
+          -864.92
+        ],
+        [
+          -645.87,
+          -860.58
+        ],
+        [
+          -617.73,
+          -825.79
+        ],
+        [
+          -616.71,
+          -821.06
+        ],
+        [
+          -618.24,
+          -814.41
+        ],
+        [
+          -623.74,
+          -807.63
+        ],
+        [
+          -633.34,
+          -801.75
+        ],
+        [
+          -644.97,
+          -798.93
+        ],
+        [
+          -655.59,
+          -800.21
+        ],
+        [
+          -661.47,
+          -802.77
+        ],
+        [
+          -663.9,
+          -805.59
+        ],
+        [
+          -664.54,
+          -807.37
+        ],
+        [
+          -659.68,
+          -856.23
+        ]
+      ],
+      "height": 27.2,
+      "heightSource": "levels",
+      "frontage": {
+        "edge": [
+          [
+            -649.71,
+            -864.92
+          ],
+          [
+            -617.73,
+            -825.79
+          ]
+        ],
+        "sourceEdgeIndices": [
+          3,
+          4
+        ],
+        "widthM": 50.536,
+        "visibleRoadLengthM": 8.766,
+        "side": "right",
+        "routeStartM": 13837.801,
+        "routeEndM": 13842.184
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.1119,
+      "rawTags": {
+        "addr:housenumber": "53",
+        "addr:postcode": "2000080",
+        "addr:street": "黄浦路",
+        "building": "yes",
+        "building:levels": "8"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-293504473",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 744276000,
+      "name": "OSM building 744276000",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 177574794,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13914.615,
+      "minFootprintEdgeToSurfaceRouteM": 23.272,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -790.61,
+          -920.98
+        ],
+        [
+          -788.3,
+          -954.06
+        ],
+        [
+          -773.2,
+          -953.29
+        ],
+        [
+          -765.27,
+          -950.38
+        ],
+        [
+          -760.63,
+          -946.71
+        ],
+        [
+          -756.38,
+          -941.88
+        ],
+        [
+          -754.05,
+          -936.07
+        ],
+        [
+          -752.69,
+          -929.88
+        ],
+        [
+          -753.27,
+          -916.92
+        ],
+        [
+          -790.61,
+          -920.98
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -752.69,
+            -929.88
+          ],
+          [
+            -753.27,
+            -916.92
+          ]
+        ],
+        "sourceEdgeIndices": [
+          7
+        ],
+        "widthM": 12.973,
+        "visibleRoadLengthM": 4.303,
+        "side": "left",
+        "routeStartM": 13912.463,
+        "routeEndM": 13912.463
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.1124,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-293504473",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446939614,
+      "name": "OSM building 446939614",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 469632301,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13923.095,
+      "minFootprintEdgeToSurfaceRouteM": 27.911,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": false,
+      "footprint": [
+        [
+          -831.36,
+          -909.95
+        ],
+        [
+          -773.3,
+          -904.24
+        ],
+        [
+          -774.36,
+          -892.57
+        ],
+        [
+          -832.43,
+          -897.77
+        ],
+        [
+          -832.1,
+          -900.83
+        ],
+        [
+          -833.92,
+          -902.55
+        ],
+        [
+          -833.5,
+          -905.8
+        ],
+        [
+          -831.54,
+          -907.25
+        ],
+        [
+          -831.36,
+          -909.95
+        ]
+      ],
+      "height": 27.2,
+      "heightSource": "levels",
+      "frontage": {
+        "edge": [
+          [
+            -773.3,
+            -904.24
+          ],
+          [
+            -774.36,
+            -892.57
+          ]
+        ],
+        "sourceEdgeIndices": [
+          1
+        ],
+        "widthM": 11.718,
+        "visibleRoadLengthM": 14.421,
+        "side": "left",
+        "routeStartM": 13917.019,
+        "routeEndM": 13926.632
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.3361,
+      "rawTags": {
+        "building": "yes",
+        "building:levels": "8"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-293504473",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446939519,
+      "name": "OSM building 446939519",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 469632301,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13949.247,
+      "minFootprintEdgeToSurfaceRouteM": 25.947,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": true,
+      "footprint": [
+        [
+          -813.16,
+          -846.22
+        ],
+        [
+          -810.44,
+          -861.58
+        ],
+        [
+          -813.89,
+          -862.2
+        ],
+        [
+          -812.63,
+          -869.36
+        ],
+        [
+          -815.59,
+          -874.33
+        ],
+        [
+          -814.67,
+          -880.14
+        ],
+        [
+          -810.48,
+          -883.84
+        ],
+        [
+          -808.9,
+          -892.83
+        ],
+        [
+          -777.51,
+          -887.32
+        ],
+        [
+          -779.27,
+          -877.3
+        ],
+        [
+          -776.72,
+          -873.45
+        ],
+        [
+          -777.88,
+          -866.58
+        ],
+        [
+          -782.21,
+          -864.47
+        ],
+        [
+          -783.63,
+          -856.44
+        ],
+        [
+          -787.41,
+          -857.11
+        ],
+        [
+          -790.07,
+          -842.12
+        ],
+        [
+          -813.16,
+          -846.22
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -787.41,
+            -857.11
+          ],
+          [
+            -790.07,
+            -842.12
+          ]
+        ],
+        "sourceEdgeIndices": [
+          14
+        ],
+        "widthM": 15.224,
+        "visibleRoadLengthM": 48.068,
+        "side": "left",
+        "routeStartM": 13931.439,
+        "routeEndM": 13974.7
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 1.1739,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-293504473",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446939506,
+      "name": "OSM building 446939506",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 469632301,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13989.226,
+      "minFootprintEdgeToSurfaceRouteM": 8.934,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": true,
+      "footprint": [
+        [
+          -740.85,
+          -869.48
+        ],
+        [
+          -728.79,
+          -866.73
+        ],
+        [
+          -740.02,
+          -817.47
+        ],
+        [
+          -752.08,
+          -820.22
+        ],
+        [
+          -740.85,
+          -869.48
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -752.08,
+            -820.22
+          ],
+          [
+            -740.85,
+            -869.48
+          ]
+        ],
+        "sourceEdgeIndices": [
+          3
+        ],
+        "widthM": 50.524,
+        "visibleRoadLengthM": 57.177,
+        "side": "right",
+        "routeStartM": 13912.463,
+        "routeEndM": 13989.12
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 2.3889,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446939506",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    },
+    {
+      "wayId": 446939511,
+      "name": "OSM building 446939511",
+      "route": "shanghai-loop",
+      "nearestRoadWay": 469632301,
+      "nearestRoadName": "大名路",
+      "routeDistanceM": 13990.819,
+      "minFootprintEdgeToSurfaceRouteM": 8.219,
+      "firstRow": true,
+      "newFirstRow": true,
+      "previouslyNearLegacyRoutes": true,
+      "footprint": [
+        [
+          -753.11,
+          -818.81
+        ],
+        [
+          -715.97,
+          -812.67
+        ],
+        [
+          -717.36,
+          -804.25
+        ],
+        [
+          -754.5,
+          -810.39
+        ],
+        [
+          -753.11,
+          -818.81
+        ]
+      ],
+      "height": 17.0,
+      "heightSource": "estimated",
+      "frontage": {
+        "edge": [
+          [
+            -754.5,
+            -810.39
+          ],
+          [
+            -753.11,
+            -818.81
+          ]
+        ],
+        "sourceEdgeIndices": [
+          3
+        ],
+        "widthM": 8.534,
+        "visibleRoadLengthM": 9.483,
+        "side": "right",
+        "routeStartM": 13993.926,
+        "routeEndM": 13998.668
+      },
+      "photoReferences": [],
+      "existingPhotoArchitecture": null,
+      "confidence": "inferred-no-matched-building-photo",
+      "modelingBoundary": "OSM footprint plus stated height source. Non-visible sides, obscured details and unreferenced facades remain inferred, never claimed surveyed.",
+      "priorityScore": 0.4084,
+      "rawTags": {
+        "building": "yes"
+      },
+      "photoStatus": "No matched individual exterior photo yet",
+      "treatment": "Independent exact map perimeter component; neutral inferred facade pending specific photo matching; no claim of photo-faithful completion",
+      "status": "unmatched-photo-neutral-geometry",
+      "modelId": "north-bund-frontage-446939506",
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false
+    }
+  ],
+  "groupCount": 29,
+  "groups": [
+    {
+      "id": "north-bund-frontage-1296293843",
+      "ways": [
+        1296293843,
+        1296293844,
+        1296293842,
+        610349180
+      ],
+      "name": "海伦路近街建筑组 1296293843",
+      "road": "海伦路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.258905048508804,
+      "longitude": 121.49067234800994,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-1339394908",
+      "ways": [
+        1339394908,
+        1339394909,
+        1339394904
+      ],
+      "name": "海伦路近街建筑组 1339394908",
+      "road": "海伦路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.257685546173196,
+      "longitude": 121.49032829943825,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-1296293847",
+      "ways": [
+        1296293847
+      ],
+      "name": "海伦路近街建筑组 1296293847",
+      "road": "海伦路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.2580909001078,
+      "longitude": 121.49210674787858,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-610923103",
+      "ways": [
+        610923103
+      ],
+      "name": "海伦大厦",
+      "road": "海伦路",
+      "referenceIds": [
+        "hailun-loupan-1",
+        "hailun-loupan-2",
+        "hailun-loupan-3",
+        "hailun-loupan-4",
+        "hailun-loupan-7"
+      ],
+      "photoIdentityVerified": true,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.257626899928137,
+      "longitude": 121.49122194948899,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Unobserved street returns, roof and exact bay survey still unverified.",
+        "2007-2023 photos do not verify present-day tenancy or every remodel."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-1339394905",
+      "ways": [
+        1339394905,
+        1296293846,
+        1339394907,
+        1339394906
+      ],
+      "name": "海伦路近街建筑组 1339394905",
+      "road": "海伦路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.257188649838305,
+      "longitude": 121.49179989729654,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-611987580",
+      "ways": [
+        611987580
+      ],
+      "name": "新建路近街建筑组 611987580",
+      "road": "新建路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.25614295274883,
+      "longitude": 121.49219500182944,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-611987610",
+      "ways": [
+        611987610
+      ],
+      "name": "Longmen Building",
+      "road": "新建路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.255902650017966,
+      "longitude": 121.49195400025182,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ],
+      "identityLead": "Named restaurant POI 10 m away; Zhoujiazui Road 318-328. Exterior photo category did not yield usable images; nine downloaded candidates were food advertisements and rejected."
+    },
+    {
+      "id": "north-bund-frontage-1330539160",
+      "ways": [
+        1330539160,
+        611987579,
+        1330539162,
+        610345083
+      ],
+      "name": "新建路近街建筑组 1330539160",
+      "road": "新建路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.256079500538988,
+      "longitude": 121.49295855084762,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-1330539161",
+      "ways": [
+        1330539161,
+        1370784554,
+        611989001
+      ],
+      "name": "新建路近街建筑组 1330539161",
+      "road": "新建路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.255184598454907,
+      "longitude": 121.49336590061621,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-611335628",
+      "ways": [
+        611335628
+      ],
+      "name": "建唐大楼",
+      "road": "新建路",
+      "referenceIds": [
+        "jiantang-loupan-1",
+        "jiantang-loupan-2",
+        "jiantang-loupan-3"
+      ],
+      "photoIdentityVerified": true,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.25429849982034,
+      "longitude": 121.49336330027658,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Unobserved street returns, roof and exact bay survey still unverified.",
+        "2007-2023 photos do not verify present-day tenancy or every remodel."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-1004817060",
+      "ways": [
+        1004817060
+      ],
+      "name": "北外滩街道办事处",
+      "road": "新建路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.25406520391664,
+      "longitude": 121.49498795044788,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ],
+      "identityLead": "Official Xinjian Road 100 address confirmed; searched photos showed other community venues."
+    },
+    {
+      "id": "north-bund-frontage-612410365",
+      "ways": [
+        612410365,
+        611989032,
+        612410366
+      ],
+      "name": "新建路近街建筑组 612410365",
+      "road": "新建路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.2532988501617,
+      "longitude": 121.49518299693251,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-1323407616",
+      "ways": [
+        1323407616,
+        610343188,
+        1323407618,
+        988162956
+      ],
+      "name": "新建路近街建筑组 1323407616",
+      "road": "新建路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.251971298957958,
+      "longitude": 121.49510870076423,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-1323408463",
+      "ways": [
+        1323408463,
+        1323407617,
+        534041326
+      ],
+      "name": "新建路近街建筑组 1323408463",
+      "road": "新建路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.25130580309019,
+      "longitude": 121.49619315270483,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-534041310",
+      "ways": [
+        534041310,
+        534041358,
+        534041306
+      ],
+      "name": "东大名路近街建筑组 534041310",
+      "road": "东大名路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.250436049227453,
+      "longitude": 121.49537534851973,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-446939508",
+      "ways": [
+        446939508,
+        446939629,
+        656626139,
+        446939555
+      ],
+      "name": "东大名路近街建筑组 446939508",
+      "road": "东大名路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.249323872619478,
+      "longitude": 121.49188075472581,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-446937839",
+      "ways": [
+        446937839,
+        446939503
+      ],
+      "name": "东大名路近街建筑组 446937839",
+      "road": "东大名路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.24932936579231,
+      "longitude": 121.49116527784481,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-446937832",
+      "ways": [
+        446937832
+      ],
+      "name": "远洋大厦",
+      "road": "东大名路",
+      "referenceIds": [
+        "ocean-linkpower"
+      ],
+      "photoIdentityVerified": true,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.248894178943587,
+      "longitude": 121.49184623587396,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Unobserved street returns, roof and exact bay survey still unverified.",
+        "2007-2023 photos do not verify present-day tenancy or every remodel."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-177714739",
+      "ways": [
+        177714739
+      ],
+      "name": "东大名路近街建筑组 177714739",
+      "road": "东大名路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.248525467121812,
+      "longitude": 121.49136167965798,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-177714724",
+      "ways": [
+        177714724
+      ],
+      "name": "国际港务大厦",
+      "road": "东大名路",
+      "referenceIds": [
+        "sipg-hanne-2010"
+      ],
+      "photoIdentityVerified": true,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.248354204096298,
+      "longitude": 121.49134607762025,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Unobserved street returns, roof and exact bay survey still unverified.",
+        "2007-2023 photos do not verify present-day tenancy or every remodel."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-446939569",
+      "ways": [
+        446939569
+      ],
+      "name": "东大名路近街建筑组 446939569",
+      "road": "东大名路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.24950980057492,
+      "longitude": 121.49047250009012,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-446939603",
+      "ways": [
+        446939603,
+        446939627,
+        446939575,
+        446939640
+      ],
+      "name": "大名路近街建筑组 446939603",
+      "road": "大名路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.24885204814948,
+      "longitude": 121.49003755520225,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-446939476",
+      "ways": [
+        446939476
+      ],
+      "name": "大名路近街建筑组 446939476",
+      "road": "大名路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.248499550844414,
+      "longitude": 121.48936183462483,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-189037696",
+      "ways": [
+        189037696
+      ],
+      "name": "上海外滩茂悦大酒店",
+      "road": "大名路",
+      "referenceIds": [
+        "hyatt-james-2007"
+      ],
+      "photoIdentityVerified": true,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.24728166546892,
+      "longitude": 121.48860962729,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Unobserved street returns, roof and exact bay survey still unverified.",
+        "2007-2023 photos do not verify present-day tenancy or every remodel."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-446939657",
+      "ways": [
+        446939657,
+        446939653,
+        446939628,
+        446939635
+      ],
+      "name": "大名路近街建筑组 446939657",
+      "road": "大名路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.248414705353934,
+      "longitude": 121.48850797765016,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-446939526",
+      "ways": [
+        446939526,
+        446939645,
+        744276671,
+        446933531
+      ],
+      "name": "大名路近街建筑组 446939526",
+      "road": "大名路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.247410932447,
+      "longitude": 121.48761776845286,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-292818817",
+      "ways": [
+        292818817
+      ],
+      "name": "金山大楼",
+      "road": "大名路",
+      "referenceIds": [
+        "jinshan-gov-matched"
+      ],
+      "photoIdentityVerified": true,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.24698984908372,
+      "longitude": 121.48660211256826,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Unobserved street returns, roof and exact bay survey still unverified.",
+        "2007-2023 photos do not verify present-day tenancy or every remodel."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-293504473",
+      "ways": [
+        293504473,
+        744276000,
+        446939614,
+        446939519
+      ],
+      "name": "大名路近街建筑组 293504473",
+      "road": "大名路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.24687365253324,
+      "longitude": 121.48637953400288,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    },
+    {
+      "id": "north-bund-frontage-446939506",
+      "ways": [
+        446939506,
+        446939511
+      ],
+      "name": "大名路近街建筑组 446939506",
+      "road": "大名路",
+      "referenceIds": [],
+      "photoIdentityVerified": false,
+      "photoFidelityAccepted": false,
+      "fullStreetElevationObserved": false,
+      "latitude": 31.24651765181459,
+      "longitude": 121.48627531028947,
+      "runtimeReview": "pending-recovery-build",
+      "missingEvidence": [
+        "Specific building exterior/address has not been matched to a dated street photo.",
+        "Need full door/window elevation plus one side and roof view. Existing neutral geometry cannot count as photo fidelity."
+      ]
+    }
+  ],
+  "summaryPhotoAudit": {
+    "groups": 29,
+    "ways": 68,
+    "groupsWithMatchedSpecificPhotos": 6,
+    "waysWithMatchedSpecificPhotos": 6,
+    "groupsWithoutMatchedSpecificPhotos": 23,
+    "fullPhotoFidelityAccepted": 0,
+    "geometryIsNotPhotoFidelity": true,
+    "newSeparateHyattTowerWays": [
+      446937834,
+      446937836
+    ]
+  }
+}
